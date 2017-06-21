@@ -1,0 +1,32 @@
+---
+id: 4207
+title: I beat Watson at Jeopardy (more or less)
+date: 2012-06-22T18:19:02+00:00
+author: Jorge Cortell
+layout: post
+guid: http://cortell.net/blog/?p=4207
+permalink: /2012/06/22/i-beat-watson-at-jeopardy-more-or-less/
+wpsd_autopost:
+  - "1"
+categories:
+  - ¿Por qué no? ¿Utopías?
+  - Ciencias
+  - Filosofí­a
+  - Geek Fun
+  - Humor y curiosidades
+  - Personal
+  - Placeres de la vida
+  - Psicología
+  - Sociedad y polí­tica
+  - Technology
+  - Technolust
+---
+Como mencionaba en mi post anterior, en el Centro de Innovación de Chicago tienen un quiosco interactivo <a title="http://www-03.ibm.com/innovation/us/watson/index.html" href="http://www-03.ibm.com/innovation/us/watson/index.html" target="_blank">Watson</a> (más info <a title="http://en.wikipedia.org/wiki/Watson_(computer)" href="http://en.wikipedia.org/wiki/Watson_(computer)" target="_blank">aquí</a>) con el que jugar al Jeopardy. En caso de que hayas estado viviendo en una cueva desde hace meses, Watson <a title="http://www.youtube.com/watch?v=YLR1byL0U8M" href="http://www.youtube.com/watch?v=YLR1byL0U8M" target="_blank">ganó</a> a varios campeones de Jeopardy en directo en la TV, el <a title="http://www.nytimes.com/2011/02/17/science/17jeopardy-watson.html?pagewanted=all" href="http://www.nytimes.com/2011/02/17/science/17jeopardy-watson.html?pagewanted=all" target="_blank">significado</a> de lo cual no puede ser sobreestimado.
+
+<p style="text-align: center">
+  [mudslide:picasa,0,111219615350942087056,5755877454796859297]
+</p>
+
+Atención, esto era una &#8220;versión pequeña&#8221; de Watson, en una version &#8220;autocontenida&#8221; de Jeopardy. Así que no, no gané a la versión completa de Watson en el juego completo de Jeopardy. De hecho, sólo tuve tiempo para unas pocas preguntas, y estoy absolutamente convencido de que si le hubiese dado suficiente tiempo, Watson me hubiese machacado. Sólo tengo que profunda admiración por el increíble trabajo que IBM ha hecho con Watson. Están haciendo historia de un modo que no podemos ni comenzar a entender. Definitivamente están cambiando el mundo para mejor.
+
+Dicho esto, dejemos que el brillo de la gloria me rodee durante un minuto. Después de todo, ¿a cuánta gente conoces que pueda mostrar una foto de su marcador por delante del de Watson en Jeopardy? Tóma esa, Dr. Cooper&#8230; ¡Bazinga! 😉

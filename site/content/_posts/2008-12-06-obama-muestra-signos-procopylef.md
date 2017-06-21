@@ -1,0 +1,20 @@
+---
+id: 1402
+title: Obama muestra signos procopyleft
+date: 2008-12-06T18:51:26+00:00
+author: Jorge Cortell
+layout: post
+guid: http://www.cortell.net/?p=1406
+permalink: /2008/12/06/obama-muestra-signos-procopylef/
+categories:
+  - ¿Por qué no? ¿Utopías?
+  - CiberDerechos
+  - Copyfight
+  - General
+  - Noticias
+---
+Como bien se indica en varios blogs (<a title="http://www.lessig.org/blog/2008/12/changegov_set_free.html" href="http://www.lessig.org/blog/2008/12/changegov_set_free.html" target="_blank">Lessig</a>, <a title="http://radar.oreilly.com/2008/11/change-gov-revision-control.html" href="http://radar.oreilly.com/2008/11/change-gov-revision-control.html" target="_blank">O&#8217;Reilly</a>) Obama, fiel a su discurso, ha empezado a demostrar su lado pro-copyleft.
+
+Ahora que no pare el impulso bajo la presión de los lobbies, y que siga esta sensata <a title="http://open-government.us" href="http://open-government.us" target="_blank">petición</a>.
+
+ZP, menos &#8220;yo también quiero estar en esa cumbre&#8221; y más &#8220;a ver qué medidas positivas de cambio están haciendo otros gobernantes&#8221; o &#8220;vaya, algunos son capaces de enfrentarse a los lobbies por defender la ideología por la que le han votado, aunque sea en apariencia&#8221;.

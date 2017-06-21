@@ -1,0 +1,22 @@
+---
+id: 1932
+title: Apuntes desde Budapest
+date: 2009-05-29T13:04:59+00:00
+author: Jorge Cortell
+layout: post
+guid: http://cortell.net/blog/?p=1932
+permalink: /2009/05/29/apuntes-desde-budapest/
+categories:
+  - General
+  - Personal
+  - Placeres de la vida
+---
+Nota.- Posteo desde el ordenador de acceos a la red público del <a title="http://www.novotel.com/gb/hotel-3560-novotel-budapest-centrum/index.shtml" href="http://www.novotel.com/gb/hotel-3560-novotel-budapest-centrum/index.shtml" target="_blank">hotel</a>, cuyo teclado en Hungaro no tiene acentos [corregido el texto en casa]. Se llama &#8220;Web Corner on a Mac&#8221;, pero corre con Windows. He reiniciado con opción para ver los sistemas que lleva, pero solo Mac y Windows, y ambos con contraseña (de hecho el Windows con modo quiosco Passman). Tampoco ha funcionado el arranque desde CD para cambiar la contraseña de admin. Al final no merece la pena perder tanto tiempo en un hackeo con tan poco potencial. Aunque sí me he divertido accediendo a los temporales y viendo los documentos y fotos que los viajeros del hotel descargan de sus correos (y luego no borran). Desde invitaciones a congresos médicos sobre la diarrea, hasta fotos de borracheras o los últimos datos de ingresos en taquilla de la peli de Star Trek. 
+
+En realidad deberia de ser &#8220;apuntes desde Pest&#8221;, pues en un par de días no hemos podido pasar a Buda. Pero eso no significa que hayamos perdido el tiempo: pese a no poder ver Tosca en la <a title="http://www.opera.hu/index.php?module=main" href="http://www.opera.hu/index.php?module=main" target="_blank">ópera</a> por estar todas las localidades vendidas, paseamos toda la calle Patrimonio de la Humanidad (_Andrasse Ut_) desde el parque hasta el Parlamento, con vuelta via metro que se nota no ha cambiado desde la era comunista, y comimos en el <a title="http://www.boscolohotels.com/eng/hotels/new_york_palace/deluxe_restaurant_budapest.htm" href="http://www.boscolohotels.com/eng/hotels/new_york_palace/deluxe_restaurant_budapest.htm" target="_blank">New York Palace</a> (absurdo nombre, ciertamente), donde comprobamos que el poco interés por atender al cliente, y la falta de simpatía no es solo una cosa de Praga, ni de que el local sea más o menos lujoso. De cena, para huir del omnipresente partido de fútbol, nos metimos en <a title="www.menza.co.hu" href="http://www.menza.co.hu" target="_blank">Menza</a>, curioso restaurante con aire retro, buena música, buen ambiente, y comida interesante.
+
+Al dia siguiente, ayer, tras una breve pero intensa y productiva reunion de trabajo, fuimos de compras a una tienda realmente genial y genuina: <a title="http://www.alteregoshop.hu/" href="http://www.alteregoshop.hu/" target="_blank">alterego</a> (donde tienen las narices de mezclar, entre muchas otras cosas, mercancia de la genial <a title="http://emilystrange.com/" href="http://emilystrange.com/" target="_blank">Emily the Strange</a> y prendas de Hugo Boss). Por la noche fuimos un grupo de empresarios y ejecutivos valencianos a cenar a otro restaurante con nombre curioso: <a title="http://www.virtualtourist.com/travel/Europe/Hungary/Budapest_Fovaros/Budapest-436839/Restaurants-Budapest-Fatal_Restaurant-BR-1.html" href="http://www.virtualtourist.com/travel/Europe/Hungary/Budapest_Fovaros/Budapest-436839/Restaurants-Budapest-Fatal_Restaurant-BR-1.html" target="_blank">Fatal</a>.
+
+Ahora ya, al aeropuerto. Esta noche en casita, si todo va bien. <span style="text-decoration: line-through">Nota para mi mismo: cuando pueda edito la entrada con fotos, acentos, info mas concreta, etc</span>.
+
+PD.- Una anécdota no comentada es que vimos por la calle una grabación de porno para internet, de esas del tipo &#8220;Las aventuras sexuales de pepito en Budapest&#8221;. El colega con la cámara de vídeo Canon HD de mano era de lo más repugnante: pelo tintadísimo de rubio, camisa hortera bajo una chaqueta de piel de cocodrilo roja, sandalias blancas, vaqueros rotos, gafas de sol enormes y blancas, acento italiano, y mirada de baboso mientras enfocaba muy muy de cerca a una chica con aspecto de niña (aunque las facciones y arrugas mostraban que no era ninguna menor) y le preguntaba &#8220;¿me vas a enseñar todo todo de Budapest?&#8221; mientras subía el plano por sus piernas.

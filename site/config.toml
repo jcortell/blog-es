@@ -1,8 +1,8 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Casper Theme"
+title = "Blog de Jorge Cortell en castellano"
 theme = "hugo-theme-casper"
-disqusShortname = "spf13"
+disqusShortname = "jorgecortell"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = "UA-51273041-1"
 # Define how many posts should appear on a site
@@ -10,7 +10,7 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "Blog en castellano de Jorge Cortell, continúa más abajo"
+  description = "Blog en castellano de Jorge Cortell - descreimiento suspendido"
   cover = "images/cover.jpg"
   author = "Jorge Cortell"
   authorlocation = "Londres, Reino Unido"
