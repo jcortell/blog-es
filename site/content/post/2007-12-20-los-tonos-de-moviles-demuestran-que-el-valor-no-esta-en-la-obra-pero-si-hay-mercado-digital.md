@@ -7,7 +7,6 @@ layout: post
 guid: http://www.cortell.net/2007/12/20/los-tonos-de-moviles-demuestran-que-el-valor-no-esta-en-la-obra-pero-si-hay-mercado-digital/
 permalink: /2007/12/20/los-tonos-de-moviles-demuestran-que-el-valor-no-esta-en-la-obra-pero-si-hay-mercado-digital/
 categories:
-  - ¿Por qué no? ¿Utopías?
   - CiberDerechos
   - Copyfight
   - General
@@ -15,7 +14,7 @@ categories:
 ---
 El hecho de que las ventas de CDs caigan es normal, y no es por el P2P, es porque las multinacionales NO saben dónde está el valor de la música que producen. Están anclados en un modelo de negocio especulativo.
 
-El politono &#8220;Por qué no te callas&#8221; ha generado ya entre <a target="_blank" title="1'5 millones" href="http://www.xatakamovil.com/2007/11/19-por-que-no-te-callas-politono-record-de-descargas">1&#8217;5</a> y <a target="_blank" title="2 millones" href="http://www.transmedia.cl/noticia2=id201107.htm">2 millones</a> de euros en descargas, y más en <a target="_blank" title="20 minutos" href="http://www.20minutos.es/noticia/307887/0/rifirrafe/chavez/dominio/">otros negocios</a> (para que digan que la monarquí­a no sirve para nada 😉 ). Lo más curioso es que la descarga de un politono vale 2 euros, y una canción digital 1 euro. El politono es más corto, de peor calidad, y (salvo reales excepciones) muchas veces de autores anónimos.
+El politono &#8220;Por qué no te callas&#8221; ha generado ya entre <a target="_blank" title="1'5 millones" href="http://www.xatakamovil.com/2007/11/19-por-que-no-te-callas-politono-record-de-descargas">1&#8217;5</a> y <a target="_blank" title="2 millones" href="http://www.transmedia.cl/noticia2=id201107.htm">2 millones</a> de euros en descargas, y más en <a target="_blank" title="20 minutos" href="http://www.20minutos.es/noticia/307887/0/rifirrafe/chavez/dominio/">otros negocios</a> (para que digan que la monarquí­a no sirve para nada). Lo más curioso es que la descarga de un politono vale 2 euros, y una canción digital 1 euro. El politono es más corto, de peor calidad, y (salvo reales excepciones) muchas veces de autores anónimos.
 
 > -¿Por qué, entonces, se descarga y se paga por politonos más que por canciones?
 
