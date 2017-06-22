@@ -10,7 +10,7 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "Blog en castellano de Jorge Cortell - descreimiento suspendido"
+  description = "descreimiento suspendido"
   cover = "images/cover.jpg"
   author = "Jorge Cortell"
   authorlocation = "Londres, Reino Unido"
