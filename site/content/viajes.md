@@ -4,19 +4,15 @@ title: Viajes
 date: 2006-05-08T01:50:28+00:00
 author: Jorge Cortell
 layout: page
-guid: http://www.cortell.net/conferencias-anteriores/
-vantage_metaslider_slider:
-  - ""
-vantage_menu_icon:
-  - icon-plane
+comments = true     # set false to hide Disqus
+share = true        # set false to share buttons
+menu = "main"       # set "main" to add this content to the main menu
 ---
 Aquí están mis próximos viajes (más abajo están mis conferencias y clases anteriores).
 
 **En negrilla** = confirmado; de lo contrario = sin confirmar:
 
-<li style="text-align: left;">
-  <strong>18-19/06/17, Bruselas (Bélgica)</strong>, Viaje de negocios
-</li>
+
 <li style="text-align: left;">
   <strong>05/07-30/08/17, Valencia (España)</strong>, Viaje de negocios y personal
 </li>
@@ -36,6 +32,7 @@ Aquí están mis próximos viajes (más abajo están mis conferencias y clases 
 <p style="text-align: center;">
   <strong>2018</strong>
 </p>
+
 
 <li style="text-align: left;">
   05-09/03/18, Las Vegas (EE. UU.), Viaje de negocios
@@ -58,6 +55,9 @@ Aquí están mis próximos viajes (más abajo están mis conferencias y clases 
 
 <div style="text-align: center;">
   <ul>
+  <li style="text-align: left;">
+  <strong>18-19/06/17, Bruselas (Bélgica)</strong>, Viaje de negocios
+</li>
     <li style="text-align: left;">
       <strong>05-14/06/17, Valencia (España)</strong>, Viaje de negocios y personal
     </li>
