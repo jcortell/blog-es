@@ -3,9 +3,9 @@ id: 143
 title: Sobre Jorge
 date: 2005-10-13T12:47:38+00:00
 author: Jorge Cortell
-comments = true     # set false to hide Disqus
-share = true        # set false to share buttons
-menu = "main"       # set "main" to add this content to the main menu
+comments: true     # set false to hide Disqus
+share: true        # set false to share buttons
+menu: "main"       # set "main" to add this content to the main menu
 ---
 [<img class=" aligncenter" src="https://c2.staticflickr.com/6/5568/18830002611_f6f26d068f.jpg" alt="IMG_20150615_084815" width="500" height="358" />](https://www.flickr.com/photos/jcortell/18830002611 "IMG_20150615_084815 by Jorge Cortell, on Flickr")
 
