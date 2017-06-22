@@ -1,5 +1,5 @@
 baseurl = "/"
-languageCode = "en-us"
+languageCode = "es"
 title = "Blog de Jorge Cortell en castellano"
 theme = "hugo-theme-casper"
 disqusShortname = "jorgecortell"
@@ -15,7 +15,7 @@ canonifyurls = true
   author = "Jorge Cortell"
   authorlocation = "Londres, Reino Unido"
   authorwebsite = "http://jorge.cortell.net"
-  bio= "mi bio"
+  bio= "Fundador de @kanteron | Emprendedor en serie (x8) | Curador de Arte"
   logo = "images/logo.png"
   googleAnalyticsUserID = "UA-51273041-1"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
@@ -28,3 +28,4 @@ canonifyurls = true
   hideHUGOSupport = false
   [params.social]
     twitter = "jorgecortell"
+    facebook = "694855997"
