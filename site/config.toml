@@ -10,7 +10,7 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "descreimiento suspendido"
+  description = "atrévete a seguir ↓"
   cover = "images/cover.jpg"
   author = "Jorge Cortell"
   authorlocation = "Londres, Reino Unido"
@@ -20,12 +20,24 @@ canonifyurls = true
   googleAnalyticsUserID = "UA-51273041-1"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
-  githubName = "jcortell"
-  twitterName = "jorgecortell"
-  # facebookName = ""
-  # linkedinName = "jcortell"
+#  githubName = "jcortell"
+#  twitterName = "jorgecortell"
+#  facebookName = "694855997"
+#  linkedinName = "jcortell"
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
   [params.social]
-    twitter = "jorgecortell"
-    facebook = "694855997"
+#    twitter = "jorgecortell"
+#    facebook = "694855997"
+
+[[menu.main]]
+  name = "Web"
+  weight = -120
+  identifier = "web"
+  url = "https://web.cortell.net"
+
+[[menu.main]]
+  name = "Sobre mí"
+  weight = -110
+  identifier = "about"
+  url = "https://web.cortell.net/sobre.html"
