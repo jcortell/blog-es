@@ -1,6 +1,10 @@
 ---
 date: 2017-06-22T10:24:16-04:00
 title: Nuevo Blog
+tags: ["tech","geek","blog"]
+image: "https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg"
+comments: true     # set false to hide Disqus comments
+share: true        # set false to share buttons
 ---
 
 Como resultará evidente, he cambiado de blog.  
