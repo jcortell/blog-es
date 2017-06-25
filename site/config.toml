@@ -1,8 +1,8 @@
-baseurl = "/"
+baseurl = "https://bloges.cortell.net/"
 languageCode = "es"
 title = "Blog de Jorge Cortell en castellano"
 theme = "hugo-theme-casper"
-disqusShortname = "jorgecortell"
+disqusShortname = "jorge_cortell"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = "UA-51273041-1"
 # Define how many posts should appear on a site
