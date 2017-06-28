@@ -7,6 +7,8 @@ comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 ---
 
+![code](https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg)
+
 Como resultará evidente, he cambiado de blog.  
 No por una cuestión de estilo, sino por dos motivos técnicos:
   
