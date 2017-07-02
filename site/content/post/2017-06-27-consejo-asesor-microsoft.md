@@ -3,7 +3,7 @@ author: ""
 date: "2017-06-27T10:54:24+02:00"
 draft: false
 title: "Consejo Asesor de Microsoft"
-tags: ["events","London","work"]
+tags: ["eventos","Londres","trabajo"]
 image: "https://c1.staticflickr.com/5/4251/34584736734_36d61a4edd_z.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons

@@ -3,7 +3,7 @@ author: ""
 date: "2017-07-01T10:54:24+02:00"
 draft: false
 title: "Evento Mind The Bridge en Londres"
-tags: ["events","London","work"]
+tags: ["eventos","Londres","trabajo"]
 image: "https://farm5.staticflickr.com/4232/34664889584_0187a21aef_z.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
