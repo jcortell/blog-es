@@ -4,9 +4,9 @@
 
 baseurl = "https://bloges.cortell.net/"
 languageCode = "es"
-defaultContentLanguage = "en-us"
+defaultContentLanguage = "es"
 title = "Blog de Jorge Cortell en Castellano"
-theme = "hugo-tranquilpeak-theme"
+theme = "tranquilpeak"
 disqusShortname = "jorge_cortell"
 googleAnalytics = "UA-51273041-1"
 paginate = 10
@@ -150,9 +150,9 @@ canonifyurls = true
   # The link at the right of the header is customizable
   # You can add a link (as an icon) at the right of the header instead of the author's gravatar image or author's picture.
   # By default, author's gravatar or author's picture is displayed.
-       url: /#search
-       icon: search
-       class: st-search-show-outputs
+  url: /search
+  icon: search
+  class: st-search-show-outputs
 
   # Custom CSS. Put here your custom CSS files. They are loaded after the theme CSS;
   # they have to be referred from static root. Example
