@@ -1,4 +1,4 @@
-baseurl = "http://bloges.cortell.net/"
+baseurl = "/"
 languageCode = "es"
 title = "Jorge Cortell blog en castellano"
 theme = "hugo-future-imperfect"
@@ -11,7 +11,7 @@ googleAnalytics = "UA-51273041-1"
     # Sets the meta tag description, usually reserved for the main page
     description          = "Descreimiento suspendido"
     # This will appear on the top left of the navigation bar
-    navbarTitle          = "Jorge Cortell blog castellano"
+    navbarTitle          = "Blog de Jorge Cortell"
     # Social media buttons that appear on the sidebar
     socialAppearAtTop    = true
     socialAppearAtBottom = true
