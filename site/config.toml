@@ -3,13 +3,13 @@
 # Author : Thibaud Leprêtre
 
 baseurl = "/"
-languageCode = "en"
+languageCode = "en-us"
 defaultContentLanguage = "es"
 title = "Blog de Jorge Cortell en Castellano"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "jorge_cortell"
 googleAnalytics = "UA-51273041-1"
-paginate = 10
+paginate = 7
 canonifyurls = true
 
 [permalinks]
@@ -22,8 +22,8 @@ canonifyurls = true
 
 [author]
   name = "Jorge Cortell"
-  bio = "Emprendedor en serie (x8) | Curador de Arte"
-  job = "Fundador y Director General de @Kanteron"
+  bio = "Emprendedor en serie (x8) y Curador de Arte"
+  job = "Fundador y Director General de Kanteron Systems"
   location = "Londres (Reino Unido)"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "jorge@cortell.net"
@@ -150,9 +150,9 @@ canonifyurls = true
   # The link at the right of the header is customizable
   # You can add a link (as an icon) at the right of the header instead of the author's gravatar image or author's picture.
   # By default, author's gravatar or author's picture is displayed.
-  url: /search
-  icon: search
-  class: st-search-show-outputs
+  # url: /search
+  # icon: search
+  # class: st-search-show-outputs
 
   # Custom CSS. Put here your custom CSS files. They are loaded after the theme CSS;
   # they have to be referred from static root. Example
