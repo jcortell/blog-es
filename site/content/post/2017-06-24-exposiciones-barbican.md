@@ -8,8 +8,7 @@ image: "https://c1.staticflickr.com/5/4244/35202006062_3a6d956326_z.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 ---
-
-<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/gp/jcortell/9q055N" title="Barbican Into the Unknown, London June 2017"><img src="https://c1.staticflickr.com/5/4244/35202006062_3a6d956326_z.jpg" width="640" height="360" alt="Barbican Into the Unknown, London June 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div style="position: relative; padding-bottom: 60%; overflow: auto; -webkit-overflow-scrolling:touch;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://flickrembed.com/cms_embed.php?source=flickr&layout=responsive&input=www.flickr.com/photos/jcortell/albums/72157685211291235&sort=3&by=album&theme=default_notextpanel&scale=fill&limit=10&skin=default" scrolling="no" frameborder="0" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
 
 El pasado sábado, 17 de junio, visitamos un par de exposiciones en las que estábamos muy interesados:  
 
