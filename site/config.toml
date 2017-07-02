@@ -2,11 +2,11 @@
 # Version : 0.3.1-BETA
 # Author : Thibaud Leprêtre
 
-baseurl = "https://bloges.cortell.net/"
+baseurl = "/"
 languageCode = "es"
 defaultContentLanguage = "es"
 title = "Blog de Jorge Cortell en Castellano"
-theme = "tranquilpeak"
+theme = "hugo-tranquilpeak-theme"
 disqusShortname = "jorge_cortell"
 googleAnalytics = "UA-51273041-1"
 paginate = 10
