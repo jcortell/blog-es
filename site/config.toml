@@ -39,31 +39,31 @@ canonifyurls = true
 [[menu.main]]
   weight = 0
   identifier = "home"
-  name = "Home"
+  name = "Inicio"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
   url = "/"
 [[menu.main]]
   weight = 1
   identifier = "categories"
-  name = "Categories"
+  name = "Categorías"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
   url = "/categories"
 [[menu.main]]
   weight = 2
   identifier = "tags"
-  name = "Tags"
+  name = "Etiquetas"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
   url = "/tags"
 [[menu.main]]
   weight = 3
   identifier = "archives"
-  name = "Archives"
+  name = "Archivo"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
   url = "/archives"
 [[menu.main]]
   weight = 4
   identifier = "about"
-  name = "About"
+  name = "Sobre"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
   url = "https://web.cortell.net/sobre.html"
 
@@ -92,7 +92,7 @@ canonifyurls = true
   # You must use date format used by Go Time package https://golang.org/pkg/time/
   # Months (not work with short month like "jan", "feb", etc) are translated if translation exists on i18n folders
   # Default format is: January 2, 2006
-  # dateFormat = "2 January 2006"
+  dateFormat = "2 January 2006"
 
   # Global keywords configuration. Following keywords will be add to every pages
   # keywords = ["development", "next-gen"]
@@ -144,7 +144,7 @@ canonifyurls = true
   autoThumbnailImage = true
 
   # Your favicon path, default is "/favicon.png"
-  # favicon = "/favicon.png"
+  favicon = "/favicon.png"
 
   # Header configuration
   # The link at the right of the header is customizable
