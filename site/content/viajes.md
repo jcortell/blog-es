@@ -5,8 +5,7 @@ date: 2006-05-08T01:50:28+00:00
 author: Jorge Cortell
 layout: page
 comments: true     # set false to hide Disqus
-share: true        # set false to share buttons
-menu: "main"       # set "main" to add this content to the main menu
+share: true        # set false to share buttons; menu: main adds this content to the main menu
 ---
 Aquí están mis próximos viajes (más abajo están mis conferencias y clases anteriores).
 

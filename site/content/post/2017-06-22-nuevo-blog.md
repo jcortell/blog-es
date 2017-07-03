@@ -5,11 +5,19 @@ tags: ["tech","geek","blog"]
 image: "https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
+thumbnailImagePosition: left
+thumbnailImage: //images.pexels.com/photos/270404/pexels-photo-270404.jpeg
+coverImage: //images.pexels.com/photos/270404/pexels-photo-270404.jpeg
+metaAlignment: center
+coverMeta: out
 ---
 
 ![code](https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg)
 
 Como resultará evidente, he cambiado de blog.  
+
+<!--more-->
+
 No por una cuestión de estilo, sino por dos motivos técnicos:
   
 1. Mi blog anterior estaba basado en WordPress, un CMS (Sistema de Gestión de Contenidos) que generaba el blog desde una base de datos. Eso hacía que la gestión de los datos fuese mucho más engorrosa y poco trasparente de lo que me gusta
