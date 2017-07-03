@@ -2,9 +2,9 @@
 # Version : 0.3.1-BETA
 # Author : Thibaud Leprêtre
 
-baseurl = "/"
+baseurl = "https://bloges.cortell.net/"
 languageCode = "en-us"
-defaultContentLanguage = "es"
+defaultContentLanguage = "es-es"
 title = "Blog de Jorge Cortell en Castellano"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "jorge_cortell"
