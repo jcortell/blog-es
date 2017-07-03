@@ -13,9 +13,12 @@ coverImage: https://farm5.staticflickr.com/4232/34664889584_0187a21aef_z.jpg
 metaAlignment: center
 coverMeta: out
 ---
-<div style="position: relative; padding-bottom: 60%; overflow: auto; -webkit-overflow-scrolling:touch;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://flickrembed.com/cms_embed.php?source=flickr&layout=responsive&input=www.flickr.com/photos/jcortell/albums/72157682608973643&sort=3&by=album&theme=default_notextpanel&scale=fill&limit=10&skin=default" scrolling="no" frameborder="0" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
-
 El pasado martes 20 de junio me invitaron a participar en la presentación del informe de Startup Europe Partnership "[Dual Companies: How and Why European Scaleups Expand to the U.S.] (http://mindthebridge.com/european-dual-companies/)" realizado por Mind the Bridge con ayuda del despacho de abogados Wilson Sonsini Goodrich & Rosati, que tuvo lugar en el Rainmaking Loft, de Londres.   
+
 <!--more-->
+
 El evento completo fue retransmitido en directo por los organizadores aquí:
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmindthebridge%2Fvideos%2F10155196069370552%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+Fotos:
+<div style="position: relative; padding-bottom: 60%; overflow: auto; -webkit-overflow-scrolling:touch;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://flickrembed.com/cms_embed.php?source=flickr&layout=responsive&input=www.flickr.com/photos/jcortell/albums/72157682608973643&sort=3&by=album&theme=default_notextpanel&scale=fill&limit=10&skin=default" scrolling="no" frameborder="0" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
