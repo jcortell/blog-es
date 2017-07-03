@@ -7,7 +7,7 @@ tags: ["eventos","Londres","trabajo"]
 image: "https://c1.staticflickr.com/5/4251/34584736734_36d61a4edd_z.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 thumbnailImage: //c1.staticflickr.com/5/4251/34584736734_36d61a4edd_z.jpg
 coverImage: //c1.staticflickr.com/5/4251/34584736734_36d61a4edd_z.jpg
 metaAlignment: center

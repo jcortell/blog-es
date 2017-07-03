@@ -12,8 +12,6 @@ metaAlignment: center
 coverMeta: out
 ---
 
-![code](https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg)
-
 Como resultará evidente, he cambiado de blog.  
 
 <!--more-->
@@ -39,4 +37,4 @@ Por cierto, migrar miles de posts de mi blog anterior ha sido cuestión de minut
 
 ¡Una maravilla!
 
- 
+![code](https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg)

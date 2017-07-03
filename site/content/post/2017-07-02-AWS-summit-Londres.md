@@ -5,7 +5,7 @@ draft: false
 title: "AWS Summit Londres"
 tags: ["eventos","Londres","trabajo"]
 image: "https://farm5.staticflickr.com/4208/34749000894_d6024d1c61_z.jpg"
-thumbnailImagePosition: left
+thumbnailImagePosition: bottom
 thumbnailImage: //farm5.staticflickr.com/4208/34749000894_d6024d1c61_z.jpg
 coverImage: //farm5.staticflickr.com/4208/34749000894_d6024d1c61_z.jpg
 metaAlignment: center
