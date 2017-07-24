@@ -16,6 +16,9 @@ Aquí están mis próximos viajes (más abajo están mis conferencias y clases 
   <strong>05/07-30/08/17, Valencia (España)</strong>, Viaje de negocios y personal
 </li>
 <li style="text-align: left;">
+  <strong>25/09/17, Bruselas (Bélgica)</strong>, <span>Viaje de negocios</span>
+</li>
+<li style="text-align: left;">
   <strong>30/08-07/09/17, Roma, Amalfi, Giardini Naxos (Italia), Kotor (Montenegro), Dubrovnik, Split, Rovinj (Croacia), Venecia (Italia)</strong>, Viaje personal (invitado a un <a href="https://www.windstarcruises.com/cruise/italy/classic-italy-and-dalmatian-coast/">crucero en el Windstar StarBreeze</a>)
 </li>
 <li style="text-align: left;">
@@ -34,8 +37,17 @@ Aquí están mis próximos viajes (más abajo están mis conferencias y clases 
 
 
 <li style="text-align: left;">
+  <strong>11/01/18, Bruselas (Bélgica)</strong>, <span>Viaje de negocios</span>
+</li>
+<li style="text-align: left;">
+  <strong>23/02/18, Bruselas (Bélgica)</strong>, <span>Viaje de negocios</span>
+</li>
+<li style="text-align: left;">
   05-09/03/18, Las Vegas (EE. UU.), Viaje de negocios
 </li>
+<li style="text-align: left;">
+  <strong>24-31/08/18, Skagway, Juneau, Ketchikan, Icy Straight Point y Glaciar Hubbard (EE. UU.), Vancuver (Canadá) </strong>, Viaje personal (invitado a un <a href="https://www.celebritycruises.com/cruise-ships/celebrity-millennium">crucero en el Celebrity Millennium</a>)
+</li> 
 <li style="text-align: left;">
   <strong>19/11-01/12/18, Hong Kong (China), Manila, Isla Romblon, Coron, Puerto Princesa, Palawan (Filipinas), Kota Kinabalu (Malasia), Muara (Brunei), Kuching, Sarawak (Malasia), Singapur</strong>, Viaje personal (invitado un <a href="http://www.silversea.com/destinations/asia-cruise/hong-kong-to-singapore-6832/?fycref=row2">crucero en el Silversea Silver Muse</a>)
 </li>
