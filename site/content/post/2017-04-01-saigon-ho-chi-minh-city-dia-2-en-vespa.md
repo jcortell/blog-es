@@ -1,6 +1,6 @@
 ---
 id: 6049
-title: 'Saigon &#8211; Ho Chi Minh City Día 2 en Vespa'
+title: 'Saigón y Ho Chi Minh City Día 2 en Vespa'
 date: 2017-04-01T10:48:15+00:00
 author: Jorge Cortell
 layout: post
