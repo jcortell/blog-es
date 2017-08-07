@@ -34,13 +34,15 @@ Primero probé el iMac. Voy a tratar de resumir una historia muy larga, enumeran
 5. CD no legible. Bueno, eso es normal, todos sabemos que los medios ópticos fallan. Intentemos otro.
 6. OS debe ser de 32 bits. Ooops, me olvidé de comprobar, después de tanto jugar con periféricos y unidades. Vamos a quemar otro.
 7. CD no arrancable. ¿Qué? OK, voy a revisar mi colección de "CDs oficiales", que he usado en el pasado y sé que funcionan:
+
 	a. Fedora
 	b. Debian
 	c. RedHat
 	d. Solaris
-	f. Sabanyon
-	g. ¡Incluso YellowDog!
-	h. Aquí está: Ubuntu ... 7.0.4. Oh, bueno, siempre puedo actualizar más tarde
+	e. Sabanyon
+	f. ¡Incluso YellowDog!
+	g. Aquí está: Ubuntu ... 7.0.4. Oh, bueno, siempre puedo actualizar más tarde
+	
 8. Por último, el CD instalador se carga ... sólo para mostrar un mensaje de error ilegible en multi-tecno-color. Pero he estado allí antes: es la tarjeta gráfica. Así que vamos a repetir, en modo compatibilidad (extra lento).
 9. Error: /vmlinuz no encontrado. Compruebo el contenido del CD. El archivo está allí, pero tiene un .efi al final. Los foros en línea sugieren usar USB y borrar el apéndice del archivo. Pero eso no es una opción para mí. Así que tengo que meterme con el contenido ISO, y quemar otro CD. Oh, que alegría.
 10. ¡Tachín! Funcionó. Ahora podemos actualizar. Siguiente disponible: 7.10. Aceptar, no hay problema, incluso si se tarda 10 actualizaciones, voy a llegar a la versión actual con tiempo ...
