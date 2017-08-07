@@ -4,8 +4,6 @@ title: 'Saigón y Ho Chi Minh City Día 2 en Vespa'
 date: 2017-04-01T10:48:15+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=6049
-permalink: /2017/04/01/saigon-ho-chi-minh-city-dia-2-en-vespa/
 categories:
   - General
   - Personal
