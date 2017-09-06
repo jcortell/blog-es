@@ -11,46 +11,17 @@ Aquí están mis próximos viajes (más abajo están mis conferencias y clases 
 
 **En negrilla** = confirmado; de lo contrario = sin confirmar:
 
+* **05-30/09/17, Valencia (España)**, Viaje de negocios y personal
+* **01/10-28/02/18, Ontario (Canadá)**, Viaje de negocios
+* **26/11-01/12/17, Chicago (EE. UU.)**, Viaje de negocios
 
-<li style="text-align: left;">
-  <strong>05/07-30/08/17, Valencia (España)</strong>, Viaje de negocios y personal
-</li>
-<li style="text-align: left;">
-  <strong>25/09/17, Bruselas (Bélgica)</strong>, <span>Viaje de negocios</span>
-</li>
-<li style="text-align: left;">
-  <strong>30/08-07/09/17, Roma, Amalfi, Giardini Naxos (Italia), Kotor (Montenegro), Dubrovnik, Split, Rovinj (Croacia), Venecia (Italia)</strong>, Viaje personal (invitado a un <a href="https://www.windstarcruises.com/cruise/italy/classic-italy-and-dalmatian-coast/">crucero en el Windstar StarBreeze</a>)
-</li>
-<li style="text-align: left;">
-  <strong>08-30/09/17, Valencia (España)</strong>, Viaje de negocios y personal
-</li>
-<li style="text-align: left;">
-  <strong>01/10-28/02/18, Ontario (Canadá)</strong>, Viaje de negocios
-</li>
-<li style="text-align: left;">
-  26/11-01/12/17, Chicago (EE. UU.), Viaje de negocios
-</li>
+**2018**
 
-<p style="text-align: center;">
-  <strong>2018</strong>
-</p>
-
-
-<li style="text-align: left;">
-  <strong>11/01/18, Bruselas (Bélgica)</strong>, <span>Viaje de negocios</span>
-</li>
-<li style="text-align: left;">
-  <strong>23/02/18, Bruselas (Bélgica)</strong>, <span>Viaje de negocios</span>
-</li>
-<li style="text-align: left;">
-  05-09/03/18, Las Vegas (EE. UU.), Viaje de negocios
-</li>
-<li style="text-align: left;">
-  <strong>24-31/08/18, Skagway, Juneau, Ketchikan, Icy Straight Point y Glaciar Hubbard (EE. UU.), Vancuver (Canadá) </strong>, Viaje personal (invitado a un <a href="https://www.celebritycruises.com/cruise-ships/celebrity-millennium">crucero en el Celebrity Millennium</a>)
-</li> 
-<li style="text-align: left;">
-  <strong>19/11-01/12/18, Hong Kong (China), Manila, Isla Romblon, Coron, Puerto Princesa, Palawan (Filipinas), Kota Kinabalu (Malasia), Muara (Brunei), Kuching, Sarawak (Malasia), Singapur</strong>, Viaje personal (invitado un <a href="http://www.silversea.com/destinations/asia-cruise/hong-kong-to-singapore-6832/?fycref=row2">crucero en el Silversea Silver Muse</a>)
-</li>
+* **11/01/18, Bruselas (Bélgica)**, Viaje de negocios
+* **23/02/18, Bruselas (Bélgica)**, Viaje de negocios
+* **05-09/03/18, Las Vegas (EE. UU.)**, Viaje de negocios
+* **24-31/08/18, Skagway, Juneau, Ketchikan, Icy Straight Point y Glaciar Hubbard (EE. UU.), Vancuver (Canadá)**, Viaje personal (invitado a un [crucero en el Celebrity Millennium](https://www.celebritycruises.com/cruise-ships/celebrity-millennium))
+* **19/11-01/12/18, Hong Kong (China), Manila, Isla Romblon, Coron, Puerto Princesa, Palawan (Filipinas), Kota Kinabalu (Malasia), Muara (Brunei), Kuching, Sarawak (Malasia), Singapur**, Viaje personal (invitado un [crucero en el Silversea Silver Muse](http://www.silversea.com/destinations/asia-cruise/hong-kong-to-singapore-6832/?fycref=row2))
 
 <p style="text-align: center;">
   <strong>ANTERIORES:</strong>
@@ -60,10 +31,11 @@ Aquí están mis próximos viajes (más abajo están mis conferencias y clases 
   <img src="http://chart.apis.google.com/chart?cht=t&chs=440x220&chco=ffffff,1ce500,1ce500&chf=bg,s,eaf7fe&chtm=world&chld=ADARATBSBDBBBEBMBRBGKHCACLCNCOCZDKDMDOECFIFRDEGRVAHKHUISINIDIRITJPKRLALILUMYMXMCNLNOPAPYPEPLPTPRRORULCVCSMSTSGSIESSECHTHTNTRAEGBUSUYVEVN&chd=s:00000000000000000000000000000000000000000000000000000000000000000000" alt="Make yours @ BigHugeLabs.com" />
 </div>
 
-<div style="text-align: center;">
-  <strong>2017</strong>
-</div>
+**2017**
 
+* **05/07-30/08/17, Valencia (España)**, Viaje de negocios y personal
+* **25/09/17, Bruselas (Bélgica)**, Viaje de negocios
+* **30/08-~~07~~04/09/17, Roma, Amalfi, Giardini Naxos (Italia), Kotor (Montenegro), Dubrovnik, ~~Split, Rovinj~~ (Croacia), ~~Venecia (Italia)~~**, Viaje personal (invitado a un [crucero en el Windstar StarBreeze](https://www.windstarcruises.com/cruise/italy/classic-italy-and-dalmatian-coast/) aunque por un fallecimiento en la familia, regresamos antes de lo previsto)
 <div style="text-align: center;">
   <ul>
   <li style="text-align: left;">
