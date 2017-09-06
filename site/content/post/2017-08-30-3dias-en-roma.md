@@ -18,7 +18,7 @@ Antes de embarcar en nuestro crucero, pasamos 3 días en Roma.
 
 <!--more-->
 
-** Lunes 28 de agosto **:
+**Lunes 28 de agosto**:
 
 Tomamos un vuelo temprano de Valencia a Roma. 38º C (100º F) nos estaban esperando. Nota para mí mismo, aunque ya lo sabíamos: *tratar de evitar Roma en agosto*.
 
@@ -34,7 +34,7 @@ Por la noche, una vez superamos el desconcertante desafío del sistema de interr
 
 [FOTOS AQUÍ] (https://www.flickr.com/photos/jcortell/albums/72157685376054071)
 
-** Martes 29 de agosto **:
+**Martes 29 de agosto**:
 
 Comenzamos el día desayunando en Il Giardino, uno de los restaurantes del hotel, que tiene una de las mejores vistas de Roma.
 
@@ -58,7 +58,7 @@ Finalmente, antes de regresar al hotel, agotados, hicimos una parada final en el
 
 <div id="flickrembed"></div><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"></div><script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/jcortell/albums/72157688302095905&sort=5&by=album&theme=default&scale=fill&limit=100&skin=default&autoplay=true'></script>
 
-** Miércoles, 30 de agosto **:
+**Miércoles, 30 de agosto**:
 
 Después de un buen desayuno, cogimos el tren a Civitavecchia. Normalmente tomaríamos un coche privado, pero queríamos ver si esto era una alternativa viable para los clientes de mi esposa.
 
