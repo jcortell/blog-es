@@ -1,6 +1,6 @@
 ---
 author: ""
-date: "2017-09-0XT18:54:24+02:00"
+date: "2017-09-01T18:54:24+02:00"
 draft: false
 title: "Crucero Día 3: Giardini Naxos"
 tags: ["personal","viajes"]
