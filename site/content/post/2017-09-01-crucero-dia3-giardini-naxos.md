@@ -30,4 +30,4 @@ Luego volvimos al barco, y al día siguiente fue día en el mar, así que mi mar
 
 Yo no suelo disfrutar de charlas superficiales o socialización vana, pero me gusta la diversidad y aprender, tanto sobre un destino, como sobre la gente, así que fue muy interesante después de todo.
 
-<div id="flickrembed"></div><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;">></div><script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/jcortell/sets/72157686140694534&sort=5&by=album&theme=default&scale=fill&limit=5&skin=default&autoplay=true'></script>
+<div id="flickrembed"></div><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"></div><script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/jcortell/albums/72157686140694534&sort=5&by=album&theme=default&scale=fill&limit=100&skin=default&autoplay=true'></script>
