@@ -12,7 +12,6 @@ Aquí están mis próximos viajes (más abajo están mis conferencias y clases 
 **En negrilla** = confirmado; de lo contrario = sin confirmar:
 
 * **05-30/09/17, Valencia (España)**, Viaje de negocios y personal
-* **24-25/09/18, Bruselas (Bélgica)**, Viaje de negocios
 * **01/10-28/02/18, Ontario (Canadá)**, Viaje de negocios
 * **18/10/17, Orlando (EE. UU.)**, Viaje de negocios
 * **13-17/12/17, México DF (México)**, Viaje de negocios 
@@ -34,6 +33,7 @@ Aquí están mis próximos viajes (más abajo están mis conferencias y clases 
 
 **2017**
 
+* **24-25/09/18, Bruselas (Bélgica)**, Viaje de negocios
 * **05/07-30/08/17, Valencia (España)**, Viaje de negocios y personal
 * **25/09/17, Bruselas (Bélgica)**, Viaje de negocios
 * **30/08-~~07~~04/09/17, Roma, Amalfi, Giardini Naxos (Italia), Kotor (Montenegro), Dubrovnik, ~~Split, Rovinj~~ (Croacia), ~~Venecia (Italia)~~**, Viaje personal (invitado a un [crucero en el Windstar StarBreeze](https://www.windstarcruises.com/cruise/italy/classic-italy-and-dalmatian-coast/) aunque por un fallecimiento en la familia, regresamos antes de lo previsto)
