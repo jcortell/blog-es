@@ -12,12 +12,13 @@ Aquí están mis próximos viajes (más abajo están mis conferencias y clases 
 **En negrilla** = confirmado; de lo contrario = sin confirmar:
 
 * **18/10/17, Orlando (EE. UU.)**, Viaje de negocios
+* **13-17/11/17, México DF (México)**, Viaje de negocios 
 * **26/11-01/12/17, Chicago (EE. UU.)**, Viaje de negocios
 
 **2018**
 
 * **11/01/18, Bruselas (Bélgica)**, Viaje de negocios
-* 13-17/12/17, México DF (México), Viaje de negocios 
+* 13-17/02/18, México DF (México), Viaje de negocios 
 * **23/02/18, Bruselas (Bélgica)**, Viaje de negocios
 * **05-09/03/18, Las Vegas (EE. UU.)**, Viaje de negocios
 * **24-31/08/18, Skagway, Juneau, Ketchikan, Icy Straight Point y Glaciar Hubbard (EE. UU.), Vancuver (Canadá)**, Viaje personal (invitado a un [crucero en el Celebrity Millennium](https://www.celebritycruises.com/cruise-ships/celebrity-millennium))
