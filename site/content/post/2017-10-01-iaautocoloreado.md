@@ -7,7 +7,7 @@ tags: ["online","personal"]
 image: "http://res.cloudinary.com/jcortell/image/upload/v1507147502/Style2Paint_c0kija.png"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: right
+thumbnailImagePosition: left
 thumbnailImage: http://res.cloudinary.com/jcortell/image/upload/v1507147502/Style2Paint_c0kija.png
 coverImage: http://res.cloudinary.com/jcortell/image/upload/v1507147502/Style2Paint_c0kija.png
 metaAlignment: center
