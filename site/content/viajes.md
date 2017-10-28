@@ -11,7 +11,6 @@ Aquí están mis próximos viajes (más abajo están mis conferencias y clases 
 
 **En negrilla** = confirmado; de lo contrario = sin confirmar:
 
-* **18/10/17, Orlando (EE. UU.)**, Viaje de negocios
 * **13-17/11/17, México DF (México)**, Viaje de negocios 
 * **26/11-01/12/17, Chicago (EE. UU.)**, Viaje de negocios
 
@@ -32,6 +31,7 @@ Aquí están mis próximos viajes (más abajo están mis conferencias y clases 
 
 **2017**
 
+* **18/10/17, Orlando (EE. UU.)**, Viaje de negocios
 * **01/10-28/02/18, Ontario (Canadá)**, Viaje de negocios
 * **05-30/09/17, Valencia (España)**, Viaje de negocios y personal
 * **24-25/09/18, Bruselas (Bélgica)**, Viaje de negocios
