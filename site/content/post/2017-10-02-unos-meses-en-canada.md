@@ -7,7 +7,7 @@ tags: ["viaje","personal"]
 image: "https://farm5.staticflickr.com/4510/36762107904_907ce97a93_z.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 thumbnailImage: https://farm5.staticflickr.com/4510/36762107904_907ce97a93_z.jpg
 coverImage: https://farm5.staticflickr.com/4510/36762107904_907ce97a93_z.jpg
 metaAlignment: center

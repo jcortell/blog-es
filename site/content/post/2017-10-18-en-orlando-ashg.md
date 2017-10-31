@@ -7,7 +7,7 @@ tags: ["viaje","trabajo"]
 image: "https://farm5.staticflickr.com/4504/37750489736_cb92748943_k.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: right
+thumbnailImagePosition: left
 thumbnailImage: https://farm5.staticflickr.com/4504/37750489736_cb92748943_k.jpg
 coverImage: https://farm5.staticflickr.com/4504/37750489736_cb92748943_k.jpg
 metaAlignment: center
