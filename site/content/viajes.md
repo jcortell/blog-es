@@ -17,9 +17,9 @@ Aquí están mis próximos viajes (más abajo están mis conferencias y clases 
 **2018**
 
 * **11/01/18, Bruselas (Bélgica)**, Viaje de negocios
-* 13-17/02/18, México DF (México), Viaje de negocios 
 * **23/02/18, Bruselas (Bélgica)**, Viaje de negocios
 * **05-09/03/18, Las Vegas (EE. UU.)**, Viaje de negocios
+* **12-16/03/18, México DF (México)**, Viaje de negocios 
 * **24-31/08/18, Skagway, Juneau, Ketchikan, Icy Straight Point y Glaciar Hubbard (EE. UU.), Vancuver (Canadá)**, Viaje personal (invitado a un [crucero en el Celebrity Millennium](https://www.celebritycruises.com/cruise-ships/celebrity-millennium))
 * **19/11-01/12/18, Hong Kong (China), Manila, Isla Romblon, Coron, Puerto Princesa, Palawan (Filipinas), Kota Kinabalu (Malasia), Muara (Brunei), Kuching, Sarawak (Malasia), Singapur**, Viaje personal (invitado un [crucero en el Silversea Silver Muse](http://www.silversea.com/destinations/asia-cruise/hong-kong-to-singapore-6832/?fycref=row2))
 
