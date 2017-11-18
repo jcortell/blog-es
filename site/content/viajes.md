@@ -10,12 +10,12 @@ share: true        # set false to share buttons; menu: main adds this content to
 Aquí están mis próximos viajes (más abajo están mis conferencias y clases anteriores).
 
 **En negrilla** = confirmado; de lo contrario = sin confirmar:
-
-* **13-17/11/17, México DF (México)**, Viaje de negocios 
+ 
 * **26/11-01/12/17, Chicago (EE. UU.)**, Viaje de negocios
 
 **2018**
 
+* **13-17/11/17, México DF (México)**, Viaje de negocios
 * **11/01/18, Bruselas (Bélgica)**, Viaje de negocios
 * **23/02/18, Bruselas (Bélgica)**, Viaje de negocios
 * **05-09/03/18, Las Vegas (EE. UU.)**, Viaje de negocios
