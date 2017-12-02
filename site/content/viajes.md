@@ -10,12 +10,9 @@ share: true        # set false to share buttons; menu: main adds this content to
 Aquí están mis próximos viajes (más abajo están mis conferencias y clases anteriores).
 
 **En negrilla** = confirmado; de lo contrario = sin confirmar:
- 
-* **26/11-01/12/17, Chicago (EE. UU.)**, Viaje de negocios
 
 **2018**
 
-* **13-17/11/17, México DF (México)**, Viaje de negocios
 * **11/01/18, Bruselas (Bélgica)**, Viaje de negocios
 * **23/02/18, Bruselas (Bélgica)**, Viaje de negocios
 * **05-09/03/18, Las Vegas (EE. UU.)**, Viaje de negocios
@@ -31,6 +28,8 @@ Aquí están mis próximos viajes (más abajo están mis conferencias y clases 
 
 **2017**
 
+* **26/11-01/12/17, Chicago (EE. UU.)**, Viaje de negocios para participar en RSNA, e intervenir en el [Simposio Corporativo de Google](https://blog.kanteron.com/2017/11/kanteron-systems-presents-in-google-symposium-at-rsna-2017/)
+* **13-17/11/17, México DF (México)**, Viaje de negocios
 * **18/10/17, Orlando (EE. UU.)**, Viaje de negocios
 * **01/10-28/02/18, Ontario (Canadá)**, Viaje de negocios
 * **05-30/09/17, Valencia (España)**, Viaje de negocios y personal
