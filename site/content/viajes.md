@@ -28,6 +28,7 @@ Aquí están mis próximos viajes (más abajo están mis conferencias y clases 
 
 **2017**
 
+* **03/12/17, Toronto (Canadá)**, Viaje personal
 * **26/11-01/12/17, Chicago (EE. UU.)**, Viaje de negocios para participar en RSNA, e intervenir en el [Simposio Corporativo de Google](https://blog.kanteron.com/2017/11/kanteron-systems-presents-in-google-symposium-at-rsna-2017/)
 * **13-17/11/17, México DF (México)**, Viaje de negocios
 * **18/10/17, Orlando (EE. UU.)**, Viaje de negocios
