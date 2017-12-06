@@ -4,12 +4,12 @@ date: "2017-12-03T18:54:24+02:00"
 draft: false
 title: "Un día en Toronto"
 tags: ["personal","viajes"]
-image: "https://farm5.staticflickr.com/4540/24838266368_78b582d4cc_b.jpg"
+image: "https://farm5.staticflickr.com/4564/38840943681_94e2dfd635_k.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: left
-thumbnailImage: https://farm5.staticflickr.com/4540/24838266368_78b582d4cc_b.jpg
-coverImage: https://farm5.staticflickr.com/4540/24838266368_78b582d4cc_b.jpg
+thumbnailImage: https://farm5.staticflickr.com/4564/38840943681_94e2dfd635_k.jpg
+coverImage: https://farm5.staticflickr.com/4564/38840943681_94e2dfd635_k.jpg
 metaAlignment: center
 coverMeta: out
 ---
