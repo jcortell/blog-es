@@ -13,9 +13,7 @@ Aquí están mis próximos viajes (más abajo están mis conferencias y clases 
 
 **2018**
 
-* **08/01/18, Lisboa (Portugal)**, Viaje de negocios
-* **09/01/18, Londres (Reino Unido)**, Viaje de negocios
-* **10-12/01/18, Bruselas (Bélgica)**, Viaje de negocios
+* **15-16/01/18, Dallas (EE. UU.)**, Viaje de negocios
 * **22-23/02/18, Bruselas (Bélgica)**, Viaje de negocios
 * **24/02/18, Reikiavik (Islandia)**, Viaje personal
 * **05-09/03/18, Las Vegas (EE. UU.)**, Viaje de negocios
@@ -31,6 +29,9 @@ Aquí están mis próximos viajes (más abajo están mis conferencias y clases 
 
 **2017**
 
+* **10-12/01/18, Bruselas (Bélgica)**, Viaje de negocios
+* **09/01/18, Londres (Reino Unido)**, Viaje de negocios
+* **08/01/18, Lisboa (Portugal)**, Viaje de negocios
 * **03/12/17, Toronto (Canadá)**, Viaje personal
 * **26/11-01/12/17, Chicago (EE. UU.)**, Viaje de negocios para participar en RSNA, e intervenir en el [Simposio Corporativo de Google](https://blog.kanteron.com/2017/11/kanteron-systems-presents-in-google-symposium-at-rsna-2017/)
 * **13-17/11/17, México DF (México)**, Viaje de negocios
