@@ -7,7 +7,7 @@ tags: ["personal","naturaleza"]
 image: "https://farm5.staticflickr.com/4591/38681399135_bc196c8cbe_h.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: right
+thumbnailImagePosition: left
 thumbnailImage: https://farm5.staticflickr.com/4591/38681399135_bc196c8cbe_h.jpg
 coverImage: https://farm5.staticflickr.com/4591/38681399135_bc196c8cbe_h.jpg
 metaAlignment: center
