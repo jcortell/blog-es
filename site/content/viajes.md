@@ -13,7 +13,9 @@ Aquí están mis próximos viajes (más abajo están mis conferencias y clases 
 
 **2018**
 
-* **22-23/02/18, Bruselas (Bélgica)**, Viaje de negocios
+* **19/02/18, Houston (USA)**, Viaje de negocios
+* **22/02/18, Londres (Reino Unido)**, Viaje de negocios
+* **23/02/18, Bruselas (Bélgica)**, Viaje de negocios
 * **24/02/18, Reikiavik (Islandia)**, Viaje personal
 * **02-04/03/18, Valencia (España)**, Viaje personal y de negocios
 * **05-09/03/18, Las Vegas (EE. UU.)**, Viaje de negocios
