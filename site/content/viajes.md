@@ -11,7 +11,6 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2018**
 
-* **18-19/02/18, Houston, TX (USA)**, Viaje de negocios
 * **22/02/18, Londres (Reino Unido)**, Viaje de negocios
 * **23/02/18, Bruselas (Bélgica)**, Viaje de negocios
 * **24/02/18, Reikiavik (Islandia)**, Viaje personal
@@ -29,6 +28,7 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
   <img src="http://chart.apis.google.com/chart?cht=t&chs=440x220&chco=ffffff,1ce500,1ce500&chf=bg,s,eaf7fe&chtm=world&chld=ADARATBSBDBBBEBMBRBGKHCACLCNCOCZDKDMDOECFIFRDEGRVAHKHUISINIDIRITJPKRLALILUMYMXMCNLNOPAPYPEPLPTPRRORULCVCSMSTSGSIESSECHTHTNTRAEGBUSUYVEVN&chd=s:00000000000000000000000000000000000000000000000000000000000000000000" alt="Make yours @ BigHugeLabs.com" />
 </div>
 
+* **18-20/02/18, Houston, TX (USA)**, Viaje de negocios
 * **09/02/18, Rochester, NY (USA)**, Viaje personal
 * **15-16/01/18, Houston (EE. UU.)**, Viaje de negocios
 * **10-12/01/18, Bruselas (Bélgica)**, Viaje de negocios
