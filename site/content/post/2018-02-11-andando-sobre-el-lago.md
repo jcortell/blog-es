@@ -7,7 +7,7 @@ tags: ["personal"]
 image: "https://res.cloudinary.com/jcortell/image/upload/v1518451863/DSC_0568_ehnf6c.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 thumbnailImage: https://res.cloudinary.com/jcortell/image/upload/v1518451863/DSC_0568_ehnf6c.jpg
 coverImage: https://res.cloudinary.com/jcortell/image/upload/v1518451863/DSC_0568_ehnf6c.jpg
 metaAlignment: center

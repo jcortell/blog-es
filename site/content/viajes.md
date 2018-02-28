@@ -11,9 +11,6 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2018**
 
-* **22/02/18, Londres (Reino Unido)**, Viaje de negocios
-* **23/02/18, Bruselas (Bélgica)**, Viaje de negocios
-* **24/02/18, Reikiavik (Islandia)**, Viaje personal
 * **02-04/03/18, Valencia (España)**, Viaje personal y de negocios
 * **05-09/03/18, Las Vegas (EE. UU.)**, Viaje de negocios
 * **12-16/03/18, México DF (México)**, Viaje de negocios 
@@ -28,6 +25,8 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
   <img src="http://chart.apis.google.com/chart?cht=t&chs=440x220&chco=ffffff,1ce500,1ce500&chf=bg,s,eaf7fe&chtm=world&chld=ADARATBSBDBBBEBMBRBGKHCACLCNCOCZDKDMDOECFIFRDEGRVAHKHUISINIDIRITJPKRLALILUMYMXMCNLNOPAPYPEPLPTPRRORULCVCSMSTSGSIESSECHTHTNTRAEGBUSUYVEVN&chd=s:00000000000000000000000000000000000000000000000000000000000000000000" alt="Make yours @ BigHugeLabs.com" />
 </div>
 
+* **25-26/02/18, Reikiavik (Islandia)**, Viaje personal
+* **22/02/18, Londres (Reino Unido)**, Viaje de negocios
 * **18-20/02/18, Houston, TX (USA)**, Viaje de negocios
 * **09/02/18, Rochester, NY (USA)**, Viaje personal
 * **15-16/01/18, Houston (EE. UU.)**, Viaje de negocios
@@ -37,6 +36,7 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2017**
 
+* **23-24/02/18, Bruselas (Bélgica)**, Viaje de negocios
 * **03/12/17, Toronto (Canadá)**, Viaje personal
 * **26/11-01/12/17, Chicago (EE. UU.)**, Viaje de negocios para participar en RSNA, e intervenir en el [Simposio Corporativo de Google](https://blog.kanteron.com/2017/11/kanteron-systems-presents-in-google-symposium-at-rsna-2017/)
 * **13-17/11/17, México DF (México)**, Viaje de negocios
