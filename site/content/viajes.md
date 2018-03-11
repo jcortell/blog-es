@@ -11,10 +11,7 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2018**
 
-* **02-04/03/18, Valencia (España)**, Viaje personal y de negocios
-* **05-09/03/18, Las Vegas (EE. UU.)**, Viaje de negocios
-* **12-16/03/18, México DF (México)**, Viaje de negocios 
-* **17-25/03/18, Valencia (España)**, Viaje personal y de negocios
+* **11-25/03/18, Valencia (España)**, Viaje personal y de negocios
 * **26-29/03/18, Ibiza (España)**, Viaje personal
 * **24-31/08/18, Skagway, Juneau, Ketchikan, Icy Straight Point y Glaciar Hubbard (EE. UU.), Vancuver (Canadá)**, Viaje personal (invitado a un [crucero en el Celebrity Millennium](https://www.celebritycruises.com/itinerary-details?packageID=ML07A149))
 * **19/11-01/12/18, Hong Kong (China), Manila, Isla Romblon, Coron, Puerto Princesa, Palawan (Filipinas), Kota Kinabalu (Malasia), Muara (Brunei), Kuching, Sarawak (Malasia), Singapur**, Viaje personal (invitado un [crucero en el Silversea Silver Muse](http://www.silversea.com/destinations/asia-cruise/hong-kong-to-singapore-6832/?fycref=row2))
@@ -25,6 +22,8 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
   <img src="http://chart.apis.google.com/chart?cht=t&chs=440x220&chco=ffffff,1ce500,1ce500&chf=bg,s,eaf7fe&chtm=world&chld=ADARATBSBDBBBEBMBRBGKHCACLCNCOCZDKDMDOECFIFRDEGRVAHKHUISINIDIRITJPKRLALILUMYMXMCNLNOPAPYPEPLPTPRRORULCVCSMSTSGSIESSECHTHTNTRAEGBUSUYVEVN&chd=s:00000000000000000000000000000000000000000000000000000000000000000000" alt="Make yours @ BigHugeLabs.com" />
 </div>
 
+* **04-10/03/18, Las Vegas (EE. UU.)**, Viaje de negocios
+* **02-04/03/18, Valencia (España)**, Viaje personal y de negocios
 * **25-26/02/18, Reikiavik (Islandia)**, Viaje personal
 * **22/02/18, Londres (Reino Unido)**, Viaje de negocios
 * **18-20/02/18, Houston, TX (USA)**, Viaje de negocios
