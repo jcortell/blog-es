@@ -11,7 +11,6 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2018**
 
-* **26-29/03/18, Ibiza (España)**, Viaje personal
 * **01-04/04/18, Dublín (Irlanda)**, Viaje personal
 * 15/04-07/18, Singapur (Singapur)**, Viaje de negocios
 * **24-31/08/18, Skagway, Juneau, Ketchikan, Icy Straight Point y Glaciar Hubbard (EE. UU.), Vancuver (Canadá)**, Viaje personal (invitado a un [crucero en el Celebrity Millennium](https://www.celebritycruises.com/itinerary-details?packageID=ML07A149))
@@ -23,6 +22,7 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
   <img src="http://chart.apis.google.com/chart?cht=t&chs=440x220&chco=ffffff,1ce500,1ce500&chf=bg,s,eaf7fe&chtm=world&chld=ADARATBSBDBBBEBMBRBGKHCACLCNCOCZDKDMDOECFIFRDEGRVAHKHUISINIDIRITJPKRLALILUMYMXMCNLNOPAPYPEPLPTPRRORULCVCSMSTSGSIESSECHTHTNTRAEGBUSUYVEVN&chd=s:00000000000000000000000000000000000000000000000000000000000000000000" alt="Make yours @ BigHugeLabs.com" />
 </div>
 
+* **26-29/03/18, Ibiza (España)**, Viaje personal
 * **22/03/18, Málaga (España)**, Viaje de negocios
 * **11-25/03/18, Valencia (España)**, Viaje personal y de negocios
 * **04-10/03/18, Las Vegas (EE. UU.)**, Viaje de negocios
