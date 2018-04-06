@@ -9,7 +9,7 @@ comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: right
 thumbnailImage: https://farm5.staticflickr.com/4774/27005167478_4800d3bf58_k.jpg
-coverImage: hhttps://farm5.staticflickr.com/4774/27005167478_4800d3bf58_k.jpg
+coverImage: https://farm5.staticflickr.com/4774/27005167478_4800d3bf58_k.jpg
 metaAlignment: center
 coverMeta: out
 ---
