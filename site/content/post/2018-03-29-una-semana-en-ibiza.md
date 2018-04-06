@@ -3,7 +3,7 @@ author: ""
 date: "2018-03-29T18:54:24+02:00"
 draft: false
 title: "Una semana en Ibiza"
-tags: ["work","trips"]
+tags: ["personal","viajes"]
 image: "https://farm1.staticflickr.com/884/41068305042_f9d508e8d7_k.jpg"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
