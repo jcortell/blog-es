@@ -11,7 +11,7 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2018**
 
-* **05-06/05/18, Barcelona (España)**, Viaje personal
+* **18-19/05/18, Barcelona (España)**, Viaje personal
 * **28-29/05/18, Bruselas (Bégica)**, Viaje de negocios
 * **24-31/08/18, Skagway, Juneau, Ketchikan, Icy Straight Point y Glaciar Hubbard (EE. UU.), Vancuver (Canadá)**, Viaje personal (invitado a un [crucero en el Celebrity Millennium](https://www.celebritycruises.com/itinerary-details?packageID=ML07A149))
 * **13-14/11/18, Oslo (Noruega)**, Viaje de negocios
