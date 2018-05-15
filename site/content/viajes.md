@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2006-05-08T01:50:28+00:00
+date: 2018-05-15T01:50:28+00:00
 author: Jorge Cortell
 comments: true     # set false to hide Disqus
 share: true        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,7 +11,6 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2018**
 
-* 15-16/05/18, Cambridge (Reino Unido), Viaje de negocios
 * **18-19/05/18, Barcelona (España)**, Viaje personal
 * **28-29/05/18, Bruselas (Bégica)**, Viaje de negocios
 * **16-19/06/18, Milán (Italia)**, Viaje de negocios
