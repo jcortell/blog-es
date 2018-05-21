@@ -18,6 +18,10 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 * **13-14/11/18, Oslo (Noruega)**, Viaje de negocios
 * **19/11-01/12/18, Hong Kong (China), Manila, Isla Romblon, Coron, Puerto Princesa, Palawan (Filipinas), Kota Kinabalu (Malasia), Muara (Brunei), Kuching, Sarawak (Malasia), Singapur**, Viaje personal (invitado un [crucero en el Silversea Silver Muse](http://www.silversea.com/destinations/asia-cruise/hong-kong-to-singapore-6832/?fycref=row2))
 
+**2019**
+
+* **23/03-08/04/19, Auckland (Nueva Zelanda), Tauranga, Napier, Picton, Akaroa, Dunedin - Port Chalmers, Fiordo Dusky, Fiordo	Doubtful, Milford Sound, Mar de Tasmania, Hobart (Tasmania, Australia), Port Arthur, Sidney**, Viaje personal (invitado un [crucero en el Crystal Symphony](http://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16))
+
 **ANTERIORES:**
 
 <div style="text-align: center;">
