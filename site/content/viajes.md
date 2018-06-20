@@ -11,8 +11,9 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2018**
 
-* **16-17/06/18, Milán (Italia)**, Viaje de negocios
-* **18/06/18, Málaga (España)**, Viaje de negocios
+* 16-20/07/18, Hanoi (Vietnam), Viaje de negocios
+* 21-29/07/18, Singapur (Singapur), Viaje de negocios
+* 30/07 - 03/08/18, Bangkok (Tailandia), Viaje de negocios
 * **02-09/09/18, Barcelona (España), Nápoles, Roma, Florencia/Pisa (Italia), Cannes (Francia), Palma de Mayorca, Barcelona (España)**, Viaje personal (invitado a un [crucero en el Norwegian Epic](https://www.ncl.com/es/en/cruises/7-day-western-mediterranean-from-barcelona-EPIC7BCNNAPCIVLIVCEQPMIBCN/schedule?&itineraryCode=EPIC7BCNNAPCIVLIVCEQPMIBCN&customerStoriesCurrentPage=1&customerStoriesPageSize=3)
 * **13-14/11/18, Oslo (Noruega)**, Viaje de negocios
 * **19/11-01/12/18, Hong Kong (China), Manila, Isla Romblon, Coron, Puerto Princesa, Palawan (Filipinas), Kota Kinabalu (Malasia), Muara (Brunei), Kuching, Sarawak (Malasia), Singapur**, Viaje personal (invitado un [crucero en el Silversea Silver Muse](http://www.silversea.com/destinations/asia-cruise/hong-kong-to-singapore-6832/?fycref=row2))
@@ -27,6 +28,8 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
   <img src="http://chart.apis.google.com/chart?cht=t&chs=440x220&chco=ffffff,1ce500,1ce500&chf=bg,s,eaf7fe&chtm=world&chld=ADARATBSBDBBBEBMBRBGKHCACLCNCOCZDKDMDOECFIFRDEGRVAHKHUISINIDIRITJPKRLALILUMYMXMCNLNOPAPYPEPLPTPRRORULCVCSMSTSGSIESSECHTHTNTRAEGBUSUYVEVN&chd=s:00000000000000000000000000000000000000000000000000000000000000000000" alt="Make yours @ BigHugeLabs.com" />
 </div>
 
+* **18-19/06/18, Málaga (España)**, Viaje de negocios
+* **16-17/06/18, Milán (Italia)**, Viaje de negocios
 * **28-29/05/18, Bruselas (Bégica)**, Viaje de negocios
 * **18-19/05/18, Barcelona (España)**, Viaje personal
 * **01-04/04/18, Dublín (Irlanda)**, Viaje personal
