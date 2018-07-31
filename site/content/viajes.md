@@ -11,9 +11,9 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2018**
 
-* 16-20/07/18, Hanoi (Vietnam), Viaje de negocios
-* 21-29/07/18, Singapur (Singapur), Viaje de negocios
-* 30/07 - 03/08/18, Bangkok (Tailandia), Viaje de negocios
+* 14-15/08/18, Houston, TX (EE. UU.), Viaje de negocios
+* 16-17/08/18, Dallas, TX (EE. UU.), Viaje de negocios
+* 18-23/08/18, Mexico DF (Mexico), Viaje de negocios
 * **02-09/09/18, Barcelona (España), Nápoles, Roma, Florencia/Pisa (Italia), Cannes (Francia), Palma de Mayorca, Barcelona (España)**, Viaje personal (invitado a un [crucero en el Norwegian Epic](https://www.ncl.com/es/en/cruises/7-day-western-mediterranean-from-barcelona-EPIC7BCNNAPCIVLIVCEQPMIBCN/schedule?&itineraryCode=EPIC7BCNNAPCIVLIVCEQPMIBCN&customerStoriesCurrentPage=1&customerStoriesPageSize=3)
 * **13-14/11/18, Oslo (Noruega)**, Viaje de negocios
 * **19/11-01/12/18, Hong Kong (China), Manila, Isla Romblon, Coron, Puerto Princesa, Palawan (Filipinas), Kota Kinabalu (Malasia), Muara (Brunei), Kuching, Sarawak (Malasia), Singapur**, Viaje personal (invitado un [crucero en el Silversea Silver Muse](http://www.silversea.com/destinations/asia-cruise/hong-kong-to-singapore-6832/?fycref=row2))
@@ -39,6 +39,7 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 * **04-10/03/18, Las Vegas (EE. UU.)**, Viaje de negocios
 * **02-04/03/18, Valencia (España)**, Viaje personal y de negocios
 * **25-26/02/18, Reikiavik (Islandia)**, Viaje personal
+* **23-24/02/18, Bruselas (Bélgica)**, Viaje de negocios
 * **22/02/18, Londres (Reino Unido)**, Viaje de negocios
 * **18-20/02/18, Houston, TX (USA)**, Viaje de negocios
 * **09/02/18, Rochester, NY (USA)**, Viaje personal
@@ -49,7 +50,6 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2017**
 
-* **23-24/02/18, Bruselas (Bélgica)**, Viaje de negocios
 * **03/12/17, Toronto (Canadá)**, Viaje personal
 * **26/11-01/12/17, Chicago (EE. UU.)**, Viaje de negocios para participar en RSNA, e intervenir en el [Simposio Corporativo de Google](https://blog.kanteron.com/2017/11/kanteron-systems-presents-in-google-symposium-at-rsna-2017/)
 * **13-17/11/17, México DF (México)**, Viaje de negocios
