@@ -11,8 +11,9 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2018**
 
-* 16-21/09/18, Mexico DF (Mexico), Viaje de negocios
+* **22-27/08/18, Ginebra, Zurich (Suiza)**, Viaje de negocios
 * **02-09/09/18, Barcelona (España), Nápoles, Roma, Florencia/Pisa (Italia), Cannes (Francia), Palma de Mayorca, Barcelona (España)**, Viaje personal (invitado a un [crucero en el Norwegian Epic](https://www.ncl.com/es/en/cruises/7-day-western-mediterranean-from-barcelona-EPIC7BCNNAPCIVLIVCEQPMIBCN/schedule?&itineraryCode=EPIC7BCNNAPCIVLIVCEQPMIBCN&customerStoriesCurrentPage=1&customerStoriesPageSize=3)
+* 16-21/09/18, México DF (México), Viaje de negocios
 * **13-14/11/18, Oslo (Noruega)**, Viaje de negocios
 * 25-27/11/18, Fort Lauderdale (EE. UU.), Viaje personal (invitado al crucero inaugural del Celebrity Edge)
 * 19/11-01/12/18, Hong Kong (China), Manila, Isla Romblon, Coron, Puerto Princesa, Palawan (Filipinas), Kota Kinabalu (Malasia), Muara (Brunei), Kuching, Sarawak (Malasia), Singapur, Viaje personal (invitado un [crucero en el Silversea Silver Muse](http://www.silversea.com/destinations/asia-cruise/hong-kong-to-singapore-6832/?fycref=row2))
