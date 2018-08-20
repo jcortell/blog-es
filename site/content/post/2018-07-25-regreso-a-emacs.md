@@ -7,7 +7,7 @@ tags: ["personal", "tecnología"]
 image: "http://res.cloudinary.com/jcortell/image/upload/v1532528969/Personal/emacs.png"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 thumbnailImage: http://res.cloudinary.com/jcortell/image/upload/v1532528969/Personal/emacs.png
 coverImage: http://res.cloudinary.com/jcortell/image/upload/v1532528969/Personal/emacs.png
 metaAlignment: center

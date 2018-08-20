@@ -11,7 +11,7 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2018**
 
-* 23-27/08/18, Cambridge (Reino Unido), Viaje de negocios trip
+* **25-29/08/18, Cambridge (Reino Unido)**, Viaje de negocios
 * **02-09/09/18, Barcelona (España), Nápoles, Roma, Florencia/Pisa (Italia), Cannes (Francia), Palma de Mayorca, Barcelona (España)**, Viaje personal (invitado a un [crucero en el Norwegian Epic](https://www.ncl.com/es/en/cruises/7-day-western-mediterranean-from-barcelona-EPIC7BCNNAPCIVLIVCEQPMIBCN/schedule?&itineraryCode=EPIC7BCNNAPCIVLIVCEQPMIBCN&customerStoriesCurrentPage=1&customerStoriesPageSize=3)
 * 16-21/09/18, México DF (México), Viaje de negocios
 * **13-14/11/18, Oslo (Noruega)**, Viaje de negocios (conferencia)
