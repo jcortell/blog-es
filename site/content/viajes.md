@@ -11,16 +11,20 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2018**
 
-* **22-27/08/18, Ginebra, Zurich (Suiza)**, Viaje de negocios
+* 23-27/08/18, Cambridge (Reino Unido), Viaje de negocios trip
 * **02-09/09/18, Barcelona (España), Nápoles, Roma, Florencia/Pisa (Italia), Cannes (Francia), Palma de Mayorca, Barcelona (España)**, Viaje personal (invitado a un [crucero en el Norwegian Epic](https://www.ncl.com/es/en/cruises/7-day-western-mediterranean-from-barcelona-EPIC7BCNNAPCIVLIVCEQPMIBCN/schedule?&itineraryCode=EPIC7BCNNAPCIVLIVCEQPMIBCN&customerStoriesCurrentPage=1&customerStoriesPageSize=3)
 * 16-21/09/18, México DF (México), Viaje de negocios
-* **13-14/11/18, Oslo (Noruega)**, Viaje de negocios
-* 25-27/11/18, Fort Lauderdale (EE. UU.), Viaje personal (invitado al crucero inaugural del Celebrity Edge)
+* **13-14/11/18, Oslo (Noruega)**, Viaje de negocios (conferencia)
+* 25-27/11/18, Fort Lauderdale, FL (EE. UU.), Viaje personal (invitado al crucero inaugural del Celebrity Edge)
+* 27-30/11/18, Chicago, IL (EE. UU.), Viaje de negocios (RSNA)
 * 19/11-01/12/18, Hong Kong (China), Manila, Isla Romblon, Coron, Puerto Princesa, Palawan (Filipinas), Kota Kinabalu (Malasia), Muara (Brunei), Kuching, Sarawak (Malasia), Singapur, Viaje personal (invitado un [crucero en el Silversea Silver Muse](http://www.silversea.com/destinations/asia-cruise/hong-kong-to-singapore-6832/?fycref=row2))
 
 **2019**
 
+* 11-15/02/19, Orlando, FL (EE. UU.), Viaje de negocios (HIMSS)
 * **23/03-08/04/19, Auckland (Nueva Zelanda), Tauranga, Napier, Picton, Akaroa, Dunedin - Port Chalmers, Fiordo Dusky, Fiordo	Doubtful, Milford Sound, Mar de Tasmania, Hobart (Tasmania, Australia), Port Arthur, Sidney**, Viaje personal (invitado un [crucero en el Crystal Symphony](http://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16))
+* 07/07 - 03/08/19, New York, NY (EE. UU.), Viaje personal (NYU)
+* 01-06/12/19, Chicago, IL (EE. UU.), Viaje de negocios (RSNA)
 
 **ANTERIORES:**
 
