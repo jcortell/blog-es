@@ -11,13 +11,15 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2018**
 
-* **02-09/09/18, Barcelona (España), Nápoles, Roma, Florencia/Pisa (Italia), Cannes (Francia), Palma de Mayorca, Barcelona (España)**, Viaje personal (invitado a un [crucero en el Norwegian Epic](https://www.ncl.com/es/en/cruises/7-day-western-mediterranean-from-barcelona-EPIC7BCNNAPCIVLIVCEQPMIBCN/schedule?&itineraryCode=EPIC7BCNNAPCIVLIVCEQPMIBCN&customerStoriesCurrentPage=1&customerStoriesPageSize=3)
-* **12/08/18 - 09/01/19, Toronto (Canadá)**, Viaje de negocios
-* 16-21/09/18, México DF (México), Viaje de negocios
-* **13-14/11/18, Oslo (Noruega)**, Viaje de negocios (conferencia)
+* **15/08/18 - 09/01/19, Toronto (Canadá)**, Viaje de negocios
+* 19-22/09/18, México DF (México), Viaje de negocios
+* 26/09/18, Washington DC (EE. UU.), Viaje de negocios
+* 25-26/10/18, Boston (EE. UU.), Viaje de negocios (invitado al evento UBS Industry Leader Network - Harvard Medical School)
+* **13-14/11/18, Oslo (Noruega)**, Viaje de negocios (invitado a dar una conferencia en [EHiN](http://www.ehin.no/))
 * 25-27/11/18, Fort Lauderdale, FL (EE. UU.), Viaje personal (invitado al crucero inaugural del Celebrity Edge)
 * 27-30/11/18, Chicago, IL (EE. UU.), Viaje de negocios (RSNA)
 * 19/11-01/12/18, Hong Kong (China), Manila, Isla Romblon, Coron, Puerto Princesa, Palawan (Filipinas), Kota Kinabalu (Malasia), Muara (Brunei), Kuching, Sarawak (Malasia), Singapur, Viaje personal (invitado un [crucero en el Silversea Silver Muse](http://www.silversea.com/destinations/asia-cruise/hong-kong-to-singapore-6832/?fycref=row2))
+* 03/12/18, San Antonio, TX (EE. UU.), Viaje de negocios (invitado a la Gala entrega de premios F&S)
 
 **2019**
 
@@ -32,6 +34,7 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
   <img src="http://chart.apis.google.com/chart?cht=t&chs=440x220&chco=ffffff,1ce500,1ce500&chf=bg,s,eaf7fe&chtm=world&chld=ADARATBSBDBBBEBMBRBGKHCACLCNCOCZDKDMDOECFIFRDEGRVAHKHUISINIDIRITJPKRLALILUMYMXMCNLNOPAPYPEPLPTPRRORULCVCSMSTSGSIESSECHTHTNTRAEGBUSUYVEVN&chd=s:00000000000000000000000000000000000000000000000000000000000000000000" alt="Make yours @ BigHugeLabs.com" />
 </div>
 
+* **02-09/09/18, Barcelona (España), Nápoles, Roma, Florencia/Pisa (Italia), Cannes (Francia), Palma de Mayorca, Barcelona (España)**, Viaje personal (invitado a un [crucero en el Norwegian Epic](https://www.ncl.com/es/en/cruises/7-day-western-mediterranean-from-barcelona-EPIC7BCNNAPCIVLIVCEQPMIBCN/schedule?&itineraryCode=EPIC7BCNNAPCIVLIVCEQPMIBCN&customerStoriesCurrentPage=1&customerStoriesPageSize=3)
 * **25-29/08/18, Cambridge (Reino Unido)**, Viaje de negocios
 * **18-19/06/18, Málaga (España)**, Viaje de negocios
 * **16-17/06/18, Milán (Italia)**, Viaje de negocios
