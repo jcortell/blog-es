@@ -12,10 +12,10 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 **2018**
 
 * **15/08/18 - 09/01/19, Toronto (Canadá)**, Viaje de negocios
-* 19-22/09/18, México DF (México), Viaje de negocios
-* 26/09/18, Washington DC (EE. UU.), Viaje de negocios
-* 25-26/10/18, Boston (EE. UU.), Viaje de negocios (invitado al [evento](https://uhnw.ubs.com/iln-boston-2018/home/) UBS Industry Leader Network - Harvard Medical School)
-* **10-14/11/18, Oslo (Noruega)**, Viaje de negocios (invitado a dar una conferencia en [EHiN](http://www.ehin.no/))
+* 24-28/09/18, México DF (México), Viaje de negocios
+* **03/10/18, Nueva York, NY (EE. UU.)**, Viaje de negocios
+* 25-26/10/18, Boston, MA (EE. UU.), Viaje de negocios (invitado al [evento](https://uhnw.ubs.com/iln-boston-2018/home/) UBS Industry Leader Network - Harvard Medical School)
+* **11-14/11/18, Oslo (Noruega)**, Viaje de negocios (invitado a dar una conferencia en [EHiN](http://www.ehin.no/))
 * 25-27/11/18, Fort Lauderdale, FL (EE. UU.), Viaje personal (invitado al crucero inaugural del [Celebrity Edge](https://www.celebritycruises.com/edge/inaugural-sailings/))
 * 27-30/11/18, Chicago, IL (EE. UU.), Viaje de negocios ([RSNA](http://www.rsna.org/Annual_Meeting.aspx))
 * 19/11-01/12/18, Hong Kong (China), Manila, Isla Romblon, Coron, Puerto Princesa, Palawan (Filipinas), Kota Kinabalu (Malasia), Muara (Brunei), Kuching, Sarawak (Malasia), Singapur, Viaje personal (invitado un [crucero en el Silversea Silver Muse](http://www.silversea.com/destinations/asia-cruise/hong-kong-to-singapore-6832/?fycref=row2))
@@ -25,7 +25,7 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 * 11-15/02/19, Orlando, FL (EE. UU.), Viaje de negocios ([HIMSS](https://www.himssconference.org/))
 * **23/03-08/04/19, Auckland (Nueva Zelanda), Tauranga, Napier, Picton, Akaroa, Dunedin - Port Chalmers, Fiordo Dusky, Fiordo	Doubtful, Milford Sound, Mar de Tasmania, Hobart (Tasmania, Australia), Port Arthur, Sidney**, Viaje personal (invitado un [crucero en el Crystal Symphony](http://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16))
-* 07/07 - 03/08/19, New York, NY (EE. UU.), Viaje personal (NYU)
+* 07/07 - 03/08/19, Nueva York, NY (EE. UU.), Viaje personal (NYU)
 * 01-06/12/19, Chicago, IL (EE. UU.), Viaje de negocios (RSNA)
 
 **ANTERIORES:**
