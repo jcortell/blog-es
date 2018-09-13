@@ -14,6 +14,7 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 * **15/08/18 - 09/01/19, Toronto (Canadá)**, Viaje de negocios
 * 24-28/09/18, México DF (México), Viaje de negocios
 * **03/10/18, Nueva York, NY (EE. UU.)**, Viaje de negocios
+* **22/10/18, Chicago, IL (EE. UU.)**, Viaje de negocios (participando en un vídeo reportaje de ICEX)
 * 25-26/10/18, Boston, MA (EE. UU.), Viaje de negocios (invitado al [evento](https://uhnw.ubs.com/iln-boston-2018/home/) UBS Industry Leader Network - Harvard Medical School)
 * **11-14/11/18, Oslo (Noruega)**, Viaje de negocios (invitado a dar una conferencia en [EHiN](http://www.ehin.no/))
 * 25-27/11/18, Fort Lauderdale, FL (EE. UU.), Viaje personal (invitado al crucero inaugural del [Celebrity Edge](https://www.celebritycruises.com/edge/inaugural-sailings/))
