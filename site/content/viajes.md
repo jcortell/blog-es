@@ -11,15 +11,14 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2018**
 
-* **15/08/18 - 09/01/19, Toronto (Canadá)**, Viaje de negocios
 * 24-28/09/18, México DF (México), Viaje de negocios
 * **03/10/18, Nueva York, NY (EE. UU.)**, Viaje de negocios
 * **22/10/18, Chicago, IL (EE. UU.)**, Viaje de negocios (participando en un vídeo reportaje de ICEX)
 * **24-26/10/18, Boston, MA (EE. UU.)**, Viaje de negocios (invitado al [evento](https://uhnw.ubs.com/iln-boston-2018/home/) UBS Industry Leader Network - Harvard Medical School)
+* **06-09/11/18, Valencia (España)**, Frankfurt (Alemania), Mortsel (Bélgica), Viaje de negocios (invitado como ponente en el [Longevity World Forum](https://www.longevityworldforum.com/))
 * **11-14/11/18, Oslo (Noruega)**, Viaje de negocios (invitado a dar una conferencia en [EHiN](http://www.ehin.no/))
 * **25-27/11/18, Fort Lauderdale, FL (EE. UU.)**, Viaje personal (invitado al crucero inaugural del [Celebrity Edge](https://www.celebritycruises.com/edge/inaugural-sailings/))
-* 27-30/11/18, Chicago, IL (EE. UU.), Viaje de negocios ([RSNA](http://www.rsna.org/Annual_Meeting.aspx))
-* **28/11-11/12/18, Fort Lauderdale, FL (EE. UU.), Grand Turk (Islas Turks y Caicos), San Juan (Puerto Rico), St. Kitts (St Kitts y Nevis), Roseau (Dominica), St. John's (Antigua y Barbuda), Gustavia (Indias Francesas Occidentales), Road Town (Islas Vírgenes Británicas), Samana (República Dominicana), Key West, Fort Lauderdale, FL (EE. UU.)**, Viaje personal (invitado un [crucero en el Silversea Silver Spirit](https://www.silversea.com/destinations/central-america-caribbean-cruise/fort-lauderdale-to-fort-lauderdale-5832.html))
+* **27-30/11/18, Chicago, IL (EE. UU.)**, Viaje de negocios ([RSNA](http://www.rsna.org/Annual_Meeting.aspx))
 * **03/12/18, San Antonio, TX (EE. UU.)**, Viaje de negocios (invitado a la [gala](https://ww2.frost.com/event/calendar/2018-excellence-awards-san-antonio/?eID=1823) entrega de premios F&S)
 
 
@@ -36,6 +35,7 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
   <img src="http://chart.apis.google.com/chart?cht=t&chs=440x220&chco=ffffff,1ce500,1ce500&chf=bg,s,eaf7fe&chtm=world&chld=ADARATBSBDBBBEBMBRBGKHCACLCNCOCZDKDMDOECFIFRDEGRVAHKHUISINIDIRITJPKRLALILUMYMXMCNLNOPAPYPEPLPTPRRORULCVCSMSTSGSIESSECHTHTNTRAEGBUSUYVEVN&chd=s:00000000000000000000000000000000000000000000000000000000000000000000" alt="Make yours @ BigHugeLabs.com" />
 </div>
 
+* **15/08/18 - 09/01/19, Toronto (Canadá)**, Viaje de negocios
 * **02-09/09/18, Barcelona (España), Nápoles, Roma, Florencia/Pisa (Italia), Cannes (Francia), Palma de Mayorca, Barcelona (España)**, Viaje personal (invitado a un [crucero en el Norwegian Epic](https://www.ncl.com/es/en/cruises/7-day-western-mediterranean-from-barcelona-EPIC7BCNNAPCIVLIVCEQPMIBCN/schedule?&itineraryCode=EPIC7BCNNAPCIVLIVCEQPMIBCN&customerStoriesCurrentPage=1&customerStoriesPageSize=3)
 * **25-29/08/18, Cambridge (Reino Unido)**, Viaje de negocios
 * **18-19/06/18, Málaga (España)**, Viaje de negocios
