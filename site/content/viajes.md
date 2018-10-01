@@ -16,8 +16,7 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 * **24-26/10/18, Boston, MA (EE. UU.)**, Viaje de negocios (invitado al [evento](https://uhnw.ubs.com/iln-boston-2018/home/) UBS Industry Leader Network - Harvard Medical School)
 * **06-09/11/18, Valencia (España), Frankfurt (Alemania), Mortsel (Bélgica)**, Viaje de negocios (invitado como ponente en el [Longevity World Forum](https://www.longevityworldforum.com/es/jorge-cortell/))
 * **11-14/11/18, Oslo (Noruega)**, Viaje de negocios (invitado como [uno de los 4 ponentes principales a dar una conferencia en EHiN](https://ehin.no/en/highlights/))
-* **25-27/11/18, Fort Lauderdale, FL (EE. UU.)**, Viaje personal (invitado al crucero inaugural del [Celebrity Edge](https://www.celebritycruises.com/edge/inaugural-sailings/))
-* **27-30/11/18, Chicago, IL (EE. UU.)**, Viaje de negocios ([RSNA](http://www.rsna.org/Annual_Meeting.aspx))
+* **25-29/11/18, Chicago, IL (EE. UU.)**, Viaje de negocios ([RSNA](http://www.rsna.org/Annual_Meeting.aspx))
 * **03/12/18, San Antonio, TX (EE. UU.)**, Viaje de negocios (invitado a la [gala](https://ww2.frost.com/event/calendar/2018-excellence-awards-san-antonio/?eID=1823) entrega de premios F&S)
 
 
