@@ -21,14 +21,15 @@ Nuestro crucero familar por el Mediterráneo, del 2 al 9 de septiembre a bordo d
 ![Itinerario](https://www.ncl.com/sites/default/files/7D_WMed_Bar_NPLS_PM_Bar.gif)
 
 Embarcamos en Barcelona. El itinerario fue:
-Dom	Barcelona, España (EMBARQUE)
-Lun	Navegación	---	---
-Mar	Nápoles, Italia
-Mie	Roma (Civitavecchia), Italia
-Jue	Florencia/Pisa (Livorno), Italia
-Vie	Cannes, Francia
-Sáb	Palma, Mayorca, España
-Dom	Barcelona, España (DESEMBARCO)
+
+* Dom	Barcelona, España (EMBARQUE)
+* Lun	Navegación	---	---
+* Mar	Nápoles, Italia
+* Mie	Roma (Civitavecchia), Italia
+* Jue	Florencia/Pisa (Livorno), Italia
+* Vie	Cannes, Francia
+* Sáb	Palma, Mayorca, España
+* Dom	Barcelona, España (DESEMBARCO)
 
 Como de costumbre, el primer día fue simplemente explorar el gigantesco barco (generalmente navegamos en barcos más pequeños, pero esta fue una aventura con la familia amplia, y decidimos elegir una experiencia que tuviese algo para todos).
 
