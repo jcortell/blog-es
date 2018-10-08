@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-El 5 de septiembre fueron nuestro 6º día de crucero familiar por el Mediterráneo a bordo del [Norwegian Epic](https://www.ncl.com/ca/en/cruises/7-day-western-mediterranean-from-barcelona-EPIC7BCNNAPCIVLIVCEQPMIBCN/schedule?&itineraryCode=EPIC7BCNNAPCIVLIVCEQPMIBCN&customerStoriesCurrentPage=1&customerStoriesPageSize=3), pasando el día en Cannes.
+El 7 de septiembre fue nuestro 6º día de crucero familiar por el Mediterráneo a bordo del [Norwegian Epic](https://www.ncl.com/ca/en/cruises/7-day-western-mediterranean-from-barcelona-EPIC7BCNNAPCIVLIVCEQPMIBCN/schedule?&itineraryCode=EPIC7BCNNAPCIVLIVCEQPMIBCN&customerStoriesCurrentPage=1&customerStoriesPageSize=3), pasando el día en Cannes.
 
 <!--more-->
 

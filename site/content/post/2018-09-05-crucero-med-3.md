@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-El 3 y 4 de septiembre fueron nuestros 4º y 5º días de crucero familiar por el Mediterráneo a bordo del [Norwegian Epic](https://www.ncl.com/ca/en/cruises/7-day-western-mediterranean-from-barcelona-EPIC7BCNNAPCIVLIVCEQPMIBCN/schedule?&itineraryCode=EPIC7BCNNAPCIVLIVCEQPMIBCN&customerStoriesCurrentPage=1&customerStoriesPageSize=3), pasando un día en Roma (Civitavecchia), y el siguiente en Pisa (Livorno).
+El 5 y 6 de septiembre fueron nuestros 4º y 5º días de crucero familiar por el Mediterráneo a bordo del [Norwegian Epic](https://www.ncl.com/ca/en/cruises/7-day-western-mediterranean-from-barcelona-EPIC7BCNNAPCIVLIVCEQPMIBCN/schedule?&itineraryCode=EPIC7BCNNAPCIVLIVCEQPMIBCN&customerStoriesCurrentPage=1&customerStoriesPageSize=3), pasando un día en Roma (Civitavecchia), y el siguiente en Pisa (Livorno).
 
 <!--more-->
 
