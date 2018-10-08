@@ -3,11 +3,11 @@ author: ""
 date: "2018-09-05T18:54:24+02:00"
 draft: false
 title: "Crucero por el Mediterráneo días 4 y 5"
-tags: ["personal", "trips"]
+tags: ["personal", "viajes"]
 image: "https://farm2.staticflickr.com/1861/44524697432_0d89f9ed46_k.jpg"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: right
+thumbnailImagePosition: left
 thumbnailImage: https://farm2.staticflickr.com/1861/44524697432_0d89f9ed46_k.jpg
 coverImage: https://farm2.staticflickr.com/1861/44524697432_0d89f9ed46_k.jpg
 metaAlignment: center
