@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-El 3 y 4 de septiembre fueron nuestros 2o y 3o días en el crucero familiar por el Mediterráneo, a bordo del [Norwegian Epic](https://www.ncl.com/ca/en/cruises/7-day-western-mediterranean-from-barcelona-EPIC7BCNNAPCIVLIVCEQPMIBCN/schedule?&itineraryCode=EPIC7BCNNAPCIVLIVCEQPMIBCN&customerStoriesCurrentPage=1&customerStoriesPageSize=3), pasando un día en el mar y el siguiente en Nápoles.
+El 3 y 4 de septiembre fueron nuestros 2º y 3º días en el crucero familiar por el Mediterráneo, a bordo del [Norwegian Epic](https://www.ncl.com/ca/en/cruises/7-day-western-mediterranean-from-barcelona-EPIC7BCNNAPCIVLIVCEQPMIBCN/schedule?&itineraryCode=EPIC7BCNNAPCIVLIVCEQPMIBCN&customerStoriesCurrentPage=1&customerStoriesPageSize=3), pasando un día en el mar y el siguiente en Nápoles.
 
 <!--more-->
 
