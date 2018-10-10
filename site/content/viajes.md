@@ -11,6 +11,7 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2018**
 
+* **19/10/18, Boston, MA (EE. UU.)**, Viaje de negocios
 * **22/10/18, Chicago, IL (EE. UU.)**, Viaje de negocios (participando en un vídeo reportaje de ICEX)
 * **24-26/10/18, Boston, MA (EE. UU.)**, Viaje de negocios (invitado al [evento](https://uhnw.ubs.com/iln-boston-2018/home/) UBS Industry Leader Network - Harvard Medical School)
 * **06-09/11/18, Valencia (España), Frankfurt (Alemania), Mortsel (Bélgica)**, Viaje de negocios (invitado como ponente en el [Longevity World Forum](https://www.longevityworldforum.com/es/jorge-cortell/))
