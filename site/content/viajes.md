@@ -18,6 +18,7 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 * **18-24/10/18, Sao Paulo (Brasil), Asunción (Paraguay), Lima (Perú)**, Viaje de negocios (invitado como ponente en evento del Ministerio de Salud - [II Jornada de Informatica en Salud](https://jis.spis.org.py/))
 * **25-29/11/18, Chicago, IL (EE. UU.)**, Viaje de negocios ([RSNA](http://www.rsna.org/Annual_Meeting.aspx))
 * **03/12/18, San Antonio, TX (EE. UU.)**, Viaje de negocios (invitado a la [gala](https://ww2.frost.com/event/calendar/2018-excellence-awards-san-antonio/?eID=1823) entrega de premios F&S)
+* **09-11/12/18, Vancouver (Canadá)**, Viaje personal (VFS)
 
 
 **2019**
