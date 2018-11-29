@@ -31,8 +31,9 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
   <img src="http://chart.apis.google.com/chart?cht=t&chs=440x220&chco=ffffff,1ce500,1ce500&chf=bg,s,eaf7fe&chtm=world&chld=ADARATBSBDBBBEBMBRBGKHCACLCNCOCZDKDMDOECFIFRDEGRVAHKHUISINIDIRITJPKRLALILUMYMXMCNLNOPAPYPEPLPTPRRORULCVCSMSTSGSIESSECHTHTNTRAEGBUSUYVEVN&chd=s:00000000000000000000000000000000000000000000000000000000000000000000" alt="Make yours @ BigHugeLabs.com" />
 </div>
 
+
 * **25-29/11/18, Chicago, IL (EE. UU.)**, Viaje de negocios ([RSNA](http://www.rsna.org/Annual_Meeting.aspx))
-* **18-24/10/18, Sao Paulo (Brasil), Asunción (Paraguay), Lima (Perú)**, Viaje de negocios (invitado como [ponente](http://sicompy.blogspot.com/2018/11/ii-jornada-informatica-en-salud-es.html) en evento del Ministerio de Salud - [II Jornada de Informatica en Salud](https://jis.spis.org.py/) en Asunción, y en el evento de Telefónica en Lima)
+* **18-24/10/18, São Paulo (Brasil), Asunción (Paraguay), Lima (Perú)**, Viaje de negocios (invitado como [ponente](http://sicompy.blogspot.com/2018/11/ii-jornada-informatica-en-salud-es.html) en evento del Ministerio de Salud - [II Jornada de Informatica en Salud](https://jis.spis.org.py/) en Asunción, y en el evento de Telefónica en Lima)
 * **11-14/11/18, Oslo (Noruega)**, Viaje de negocios (invitado como [ponente en EHiN](https://ehin.no/en/highlights/))
 * **06-09/11/18, Frankfurt (Alemania), Valencia (España)**, Viaje de negocios (invitado como ponente en el [Longevity World Forum](https://www.longevityworldforum.com/es/jorge-cortell/))
 * **24-26/10/18, Boston, MA (EE. UU.)**, Viaje de negocios (invitado al [evento](https://uhnw.ubs.com/iln-boston-2018/home/) UBS Industry Leader Network - Harvard Medical School)
