@@ -12,7 +12,7 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 **2018**
 
 * **09-11/12/18, Vancouver (Canadá)**, Viaje personal (VFS)
-* **17-20/12/18, Londres (Reino Unido)**, Viaje de negocios
+* **16-19/12/18, Londres (Reino Unido)**, Viaje de negocios
 * **21-23/12/18, Valencia (España)**, Viaje personal
 
 
@@ -20,7 +20,7 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 * **05/01/19, Valencia (España)**, Viaje personal
 * **05-07/02/19, Alicante (España)**, Viaje personal
-* 11-15/02/19, Orlando, FL (EE. UU.), Viaje de negocios ([HIMSS](https://www.himssconference.org/))
+* **11-15/02/19, Orlando, FL (EE. UU.)**, Viaje de negocios ([HIMSS](https://www.himssconference.org/))
 * **23/03-08/04/19, Auckland (Nueva Zelanda), Tauranga, Napier, Picton, Akaroa, Dunedin - Port Chalmers, Fiordo Dusky, Fiordo	Doubtful, Milford Sound, Mar de Tasmania, Hobart (Tasmania, Australia), Port Arthur, Sidney**, Viaje personal (invitado un [crucero en el Crystal Symphony](http://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16))
 * 07/07 - 03/08/19, Nueva York, NY (EE. UU.), Viaje personal (NYU)
 * 01-06/12/19, Chicago, IL (EE. UU.), Viaje de negocios (RSNA)
