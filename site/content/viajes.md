@@ -9,11 +9,6 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **En negrilla** = confirmado; de lo contrario = sin confirmar:
 
-**2018**
-
-* **16-19/12/18, Londres (Reino Unido)**, Viaje de negocios
-* **21-23/12/18, Valencia (España)**, Viaje personal
-
 
 **2019**
 
@@ -31,6 +26,10 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 </div>
 
 
+**2018**
+
+* **21-23/12/18, Valencia (España)**, Viaje personal
+* **16-19/12/18, Londres (Reino Unido)**, Viaje de negocios
 * **09-11/12/18, Vancouver (Canadá)**, Viaje personal (VFS)
 * **25-29/11/18, Chicago, IL (EE. UU.)**, Viaje de negocios ([RSNA](http://www.rsna.org/Annual_Meeting.aspx))
 * **18-24/10/18, São Paulo (Brasil), Asunción (Paraguay), Lima (Perú)**, Viaje de negocios (invitado como [ponente](http://sicompy.blogspot.com/2018/11/ii-jornada-informatica-en-salud-es.html) en evento del Ministerio de Salud - [II Jornada de Informatica en Salud](https://jis.spis.org.py/) en Asunción, y en el evento de Telefónica en Lima)
