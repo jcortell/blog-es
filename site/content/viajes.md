@@ -12,6 +12,7 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2019**
 
+* **01/01/19, Búfalo (EE. UU.)**, Viaje personal
 * **05/01/19, Valencia (España)**, Viaje personal
 * **05-07/02/19, Alicante (España)**, Viaje personal
 * **11-15/02/19, Orlando, FL (EE. UU.)**, Viaje de negocios ([HIMSS](https://www.himssconference.org/))
@@ -28,6 +29,7 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2018**
 
+* **27/12/18, Búfalo (EE. UU.)**, Viaje personal
 * **21-23/12/18, Valencia (España)**, Viaje personal
 * **16-19/12/18, Londres (Reino Unido)**, Viaje de negocios
 * **09-11/12/18, Vancouver (Canadá)**, Viaje personal (VFS)
