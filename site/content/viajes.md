@@ -12,6 +12,7 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2019**
 
+* **28-30/01/19, Bucarest (Rumanía)**, Viaje de negocios
 * **05-07/02/19, Alicante (España)**, Viaje personal
 * **11-15/02/19, Orlando, FL (EE. UU.)**, Viaje de negocios ([HIMSS](https://www.himssconference.org/))
 * **23/03-08/04/19, Auckland (Nueva Zelanda), Tauranga, Napier, Picton, Akaroa, Dunedin - Port Chalmers, Fiordo Dusky, Fiordo	Doubtful, Milford Sound, Mar de Tasmania, Hobart (Tasmania, Australia), Port Arthur, Sidney**, Viaje personal (invitado un [crucero en el Crystal Symphony](http://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16))

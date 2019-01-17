@@ -4,12 +4,12 @@ date: "2019-01-04T18:54:24+02:00"
 draft: false
 title: "Patinaje, bicis, y coches de choque sobre hielo"
 tags: ["personal", "viajes"]
-image: "https://lh3.googleusercontent.com/VwS2ikiRgj31t1etSvnkOCReStl5734LTeZrwFv_c5SMMH00u3KbAgJCtp5w46oOOq0oJmX8O6zfrUFbjwUZ7QLJUDWKBF_jmpscZ1pDe2VW7vFTjaPpUxzyklfJBvBXeqPDIo0BT_w=w1920-h1080"
+image: "https://lh3.googleusercontent.com/K-hbgoLZODP0MsPp3SlU_WooWayHCgsLpt9t7_WciKJHW-ZZ1OeyunpUunJtn4_WJcBlKFLw8VvdKh9e1lwUhjTnoB47yyC4gEVmScFjXAgLqobyW055rRpjGw7K_rXx9C_iLMORaV8=w1920-h1080"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: right
-thumbnailImage: https://lh3.googleusercontent.com/VwS2ikiRgj31t1etSvnkOCReStl5734LTeZrwFv_c5SMMH00u3KbAgJCtp5w46oOOq0oJmX8O6zfrUFbjwUZ7QLJUDWKBF_jmpscZ1pDe2VW7vFTjaPpUxzyklfJBvBXeqPDIo0BT_w=w1920-h1080
-coverImage: https://lh3.googleusercontent.com/VwS2ikiRgj31t1etSvnkOCReStl5734LTeZrwFv_c5SMMH00u3KbAgJCtp5w46oOOq0oJmX8O6zfrUFbjwUZ7QLJUDWKBF_jmpscZ1pDe2VW7vFTjaPpUxzyklfJBvBXeqPDIo0BT_w=w1920-h1080
+thumbnailImage: https://lh3.googleusercontent.com/K-hbgoLZODP0MsPp3SlU_WooWayHCgsLpt9t7_WciKJHW-ZZ1OeyunpUunJtn4_WJcBlKFLw8VvdKh9e1lwUhjTnoB47yyC4gEVmScFjXAgLqobyW055rRpjGw7K_rXx9C_iLMORaV8=w1920-h1080
+coverImage: https://lh3.googleusercontent.com/K-hbgoLZODP0MsPp3SlU_WooWayHCgsLpt9t7_WciKJHW-ZZ1OeyunpUunJtn4_WJcBlKFLw8VvdKh9e1lwUhjTnoB47yyC4gEVmScFjXAgLqobyW055rRpjGw7K_rXx9C_iLMORaV8=w1920-h1080
 metaAlignment: center
 coverMeta: out
 ---
@@ -23,3 +23,5 @@ Los valencianos no estamos acostumbrados a tanta diversión de invierno. ¿[Pati
 ¿[Coches de choque sobre hielo](https://www.canalsidebuffalo.com/events/bumper-car-rentals/2019-01-04/)? ¿Hay algo que estos buffalonianos no hagan en el hielo? :D
 
 De todos modos, nos lo hemos pasado bien ... pero sigo prefiriendo el patinaje normal, las bicicletas y los autos de choque en clima de 20°C (que es lo que tienen ahora en Valencia, España ... ¿vamos?).
+
+![](https://lh3.googleusercontent.com/7aApxLqVZGOHK1M5HEpllbax15xUzy5nQfsHP0mJGWZ_qulAWtlygsgzLPtodnxpWesvBDEHr22juCiF3SOSxqTe-xVpz6uCuusvNPZeqefojHmMEQSaorO4ntzoL0Cg5AggntdT0-0=w1920-h1080)
