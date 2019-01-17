@@ -12,8 +12,6 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2019**
 
-* **01/01/19, Búfalo (EE. UU.)**, Viaje personal
-* **05/01/19, Valencia (España)**, Viaje personal
 * **05-07/02/19, Alicante (España)**, Viaje personal
 * **11-15/02/19, Orlando, FL (EE. UU.)**, Viaje de negocios ([HIMSS](https://www.himssconference.org/))
 * **23/03-08/04/19, Auckland (Nueva Zelanda), Tauranga, Napier, Picton, Akaroa, Dunedin - Port Chalmers, Fiordo Dusky, Fiordo	Doubtful, Milford Sound, Mar de Tasmania, Hobart (Tasmania, Australia), Port Arthur, Sidney**, Viaje personal (invitado un [crucero en el Crystal Symphony](http://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16))
@@ -26,6 +24,13 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
   <img src="http://chart.apis.google.com/chart?cht=t&chs=440x220&chco=ffffff,1ce500,1ce500&chf=bg,s,eaf7fe&chtm=world&chld=ADARATBSBDBBBEBMBRBGKHCACLCNCOCZDKDMDOECFIFRDEGRVAHKHUISINIDIRITJPKRLALILUMYMXMCNLNOPAPYPEPLPTPRRORULCVCSMSTSGSIESSECHTHTNTRAEGBUSUYVEVN&chd=s:00000000000000000000000000000000000000000000000000000000000000000000" alt="Make yours @ BigHugeLabs.com" />
 </div>
 
+
+**2019**
+
+* **08-10/01/19, Southampton (Reino Unido)**, Viaje personal
+* **05/01/19, Valencia (España)**, Viaje personal
+* **04/01/19, Búfalo (EE. UU.)**, Viaje personal
+* **01/01/19, Búfalo (EE. UU.)**, Viaje personal
 
 **2018**
 
