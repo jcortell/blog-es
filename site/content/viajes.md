@@ -12,12 +12,16 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2019**
 
-* **28-30/01/19, Bucarest (Rumanía)**, Viaje de negocios
 * **05-07/02/19, Alicante (España)**, Viaje personal
 * **11-15/02/19, Orlando, FL (EE. UU.)**, Viaje de negocios ([HIMSS](https://www.himssconference.org/))
-* **23/03-08/04/19, Auckland (Nueva Zelanda), Tauranga, Napier, Picton, Akaroa, Dunedin - Port Chalmers, Fiordo Dusky, Fiordo	Doubtful, Milford Sound, Mar de Tasmania, Hobart (Tasmania, Australia), Port Arthur, Sidney**, Viaje personal (invitado un [crucero en el Crystal Symphony](http://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16))
+* **20/03-11/04/19, Auckland (Nueva Zelanda), Tauranga, Napier, Picton, Akaroa, Dunedin - Port Chalmers, Fiordo Dusky, Fiordo	Doubtful, Milford Sound, Mar de Tasmania, Hobart (Tasmania, Australia), Port Arthur, Sidney**, Viaje personal (invitado un [crucero en el Crystal Symphony](http://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16))
 * 07/07 - 03/08/19, Nueva York, NY (EE. UU.), Viaje personal (NYU)
 * 01-06/12/19, Chicago, IL (EE. UU.), Viaje de negocios (RSNA)
+
+**2020**
+
+* 01-31/01/20, Vancouver (Canadá), Viaje personal
+
 
 **ANTERIORES:**
 
@@ -28,6 +32,7 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2019**
 
+* **28-30/01/19, Bucarest (Rumanía)**, Viaje de negocios
 * **08-10/01/19, Southampton (Reino Unido)**, Viaje personal
 * **05/01/19, Valencia (España)**, Viaje personal
 * **04/01/19, Búfalo (EE. UU.)**, Viaje personal
