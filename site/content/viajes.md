@@ -12,12 +12,11 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2019**
 
-* **11-15/02/19, Orlando, FL (EE. UU.)**, Viaje de negocios ([HIMSS](https://www.himssconference.org/))
-* * 18/02 - 19/03/19, Bangkok (Tailandia), Viaje de negocios
-* 26-28/02/19, Alicante (España), Viaje personal
 * **20/03-11/04/19, Auckland (Nueva Zelanda), Tauranga, Napier, Picton, Akaroa, Dunedin - Port Chalmers, Fiordo Dusky, Fiordo	Doubtful, Milford Sound, Mar de Tasmania, Hobart (Tasmania, Australia), Port Arthur, Sidney**, Viaje personal (invitado un [crucero en el Crystal Symphony](http://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16))
-* 12/04 - 12/05/19, Johannesburgo (Sudáfrica), Viaje de negocios
-* 07/07 - 03/08/19, Nueva York, NY (EE. UU.), Viaje personal (NYU)
+* 12/04 - 12/05/19, Bangkok (Tailandia), Viaje de negocios
+* 22-25/05/19, Aguas Calientes (México), Viaje de negocios
+* 25-27/05/19, Bilbao (España), Viaje personal
+* **07/07 - 03/08/19, Nueva York, NY (EE. UU.)**, Viaje personal (NYU)
 * 01-06/12/19, Chicago, IL (EE. UU.), Viaje de negocios (RSNA)
 
 **2020**
@@ -34,6 +33,12 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2019**
 
+* **02/03/19, Amsterdam (Holanda)**, Viaje de negocios
+* **26/02 - 01/03/19, Bangkok (Tailandia)**, Viaje de negocios
+* **22-24/02/19, Alicante (España)**, Viaje personal
+* **19/02/19, Málaga (Spain)**, Viaje de negocios
+* **15/02/19, Frankfurt (Alemania)**, Viaje de negocios
+* **11-14/02/19, Orlando, FL (EE. UU.)**, Viaje de negocios ([HIMSS](https://www.himssconference.org/))
 * **04-08/02/19, Bangkok (Tailandia)**, Viaje de negocios
 * **28-30/01/19, Bucarest (Rumanía)**, Viaje de negocios
 * **08-10/01/19, Southampton (Reino Unido)**, Viaje personal
