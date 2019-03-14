@@ -17,6 +17,7 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 * 14-20/05/19, Tokyo (Japan), Business trip
 * 22-25/05/19, Aguas Calientes (México), Viaje de negocios
 * **25-27/05/19, Bilbao (España)**, Viaje personal
+* **20-22/06/19, Granada (España)**, Viaje personal (para asistir a eslib.re)
 * **07/07 - 03/08/19, Nueva York, NY (EE. UU.)**, Viaje personal (NYU)
 * 01-06/12/19, Chicago, IL (EE. UU.), Viaje de negocios (RSNA)
 
