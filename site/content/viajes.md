@@ -12,8 +12,8 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2019**
 
-* **20/03-11/04/19, Auckland (Nueva Zelanda), Tauranga, Napier, Picton, Akaroa, Dunedin - Port Chalmers, Fiordo Dusky, Fiordo	Doubtful, Milford Sound, Mar de Tasmania, Hobart (Tasmania, Australia), Port Arthur, Sidney**, Viaje personal (invitado un [crucero en el Crystal Symphony](http://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16))
-* 12/04 - 12/05/19, Bangkok (Tailandia), Viaje de negocios
+* 22/04 - 12/05/19, Bangkok (Tailandia), Viaje de negocios
+* 15/05/19, Tallinn (Estonia), Viaje de negocios
 * 14-20/05/19, Tokyo (Japan), Business trip
 * 22-25/05/19, Aguas Calientes (México), Viaje de negocios
 * **25-27/05/19, Bilbao (España)**, Viaje personal
@@ -29,12 +29,14 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 **ANTERIORES:**
 
 <div style="text-align: center;">
-  <img src="http://chart.apis.google.com/chart?cht=t&chs=440x220&chco=ffffff,1ce500,1ce500&chf=bg,s,eaf7fe&chtm=world&chld=ADARATBSBDBBBEBMBRBGKHCACLCNCOCZDKDMDOECFIFRDEGRVAHKHUISINIDIRITJPKRLALILUMYMXMCNLNOPAPYPEPLPTPRRORULCVCSMSTSGSIESSECHTHTNTRAEGBUSUYVEVN&chd=s:00000000000000000000000000000000000000000000000000000000000000000000" alt="Make yours @ BigHugeLabs.com" />
+  <img src="http://chart.apis.google.com/chart?cht=t&chs=440x220&chco=ffffff,3399ff,3399ff&chf=bg,s,eaf7fe&chtm=world&chld=ALADAQAGARAWAUATBDBEBMBRBGKHCACLCNCOHRCZDKDMDOECEEFIFRDEGRVAHKHUISINIDIEITJPKRLVLILTLUMYMTMXMCMENLNZNOPAPYPEPLPTPRRORUKNLCVCSMSTRSSGSKSIESSECHTHTNTRAEGBUSUYVEVN&chd=s:00000000000000000000000000000000000000000000000000000000000000000000000000000000" alt="Made with BigHugeLabs.com">
 </div>
+https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 
 **2019**
 
+* **20/03-11/04/19, Auckland (Nueva Zelanda), Tauranga, Napier, Picton, Akaroa, Dunedin - Port Chalmers, Fiordo Dusky, Fiordo	Doubtful, Milford Sound, Mar de Tasmania, Hobart (Tasmania, Australia), Port Arthur, Sidney**, Viaje personal (invitado un [crucero en el Crystal Symphony](http://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16))
 * **02/03/19, Amsterdam (Holanda)**, Viaje de negocios
 * **26/02 - 01/03/19, Bangkok (Tailandia)**, Viaje de negocios
 * **22-24/02/19, Alicante (España)**, Viaje personal
