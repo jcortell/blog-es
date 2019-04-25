@@ -12,7 +12,7 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2019**
 
-* 22/04 - 12/05/19, Bangkok (Tailandia), Viaje de negocios
+* **08-11/05/19, Amsterdam (Holanda)**, Viaje de negocios, invitado a participar en [TNW](https://thenextweb.com/conference/)
 * 22-25/05/19, Aguas Calientes (México), Viaje de negocios
 * **25-27/05/19, Bilbao (España)**, Viaje personal
 * **30/05/19, Madrid (España)**, Viaje personal y de negocios
