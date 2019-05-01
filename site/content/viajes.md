@@ -12,13 +12,11 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2019**
 
-* **08-11/05/19, Amsterdam (Holanda)**, Viaje de negocios, invitado a participar en [TNW](https://thenextweb.com/conference/)
-* 22-25/05/19, Aguas Calientes (México), Viaje de negocios
+* **08-12/05/19, Amsterdam (Holanda)**, Viaje de negocios, invitado a participar en [TNW](https://thenextweb.com/conference/)
 * **25-27/05/19, Bilbao (España)**, Viaje personal
 * **30/05/19, Madrid (España)**, Viaje personal y de negocios
 * **20-22/06/19, Granada (España)**, Viaje personal (para asistir a eslib.re)
 * **07/07 - 03/08/19, Nueva York, NY (EE. UU.)**, Viaje personal (NYU)
-* 14-20/08/19, Tokyo (Japón), Viaje de negocios
 * 01-06/12/19, Chicago, IL (EE. UU.), Viaje de negocios (RSNA)
 
 **2020**
