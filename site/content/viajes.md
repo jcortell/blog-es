@@ -22,6 +22,7 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 **2020**
 
 * 01-31/01/20, Vancouver (Canadá), Viaje personal
+* 07-25/04/20, Papeete (Tahití), Moorea, Raiatea, Bora Bora, Rangiroa, Fakarava (Polinesia Francesa), Hanga Roa (Isla de Pascua - Chile), Lima (Perú), Viaje personal (invitado a [navegar en el Regent Seven Seas Navigator](https://www.rssc.com/cruises/NAV200407/summary))
 
 
 **ANTERIORES:**
