@@ -12,7 +12,6 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2019**
 
-* **08-12/05/19, Amsterdam (Holanda)**, Viaje de negocios, invitado a participar en [TNW](https://thenextweb.com/conference/)
 * **25-27/05/19, Bilbao (España)**, Viaje personal
 * **30/05/19, Madrid (España)**, Viaje personal y de negocios
 * **20-22/06/19, Granada (España)**, Viaje personal (para asistir a eslib.re)
@@ -35,6 +34,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2019**
 
+* **08-12/05/19, Amsterdam (Holanda)**, Viaje de negocios, invitado a participar en [TNW](https://thenextweb.com/conference/)
 * **20/03-11/04/19, Auckland (Nueva Zelanda), Tauranga, Napier, Picton, Akaroa, Dunedin - Port Chalmers, Fiordo Dusky, Fiordo	Doubtful, Milford Sound, Mar de Tasmania, Hobart (Tasmania, Australia), Port Arthur, Sidney**, Viaje personal (invitado un [crucero en el Crystal Symphony](http://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16))
 * **02/03/19, Amsterdam (Holanda)**, Viaje de negocios
 * **26/02 - 01/03/19, Bangkok (Tailandia)**, Viaje de negocios
