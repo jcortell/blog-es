@@ -7,7 +7,7 @@ tags: ["personal", "arte", "viajes"]
 image: "https://lh3.googleusercontent.com/XF6lQfy16plzz-C2aazz4R5Nk67zoAVqKJPfxBZGjQAB6779QeE8I87gQJPE_9qGvzfOpm-M4RRFzaE0WEww417qS68pLHHbZS5eIlLhhd6Gi-hzQeRidLJAjm4gRvu9RvA7Mreq6uk=w1920-h1080"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 thumbnailImage: https://lh3.googleusercontent.com/XF6lQfy16plzz-C2aazz4R5Nk67zoAVqKJPfxBZGjQAB6779QeE8I87gQJPE_9qGvzfOpm-M4RRFzaE0WEww417qS68pLHHbZS5eIlLhhd6Gi-hzQeRidLJAjm4gRvu9RvA7Mreq6uk=w1920-h1080
 coverImage: https://lh3.googleusercontent.com/XF6lQfy16plzz-C2aazz4R5Nk67zoAVqKJPfxBZGjQAB6779QeE8I87gQJPE_9qGvzfOpm-M4RRFzaE0WEww417qS68pLHHbZS5eIlLhhd6Gi-hzQeRidLJAjm4gRvu9RvA7Mreq6uk=w1920-h1080
 metaAlignment: center
