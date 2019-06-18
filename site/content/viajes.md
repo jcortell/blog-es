@@ -13,6 +13,7 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 **2019**
 
 * **04/07 - 05/08/19, Nueva York, NY (EE. UU.)**, Viaje personal y de negocios (NYU)
+* **10-24/08/19, Bangkok (Tailandia)**, Viaje de negocios
 * 01-06/12/19, Chicago, IL (EE. UU.), Viaje de negocios (RSNA)
 
 **2020**
