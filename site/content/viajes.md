@@ -12,13 +12,14 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2019**
 
-* **04/07 - 05/08/19, Nueva York, NY (EE. UU.)**, Viaje personal y de negocios (NYU)
 * **10-24/08/19, Bangkok (Tailandia)**, Viaje de negocios
+* **21-24/11/19, Iaşi (Rumanía)**, Viaje de negocios (Ponente en la [Conferencia Rumana de Oncología 2019](http://inscrieri.oncologieiasi.ro))
 * 01-06/12/19, Chicago, IL (EE. UU.), Viaje de negocios (RSNA)
 
 **2020**
 
-* 01-31/01/20, Vancouver (Canadá), Viaje personal
+* **01-31/01/20, Vancouver (Canadá)**, Viaje personal
+* **09-13/03/20, Orlando (EE. UU.)**, Viaje de negocios (HIMSS)
 * 07-25/04/20, Papeete (Tahití), Moorea, Raiatea, Bora Bora, Rangiroa, Fakarava (Polinesia Francesa), Hanga Roa (Isla de Pascua - Chile), Lima (Perú), Viaje personal (invitado a [navegar en el Regent Seven Seas Navigator](https://www.rssc.com/cruises/NAV200407/summary))
 
 
@@ -32,6 +33,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2019**
 
+* **04/07 - 05/08/19, Nueva York, NY (EE. UU.)**, Viaje personal y de negocios (NYU)
 * **30/05/19, Madrid (España)**, Viaje personal y de negocios
 * **25-27/05/19, Zaragoza, San Sebastián, y Bilbao (España)**, Viaje personal
 * **22/05/19, L'Albir, Alicante (España)**, Viaje de negocios
