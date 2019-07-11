@@ -24,6 +24,8 @@ Después de disfrutar de una hamburguesa vegana en la cercana [Bare Burger](http
 
 https://twitter.com/jorgecortell/status/1147986918602432513
 
+{{< tweet 1147986918602432513 >}}
+
 En cualquier caso, un par de días más tarde ayudamos a mi hijo a mudarse a su residencia cerca de Union Square, y almorzamos con él en [Momofuku Ssäm Bar](https://ssambar.momofuku.com/). Por supuesto, cruzamos la calle para comprar una galleta compost en [Milk Bar](https://milkbarstore.com/).
 
 Es hora de comenzar a caminar rápido por las aceras, evitando las multitudes, prestando atención a los cambios en el horario del metro, teniendo una dosis extra de actitud, tratando de hacer lo máximo posible cada día en la ciudad y evitando las tentaciones consumistas que nos rodean. ... mientras disfrutamos observando gente y edificios.
