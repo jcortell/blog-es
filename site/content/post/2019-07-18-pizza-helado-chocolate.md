@@ -7,7 +7,7 @@ tags: ["personal", "viajes"]
 image: "https://lh3.googleusercontent.com/Wm4_xrj6bZ5lGquii_DRuDzf9wgbi88FZMJakhc7e2qvzAVzufFQLzGLVH3msPys9mYT4y0dEwMeJf7vFB5jJ14PldwVVc7Wzfz0xYeEMpQxULw86xCKSBg2MXshyq7QrSWND7dvncg=w1920-h1080"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 thumbnailImage: https://lh3.googleusercontent.com/Wm4_xrj6bZ5lGquii_DRuDzf9wgbi88FZMJakhc7e2qvzAVzufFQLzGLVH3msPys9mYT4y0dEwMeJf7vFB5jJ14PldwVVc7Wzfz0xYeEMpQxULw86xCKSBg2MXshyq7QrSWND7dvncg=w1920-h1080
 coverImage: https://lh3.googleusercontent.com/Wm4_xrj6bZ5lGquii_DRuDzf9wgbi88FZMJakhc7e2qvzAVzufFQLzGLVH3msPys9mYT4y0dEwMeJf7vFB5jJ14PldwVVc7Wzfz0xYeEMpQxULw86xCKSBg2MXshyq7QrSWND7dvncg=w1920-h1080
 metaAlignment: center
