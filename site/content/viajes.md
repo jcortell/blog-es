@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2018-07-30T01:50:28+00:00
+date: 2018-08-05T01:50:28+00:00
 author: Jorge Cortell
 comments: true     # set false to hide Disqus
 share: true        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,7 +12,8 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 **2019**
 
-* **10-24/08/19, Bangkok (Tailandia)**, Viaje de negocios
+* **12-24/08/19, Bangkok (Tailandia)**, Viaje de negocios
+* 13-19/10/19, Beijing-Hangzhou-Shanghai-Shenzhen (China), Viaje de negocios (China Start)
 * 28/10 - 3/11/19, Hong Kong (China), Viaje de negocios
 * **21-24/11/19, Iaşi (Rumanía)**, Viaje de negocios (Ponente en la [Conferencia Rumana de Oncología 2019](http://inscrieri.oncologieiasi.ro))
 * 01-06/12/19, Chicago, IL (EE. UU.), Viaje de negocios (RSNA)
@@ -21,6 +22,7 @@ Aquí están mis **próximos** viajes (más abajo están mis conferencias y cla
 
 * **01-31/01/20, Vancouver (Canadá)**, Viaje personal
 * **09-13/03/20, Orlando (EE. UU.)**, Viaje de negocios (HIMSS)
+* 14-19/03/20, Tokio (Japón), Viaje de negocios (Medtec Japan)
 * 07-25/04/20, Papeete (Tahití), Moorea, Raiatea, Bora Bora, Rangiroa, Fakarava (Polinesia Francesa), Hanga Roa (Isla de Pascua - Chile), Lima (Perú), Viaje personal (invitado a [navegar en el Regent Seven Seas Navigator](https://www.rssc.com/cruises/NAV200407/summary))
 
 
