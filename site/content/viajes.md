@@ -1,21 +1,22 @@
 ---
 title: Viajes
-date: 2018-08-23T01:50:28+00:00
+date: 2018-09-03T01:50:28+00:00
 author: Jorge Cortell
 comments: true     # set false to hide Disqus
 share: true        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
 ---
-Aquí están mis **próximos** viajes (más abajo están mis conferencias y clases anteriores).
+Aquí están mis **próximos** viajes (más abajo están mis viajes, conferencias y clases anteriores).
 
 **En negrilla** = confirmado; de lo contrario = sin confirmar:
 
 
 **2019**
 
-* 25-27/09/19, Bangkok (Tailandia), Viaje de negocios
-* **13-19/10/19, Beijing-Hangzhou-Shanghai-Shenzhen (China)**, Viaje de negocios (China Start)
-* **28/10 - 3/11/19, Hong Kong (China)**, Viaje de negocios
-* 11-13/11/19, Dubai (EAU), Viaje de negocios
+* **08-11/09/19, Orlando, FL (EE. UU.)**, Viaje de negocios trip (Finalista en el evento [NASA iTech](https://www.nasaitech.com/ignite-the-night))
+* **24-28/09/19, Bangkok (Tailandia)**, Viaje de negocios (ponente en la Cumbre de Directivos UBS sobre Tecnología Disruptiva)
+* **13-19/10/19, Beijing-Hangzhou-Shanghai-Shenzhen (China)**, Viaje de negocios ([China Start](https://www.china-start.org/))
+* **28/10 - 01/11/19, Hong Kong (China)**, Viaje de negocios (ponente en [Bio Investment Asia](http://www.bioinvestmentasia.com/))
+* 11-13/11/19, Dubai (EAU), Viaje de negocios (ponente en la conferencia UBS Perspectivas de Tecnología Sanitaria)
 * **21-24/11/19, Iaşi (Rumanía)**, Viaje de negocios (Ponente en la [Conferencia Rumana de Oncología 2019](http://inscrieri.oncologieiasi.ro))
 * 01-06/12/19, Chicago, IL (EE. UU.), Viaje de negocios (RSNA)
 
