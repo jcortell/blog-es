@@ -3,7 +3,7 @@ author: ""
 date: "2019-07-29T18:54:24+02:00"
 draft: false
 title: "En el Ferry de Staten Island"
-tags: ["personal", "trips"]
+tags: ["personal", "viajes"]
 image: "https://lh3.googleusercontent.com/pe3Iws7BKgRSkVQPfHB7X-f6iclhDu_MOmlP7tomVy4gsMWtinDJcxBhLyVlg6D-t6nAzcMPrPDw0ydN8Nlu-_kS70XivsghxpnZ-b_afs74byEeWE1iecnrjmKb6IlB8-GgrGi8Hz0=w1920-h1080"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
