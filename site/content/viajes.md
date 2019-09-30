@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2018-09-14T01:50:28+00:00
+date: 2018-09-22T01:50:28+00:00
 author: Jorge Cortell
 comments: true     # set false to hide Disqus
 share: true        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,7 +12,6 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2019**
 
-* **22-27/09/19, Bangkok (Tailandia)**, Viaje de negocios (ponente en [Bio Investment Asia](http://www.bioinvestmentasia.com/))
 * **12-20/10/19, Beijing-Hangzhou-Shanghai-Shenzhen (China)**, Viaje de negocios ([China Start](https://www.china-start.org/))
 * **27/10 - 01/11/19, Hong Kong (China)**, Viaje de negocios (Cumbre de Directivos UBS sobre Tecnología Disruptiva)
 * **04-06/11/19, Dubai (EAU)**, Viaje de negocios (ponente en la conferencia UBS Perspectivas de Tecnología Sanitaria)
@@ -21,7 +20,6 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2020**
 
-* **07-12/09/19, Orlando, FL (EE. UU.)**, Viaje de negocios trip (seleccionado para el evento [NASA iTech](https://www.nasaitech.com/ignite-the-night))
 * **01-31/01/20, Vancouver (Canadá)**, Viaje personal
 * **09-13/03/20, Orlando (EE. UU.)**, Viaje de negocios (HIMSS)
 * 14-19/03/20, Tokio (Japón), Viaje de negocios (Medtec Japan)
@@ -38,6 +36,10 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2019**
 
+* **22-27/09/19, Bangkok (Tailandia)**, Viaje de negocios (ponente en [Bio Investment Asia](http://www.bioinvestmentasia.com/))
+* **17/09/19, Madrid (España)**, Viaje personal y de negocios
+* **13/09/19, Madrid (España)**, Viaje personal y de negocios
+* **07-12/09/19, Orlando, FL (EE. UU.)**, Viaje de negocios trip (seleccionado para el evento [NASA iTech](https://www.nasaitech.com/ignite-the-night))
 * **12-24/08/19, Bangkok (Tailandia)**, Viaje de negocios
 * **04/07 - 05/08/19, Nueva York, NY (EE. UU.)**, Viaje personal y de negocios (NYU)
 * **30/05/19, Madrid (España)**, Viaje personal y de negocios
