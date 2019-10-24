@@ -1,6 +1,6 @@
 ---
 author: ""
-date: "2019-10-15T18:54:24+02:00"
+date: "2019-10-14T18:54:24+02:00"
 draft: false
 title: "Dos días en Beijing"
 tags: ["negocios", "viajes"]
@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-El 14 y 15 de octubre estuve en Beijing participando en un programa de la [Escuela de Negocios de Cheung Kong CKGSB](http://english.ckgsb.edu.cn/worldwide/) llamado [China Start](https: //www.china- start.org/): un programa de inmersión en China de una semana de duración para empresas de nueva creación y crecimiento a nivel mundial para aprender conocimientos específicos de China, establecer contactos con posibles socios locales y promover la inversión china. El programa es administrado por Bo Ji (Representante Jefe, GKGSB Europa; Decano Asistente, Educación Ejecutiva Global) y su increíble equipo.
+El 13 y 14 de octubre estuve en Beijing participando en un programa de la [Escuela de Negocios de Cheung Kong CKGSB](http://english.ckgsb.edu.cn/worldwide/) llamado [China Start](https: //www.china- start.org/): un programa de inmersión en China de una semana de duración para empresas de nueva creación y crecimiento a nivel mundial para aprender conocimientos específicos de China, establecer contactos con posibles socios locales y promover la inversión china. El programa es administrado por Bo Ji (Representante Jefe, GKGSB Europa; Decano Asistente, Educación Ejecutiva Global) y su increíble equipo.
 
 <!--more-->
 
