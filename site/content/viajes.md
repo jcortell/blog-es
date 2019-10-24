@@ -16,7 +16,7 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 * * 04-05/11/19, París (Francia), Viaje de negocios (Evento Huawei Eco-Connect Europe)
 * **04-06/11/19, Dubai (EAU)**, Viaje de negocios (ponente en la conferencia UBS Perspectivas de Tecnología Sanitaria)
 * **21-24/11/19, Iaşi (Rumanía)**, Viaje de negocios (ponente en la [Conferencia Rumana de Oncología 2019](http://inscrieri.oncologieiasi.ro))
-* 26/11/19, Beijing (China), Viaje de negocios
+* **25-27/11/19, Hangzhou (China)**, Viaje de negocios
 * **30/11/19 - 31/01/20, Vancouver (Canadá)**, Viaje personal
 * 03/12/19, Helsinki (Finlandia), Viaje de negocios
 * 15/12/19, Shanghai (China), Viaje de negocios
