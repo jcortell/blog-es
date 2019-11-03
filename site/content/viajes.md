@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2018-10-24T01:50:28+00:00
+date: 2018-11-02T01:50:28+00:00
 author: Jorge Cortell
 comments: true     # set false to hide Disqus
 share: true        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,18 +12,16 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2019**
 
-* **27/10 - 01/11/19, Hong Kong (China)**, Viaje de negocios (Cumbre de Directivos UBS sobre Tecnología Disruptiva y [Evento de Networking de Líderes de la Industria](https://uhnw.ubs.com/wmex-iln-apac-2019/home/))
-* * 04-05/11/19, París (Francia), Viaje de negocios (Evento Huawei Eco-Connect Europe)
 * **04-06/11/19, Dubai (EAU)**, Viaje de negocios (ponente en la conferencia UBS Perspectivas de Tecnología Sanitaria)
 * **21-24/11/19, Iaşi (Rumanía)**, Viaje de negocios (ponente en la [Conferencia Rumana de Oncología 2019](http://inscrieri.oncologieiasi.ro))
-* **25-27/11/19, Hangzhou (China)**, Viaje de negocios
+* **25-27/11/19, Hangzhou (China)**, Viaje de negocios (Cybernaut)
 * **30/11/19 - 31/01/20, Vancouver (Canadá)**, Viaje personal
-* 03/12/19, Helsinki (Finlandia), Viaje de negocios
-* 15/12/19, Shanghai (China), Viaje de negocios
+* 02-06/12/19, Shanghai (China), Viaje de negocios (CENTI-HITS)
+* 03/12/19, Helsinki (Finlandia), Viaje de negocios (HIMSS Future50)
+* **15/12/19, Shanghai (China)**, Viaje de negocios (Ronda final de Wowo & Fosun Protechting Innovation Camp)
 
 **2020**
 
-* 02-04/01/20, Shanghai (China), Viaje de negocios
 * **09-13/03/20, Orlando (EE. UU.)**, Viaje de negocios (HIMSS)
 * 14-19/03/20, Tokio (Japón), Viaje de negocios (Medtec Japan)
 * **07-25/04/20, Papeete (Tahití), Moorea, Raiatea, Bora Bora, Rangiroa, Fakarava (Polinesia Francesa), Hanga Roa (Isla de Pascua - Chile), Lima (Perú)**, Viaje personal (invitado a [navegar en el Regent Seven Seas Navigator](https://www.rssc.com/cruises/NAV200407/summary))
@@ -39,6 +37,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2019**
 
+* **27/10 - 01/11/19, Hong Kong (China)**, Viaje de negocios (Cumbre de Directivos UBS sobre Tecnología Disruptiva y [Evento de Networking de Líderes de la Industria](https://uhnw.ubs.com/wmex-iln-apac-2019/home/))
 * **12-20/10/19, Beijing, Hangzhou, Shanghai, Shenzhen, Hong Kong (China)**, Viaje de negocios ([China Start](https://www.china-start.org/))
 * **22-27/09/19, Bangkok (Tailandia)**, Viaje de negocios (ponente en [Bio Investment Asia](http://www.bioinvestmentasia.com/))
 * **17/09/19, Madrid (España)**, Viaje personal y de negocios
