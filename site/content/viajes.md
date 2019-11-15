@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2018-11-06T01:50:28+00:00
+date: 2018-11-15T01:50:28+00:00
 author: Jorge Cortell
 comments: true     # set false to hide Disqus
 share: true        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -15,7 +15,6 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 * **21-24/11/19, Iaşi (Rumanía)**, Viaje de negocios (ponente en la [Conferencia Rumana de Oncología 2019](http://inscrieri.oncologieiasi.ro))
 * **25-27/11/19, Hangzhou (China)**, Viaje de negocios (Cybernaut)
 * **30/11/19 - 31/01/20, Vancouver (Canadá)**, Viaje personal
-* 02-06/12/19, Shanghai (China), Viaje de negocios (CENTI-HITS)
 * 03/12/19, Helsinki (Finlandia), Viaje de negocios (HIMSS Future50)
 * 04/12/19, Londres (Reino Unido), Viaje de negocios (KPMG Cena con Inversores)
 * **14-16/12/19, Shanghai (China)**, Viaje de negocios (Ronda final de Wowo & Fosun Protechting Innovation Camp)
