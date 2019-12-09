@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2018-11-22T01:50:28+00:00
+date: 2018-12-01T01:50:28+00:00
 author: Jorge Cortell
 comments: true     # set false to hide Disqus
 share: true        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,14 +12,13 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2019**
 
-* **25-29/11/19, Hangzhou (China)**, Viaje de negocios (Cybernaut)
-* **30/11/19 - 31/01/20, Vancouver (Canadá)**, Viaje personal
 * **03/12/19, Helsinki (Finlandia)**, Viaje de negocios (HIMSS Future50)
 * **04/12/19, Londres (Reino Unido)**, Viaje de negocios (KPMG Cena con Inversores)
 * **14-16/12/19, Shanghai (China)**, Viaje de negocios (Ronda final de Wowo & Fosun Protechting Innovation Camp)
 
 **2020**
 
+* **23-25/01/20, Boston (EE. UU.)**, Viaje de negocios (Invitado a dar una clase en MIT)
 * **09-13/03/20, Orlando (EE. UU.)**, Viaje de negocios (HIMSS)
 * 14-19/03/20, Tokio (Japón), Viaje de negocios (Medtec Japan)
 * **07-25/04/20, Papeete (Tahití), Moorea, Raiatea, Bora Bora, Rangiroa, Fakarava (Polinesia Francesa), Hanga Roa (Isla de Pascua - Chile), Lima (Perú)**, Viaje personal (invitado a [navegar en el Regent Seven Seas Navigator](https://www.rssc.com/cruises/NAV200407/summary))
@@ -35,6 +34,8 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2019**
 
+* **30/11/19 - 31/01/20, Vancouver (Canadá)**, Viaje personal
+* **25-29/11/19, Hangzhou (China)**, Viaje de negocios (Cybernaut)
 * **21-24/11/19, Iaşi (Rumanía)**, Viaje de negocios (ponente en la [Conferencia Rumana de Oncología 2019](http://inscrieri.oncologieiasi.ro))
 * **13/10/19, Málaga (España)**, Viaje de negocios
 * **04-06/11/19, Dubai (EAU)**, Viaje de negocios (ponente en la conferencia UBS Perspectivas de Tecnología Sanitaria)
