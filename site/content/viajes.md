@@ -12,8 +12,6 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2019**
 
-* **03/12/19, Helsinki (Finlandia)**, Viaje de negocios (HIMSS Future50)
-* **04/12/19, Londres (Reino Unido)**, Viaje de negocios (KPMG Cena con Inversores)
 * **14-16/12/19, Shanghai (China)**, Viaje de negocios (Ronda final de Wowo & Fosun Protechting Innovation Camp)
 
 **2020**
@@ -34,6 +32,8 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2019**
 
+* **04/12/19, Londres (Reino Unido)**, Viaje de negocios (KPMG Cena con Inversores)
+* **03/12/19, Helsinki (Finlandia)**, Viaje de negocios (HIMSS Future50)
 * **30/11/19 - 31/01/20, Vancouver (Canadá)**, Viaje personal
 * **25-29/11/19, Hangzhou (China)**, Viaje de negocios (Cybernaut)
 * **21-24/11/19, Iaşi (Rumanía)**, Viaje de negocios (ponente en la [Conferencia Rumana de Oncología 2019](http://inscrieri.oncologieiasi.ro))
