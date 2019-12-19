@@ -1,24 +1,22 @@
 ---
 title: Viajes
-date: 2018-12-01T01:50:28+00:00
+date: 2018-12-19T01:50:28+00:00
 author: Jorge Cortell
-comments: true     # set false to hide Disqus
-share: true        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
+comments: false     # set false to hide Disqus
+share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
 ---
 Aquí están mis **próximos** viajes (más abajo están mis viajes, conferencias y clases anteriores).
 
 **En negrilla** = confirmado; de lo contrario = sin confirmar:
 
 
-**2019**
-
-* **14-16/12/19, Shanghai (China)**, Viaje de negocios (Ronda final de Wowo & Fosun Protechting Innovation Camp)
-
 **2020**
 
+* **16/01/20, Bruselas (Bélgica)**, Viaje de negocios
 * **23-25/01/20, Boston (EE. UU.)**, Viaje de negocios (Invitado a dar una clase en MIT)
+* 24/01 - 19/02/20, Fort Erie (Canadá), Viaje personal
 * **09-13/03/20, Orlando (EE. UU.)**, Viaje de negocios (HIMSS)
-* 14-19/03/20, Tokio (Japón), Viaje de negocios (Medtec Japan)
+* **14-19/03/20, Tokio (Japón)**, Viaje de negocios (Medtec Japan)
 * **07-25/04/20, Papeete (Tahití), Moorea, Raiatea, Bora Bora, Rangiroa, Fakarava (Polinesia Francesa), Hanga Roa (Isla de Pascua - Chile), Lima (Perú)**, Viaje personal (invitado a [navegar en el Regent Seven Seas Navigator](https://www.rssc.com/cruises/NAV200407/summary))
 
 
@@ -32,6 +30,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2019**
 
+* **14-16/12/19, Shanghai (China)**, Viaje de negocios (Ronda final de Wowo & Fosun Protechting Innovation Camp)
 * **04/12/19, Londres (Reino Unido)**, Viaje de negocios (KPMG Cena con Inversores)
 * **03/12/19, Helsinki (Finlandia)**, Viaje de negocios (HIMSS Future50)
 * **30/11/19 - 31/01/20, Vancouver (Canadá)**, Viaje personal
