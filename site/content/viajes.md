@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2018-12-19T01:50:28+00:00
+date: 2018-12-20T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,7 +12,7 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2020**
 
-* **16/01/20, Bruselas (Bélgica)**, Viaje de negocios
+* **15-17/01/20, Bruselas (Bélgica)**, Viaje de negocios
 * **23-25/01/20, Boston (EE. UU.)**, Viaje de negocios (Invitado a dar una clase en MIT)
 * 24/01 - 19/02/20, Fort Erie (Canadá), Viaje personal
 * **09-13/03/20, Orlando (EE. UU.)**, Viaje de negocios (HIMSS)
