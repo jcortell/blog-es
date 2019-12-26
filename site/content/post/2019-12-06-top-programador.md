@@ -2,14 +2,14 @@
 author: ""
 date: "2019-12-06T18:54:24+02:00"
 draft: false
-title: "Considerado en el Top 10 por ciento de programadores del mundo... ya"
+title: "Considerado en el Top 10% de programadores del mundo... ya"
 tags: ["tecnología", "trabajo"]
 image: "https://res.cloudinary.com/jcortell/image/upload/v1577399441/Personal/CodersRank.png"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: right
 thumbnailImage: https://res.cloudinary.com/jcortell/image/upload/v1577399441/Personal/CodersRank.png
-coverImage: hhttps://res.cloudinary.com/jcortell/image/upload/v1577399441/Personal/CodersRank.png
+coverImage: https://res.cloudinary.com/jcortell/image/upload/v1577399441/Personal/CodersRank.png
 metaAlignment: center
 coverMeta: out
 ---

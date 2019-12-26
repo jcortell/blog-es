@@ -9,7 +9,7 @@ comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: left
 thumbnailImage: https://lh3.googleusercontent.com/tBVdMRq1QWEhlIT0D7BEERVk1nnZZ-Ga5m5kVEUZ9hdvs3dkOg6RrQ2zX62X5r-RUxJH-bji6rIvwDMjIwY0IwPRw_tfIAd0ffFPTVqeLfN2dIvNXf4tbmYwTZqgz1Tm-kZ8OgyxPqA=w1920-h1080
-coverImage: hhttps://lh3.googleusercontent.com/tBVdMRq1QWEhlIT0D7BEERVk1nnZZ-Ga5m5kVEUZ9hdvs3dkOg6RrQ2zX62X5r-RUxJH-bji6rIvwDMjIwY0IwPRw_tfIAd0ffFPTVqeLfN2dIvNXf4tbmYwTZqgz1Tm-kZ8OgyxPqA=w1920-h1080
+coverImage: https://lh3.googleusercontent.com/tBVdMRq1QWEhlIT0D7BEERVk1nnZZ-Ga5m5kVEUZ9hdvs3dkOg6RrQ2zX62X5r-RUxJH-bji6rIvwDMjIwY0IwPRw_tfIAd0ffFPTVqeLfN2dIvNXf4tbmYwTZqgz1Tm-kZ8OgyxPqA=w1920-h1080
 metaAlignment: center
 coverMeta: out
 ---
