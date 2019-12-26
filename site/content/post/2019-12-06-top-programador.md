@@ -18,6 +18,8 @@ Según [CodersRank](https://profile.codersrank.io/user/jcortell) estoy considera
 
 <!--more-->
 
+![Badge](https://res.cloudinary.com/jcortell/image/upload/v1577399441/Personal/CodersRank.png)
+
 Debe ser un *bug*.
 
 En cualquier caso, si es que sirve de algo, creen que estoy en el:
