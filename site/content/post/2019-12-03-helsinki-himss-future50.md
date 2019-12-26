@@ -23,13 +23,9 @@ Me invitaron a asistir a la reunión de miembros de HIMSS en Messukeskus, donde 
 > "Estas son las personas a las que debemos mirar para el futuro de la atención médica. Estos líderes tienen el potencial de influir en la salud digital en Europa y en todo el mundo, tanto en lo que respecta a la política, la práctica y los pacientes".
 Sean Roberts, vicepresidente de HIMSS EMEA
 
-HIMSS (Healthcare Information Management System and Society) tiene más de 80,000 personas, 475 organizaciones de proveedores y 650 organizaciones de servicios de salud, como miembros.
+HIMSS (Healthcare Information Management System and Society) tiene más de 80,000 personas, 475 organizaciones de proveedores y 650 organizaciones de servicios de salud, como miembros. Unos días después, aparecí en la publicación HIMSS Insights (8.2).
 
 Me alojé en el hotel Scandic Grand Marina. Nada interesante.
-
-Unos días después, aparecí en la publicación HIMSS Insights (8.2):
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6613143627113869316" allowfullscreen="" title="Embedded post" width="504" height="430" frameborder="0"></iframe>
 
 Fotos: https://photos.app.goo.gl/VusNrGTXnHGJ3Lxd7
 
