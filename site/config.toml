@@ -69,7 +69,7 @@ canonifyurls = true
   identifier = "about"
   name = "Sobre"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-  url = "https://web.cortell.net/sobre.html"
+  url = "https://web.cortell.net"
 
 [[menu.links]]
   weight = 0
