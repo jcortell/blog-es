@@ -191,7 +191,7 @@ canonifyurls = true
 
   # Customize like of author avatar in sidebar
   [params.sidebar.profile]
-   url = "https://web.cortell.net/sobre.html"
+   url = "https://web.cortell.net"
 
   # Customize copyright value "© 2016 <CUSTOMIZATION>. All Rights Reserved"
  [params.footer]

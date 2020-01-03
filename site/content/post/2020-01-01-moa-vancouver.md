@@ -4,7 +4,7 @@ date: "2020-01-01T18:54:24+02:00"
 draft: false
 title: "MoA Vancouver"
 tags: ["viajes", "arte"]
-image: "https://lh3.googleusercontent.com/QJvnd2Ps7e4w2pEvqeewTDGyYgaHE6u-YjAbWbvh9udSDdqqZlRgoydtAqKckPzwBBV4w-CjN5syZXxVQRnQ6epdoTWvvjW-MjTTOAbnlmkEnGhk5sI4soP9nTtFemzeF2Xd6wPmM4M=w1920-h1080"
+images: "https://lh3.googleusercontent.com/QJvnd2Ps7e4w2pEvqeewTDGyYgaHE6u-YjAbWbvh9udSDdqqZlRgoydtAqKckPzwBBV4w-CjN5syZXxVQRnQ6epdoTWvvjW-MjTTOAbnlmkEnGhk5sI4soP9nTtFemzeF2Xd6wPmM4M=w1920-h1080"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: left
