@@ -85,6 +85,6 @@ Efectivamente, cuando presté más atención a las estructuras y códigos de otr
 
 Noté que en mi *front matter*, en la línea 7, después de *title* y *tags* y antes de *comments*, tenía *image*, mientras que todos los demás tenían *images*. Una letra. Una errata de cuando configuré toda la estructura. ¿Podría ser eso?
 
-Efectivamente, seguí adelante y lo probé en [FaceBook OpenGraph Debugger](https://developers.facebook.com/tools/debug/og/object/) y [Twitter Card Validator](https: // cards- dev.twitter.com/validator).
+Efectivamente, seguí adelante y lo probé en [FaceBook OpenGraph Debugger](https://developers.facebook.com/tools/debug/og/object/) y [Twitter Card Validator](https://cards- dev.twitter.com/validator).
 
 Horas "invertidas" (nunca "desperdiciadas"). Una errata. Odio el código Me encanta el código.
