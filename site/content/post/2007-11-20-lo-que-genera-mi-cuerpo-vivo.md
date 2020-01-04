@@ -1,6 +1,6 @@
 ---
 id: 1030
-title: 'Lo que genera mi cuerpo&#8230; vivo'
+title: 'Lo que genera mi cuerpo vivo'
 date: 2007-11-20T19:35:28+00:00
 author: Jorge Cortell
 layout: post
@@ -13,7 +13,7 @@ categories:
   - Personal
   - Technology
 ---
-Parece ser que produzco un 22% más que la persona media, 305 watios, con lo que podrí­a encender 3 bombillas, 76 iPods, 2 xBox 360&#8230;
+Parece ser que produzco un 22% más que la persona media, 305 watios, con lo que podrí­a encender 3 bombillas, 76 iPods, 2 xBox 360.
 
 Matrix me quiere 😉
 

@@ -1,6 +1,6 @@
 ---
 id: 3837
-title: 'Artist that still don&#039;t get it'
+title: 'Artist that still do not get it'
 date: 2012-02-08T05:30:49+00:00
 author: Jorge Cortell
 layout: post
