@@ -1,6 +1,6 @@
 ---
 id: 1905
-title: 'Sencillas medidas de igualdad e inventos de gran impacto&#8230; ¿murió la utopía?'
+title: 'Sencillas medidas de igualdad e inventos de gran impacto; ¿murió la utopía?'
 date: 2009-05-15T06:07:32+00:00
 author: Jorge Cortell
 layout: post
