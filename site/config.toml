@@ -91,6 +91,12 @@ canonifyurls = true
   url = "https://twitter.com/jorgecortell"
 [[menu.links]]
   weight = 4
+  identifier = "mastodon"
+  name = "GitHub"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-retweet\"></i>"
+  url = "https://mas.to/@uno"
+[[menu.links]]
+  weight = 5
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
@@ -207,6 +213,16 @@ canonifyurls = true
     name = "Twitter"
     icon = "fa-twitter"
     url = "https://twitter.com/intent/tweet?text=%s"
+
+  [[params.sharingOptions]]
+    name = "Reddit"
+    icon = "fa-reddit"
+    url = "https://www.reddit.com/submit?url=%s"
+
+  [[params.sharingOptions]]
+    name = "HackerNews"
+    icon = "fa-hacker-news"
+    url = "https://news.ycombinator.com/submitlink?u=%s"
 
   # [[params.sharingOptions]]
   # name = "Google+"
