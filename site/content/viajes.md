@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2020-01-10T01:50:28+00:00
+date: 2020-01-17T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,7 +12,6 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2020**
 
-* **14-17/01/20, Bruselas (Bélgica)**, Viaje de negocios
 * **22-24/01/20, Boston (EE. UU.)**, Viaje de negocios (Invitado a dar una clase en MIT)
 * **24/01/ - 11/02/20, Fort Erie (Canadá)**, Viaje personal
 * **28/01/20, Dallas Ft. Worth (EE. UU.)**, Viaje de negocios
@@ -35,6 +34,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2019**
 
+* **14-17/01/20, Bruselas (Bélgica)**, Viaje de negocios
 * **14-16/12/19, Shanghai (China)**, Viaje de negocios (Ronda final de Wowo & Fosun Protechting Innovation Camp)
 * **04/12/19, Londres (Reino Unido)**, Viaje de negocios (KPMG Cena con Inversores)
 * **03/12/19, Helsinki (Finlandia)**, Viaje de negocios (HIMSS Future50)
