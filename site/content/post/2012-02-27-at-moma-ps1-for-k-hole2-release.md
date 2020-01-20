@@ -1,6 +1,6 @@
 ---
 id: 3881
-title: 'At MoMA PS1 for K-HOLE#2 Release'
+title: 'At MoMA PS1 for K-HOLE2 Release'
 date: 2012-02-27T01:52:50+00:00
 author: Jorge Cortell
 layout: post
