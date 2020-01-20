@@ -24,7 +24,7 @@ El evento tuvo lugar en el [Sheraton Brussels Airport Hotel](https://www.marriot
 
 Afortunadamente, los jueves Bozar abre hasta las 21: 00h, lo que me permitió tomar el tren desde el aeropuerto directamente a la Estación Central, y pasar varias horas disfrutando de algunas de sus exposiciones, no solo de la más destacadas Keith Haring (que, críticas completamente contemporáneas, me transportaron a mis primeras visitas a Nueva York en los años 80 y 90) y Brancusi, si no también la bonita exposición Datami y la interesante instalación La Mente Che Mente. Mención especial a algo que la mayoría de gente no visita: la exhibición de los primeros dispositivos de cine en el vestíbulo del Bozar Cinema.
 
-Lo más conmovedor fue la anciana, completamente encorvada, apenas capaz de caminar, que desafió las escaleras hasta el espacio de exhibición del piso superior del Bozar Cafe, para ver a Datami y una exposición de arte sobre ordenadores y *big dat*. RESPETO.
+Lo más conmovedor fue la anciana, completamente encorvada, apenas capaz de caminar, que desafió las escaleras hasta el espacio de exhibición del piso superior del Bozar Cafe, para ver a Datami y una exposición de arte sobre ordenadores y *big data*. RESPETO.
 
 [Fotos aquí](https://photos.app.goo.gl/9rswMAcwE6K7yizq9).
 

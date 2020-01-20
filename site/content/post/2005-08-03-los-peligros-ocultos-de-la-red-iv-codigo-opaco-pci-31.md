@@ -1,0 +1,33 @@
+---
+id: 101
+title: 'Los peligros ocultos de la Red IV: Código Opaco (PC&amp;I 31)'
+date: 2005-08-03T22:10:04+00:00
+author: Jorge Cortell
+layout: post
+guid: http://www.cortell.net/2005/08/03/los-peligros-ocultos-de-la-red-iv-codigo-opaco-pci-31/
+permalink: /2005/08/03/los-peligros-ocultos-de-la-red-iv-codigo-opaco-pci-31/
+categories:
+  - 'Artí­culos escritos para la revista PC&amp;I'
+  - General
+---
+Este es el cuarto de los artí­culos en los que trataré de enumerar "los peligros ocultos de la Red". Los llamo "ocultos" porque reciben poca atención de los medios de comunicación y las autoridades, comparados con otros "peligros" (como puedan ser los virus, el spam, las estafas, etc), pero no por ello son menos dañinos.
+
+Internet fue una revolución, pero realmente dos de sus aplicaciones (correo electrónico y web) fueron los catalizadores para que su uso se generalizara. -¿Cual es el secreto de estas aplicaciones? Que son "transparentes": se basan en estándares, tienen una estructura "simple", y por supuesto son fáciles de usar.
+
+El Software Libre (e incluso, hasta cierto punto el software de Código Abierto) representa otra revolución. Una de sus principales claves es la posibilidad de acceder al código fuente del programa en cuestión, para poder estudiarlo, verificarlo, y repararlo o mejorarlo. Todo esto que suena a "tecnicismo" o que no parece tener tanta importancia la tiene y mucho.
+
+En nuestra sociedad, y a lo largo de toda la historia, el "acceso al código fuente" (el saber cómo funcionan las cosas por dentro, sea una institución, una máquina, o un lenguaje) estaba reservado a una élite que guardaba el acceso a ese saber celosamente. Salvando contadas excepciones (como el Empirismo y el Enciclopedismo de la Ilustración), esa élite veí­a como fundamental para mantener su posición de privilegio el no permitir a nadie ajeno el acceso a "su" conocimiento.
+
+Pero hoy en dí­a todo está intercomunicado, todo es global, nada ni nadie es una isla. Por lo tanto, la "economí­a en red" y el "conocimiento compartido" abren un mundo de posibilidades a nuestro alcance, que hasta hace unos pocos años no podí­amos ni soñar (la web, la computación distribuí­da, el teletrabajo, las redes de pares, etc). Hoy en dí­a no tiene sentido el excluir a los demás de la posibilidad de participar y de conocer. Es mas, eso puede ser muy peligroso. Un par de ejemplos bastarán para comprender hasta qué punto esto es así­:
+
+– En EE.UU., durante las elecciones presidenciales anteriores, se acusó a George W. Bush de haber manipulado los resultados. -¿Recuerdan el recuento de Florida, las papeletas de voto confusas, etc? En estas elecciones la acusación ha sido menos difundida (lo cual es comprensible, por otro lado, ya que se trata del Presidente de los EE.UU., cuando anteriormente era "sólo" un candidato, y por lo tanto su control sobre los medios es muchí­simo mayor), pero el escándalo ha sido mucho mayor. Diebold empresa norteamericana que fabrica la mayorí­a de máquinas de voto electrónico del paí­s, y una de las mayores contribuyentes a la campaña de George W. Bush (no solo a nivel de empresa, sino sus directivos y empleados), se hizo famosa por los "Halloween Memos", informes internos en los que técnicos de la empresa detallaban vulnerabilidades internas en la seguridad del software de la máquina, y a los que la empresa respondí­a que no pensaban hacer nada para solucionarlos. Unos estudiantes (Nelson Pavlosky y Luke Smith) encontraron dichos informes, los difundieron por internet, y Diebold los llevó a juicio por infringir su copyright (no es la primera vez que el copyright se emplea como arma de censura). Lo importante es que el mundo entero pudo saber que esas máquinas de voto electrónico eran inseguras, y que ello podí­a alterar el resultado de las elecciones... -¡y vaya si lo hizo! Entre el año 1998 y el año 2000 un estudio del MIT determinó que el 8‘2% de los votos emitidos en máquinas de voto electrónico se perdí­an. Pero en las elecciones presidenciales de 2004 (tal y como atestiguaron el investigador independiente británico Gregory Palast y se puede ver con todo lujo de detalles en http://blackboxvoting.com y en las webs de los colegios electorales de cada distrito) cientos de miles de votos (algunas fuentes hablan de millones de votos) fueron "robados" electrónicamente, dando la victoria a George W. Bush. Como era de esperar (los favores se pagan, y caros) el presidente Bush ha autorizado un programa de "actualización" de las máquinas de voto electrónico para el año que viene, con un presupuesto de 3.800 millones de dólares. -¿A que no saben a qué empresa va a ir a parar la mayor parte de ese dinero?
+
+El hecho de que dichas máquinas no corran sobre software de código abierto (de hecho ni siquiera emiten un justificante en papel para poder comprobar el voto), las convierte en un peligro inmenso para la libertad y la democracia.
+
+– Otro ejemplo de peligro derivado de el uso de código cerrado en aplicaciones vitales (y de hecho, hasta una inocente hoja de cálculo puede serlo si se trata, por ejemplo, de los presupuestos generales del estado) es la decisión de la Royal Navy británica de emplear una versión "modificada" de Microsoft Windows 2000 como sistema operativo que controlará los ordenadores de sus destructores Type45 (los cuales están equipados con, entre otras armas, misiles nucleares balí­sticos intercontinentales Trident). Esto puede darle un nuevo significado a la famosa "pantalla azul de la muerte". -¿Se imaginan detectar un error en unas maniobras, o en combate, y no poder acceder al código fuente del sistema para arreglarlo? -¿Se imaginan tener que llamar al soporte técnico de Microsoft en medio de una crisis nuclear? Que Dios (si existe) no salve a la reina... que nos salve a todos.
+
+De hecho, según la Ley Orgánica de Protección de Datos (y demás directivas comunitarias), se podrí­a argumentar que emplear software de código cerrado para manejar datos personales (especialmente de alta seguridad, como los médicos, financieros, de afiliación polí­tica, etc) podrí­a constituir un delito al no poder garantizar su responsable la seguridad e integridad de los mismos. -¿Se imaginan a miles de funcionarios y altos cargos del gobierno en la cárcel por haber elegido Microsoft Windows y Access para manejar nuestros datos? Quizá eso no serí­a una consecuencia tan negativa 😉
+
+Las patentes tampoco ayudan en nada a esta situación, de hecho la complican
+
+[<img src="http://tira.escomposlinux.org/ecol-216.png" alt="tira es.comp.os.linux" border="0" />](http://tira.escomposlinux.org/ecol-216.png)

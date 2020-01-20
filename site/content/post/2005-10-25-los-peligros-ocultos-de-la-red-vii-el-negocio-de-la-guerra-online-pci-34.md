@@ -1,0 +1,34 @@
+---
+id: 153
+title: 'Los peligros ocultos de la Red VII: El Negocio de la Guerra OnLine (PC&amp;I 34)'
+date: 2005-10-25T07:31:30+00:00
+author: Jorge Cortell
+layout: post
+guid: http://www.cortell.net/?p=158
+permalink: /2005/10/25/los-peligros-ocultos-de-la-red-vii-el-negocio-de-la-guerra-online-pci-34/
+categories:
+  - 'Artí­culos escritos para la revista PC&amp;I'
+  - CiberDerechos
+  - General
+  - Rants
+  - Technology
+---
+El mes pasado [hablábamos](http://www.cortell.net/2005/09/27/los-peligros-ocultos-de-la-red-vi-terrorismo-de-estado-online-pci-33/) del JFCCNW (cuya misión teórica es la defensa de las redes del Departamento de Defensa de los EEUU). Pero más preocupante que una división militar integrada por crackers de todo el mundo, es el Future Combat System (FCS), que es la mayor inversión que ha hecho el gobierno norteamericano desde enviar al hombre a la luna (por supuesto no se trata de una iniciativa de Sanidad, o Educación). A base de aviones sin piloto, robots de combate, el fracasado y carí­simo escudo antimisiles NMD, ex-SDI, y nano-sensores, el gobierno norteamericano quiere emplear la tecnologí­a para imponer su voluntad en todo el mundo. La superioridad numérica dejó de importar hace siglos. La superioridad armamentí­stica dejó de importar con la llegada del armamento nuclear. La superioridad tecnológica es lo que importa en los conflictos bélicos actuales. Ni siquiera la "inteligencia militar" (suena a contrasentido, -¿verdad?) es tan importante, como ha demostrado EEUU una y otra vez.
+
+Pero toda esa tecnologí­a ha de interconectarse en red con unas garantí­as mí­nimas de seguridad. Ese es el cometido teórico del JFCCNW. Pero una división no les va a bastar. Imaginen miles de robots de combate intentado coordinarse con los aviones sin piloto sobrevolando su posición, mientras los sensores de la ropa de los pocos soldados humanos en el campo de batalla intentan enviar su nivel de pérdida de sangre al centro de control... el cual se encuentra totalmente bloqueado por un ataque de denegación de servicio que un script kiddie ha lanzado sin ni siquiera darse cuenta desde casa de sus abuelos mientras merienda. No es extraño que quieran, y se estén, inmiscuyendo tanto en la red. Pero sí­ peligroso, por el modo en el que lo están haciendo.
+
+Por muy ciego e inmovilista que se sea (como la mayorí­a de discográficas, sociedades de gestión, militares, o polí­ticos), al final la realidad y la lógica se suelen imponer, y los 490 mil millones de dólares previstos en el presupuesto del Departamento de Defensa de EEUU para el año 2009 se ha de justificar de algún modo (si es que tiene justificación gastar el dinero que podrí­a servir para acabar con todo el hambre, analfabetismo, y epidemias en el mundo, en armas). Tras años de tecnologí­as que no funcionan pero cuestan miles de millones de dólares, desarrolladas por empresas gigantescas cuyo beneficio es que les asignen uno de esos secretos y carí­simos proyectos de tecnologí­a militar (para lo cual 4 de ellas gastaron el año pasado 40 millones de dólares en "presiones" o lobbying al gobierno), a ser posible con fondos reservados para no tener que disimular los sobornos tanto, las cosas han empezado a cambiar.
+
+La CIA tiene desde hace 5 años un fondo de capital riesgo (In-Q-Tel) para invertir (llevan más de 950 millones de dólares, el 90% de capital privado, invertidos en más de 80 empresas y 10 laboratorios universitarios) en acciones (14%) y aprovechar su tecnologí­a (86%). Incluso tienen el In-Q-Tel Interface Center (QUIC), un departamento del Directorado de Ciencia y Tecnologí­a de la CIA que se encarga de "entender" y "explicar" la tecnologí­a a la CIA, y mantenerlo todo en secreto, claro. Porque aunque uno sea "la central de inteligencia" eso no significa que entiendan todo (o nada en absoluto de hecho).
+
+In-Q-Tel recibe peticiones de QUIC, las cuales han partido de la CIA, como por ejemplo "necesitamos mejores sistemas de visualización de datos multimodales espaciotemporales a tiempo real". Desde hace años que van detrás de esto. Yo escribí­ un estudio al respecto que les interesó (pero lógicamente no hubo colaboración). In-Q-Tel se encarga de encontrar empresas que estén desarrollando esta tecnologí­a y o bien invierte en ellas o bien les compra la tecnologí­a. Un ejemplo conocido es KeyHole (empleado por Google Maps / Satélite). Pero últimamente se han dado cuenta de que la red no es sólo "parte" de la ecuación de la tecnologí­a militar. La red forma parte de casi todos los proyectos de tecnologí­a. Y aquí­ es donde empieza el peligro (para la red).
+
+Cuando algo ha sido de "interés" para los norteamericanos (ya sea económico o militar), es de sobra sabido que no han reparado en esfuerzos ni en métodos para conseguir "defenderlo" o "controlarlo". Han asesinado a presidentes y activistas, han invadido paí­ses, han provocado levantamientos armados, han bombardeado regiones enteras... y ahora que la red es de su máximo interés no les va a parar el hecho de que sea de interés del resto del mundo también. -¿Qué cabe de esperar de un paí­s que destina el 50% de su presupuesto a lo militar y deja sólo el 6% a la educación y el 5% a la sanidad?
+
+Ya que ese interés es tanto económico como militar, como siempre empiezan con el intento de que sean los estamentos económicos los que se aseguren el control. Así­, con la excusa de la "propiedad intelectual", el fiscal general de los EEUU declara la guerra a todo el que no comulgue con su restrictiva interpretación de dicha ley, involucrando a la Organización Mundial de Comercio (WTO) y a la Organización Mundial de la Propiedad Intelectual (WIPO). Luego el Banco Mundial (WB) y el Fondo Monetario Internacional (IMF) a base de la "negociación" de la deudas externas, y a la vez haciendo la vista gorda ante la corrupción, consiguen compromisos de gobiernos que no comparten dicha visión. Y al final el Consejo de Relaciones Internacionales (CFR), el Departamento de Defensa (DoD), y sus aliados de la OTAN (NATO), imponen con el terror de las armas lo que no han conseguido los demás.
+
+Para colmo la cruzada "contra el terrorismo" les ha permitido saltarse negociaciones y presiones y tomar por las buenas posiciones de firme control de la red (restringiendo derechos civiles, saltándose la legislación internacional, etc).
+
+Sólo han pasado por alto un detalle: creen que la red es importante para ellos, pero no se dan cuenta de que es más importante para nosotros, para todos. Es el futuro. Debemos emplearla para conectar personas, compartir conocimiento. Y si ellos están dispuestos a luchar por la red, nosotros lo estamos más.
+
+[<img src="http://tira.escomposlinux.org/ecol-223.png" alt="tira es.comp.os.linux" border="0" />](http://tira.escomposlinux.org/ecol-223.png)
