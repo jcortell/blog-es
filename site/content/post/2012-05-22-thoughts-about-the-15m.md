@@ -1,6 +1,6 @@
 ---
 id: 4139
-title: 'Thoughts about the #15M'
+title: 'Thoughts about the 15M'
 date: 2012-05-22T13:17:18+00:00
 author: Jorge Cortell
 layout: post

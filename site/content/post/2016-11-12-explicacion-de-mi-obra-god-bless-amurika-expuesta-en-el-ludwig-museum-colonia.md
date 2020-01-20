@@ -1,6 +1,6 @@
 ---
 id: 5950
-title: 'Explicación de mi obra “God bless #Amurika”, expuesta en el Ludwig Museum (Colonia)'
+title: 'Explicación de mi obra “God bless Amurika”, expuesta en el Ludwig Museum (Colonia)'
 date: 2016-11-12T10:41:37+00:00
 author: Jorge Cortell
 layout: post
@@ -66,11 +66,11 @@ En la Nube 2:
   * Igualdad / Compartir: ¿No te lo dijeron cuando eras niño? "comparte". ¿Cuándo dejamos de pensar que era una buena idea? ¿Cuándo "el otro" se convirtió en alguien por quien preocuparse o incluso a quien temer? ¿Cuándo nos daremos cuenta de que no hay "otro", que todos somos "nosotros"?
 
 En la parte inferior, dentro de un "bocadillo", escribí:
-  
+
 Gracias Obama, pero no fue suficiente
-  
+
 \# MichelleForPresident2020
-  
+
 Porque si vamos a permanecer en una democracia representativa, Michelle Obama podría ser una gran presidente.
 
 He añadido mi firma, y para la fecha escribí:
@@ -80,5 +80,5 @@ El día en que Estados Unidos despertó a la realidad: 9 de noviembre de 2016
 Obsérvese cómo en la imagen escribí todo eso en MAYÚSCULAS para reflejar la práctica común en internet de usar todas mayúsculas transmitir un grito. Un grito porque esta elección ha sido más sobre gritar que sobre el razonar. Y porque quiero gritar, gritar de otra manera: llegar al mundo, difundir el mensaje. Finalmente un grito como instinto primitivo. Un grito porque me duele, porque estoy enojado, porque tengo que gritar.
 
 Eso es, en pocas palabras, lo que significa, lo que quería decir.
-  
+
 Buena suerte y buenas noches.
