@@ -1,6 +1,6 @@
 ---
 author: ""
-date: "2020-01-17T18:54:24+02:00"
+date: "2020-01-24T01:00:24+02:00"
 draft: false
 title: "Mi conferencia en MIT"
 tags: ["emprendedurismo", "conferencias", "mit"]
