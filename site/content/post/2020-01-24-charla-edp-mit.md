@@ -7,7 +7,7 @@ tags: ["emprendedurismo", "conferencias", "mit"]
 images: "https://res.cloudinary.com/jcortell/image/upload/v1579823972/Personal/MIT__IDE_Narrative.jpg"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: right
+thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/jcortell/image/upload/v1579823972/Personal/MIT__IDE_Narrative.jpg
 coverImage: https://res.cloudinary.com/jcortell/image/upload/v1579823972/Personal/MIT__IDE_Narrative.jpg
 metaAlignment: center
