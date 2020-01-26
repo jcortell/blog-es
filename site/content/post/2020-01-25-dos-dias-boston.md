@@ -7,7 +7,7 @@ tags: ["viajes", "trabajo", "personal", "arte"]
 images: "https://lh3.googleusercontent.com/v0kI99ZSDie-r_RSz1yJppQsUResCg6wLHaSDvWV4-ciB0C6z525wVLQE8EzanG1RvLi0IrP-pg98LtKa6XcLW0WgnJzgMJ0Lq9pnolH9XtQlyGT0e3-6CbclavUSzEvEA1c9sKyPfk=w1920-h1080"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 thumbnailImage: https://lh3.googleusercontent.com/v0kI99ZSDie-r_RSz1yJppQsUResCg6wLHaSDvWV4-ciB0C6z525wVLQE8EzanG1RvLi0IrP-pg98LtKa6XcLW0WgnJzgMJ0Lq9pnolH9XtQlyGT0e3-6CbclavUSzEvEA1c9sKyPfk=w1920-h1080
 coverImage: https://lh3.googleusercontent.com/v0kI99ZSDie-r_RSz1yJppQsUResCg6wLHaSDvWV4-ciB0C6z525wVLQE8EzanG1RvLi0IrP-pg98LtKa6XcLW0WgnJzgMJ0Lq9pnolH9XtQlyGT0e3-6CbclavUSzEvEA1c9sKyPfk=w1920-h1080
 metaAlignment: center
