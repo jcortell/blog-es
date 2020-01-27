@@ -14,14 +14,29 @@ metaAlignment: center
 coverMeta: out
 ---
 
-Hoy es un honor haber sido invitado por el Profesor [Bill Aulet](https://entrepreneurship.mit.edu/profile/bill-aulet/) a dar una conferencia a los alumnos de [EDP (Entrepreneurship Development Program)](https://innovation.mit.edu/opportunity/entrepreneurship-development-program/) en el MIT (Massachusetts Institute of Technology) [Sloan Executive Education](https://executive.mit.edu/).
+Es un honor haber sido invitado por el Profesor [Bill Aulet](https://entrepreneurship.mit.edu/profile/bill-aulet/) a dar una conferencia a los alumnos de [EDP (Entrepreneurship Development Program)](https://innovation.mit.edu/opportunity/entrepreneurship-development-program/) en el MIT (Massachusetts Institute of Technology) [Sloan Executive Education](https://executive.mit.edu/).
 
 <!--more-->
 
-La charla, oficialmente llamada *Celebration Lunch & Guest Speaker Jorge Cortell, Kanteron Systems (EDP 2013) "Where do you go from here?"* (pero que yo he titulado: "IDE Narrative: Myths, Memes, and Manipulation - Undressing a 'Successful Entrepreneur' in the age of Metamodernism") tendrá lugar en el MIT Media Lab, Edificio E14, Piso 6 Sala multiusos: 75 Amherst Street, Cambridge, hoy 24 de enero, 12:45-14:00h
+La charla, oficialmente llamada *Celebration Lunch & Guest Speaker Jorge Cortell, Kanteron Systems (EDP 2013) "Where do you go from here?"* (pero que yo he titulado: "IDE Narrative: Myths, Memes, and Manipulation - Undressing a 'Successful Entrepreneur' in the age of Metamodernism") tuvo lugar en el MIT Media Lab, Edificio E14, Piso 6 Sala multiusos: 75 Amherst Street, Cambridge, 24 de enero, 12:45-14:00h
 
 https://twitter.com/BillAulet/status/1216460290818236417
 
-Este post será actualizado tras la charla, con comentarios, fotos, y espero que una grabación en vídeo de la misma.
+Este post será actualizado con fotos y una grabación en vídeo de la misma. Mientras tanto aquí van algunos comentarios que recibí tras la charla:
 
-Mientras tanto, [aquí están las diapos en formato PDF](https://res.cloudinary.com/jcortell/image/upload/v1579823972/Personal/MIT__IDE_Narrative.pdf) (nota: sólo sirven como "ilustración" de lo que contaré).
+> Acabo de oírte hablar en MIT.
+Algo mágico sucede cuando se dice la verdad.
+Has conjurado energía en mí para continuar mis aventuras.
+Gracias por la honestidad
+
+B.A.: Educador - Emprendedor - Científico
+
+>  ¡Su presentación al cierre del Programa EDP hoy fue lo más destacado para mí!
+
+A.G.: Director de Dreivados Corporativos en uno de los mayores bancos de Europa
+
+>  Me ha impresionado mucho su charla el viernes durante el cierre de EDP. Ha resonado mucho, ¡gracias!
+
+J.P.: CEO de una empresa tecnológica multinacional
+
+Mientras tanto, [aquí están las diapos en formato PDF](https://res.cloudinary.com/jcortell/image/upload/v1579823972/Personal/MIT__IDE_Narrative.pdf) (nota: sólo sirven como "ilustración" de lo que conté).
