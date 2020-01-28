@@ -12,9 +12,7 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2020**
 
-* **22-24/01/20, Boston (EE. UU.)**, Viaje de negocios (Invitado a dar una clase en MIT)
 * **24/01/ - 11/02/20, Fort Erie (Canadá)**, Viaje personal
-* **28/01/20, Dallas Ft. Worth (EE. UU.)**, Viaje de negocios
 * **29-31/01/20, Bogotá (Colombia)**, Viaje de negocios
 * **23-29/02/20, Bangkok (Tailandia)**, Viaje de negocios (Ponente en el Congreso Tailandés de Patología)
 * **05-06/03/20, Zurich (Suiza)**, Viaje de negocios (UBS [Industry Leaders Network event](https://uhnw.ubs.com/wmex-iln-switzerland-2020))
@@ -32,9 +30,14 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 
+**2020**
+
+* **28/01/20, Dallas Ft. Worth (EE. UU.)**, Viaje de negocios
+* **22-24/01/20, Boston (EE. UU.)**, Viaje de negocios (Invitado a dar una clase en MIT)
+* **14-17/01/20, Bruselas (Bélgica)**, Viaje de negocios
+
 **2019**
 
-* **14-17/01/20, Bruselas (Bélgica)**, Viaje de negocios
 * **14-16/12/19, Shanghai (China)**, Viaje de negocios (Ronda final de Wowo & Fosun Protechting Innovation Camp)
 * **04/12/19, Londres (Reino Unido)**, Viaje de negocios (KPMG Cena con Inversores)
 * **03/12/19, Helsinki (Finlandia)**, Viaje de negocios (HIMSS Future50)
