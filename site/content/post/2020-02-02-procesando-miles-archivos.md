@@ -4,17 +4,17 @@ date: "2020-02-02T01:00:24+02:00"
 draft: false
 title: "Procesando miles de archivos con un comando de terminal"
 tags: ["tecnología", "trabajo", "geek"]
-images: "https://lh3.googleusercontent.com/v0kI99ZSDie-r_RSz1yJppQsUResCg6wLHaSDvWV4-ciB0C6z525wVLQE8EzanG1RvLi0IrP-pg98LtKa6XcLW0WgnJzgMJ0Lq9pnolH9XtQlyGT0e3-6CbclavUSzEvEA1c9sKyPfk=w1920-h1080"
+images: "https://p1.pxfuel.com/preview/595/744/913/monitor-screen-browser-computer.jpg"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: left
-thumbnailImage: https://lh3.googleusercontent.com/v0kI99ZSDie-r_RSz1yJppQsUResCg6wLHaSDvWV4-ciB0C6z525wVLQE8EzanG1RvLi0IrP-pg98LtKa6XcLW0WgnJzgMJ0Lq9pnolH9XtQlyGT0e3-6CbclavUSzEvEA1c9sKyPfk=w1920-h1080
-coverImage: https://lh3.googleusercontent.com/v0kI99ZSDie-r_RSz1yJppQsUResCg6wLHaSDvWV4-ciB0C6z525wVLQE8EzanG1RvLi0IrP-pg98LtKa6XcLW0WgnJzgMJ0Lq9pnolH9XtQlyGT0e3-6CbclavUSzEvEA1c9sKyPfk=w1920-h1080
+thumbnailImage: https://p1.pxfuel.com/preview/595/744/913/monitor-screen-browser-computer.jpg
+coverImage: https://p1.pxfuel.com/preview/595/744/913/monitor-screen-browser-computer.jpg
 metaAlignment: center
 coverMeta: out
 ---
 
-Tener un *stack* [JAM](: "JavaScript, APIs, and Markup") con un generador de 'Content Management System' (CMS) estático bajo control de versiones en Git con CI/CD automatizado a través de un CDN[^cdn] global es excelente por muchas razones (velocidad, seguridad, escalabilidad ...) pero ¿qué sucede cuando una nueva versión decide cambiar qué letras son aceptadas en la compilación y cuáles se consideran inválidas? Entonces tienes un problema que en mi caso afecta a más de dos mil archivos. ¿Cómo solucionarlo sin pasar días con un procesador de textos? CLI al rescate.
+Tener un *stack* <abbr title="JavaScript, APIs, and Markup">JAM</abbr> con un generador de Content Management System (CMS) estático bajo control de versiones en Git con CI/CD automatizado a través de un CDN[^cdn] global es excelente por muchas razones (velocidad, seguridad, escalabilidad ...) pero ¿qué sucede cuando una nueva versión decide cambiar qué letras son aceptadas en la compilación y cuáles se consideran inválidas? Entonces tienes un problema que en mi caso afecta a más de dos mil archivos. ¿Cómo solucionarlo sin pasar días con un procesador de textos? CLI al rescate.
 
 <!--more-->
 
