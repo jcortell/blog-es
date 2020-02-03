@@ -1,7 +1,7 @@
 ---
 author: ""
 date: "2020-02-01T01:00:24+02:00"
-draft: true
+draft: false
 title: "Cuatro días en Bogotá"
 tags: ["viajes", "trabajo"]
 images: "https://lh3.googleusercontent.com/sdCItjXGNodB46p0kCMZxrybe1B19ogR73g-5oiU-VYEbDc7zOd96ED7hrWv3epb2AyJper7-irq_hL_L4vhuHrKwthWAD_5zeV7mexEfy_jr1fOsfWcZL84KotpDsKQtooBuCaVWoM=w1920-h1080"

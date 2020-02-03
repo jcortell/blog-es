@@ -1,7 +1,7 @@
 ---
 author: ""
 date: "2020-02-02T01:00:24+02:00"
-draft: true
+draft: false
 title: "Procesando miles de archivos con un comando de terminal"
 tags: ["tecnología", "trabajo", "geek"]
 images: "https://lh3.googleusercontent.com/v0kI99ZSDie-r_RSz1yJppQsUResCg6wLHaSDvWV4-ciB0C6z525wVLQE8EzanG1RvLi0IrP-pg98LtKa6XcLW0WgnJzgMJ0Lq9pnolH9XtQlyGT0e3-6CbclavUSzEvEA1c9sKyPfk=w1920-h1080"
