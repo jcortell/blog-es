@@ -14,11 +14,13 @@ metaAlignment: center
 coverMeta: out
 ---
 
-Tener un *stack* <abbr title="JavaScript, APIs, and Markup">JAM</abbr> con un generador de Content Management System (CMS) estático bajo control de versiones en Git con CI/CD automatizado a través de un CDN[^cdn] global es excelente por muchas razones (velocidad, seguridad, escalabilidad ...) pero ¿qué sucede cuando una nueva versión decide cambiar qué letras son aceptadas en la compilación y cuáles se consideran inválidas? Entonces tienes un problema que en mi caso afecta a más de dos mil archivos. ¿Cómo solucionarlo sin pasar días con un procesador de textos? CLI al rescate.
+¿Cómo solucionar un problema que afecta a más de dos mil archivos sin pasar días con un procesador de textos? CLI al rescate.
 
 <!--more-->
 
-No tengo tanto dominio del CLI como mis amigos Álvaro o Santiago. Pero me encanta aprender nuevos trucos y disfrutar del poder del terminal.
+Tener un *stack* JAM[^jam] con un generador de CMS[^cms] estático bajo control de versiones en Git con CI/CD[^cid] automatizado a través de un CDN[^cdn] global es excelente por muchas razones (velocidad, seguridad, escalabilidad ...) pero ¿qué sucede cuando una nueva versión decide cambiar qué letras son aceptadas en la compilación y cuáles se consideran inválidas? Entonces tienes un problema que en mi caso afecta a más de dos mil archivos.  
+
+No tengo tanto dominio del CLI[^cli] como mis amigos Álvaro o Santiago. Pero me encanta aprender nuevos trucos y disfrutar del poder del terminal.
 
 En este caso, tuve que localizar una cantidad de "letras ofensivas" (restos de una migración anterior del motor de blog, que manejaba la codificación de texto de manera diferente) en miles de archivos, y luego hacer un "reemplazo con" en todos ellos a la vez.
 
@@ -47,4 +49,8 @@ Y, como por arte de magia, en un abrir y cerrar de ojos, todas las ocurrencias o
 
 Eso es, en esencia, lo que yace en el fondo del software moderno y la transformación de datos. Unix sigue tan brillante medio siglo después.
 
-[^cdn]: Content Delivery Network
+[^jam]: JavaScript, APIs, y Markup
+[^cms]: SIstema de Gestión de Contenidos
+[^cid]: Integración Contínua / Entrega Contínua
+[^cdn]: Plataforma de Suministro de Contenidos
+[^cli]: Interfaz de Línea de Comandos
