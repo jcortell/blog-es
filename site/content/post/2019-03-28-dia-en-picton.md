@@ -24,7 +24,7 @@ Antes de nuestro tour, paramos en [Kiwifruit Country](https://www.kiwifruitcount
 
 Comenzamos nuestro tour de cata de vinos en el muy pintoresco [Saint Clair Family Estate](https://www.saintclair.co.nz/), luego fuimos a [Nautilus Estate](https://www.nautilusestate.com/), y finalmente a [Framingham Wineries](https://framingham.co.nz/).
 
-Como no bebo alcohol, también paramos en la [fábrica boutique de chocolate Makana](https://www.makana.co.nz/), antes de comer mejillones verdes en [Captain's Daughter](http: // www. captainsdaughter.co.nz/) en Havelock. Una última parada en la bahía de Ngakuta para disfrutar de las hermosas vistas antes de regresar a nuestro barco fue el final perfecto para un día maravilloso.
+Como no bebo alcohol, también paramos en la [fábrica boutique de chocolate Makana](https://www.makana.co.nz/), antes de comer mejillones verdes en [Captain's Daughter](https: // www. captainsdaughter.co.nz/) en Havelock. Una última parada en la bahía de Ngakuta para disfrutar de las hermosas vistas antes de regresar a nuestro barco fue el final perfecto para un día maravilloso.
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/dist/pa-embed-player.min.js" async></script>
 <div class="pa-embed-player" style="width:100%; height:480px; display:none;"

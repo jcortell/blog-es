@@ -4,7 +4,7 @@ title: -¿Quién es más dinosaurio Microsoft, o la SGAE y las Discográficas mu
 date: 2005-11-06T01:22:54+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2005/11/06/%c2%bfquien-es-mas-dinosaurio-microsoft-o-la-sgae-y-las-discograficas-multinacionales/'
+guid: 'https://www.cortell.net/2005/11/06/%c2%bfquien-es-mas-dinosaurio-microsoft-o-la-sgae-y-las-discograficas-multinacionales/'
 permalink: /2005/11/06/quien-es-mas-dinosaurio-microsoft-o-la-sgae-y-las-discograficas-multinacionales/
 categories:
   - CiberDerechos
@@ -12,9 +12,9 @@ categories:
   - General
   - Technology
 ---
-Hace unos dí­as Microsoft [anunció](http://www.microsoft.com/presspass/press/2005/nov05/11-01PreviewSoftwareBasedPR.mspx) una estrategia "nueva" (para ellos, claro) que sólo llega 5 años tarde: software como servicio, no como un producto vendido con licencia por un precio. "Excel gratis con anuncios online".
+Hace unos dí­as Microsoft [anunció](https://www.microsoft.com/presspass/press/2005/nov05/11-01PreviewSoftwareBasedPR.mspx) una estrategia "nueva" (para ellos, claro) que sólo llega 5 años tarde: software como servicio, no como un producto vendido con licencia por un precio. "Excel gratis con anuncios online".
 
-Llegan tarde, como siempre, y esta vez puede que demasiado tarde, pues compiten contra Google, Apple, Yahoo, Salesforce.com (y su nuevo [AppExchange](http://www.salesforce.com/appexchange)), AOL, NetSuite, Plaxo, Six Apart, Intuit, Symantec, Sun, IBM, Writely.com, Numsum.com,o Goffice.
+Llegan tarde, como siempre, y esta vez puede que demasiado tarde, pues compiten contra Google, Apple, Yahoo, Salesforce.com (y su nuevo [AppExchange](https://www.salesforce.com/appexchange)), AOL, NetSuite, Plaxo, Six Apart, Intuit, Symantec, Sun, IBM, Writely.com, Numsum.com,o Goffice.
 
 Además, para cuando implementen esta "estrategia", la red habrá cambiado. No están acostumbrados a moverse deprisa. Nunca lo han hecho (quizá porque no lo hayan necesitado, quizá porque nunca hayan creí­do que lo hayan necesitado). Ese es el problema de una posición dominante en el mercado, las patentes de software, un departamento legal más grande que el de desarrollo, y una mentalidad proteccionista, no adaptativa.
 

@@ -4,7 +4,7 @@ title: 'It‘s finally snowing... upwards!'
 date: 2012-01-21T19:41:50+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3772
+guid: https://cortell.net/blog/?p=3772
 permalink: /2012/01/21/its-finally-snowing-upwards/
 wpsd_autopost:
   - "1"

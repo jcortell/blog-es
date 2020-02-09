@@ -4,7 +4,7 @@ title: El sentido
 date: 2011-02-02T13:34:56+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2885
+guid: https://cortell.net/blog/?p=2885
 permalink: /2011/02/02/el-sentido/
 categories:
   - Filosofí­a

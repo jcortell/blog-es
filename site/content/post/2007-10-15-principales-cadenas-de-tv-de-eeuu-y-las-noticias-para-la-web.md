@@ -4,7 +4,7 @@ title: Principales cadenas de TV de EEUU y las noticias para la web
 date: 2007-10-15T15:54:14+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/10/15/principales-cadenas-de-tv-de-eeuu-y-las-noticias-para-la-web/
+guid: https://www.cortell.net/2007/10/15/principales-cadenas-de-tv-de-eeuu-y-las-noticias-para-la-web/
 permalink: /2007/10/15/principales-cadenas-de-tv-de-eeuu-y-las-noticias-para-la-web/
 categories:
   - CiberDerechos

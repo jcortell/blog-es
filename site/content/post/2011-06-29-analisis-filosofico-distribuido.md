@@ -4,7 +4,7 @@ title: Análisis filosófico distribuído
 date: 2011-06-29T10:57:35+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3286
+guid: https://cortell.net/blog/?p=3286
 permalink: /2011/06/29/analisis-filosofico-distribuido/
 wpsd_autopost:
   - "1"

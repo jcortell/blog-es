@@ -4,7 +4,7 @@ title: 'Sigue el acoso: suplantación'
 date: 2005-06-13T17:24:20+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/06/13/sigue-el-acoso-suplantacion/
+guid: https://www.cortell.net/2005/06/13/sigue-el-acoso-suplantacion/
 permalink: /2005/06/13/sigue-el-acoso-suplantacion/
 categories:
   - CiberDerechos
@@ -12,7 +12,7 @@ categories:
   - Personal
   - Rants
 ---
-Me comenta un lector habitual (Jacinto Lajas) que en su [blog](http://www.lacoctelera.com/stralunato) "alguien" ha dejado hoy un desagradable [comentario](http://www.lacoctelera.com/stralunato/post/2005/06/09/el-copyright-y-limites-del#c22701), haciéndose pasar por mi. Esto es un nuevo ejemplo de acoso.
+Me comenta un lector habitual (Jacinto Lajas) que en su [blog](https://www.lacoctelera.com/stralunato) "alguien" ha dejado hoy un desagradable [comentario](https://www.lacoctelera.com/stralunato/post/2005/06/09/el-copyright-y-limites-del#c22701), haciéndose pasar por mi. Esto es un nuevo ejemplo de acoso.
 
 Por suerte, Jacinto es lector habitual de mi blog y sabe que yo no pondrí­a un comentario como ese jamás, por lo que ha decidido verificar la autorí­a. Pero, -¿qué hubiese pasado si hubiese creí­do que era yo?
 

@@ -4,7 +4,7 @@ title: Una reunión en Chile y 5 días en Paraguay
 date: 2017-04-03T17:14:11+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=6066
+guid: https://blog.cortell.net/es/?p=6066
 permalink: /2017/04/03/una-reunion-en-chile-y-5-dias-en-paraguay/
 categories:
   - General
@@ -20,7 +20,7 @@ Justo después del aterrizaje fui recogido por mi distribuidor y amigo, que me l
 
 Durante las cuatro noches siguientes, me alojé en el nuevo y agradable Hotel Esplendor Wyndham Grand. El buffet de desayuno dejaba bastante que desear, pero la piscina en la azotea (que tenía un DJ y bar por la noche) estaba muy bien.
 
-El hotel, junto con muchos otros hoteles de lujo en Asunción, estaba completamente lleno debido a la  [Reunión anual del Banco Interamericano de Desarrollo](http://events.iadb.org/calendar/eventDetail.aspx?lang=en&id=5109).
+El hotel, junto con muchos otros hoteles de lujo en Asunción, estaba completamente lleno debido a la  [Reunión anual del Banco Interamericano de Desarrollo](https://events.iadb.org/calendar/eventDetail.aspx?lang=en&id=5109).
 
 El viaje de negocios iba como era de esperar, reuniéndome con funcionarios de alto nivel como el Ministro de Comercio, el Ministro de Salud, el Ministro de Ciencia, el Presidente de la Seguridad Social y el Director del Instituto Nacional del Cáncer. Incluso la fiesta en la mansión de mi distribuidor fue estupenda, con la mejor parrilla de carne que he probado (por segunda vez).
 
@@ -30,13 +30,13 @@ Pero el martes 28 de marzo ocurrió algo que provocó una tormenta política. Co
 
 Paraguay, al igual que muchos otros países, tiene una colección de "presidentes únicos" en su historia (algo que ahora en los Estados Unidos conocen muy bien), desde dictadores como Alfredo Stroessner hasta un obispo católico que se convirtió en presidente y estuvo involucrado en un gran escándalo cuando se descubrió que en secreto había tenido muchos hijos con mujeres diferentes, y que constantemente lanzaba fiestas en su yate, muy concurridas por modelos extranjeras.
 
-Así que los temores de una posible dictadura, después del fiasco en el Senado, no parecían demasiado extremos, sin importar lo que pienses del actual Presidente. Lo que fue extremo fue la reacción de algunos alborotadores, quienes  [incendiaron el Congreso paraguayo el viernes por la noche, 31 de marzo.](http://www.reuters.com/article/us-paraguay-president-idUSKBN1722ZN)
+Así que los temores de una posible dictadura, después del fiasco en el Senado, no parecían demasiado extremos, sin importar lo que pienses del actual Presidente. Lo que fue extremo fue la reacción de algunos alborotadores, quienes  [incendiaron el Congreso paraguayo el viernes por la noche, 31 de marzo.](https://www.reuters.com/article/us-paraguay-president-idUSKBN1722ZN)
 
  ![](https://cdnmundo2.img.sputniknews.com/images/106801/70/1068017083.jpg) <sup><a href="https://mundo.sputniknews.com/americalatina/201704011068016731 -paraguay-manifestantes-incendian-congreso / ">fuente</a></sup>
 
 Uno de los manifestantes fue asesinado a tiros por la policía:
 
-![](http://cdn.noticiaaldia.com.s3.amazonaws.com/wp-content/uploads/2017/04/0000223301-1.jpg)<sup><a href="http: / /noticiaaldia.com/2017/04/noche-de-disturbios-en-paraguay-termino-con-un-muerto-y-el-congreso-en-llamas/">fuente</a></sup>
+![](https://cdn.noticiaaldia.com.s3.amazonaws.com/wp-content/uploads/2017/04/0000223301-1.jpg)<sup><a href="https: / /noticiaaldia.com/2017/04/noche-de-disturbios-en-paraguay-termino-con-un-muerto-y-el-congreso-en-llamas/">fuente</a></sup>
 
 En una coincidencia irónica, el "Superviaducto" (autopista elevada de tres niveles) fue inaugurado esa misma noche. Y vi, desde la ventana de mi hotel, los fuegos artificiales que celebraban la nueva inversión en infraestructura, así como el humo que salía del Congreso.
 

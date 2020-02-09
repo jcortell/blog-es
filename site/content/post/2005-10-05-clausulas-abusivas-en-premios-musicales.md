@@ -4,7 +4,7 @@ title: Cláusulas abusivas en premios musicales
 date: 2005-10-05T16:14:22+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/10/05/clausulas-abusivas-en-premios-musicales/
+guid: https://www.cortell.net/2005/10/05/clausulas-abusivas-en-premios-musicales/
 permalink: /2005/10/05/clausulas-abusivas-en-premios-musicales/
 categories:
   - CiberDerechos
@@ -12,7 +12,7 @@ categories:
   - General
   - Rants
 ---
-Ani, de LaMundial.Net [escribe](http://www.lamundial.net/home.php?pg=article&idart=429) en su blog sobre un concurso de música electrónica de Caja España con unas bases que contienen una cláusula abusiva:
+Ani, de LaMundial.Net [escribe](https://www.lamundial.net/home.php?pg=article&idart=429) en su blog sobre un concurso de música electrónica de Caja España con unas bases que contienen una cláusula abusiva:
 
 _17. Sin perjuicio de los derechos de autor que correspondan a su propietario, Caja España podrá difundir y utilizar las obras premidas como estime oportuno, sin que devengue derecho alguno para el autor. Y expresamente a través de la página web de Caja España, así­ como hacer futuras recopilaciones de las obras premiadas para un mejor conocimiento del desarrollo histórico del premio.
   
@@ -22,7 +22,7 @@ Sin perjuicio de los derechos de autor â€¦ sin que devengue derecho alguno p
   
 Me recuerda aquello de "todo para el pueblo pero sin el pueblo" o como decí­a un colega "que te den por‘culo y un abrazo"._
 
-No es la primera vez que Ani alerta sobre este tipo de cláusulas en concursos. Anteriormente [destapó](http://www.lamundial.net/home.php?pg=article&idart=376) otra maniobra similar por parte de los organizadores del concurso Amplificador de Mahou.
+No es la primera vez que Ani alerta sobre este tipo de cláusulas en concursos. Anteriormente [destapó](https://www.lamundial.net/home.php?pg=article&idart=376) otra maniobra similar por parte de los organizadores del concurso Amplificador de Mahou.
 
 Pero más escandaloso todaví­a resulta cuando estas "iniciativas" viciadas parten de una entidad pública, tal y como denuncia Antonio Santos en la lista de iCommons:
 
@@ -40,4 +40,4 @@ Presupuesto que, calculando a ojo, la emisora recuperará en poco más de un añ
 
 Lo cierto es que es una vergí¼enza. Normalmente ocurren estas cosas porque los abogados de los organizadores se pasan de procelosos guardianes integristas del "texto sagrado de la restricción al acceso cultural" (también conocido como Ley de Propiedad Intelectual), o porque los organizadores se pasan de listos en intentan abusar de los concursantes.
 
-Es una pena que estas actitudes prevalezcan hoy en dí­a (e incluso me atrevo a decir que por desgracia son las habituales). Para compensar aquí­ va el [listado](http://www.lamundial.net/home.php?pg=bytheface) que Ani hace en su web de bandas y músicos españoles que regalan su música en la red. OLE.
+Es una pena que estas actitudes prevalezcan hoy en dí­a (e incluso me atrevo a decir que por desgracia son las habituales). Para compensar aquí­ va el [listado](https://www.lamundial.net/home.php?pg=bytheface) que Ani hace en su web de bandas y músicos españoles que regalan su música en la red. OLE.

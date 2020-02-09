@@ -4,7 +4,7 @@ title: Etéreos placeres
 date: 2010-08-08T21:30:43+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2571
+guid: https://cortell.net/blog/?p=2571
 permalink: /2010/08/08/etereos-placeres/
 categories:
   - Filosofí­a

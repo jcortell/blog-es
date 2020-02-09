@@ -4,7 +4,7 @@ title: Desayuno en Londres, comida en Reykjavík y cena en Boston
 date: 2015-09-24T10:18:42+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5604
+guid: https://blog.cortell.net/es/?p=5604
 permalink: /2015/09/24/desayuno-en-londres-comida-en-reykjavik-y-cena-en-boston/
 categories:
   - General

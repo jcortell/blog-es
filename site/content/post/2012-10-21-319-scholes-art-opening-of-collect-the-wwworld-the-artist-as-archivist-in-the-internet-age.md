@@ -4,7 +4,7 @@ title: '319 Scholes art opening of &quot;Collect the WWWorld: The Artist as Arch
 date: 2012-10-21T12:12:34+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4376
+guid: https://cortell.net/blog/?p=4376
 permalink: /2012/10/21/319-scholes-art-opening-of-collect-the-wwworld-the-artist-as-archivist-in-the-internet-age/
 wpsd_autopost:
   - "1"
@@ -24,12 +24,12 @@ categories:
   [mudslide:picasa,0,111219615350942087056,5801787323931872673]
 </p>
 
-El jueves fui a 319 Scholes para asistir a la inauguración de "<a title="http://319scholes.org/exhibition/collect-the-wwworld-the-artist-as-archivist-in-the-internet-age/" href="http://319scholes.org/exhibition/collect-the-wwworld-the-artist-as-archivist-in-the-internet-age/" target="_blank">Collect the WWWorld: The Artist as Archivist in the Internet Age</a>".
+El jueves fui a 319 Scholes para asistir a la inauguración de "<a title="https://319scholes.org/exhibition/collect-the-wwworld-the-artist-as-archivist-in-the-internet-age/" href="https://319scholes.org/exhibition/collect-the-wwworld-the-artist-as-archivist-in-the-internet-age/" target="_blank">Collect the WWWorld: The Artist as Archivist in the Internet Age</a>".
 
 Más allá de la anecdótica multitud de post/pre hispters, la exposición en sí misma es una triste celebración de ruido. Lo que, en sí mismo, es un punto de partida tan válido, o no válido, como cualquier otro en el inacabable debate sobre el arte (y más si nos referimos a contemporáneo, electrónico, net, etc).
 
-<p title="http://collectheworld.linkartcenter.eu/">
-  Pero es su intento de legitimización, con <a title="http://collectheworld.linkartcenter.eu/" href="http://collectheworld.linkartcenter.eu/" target="_blank">proyecto de investigación</a>, curador, catálogo, y gira internacional, lo que lleva el debate a otro nivel completamente distinto. De nuevo atragantándome con la Teoría Institucional del Arte. De nuevo cayendo en la trampa de la papilla en cuchara.
+<p title="https://collectheworld.linkartcenter.eu/">
+  Pero es su intento de legitimización, con <a title="https://collectheworld.linkartcenter.eu/" href="https://collectheworld.linkartcenter.eu/" target="_blank">proyecto de investigación</a>, curador, catálogo, y gira internacional, lo que lleva el debate a otro nivel completamente distinto. De nuevo atragantándome con la Teoría Institucional del Arte. De nuevo cayendo en la trampa de la papilla en cuchara.
 </p>
 
 De nuevo bajo la falsa impresión de que el arte, tiempo, espacio, y similares son recursos limitados. ¡No lo son! Y no lo son porque **nosotros mismos, nuestro espacio, nuestro tiempo, nuestros cuerpos, nuestras mentes, son de hecho limitados, y por lo tanto, cuando ponemos en contexto y perspectiva todos esos otros conceptos subjetivos sobre cuya escasez basamos nuestras interacciones, se convierten en ilimitados a la luz de nuestra propia finitud**.

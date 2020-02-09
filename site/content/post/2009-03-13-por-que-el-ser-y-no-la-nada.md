@@ -4,7 +4,7 @@ title: Por qué el Ser y no la Nada
 date: 2009-03-13T10:27:32+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1672
+guid: https://cortell.net/blog/?p=1672
 permalink: /2009/03/13/por-que-el-ser-y-no-la-nada/
 categories:
   - Filosofí­a

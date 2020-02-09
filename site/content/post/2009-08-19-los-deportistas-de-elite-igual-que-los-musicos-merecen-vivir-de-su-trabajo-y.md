@@ -4,7 +4,7 @@ title: Los deportistas de élite (igual que los músicos) merecen vivir de su tr
 date: 2009-08-19T12:58:47+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2120
+guid: https://cortell.net/blog/?p=2120
 permalink: /2009/08/19/los-deportistas-de-elite-igual-que-los-musicos-merecen-vivir-de-su-trabajo-y/
 categories:
   - ¿Por qué no? ¿Utopías?

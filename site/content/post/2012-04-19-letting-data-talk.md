@@ -4,7 +4,7 @@ title: Letting data talk
 date: 2012-04-19T18:03:02+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4078
+guid: https://cortell.net/blog/?p=4078
 permalink: /2012/04/19/letting-data-talk/
 wpsd_autopost:
   - "1"

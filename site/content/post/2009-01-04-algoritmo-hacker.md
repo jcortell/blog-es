@@ -4,7 +4,7 @@ title: Algoritmo hacker
 date: 2009-01-04T00:33:40+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1427
+guid: https://www.cortell.net/?p=1427
 permalink: /2009/01/04/algoritmo-hacker/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -14,7 +14,7 @@ categories:
   - Humor y curiosidades
   - Placeres de la vida
 ---
-Me ha gustado este algoritmo que blackngel escribe en el artículo sobre "criptografía (sic) práctica" del <a title="http://www.set-ezine.org" href="http://www.set-ezine.org" target="_blank">SET</a> (Saqueadores Edición Técnica – Información Libre para Gente Libre) num. 35 – Octubre 2008 (ya sé que voy retrasado en mis lecturas... ¡pero si tengo más de 29.000 artículos pendientes de leer via RSS!) :
+Me ha gustado este algoritmo que blackngel escribe en el artículo sobre "criptografía (sic) práctica" del <a title="https://www.set-ezine.org" href="https://www.set-ezine.org" target="_blank">SET</a> (Saqueadores Edición Técnica – Información Libre para Gente Libre) num. 35 – Octubre 2008 (ya sé que voy retrasado en mis lecturas... ¡pero si tengo más de 29.000 artículos pendientes de leer via RSS!) :
 
 `<br />
 if (TIEMPO_LECTURA_Y_OCIO > TIEMPO_PRACTICA_Y_EJERCICIO) {<br />

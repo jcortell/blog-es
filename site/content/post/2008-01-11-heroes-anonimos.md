@@ -4,7 +4,7 @@ title: Héroes anónimos
 date: 2008-01-11T14:51:35+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/01/11/heroes-anonimos/
+guid: https://www.cortell.net/2008/01/11/heroes-anonimos/
 permalink: /2008/01/11/heroes-anonimos/
 categories:
   - ¿Por qué no? ¿Utopías?

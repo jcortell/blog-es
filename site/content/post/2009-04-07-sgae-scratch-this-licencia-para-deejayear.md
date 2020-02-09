@@ -4,7 +4,7 @@ title: 'SGAE, scratch this! &quot;Licencia para Deejayear&quot;'
 date: 2009-04-07T16:50:10+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1745
+guid: https://cortell.net/blog/?p=1745
 permalink: /2009/04/07/sgae-scratch-this-licencia-para-deejayear/
 categories:
   - CiberDerechos
@@ -14,7 +14,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-Media blogosfera está que arde con la <a title="http://www.elperiodicodearagon.com/noticias/noticia.asp?pkid=489389" href="http://www.elperiodicodearagon.com/noticias/noticia.asp?pkid=489389" target="_blank">noticia</a> de que se va a crear una Federación de DJs, con colaboración y "beneplácito" de SGAE, Ministerios de Cultura e Interior, mediante la cual se otorgará una licencia que permitirá bla bla bla bla bla.
+Media blogosfera está que arde con la <a title="https://www.elperiodicodearagon.com/noticias/noticia.asp?pkid=489389" href="https://www.elperiodicodearagon.com/noticias/noticia.asp?pkid=489389" target="_blank">noticia</a> de que se va a crear una Federación de DJs, con colaboración y "beneplácito" de SGAE, Ministerios de Cultura e Interior, mediante la cual se otorgará una licencia que permitirá bla bla bla bla bla.
 
 Lo siento, me he quedado en "licencia" y "permitirá". 
 

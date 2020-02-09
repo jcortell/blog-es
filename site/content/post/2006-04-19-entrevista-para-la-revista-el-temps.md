@@ -4,7 +4,7 @@ title: Entrevista para la revista El Temps
 date: 2006-04-19T08:57:39+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/04/19/entrevista-para-la-revista-el-temps/
+guid: https://www.cortell.net/2006/04/19/entrevista-para-la-revista-el-temps/
 permalink: /2006/04/19/entrevista-para-la-revista-el-temps/
 categories:
   - CiberDerechos
@@ -12,11 +12,11 @@ categories:
   - General
   - Personal
 ---
-ENTREVISTA A JORGE CORTELL SOBRE LA CULTURA LLIURE. 22/03/2006 – Revista [El Temps](http://www.eltemps.net) – número 1140, sección Sociedad
+ENTREVISTA A JORGE CORTELL SOBRE LA CULTURA LLIURE. 22/03/2006 – Revista [El Temps](https://www.eltemps.net) – número 1140, sección Sociedad
   
 por Violeta Camarasa
 
-[Texto original (aquí­ posteado) en Catalán/Valenciano, pero si queréis la traducción a Castellano, está disponible en los [comentarios](http://www.cortell.net/2006/04/19/entrevista-para-la-revista-el-temps/#comments) del post gracias a Metsuke y Shrike.]
+[Texto original (aquí­ posteado) en Catalán/Valenciano, pero si queréis la traducción a Castellano, está disponible en los [comentarios](https://www.cortell.net/2006/04/19/entrevista-para-la-revista-el-temps/#comments) del post gracias a Metsuke y Shrike.]
 
 _Fa poc menys dâ€™un any, la conferí¨ncia â€œDescarregar i copiar música és legal i boâ€ acabí  amb els seus cinc anys de docí¨ncia com a Professor de Mí ster en la Universitat Polití¨cnica de Valí¨ncia (UPV). Jorge Cortell, amb una demostració pública i anunciada a les autoritats, volgué posar en evidí¨ncia amb lâ€™acte, que finalment hagué de celebrar-se a la cafeteria, la falsedat del discurs criminalitzador de la cí²pia i descí rrega privada. Segons fonts de lâ€™UPV, que demanaren lâ€™anonimat, la pressió de la Societat General dâ€™Autors i Editors (SGAE) féu que el rectorat tractara dâ€™evitar la xerrada i després convidara Cortell a marxar. Tanmateix, ningú no arribí  per detindreâ€™l, perquí¨ no havia incorregut en cap delicte. Parlem amb Cortell de les qí¼estions que tant incomoden certes institucions._
 
@@ -76,4 +76,4 @@ _-Tant a la web com en el llibre que prepares fas referí¨ncia al concepte de �
   
 -í‰s el que he dit abans sobre els fills i les obres. El concepte de propietat intel-·lectual es substitueix pel de suitat: un procomú, una cosa que pertany a tots, que beneficia a tots, que és lliure. I sobre així² es basa la creació futura. Es refereix tant al Copyright com a les llicí¨ncies alternatives del Creative Commons o el Copyleft. Tota llicí¨ncia té una maldat inherent: demanar permí­s. El que es diu és: â€œací­ té lâ€™obra: gaudisca-la, copie-la, distribuisca-la, modifique-la, cree sobre ellaâ€. Com lâ€™aire: estí  ací­, respirem-lo, no lâ€™omplim de polució. Com lâ€™aigua: costa de mantenir, perí² hi ha fonts públiques, i sovint al costat hi ha una mí quina de botelles dâ€™aigua. Moltes cultures primitives comprenien la cultura oral com una cosa comunití ria i lliure. No és res nou.
 
-[Si quieres ver/leer otras entrevistas, [las tienes aquí­](http://www.cortell.net/sobre-jorge/entrevistas-y-noticias/)]
+[Si quieres ver/leer otras entrevistas, [las tienes aquí­](https://www.cortell.net/sobre-jorge/entrevistas-y-noticias/)]

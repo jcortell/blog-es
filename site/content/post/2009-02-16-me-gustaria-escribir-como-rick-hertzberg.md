@@ -4,7 +4,7 @@ title: Me gustaría escribir como Rick Hertzberg
 date: 2009-02-16T00:11:27+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1571
+guid: https://cortell.net/blog/?p=1571
 permalink: /2009/02/16/me-gustaria-escribir-como-rick-hertzberg/
 categories:
   - General
@@ -14,7 +14,7 @@ categories:
 ---
 Lo reconozco, escribo como el culo. Me pierde la inmediatez, el no editar ni mis palabras ni mis pensamientos. Y las pocas veces que releo lo que he escrito me arrepiento de esa urgencia impulsiva. Expresiones soeces, construcciones atropelladas, conceptos desestructurados...
 
-Sé que esto es un blog, y no es mi profesión. Pero me gustaría escribir como <a title="http://en.wikipedia.org/wiki/Hendrik_Hertzberg" href="http://en.wikipedia.org/wiki/Hendrik_Hertzberg" target="_blank">Hendrick Hertzberg</a> [aquí su <a title="http://www.newyorker.com/online/blogs/hendrikhertzberg/" href="http://www.newyorker.com/online/blogs/hendrikhertzberg/" target="_blank">blog</a>]. Ahora estoy leyendo _Politics_, una recopilación de artículos del editor ejecutivo de _The New Yorker_ que fue escritor de discursos del presidente Carter. Contiene joyas como este párrafo de introducción a un artículo sobre el escándalo de William Bennett (traduzco):
+Sé que esto es un blog, y no es mi profesión. Pero me gustaría escribir como <a title="https://en.wikipedia.org/wiki/Hendrik_Hertzberg" href="https://en.wikipedia.org/wiki/Hendrik_Hertzberg" target="_blank">Hendrick Hertzberg</a> [aquí su <a title="https://www.newyorker.com/online/blogs/hendrikhertzberg/" href="https://www.newyorker.com/online/blogs/hendrikhertzberg/" target="_blank">blog</a>]. Ahora estoy leyendo _Politics_, una recopilación de artículos del editor ejecutivo de _The New Yorker_ que fue escritor de discursos del presidente Carter. Contiene joyas como este párrafo de introducción a un artículo sobre el escándalo de William Bennett (traduzco):
 
 > Como Judeo-Cristiano averso a la religión, y que es tan americano o mejor que cualquier evangelista engominado, sujeta-biblias, promotor del apartheid de cualquier canal de televisión UHF que pueda usted nombrar, debo protestar.
 

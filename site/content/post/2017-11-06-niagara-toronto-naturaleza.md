@@ -24,7 +24,7 @@ Cuando queremos dar una vuelta, tenemos cerca lugares preciosos como la Playa Wa
 
 <div id="flickrembed"></div><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"></div><script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/jcortell/albums/72157689797923586&sort=5&by=album&theme=default&scale=fill&limit=100&skin=default&autoplay=true'></script>
 
-Incluso Toronto no está lejos. El otro día tuve que tomar un vuelo desde allí, así que nos lo tomamos como una salida de fin de semana, hospedándonos en el [Hotel Four Seasons](https://www.fourseasons.com/toronto/), visitando el [Museo de Ciencias de Ontario](https://www.ontariosciencecentre.ca/), y cenando en [Kasa Moto](http://www.kasamoto.ca/)  ([fotos](https://www.flickr.com/photos/jcortell/sets/72157687293746922)).
+Incluso Toronto no está lejos. El otro día tuve que tomar un vuelo desde allí, así que nos lo tomamos como una salida de fin de semana, hospedándonos en el [Hotel Four Seasons](https://www.fourseasons.com/toronto/), visitando el [Museo de Ciencias de Ontario](https://www.ontariosciencecentre.ca/), y cenando en [Kasa Moto](https://www.kasamoto.ca/)  ([fotos](https://www.flickr.com/photos/jcortell/sets/72157687293746922)).
 
 Aunque, a decir verdad, tememos que el siguiente vídeo muestre cómo será la evolución de nuestras expectativas idealizadas y nuestra verdadera experiencia al final [vídeo en castellano] :-)
 

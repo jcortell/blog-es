@@ -4,7 +4,7 @@ title: 'GNULinux 25% de las ventas de Dell'
 date: 2006-06-28T12:28:05+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/06/28/gnulinux-25-de-las-ventas-de-dell/
+guid: https://www.cortell.net/2006/06/28/gnulinux-25-de-las-ventas-de-dell/
 permalink: /2006/06/28/gnulinux-25-de-las-ventas-de-dell/
 categories:
   - Free Software
@@ -12,7 +12,7 @@ categories:
   - Noticias
   - Technology
 ---
-Para los que han estado en Marte en estos dos últimos años y no tení­an conexión, aquí­ va un dato (<a target="_blank" title="Artí­culo Dell GNULInux" href="http://www.mastermagazine.info/informatica/10013.php">fuente</a>) que les hará comprender rápidamente la importancia de GNULinux en el sector informático hoy:
+Para los que han estado en Marte en estos dos últimos años y no tení­an conexión, aquí­ va un dato (<a target="_blank" title="Artí­culo Dell GNULInux" href="https://www.mastermagazine.info/informatica/10013.php">fuente</a>) que les hará comprender rápidamente la importancia de GNULinux en el sector informático hoy:
 
 â€œVemos que con el tiempo los números crecen, y no disminuyen. Linux es ahora un cuarto de nuestras ventas.â€, dijo Jay Parker, director mundial de marketing de servidores PowerEdge.
 

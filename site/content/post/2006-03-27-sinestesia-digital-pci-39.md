@@ -4,7 +4,7 @@ title: 'Sinestesia Digital (PC&amp;I 39)'
 date: 2006-03-27T10:47:41+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/03/27/sinestesia-digital-pci-39/
+guid: https://www.cortell.net/2006/03/27/sinestesia-digital-pci-39/
 permalink: /2006/03/27/sinestesia-digital-pci-39/
 categories:
   - 'Artí­culos escritos para la revista PC&amp;I'
@@ -13,7 +13,7 @@ categories:
   - Otras cosas
   - Technology
 ---
-Según el diccionario de la Real Academia de la Lengua, [Sinestesia](http://buscon.rae.es/draeI/SrvltGUIBusUsual?LEMA=sinestesia) es:
+Según el diccionario de la Real Academia de la Lengua, [Sinestesia](https://buscon.rae.es/draeI/SrvltGUIBusUsual?LEMA=sinestesia) es:
   
 1. f. Biol. Sensación secundaria o asociada que se produce en una parte del cuerpo a consecuencia de un estí­mulo aplicado en otra parte de él.
   
@@ -27,7 +27,7 @@ Nuestro cerebro tiene unos lí­mites impuestos por la naturaleza, y por leyes t
 
 Nuestro cerebro está programado para cumplir determinadas funciones. Hace muchas, y muy bien, pero ni todas ni perfectamente. Por otro lado un ordenador es programable. O sea, puede hacer cualquier cosa... que se le pueda programar. Y la hará perfectamente, si el programa es perfecto. -¿Qué ocurre si aprovechamos la posibilidad de emplear el ordenador en procesos que el cerebro se niega a hacer, por determinar que no serí­an necesarios para la supervivencia? Posiblemente nos encontremos entonces ante la forma de hacer que el cerebro humano evolucione y emplee partes que hoy por hoy están infrautilizadas.
 
-Por ejemplo, ya hace un par de años el New York Times publicó [un artí­culo](http://www.nytimes.com/2004/11/23/science/23sens.html?ex=1259038800&en=4a74028fb4c0dba8&ei=5088&partner=rssnyt) sobre desarrollos tecnológicos, como el BrainPort, en el área de sustitución sensorial (empleo de tecnologí­a para transformar señales sensoriales, ejemplo: visuales en gustativas). Estas tecnologí­as se están aplicando con éxito en casos de discapacidades sensoriales de todo tipo. Pero se puede ir mucho más allá.
+Por ejemplo, ya hace un par de años el New York Times publicó [un artí­culo](https://www.nytimes.com/2004/11/23/science/23sens.html?ex=1259038800&en=4a74028fb4c0dba8&ei=5088&partner=rssnyt) sobre desarrollos tecnológicos, como el BrainPort, en el área de sustitución sensorial (empleo de tecnologí­a para transformar señales sensoriales, ejemplo: visuales en gustativas). Estas tecnologí­as se están aplicando con éxito en casos de discapacidades sensoriales de todo tipo. Pero se puede ir mucho más allá.
 
 > El ser humano tiene 6 sentidos. No contamos con órganos capaces de sentir más que 6 tipos de sensaciones (gusto, olfato, tacto, vista, oí­do y equilibrio). Pero eso no quiere decir que tenga que ser siempre así­. La tecnologí­a nos permite dos increí­bles posibilidades en este aspecto.
 
@@ -37,8 +37,8 @@ Pero hay algo más increí­ble todaví­a que la tecnologí­a puede hacer por 
 
 Mediante simples algoritmos, hacer que un ordenador nos "muestre" un sonido (como por ejemplo la gráfica de un ecualizador). Esto nos ha permitido desde hace un tiempo la producción de sonidos mucho más exactos de los que nuestro sentido del oí­do, y nuestra capacidad perceptiva del sonido nos hubiese permitido. Y eso es sólo el principio.
 
--¿Qué ocurre cuando [SoundOfAnImage](http://www.skyfell.org/soundofanimage.html) transforma la imagen en sonido? -¿o cuando [WolframTones](http://tones.wolfram.com/) genera música (no sólo sonido) a partir de algoritmos sin intervención humana? -¿o cuando [MIDIART Live](http://www.midiworks.com/martlive.htm) transforma sonidos MIDI en imágenes? -¿o cuando [Fractmus](http://www.geocities.com/SiliconValley/Haven/4386/) transforma fórmulas matemáticas en música, y música en fractales? -¿o cuando un [algoritmo](http://www.avoision.com/experiments/pi10k/pi10k.html) transforma los primeros 10.000 dí­gitos de pi en música?-¿o cuando esa música puede ser "tocada" con la mano, probada con la lengua, o generar todo un "viaje" de equilibrio? -¿o cuando con un sencillo proceso interactivo diseñamos nuestra propia montaña rusa en [Quest](http://disneyworld.disney.go.com/wdw/index?bhcp=1) (Disney World) y la podemos probar en un simulador? Pues que todo un nuevo mundo de posibilidades se abre ante nuestros ojos y oí­dos: de algoritmo a percepción y viceversa. La digitalización de los sentidos y la percepción.
+-¿Qué ocurre cuando [SoundOfAnImage](https://www.skyfell.org/soundofanimage.html) transforma la imagen en sonido? -¿o cuando [WolframTones](https://tones.wolfram.com/) genera música (no sólo sonido) a partir de algoritmos sin intervención humana? -¿o cuando [MIDIART Live](https://www.midiworks.com/martlive.htm) transforma sonidos MIDI en imágenes? -¿o cuando [Fractmus](https://www.geocities.com/SiliconValley/Haven/4386/) transforma fórmulas matemáticas en música, y música en fractales? -¿o cuando un [algoritmo](https://www.avoision.com/experiments/pi10k/pi10k.html) transforma los primeros 10.000 dí­gitos de pi en música?-¿o cuando esa música puede ser "tocada" con la mano, probada con la lengua, o generar todo un "viaje" de equilibrio? -¿o cuando con un sencillo proceso interactivo diseñamos nuestra propia montaña rusa en [Quest](https://disneyworld.disney.go.com/wdw/index?bhcp=1) (Disney World) y la podemos probar en un simulador? Pues que todo un nuevo mundo de posibilidades se abre ante nuestros ojos y oí­dos: de algoritmo a percepción y viceversa. La digitalización de los sentidos y la percepción.
 
 Hay quien ve en ello la muy perseguida teorí­a de la unificación de la ciencia. Otros sólo ven una curiosidad más. Y otros incluso temen que la magia de la música o el misticismo de las formulaciones matemáticas desaparezcan al ser nuestro cerebro capaz de verlos con otra luz. -¿Qué creo yo? Que **al cerebro hay que estimularlo para que no se atrofie, así­ que cualquier descubrimiento que nos haga emplearlo más o mejor, bienvenido sea**.
 
-[Actualización PD: merece la pena también [t.y.p.o.r.g.a.n.i.s.m Visual Composer](http://www.typorganism.com/visualcomposer/index.html)]
+[Actualización PD: merece la pena también [t.y.p.o.r.g.a.n.i.s.m Visual Composer](https://www.typorganism.com/visualcomposer/index.html)]

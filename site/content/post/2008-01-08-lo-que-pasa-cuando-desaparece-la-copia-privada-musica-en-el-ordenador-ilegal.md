@@ -4,7 +4,7 @@ title: 'Lo que pasa cuando desaparece la &quot;copia privada&quot;: música en e
 date: 2008-01-08T14:26:31+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/01/08/lo-que-pasa-cuando-desaparece-la-copia-privada-musica-en-el-ordenador-ilegal/
+guid: https://www.cortell.net/2008/01/08/lo-que-pasa-cuando-desaparece-la-copia-privada-musica-en-el-ordenador-ilegal/
 permalink: /2008/01/08/lo-que-pasa-cuando-desaparece-la-copia-privada-musica-en-el-ordenador-ilegal/
 categories:
   - CiberDerechos
@@ -14,7 +14,7 @@ categories:
   - Rants
   - Technology
 ---
-<a title="Noticia en el Washington Post" target="_blank" href="http://www.washingtonpost.com/wp-dyn/content/article/2007/12/28/AR2007122800693.html?hpid=topnews">Según el Washington Post</a> (gracias Jeff):
+<a title="Noticia en el Washington Post" target="_blank" href="https://www.washingtonpost.com/wp-dyn/content/article/2007/12/28/AR2007122800693.html?hpid=topnews">Según el Washington Post</a> (gracias Jeff):
 
 En documentos legales del caso federal contra Jeffrey Howell, un hombre de Scottsdale, Arizona, que mantení­a una colección de 2000 canciones en su ordenador, **la industria [N.dT.: Recording Industry Association of America, una expecie de Promusicae y SGAE españolas] mantiene que es ilegal que alguien que ha comprado LEGALMENTE un CD transfiera esa música a su ordenador**.
 

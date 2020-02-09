@@ -4,7 +4,7 @@ title: 'Pásalo: la Junta de Extremadura migra TODA la admin. a Soft Libre'
 date: 2006-08-03T07:58:22+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/08/03/pasalo-la-junta-de-extremadura-migra-toda-la-admin-a-soft-libre/
+guid: https://www.cortell.net/2006/08/03/pasalo-la-junta-de-extremadura-migra-toda-la-admin-a-soft-libre/
 permalink: /2006/08/03/pasalo-la-junta-de-extremadura-migra-toda-la-admin-a-soft-libre/
 categories:
   - Free Software
@@ -36,31 +36,31 @@ La relación de enlaces que podeis usar en vuestros comentarios, contactos y not
 
 Texto oficial de la moción:
   
-<a title="PDF moción" target="_blank" href="http://www.linex.org/mocion_consejo_gobierno.pdf">http://www.linex.org/mocion_consejo_gobierno.pdf</a>
+<a title="PDF moción" target="_blank" href="https://www.linex.org/mocion_consejo_gobierno.pdf">https://www.linex.org/mocion_consejo_gobierno.pdf</a>
 
 Nota sobre la noticia
   
-<a title="Hispalinux" target="_blank" href="http://www.hispalinux.es/node/596">http://www.hispalinux.es/node/596</a>
+<a title="Hispalinux" target="_blank" href="https://www.hispalinux.es/node/596">https://www.hispalinux.es/node/596</a>
   
 Traducción a inglés de la nota
   
-<a title="English" target="_blank" href="http://www.hispalinux.es/node/597">http://www.hispalinux.es/node/597</a>
+<a title="English" target="_blank" href="https://www.hispalinux.es/node/597">https://www.hispalinux.es/node/597</a>
 
 Artí­culo en Region Digital
   
-<a title="Región digital" target="_blank" href="http://www.regiondigital.com/modulos/mod_periodico/pub/mostrar_noticia.php?id=43131">http://www.regiondigital.com/modulos/mod_periodico/pub/mostrar_noticia.php?id=43131</a>
+<a title="Región digital" target="_blank" href="https://www.regiondigital.com/modulos/mod_periodico/pub/mostrar_noticia.php?id=43131">https://www.regiondigital.com/modulos/mod_periodico/pub/mostrar_noticia.php?id=43131</a>
   
 Traducción a inglés del articulo de region digital
   
-<a title="English" target="_blank" href="http://socios.hispalinux.es/node/10258">http://socios.hispalinux.es/node/10258</a>
+<a title="English" target="_blank" href="https://socios.hispalinux.es/node/10258">https://socios.hispalinux.es/node/10258</a>
 
 Noticia en Juntaaldia
   
-[http://www.juntaaldia.es/noticias/detalle.aspx?id=1724](http://www.juntaaldia.es/noticias/detalle.aspx?id=1724 "Juntaaldia")
+[https://www.juntaaldia.es/noticias/detalle.aspx?id=1724](https://www.juntaaldia.es/noticias/detalle.aspx?id=1724 "Juntaaldia")
 
 Noticia en EuropaPress
   
-<a title="EP" target="_blank" href="http://www.europapress.es/europa2003/noticia.aspx?cod=20060728133706&tabID=1&ch=235">http://www.europapress.es/europa2003/noticia.aspx?cod=20060728133706&tabID=1&ch=235</a>
+<a title="EP" target="_blank" href="https://www.europapress.es/europa2003/noticia.aspx?cod=20060728133706&tabID=1&ch=235">https://www.europapress.es/europa2003/noticia.aspx?cod=20060728133706&tabID=1&ch=235</a>
 
 Acciones sencillas y rápidas (pinchar y votar)
   
@@ -68,16 +68,16 @@ Acciones sencillas y rápidas (pinchar y votar)
   
 Para votarla en Digg
   
-<a title="digg" target="_blank" href="http://digg.com/politics/All_the_computers_of_the_local_government_of_Extremadura_will_use_Linux">http://digg.com/politics/All_the_computers_of_the_local_government_of_Extremadura_will_use_Linux</a>
+<a title="digg" target="_blank" href="https://digg.com/politics/All_the_computers_of_the_local_government_of_Extremadura_will_use_Linux">https://digg.com/politics/All_the_computers_of_the_local_government_of_Extremadura_will_use_Linux</a>
 
 Para votarla en Meneame
   
-<a title="meneame" target="_blank" href="http://meneame.net/story/buenas-noticias-para-sw-libre-estandares-abiertos-como-siempre-desde-extremadura">http://meneame.net/story/buenas-noticias-para-sw-libre-estandares-abiertos-como-siempre-desde-extremadura</a>
+<a title="meneame" target="_blank" href="https://meneame.net/story/buenas-noticias-para-sw-libre-estandares-abiertos-como-siempre-desde-extremadura">https://meneame.net/story/buenas-noticias-para-sw-libre-estandares-abiertos-como-siempre-desde-extremadura</a>
 
 Para votarla en Fresqui
   
-<a title="fresqui" target="_blank" href="http://tec.fresqui.com/una-magnifica-noticia-para-gnulinex-y-oasis-extremadura-migrara-todos-sus-puestos">http://tec.fresqui.com/una-magnifica-noticia-para-gnulinex-y-oasis-extremadura-migrara-todos-sus-puestos</a>
+<a title="fresqui" target="_blank" href="https://tec.fresqui.com/una-magnifica-noticia-para-gnulinex-y-oasis-extremadura-migrara-todos-sus-puestos">https://tec.fresqui.com/una-magnifica-noticia-para-gnulinex-y-oasis-extremadura-migrara-todos-sus-puestos</a>
 
 Para comentarla en Barrapunto
   
-<a title="bp" target="_blank" href="http://barrapunto.com/article.pl?sid=06/07/25/2347259">http://barrapunto.com/article.pl?sid=06/07/25/2347259 </a>
+<a title="bp" target="_blank" href="https://barrapunto.com/article.pl?sid=06/07/25/2347259">https://barrapunto.com/article.pl?sid=06/07/25/2347259 </a>

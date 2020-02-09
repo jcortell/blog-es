@@ -4,7 +4,7 @@ title: Axiomas falaces de la era digital
 date: 2007-09-25T10:25:36+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/09/25/axiomas-falaces-de-la-era-de-la-red/
+guid: https://www.cortell.net/2007/09/25/axiomas-falaces-de-la-era-de-la-red/
 permalink: /2007/09/25/axiomas-falaces-de-la-era-de-la-red/
 categories:
   - Filosofí­a

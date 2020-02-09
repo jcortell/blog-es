@@ -4,7 +4,7 @@ title: Prohibido usar iTunes para hacer armas nucleares
 date: 2007-07-19T14:42:14+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/07/19/prohibido-usar-itunes-para-hacer-armas-nucleares/
+guid: https://www.cortell.net/2007/07/19/prohibido-usar-itunes-para-hacer-armas-nucleares/
 permalink: /2007/07/19/prohibido-usar-itunes-para-hacer-armas-nucleares/
 categories:
   - CiberDerechos
@@ -16,7 +16,7 @@ categories:
   - Otras cosas
   - Technology
 ---
-Eso dice el <a title="licencia iTunes" target="_blank" href="http://images.apple.com/legal/sla/docs/itunes.pdf">acuerdo de licencia</a> (punto 10) de iTunes:
+Eso dice el <a title="licencia iTunes" target="_blank" href="https://images.apple.com/legal/sla/docs/itunes.pdf">acuerdo de licencia</a> (punto 10) de iTunes:
 
 > By using the Apple Software (...) You also agree that you will not use these
   

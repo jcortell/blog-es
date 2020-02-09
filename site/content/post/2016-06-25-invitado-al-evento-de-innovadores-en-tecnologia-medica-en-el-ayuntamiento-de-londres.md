@@ -4,7 +4,7 @@ title: Invitado al evento de Innovadores en Tecnología Médica en el Ayuntamien
 date: 2016-06-25T10:03:27+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5818
+guid: https://blog.cortell.net/es/?p=5818
 permalink: /2016/06/25/invitado-al-evento-de-innovadores-en-tecnologia-medica-en-el-ayuntamiento-de-londres/
 categories:
   - General

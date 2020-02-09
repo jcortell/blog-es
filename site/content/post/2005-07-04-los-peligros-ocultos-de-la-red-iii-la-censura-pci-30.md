@@ -4,7 +4,7 @@ title: 'Los peligros ocultos de la Red III: La Censura (PC&amp;I 30)'
 date: 2005-07-04T10:18:16+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=65
+guid: https://www.cortell.net/?p=65
 permalink: /2005/07/04/los-peligros-ocultos-de-la-red-iii-la-censura-pci-30/
 categories:
   - 'Artí­culos escritos para la revista PC&amp;I'
@@ -38,4 +38,4 @@ Lo que son las cosas, cuando unos cuantos participantes del foro online Barrapun
 
 El debate es bueno. La crí­tica (educada e informada) también. La censura no.]
 
-[<img src="http://tira.escomposlinux.org/ecol-213.png" alt="tira es.comp.os.linux" border="0" />](http://tira.escomposlinux.org/ecol-213.png)
+[<img src="https://tira.escomposlinux.org/ecol-213.png" alt="tira es.comp.os.linux" border="0" />](https://tira.escomposlinux.org/ecol-213.png)

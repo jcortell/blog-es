@@ -4,7 +4,7 @@ title: Maldito clero y otras vicisitudes del viaje
 date: 2006-07-11T08:20:08+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/07/11/maldito-clero-y-otras-vicisitudes-del-viaje/
+guid: https://www.cortell.net/2006/07/11/maldito-clero-y-otras-vicisitudes-del-viaje/
 permalink: /2006/07/11/maldito-clero-y-otras-vicisitudes-del-viaje/
 categories:
   - General

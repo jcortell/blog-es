@@ -4,7 +4,7 @@ title: Vicepresidenta prepara estado policial para espiar a ciudadanos sin orden
 date: 2006-05-29T08:12:51+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/05/29/vicepresidenta-prepara-estado-policial-para-espiar-a-ciudadanos-sin-orden-judicial/
+guid: https://www.cortell.net/2006/05/29/vicepresidenta-prepara-estado-policial-para-espiar-a-ciudadanos-sin-orden-judicial/
 permalink: /2006/05/29/vicepresidenta-prepara-estado-policial-para-espiar-a-ciudadanos-sin-orden-judicial/
 categories:
   - CiberDerechos
@@ -23,8 +23,8 @@ El pasado 19 de mayo, la vicepresidenta De la Vega firmó la orden 1575/2006 por
 
 26-05-2006 – Hispanidad.tv – Desconocemos cuál es el encaje de estas normativas en el principio constitucionalmente reconocido de la privacidad de las comunicaciones. Porque para saltarse tal derecho, es necesaria la autorización judicial. -¿Por qué entonces la aprobación de una comisión interministerial que elabore las ordenes que desarrollen esa interceptación? -¿Estamos ante un Estado controlador?
 
-La <a target="_blank" title="AI impugna ante Supremo" href="http://www.internautas.org/html/3018.html">Asociación de Internautas impugna ante el Tribunal Supremo</a> la normativa sobre interceptación de las comunicaciones
+La <a target="_blank" title="AI impugna ante Supremo" href="https://www.internautas.org/html/3018.html">Asociación de Internautas impugna ante el Tribunal Supremo</a> la normativa sobre interceptación de las comunicaciones
 
-El Tribunal Supremo <a target="_blank" title="Impugnación AI admitida Supremo" href="http://www.internautas.org/html/3079.html">admite a tramite la impugnación de AI</a> sobre la regulación de la interceptación de comunicaciones
+El Tribunal Supremo <a target="_blank" title="Impugnación AI admitida Supremo" href="https://www.internautas.org/html/3079.html">admite a tramite la impugnación de AI</a> sobre la regulación de la interceptación de comunicaciones
 
-<a target="_blank" title="No a la traza privada" href="http://www.ciberpunk.info/no-a-la-traza-privada">No a la traza privada sin control judicial</a>
+<a target="_blank" title="No a la traza privada" href="https://www.ciberpunk.info/no-a-la-traza-privada">No a la traza privada sin control judicial</a>

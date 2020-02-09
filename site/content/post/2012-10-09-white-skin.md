@@ -4,7 +4,7 @@ title: white skin
 date: 2012-10-09T01:00:00+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4348
+guid: https://cortell.net/blog/?p=4348
 permalink: /2012/10/09/white-skin/
 wpsd_autopost:
   - "1"

@@ -4,7 +4,7 @@ title: Entidades de Gestión se destapan intentando defender lo indefendible
 date: 2005-06-15T10:11:21+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/06/15/entidades-de-gestion-se-destapan-intentando-defender-lo-indefendible/
+guid: https://www.cortell.net/2005/06/15/entidades-de-gestion-se-destapan-intentando-defender-lo-indefendible/
 permalink: /2005/06/15/entidades-de-gestion-se-destapan-intentando-defender-lo-indefendible/
 categories:
   - CiberDerechos
@@ -13,7 +13,7 @@ categories:
   - Noticias
   - Rants
 ---
-Se puede leer en [LibertadDigital](http://www.libertaddigital.com/noticias/noticia_1276253916.html) (información que proviene de [Europa Press](http://www.europapress.es/europa2003/noticia.aspx?cod=20050614145201&tabID=1)):
+Se puede leer en [LibertadDigital](https://www.libertaddigital.com/noticias/noticia_1276253916.html) (información que proviene de [Europa Press](https://www.europapress.es/europa2003/noticia.aspx?cod=20050614145201&tabID=1)):
 
 _Los principales responsables de la Sociedad General de Autores y Editores (SGAE), Artistas, Intérpretes o Ejecutantes (AIE), Artistas, Intérpretes Sociedad de Gestión (AISGE), Centro Español de Derechos Reprográficos (CEDRO), Derechos de Autor de Medios Audiovisuales (DAMA), Entidad de Gestión de Derechos de los Productores Audiovisuales (EGEDA) y Visual Entidad de Gestión de Artistas Plásticos (VEGAP) convocaron la rueda de prensa para expresar su "preocupación" por esta polémica campaña en torno a la copia privada_
 

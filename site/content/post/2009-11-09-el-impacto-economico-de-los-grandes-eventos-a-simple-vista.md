@@ -4,7 +4,7 @@ title: El impacto económico de los grandes eventos a simple vista
 date: 2009-11-09T06:39:48+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2289
+guid: https://cortell.net/blog/?p=2289
 permalink: /2009/11/09/el-impacto-economico-de-los-grandes-eventos-a-simple-vista/
 categories:
   - General

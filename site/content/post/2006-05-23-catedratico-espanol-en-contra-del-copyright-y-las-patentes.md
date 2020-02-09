@@ -4,7 +4,7 @@ title: Catedrático español en contra del copyright y las patentes
 date: 2006-05-23T00:33:38+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/05/23/catedratico-espanol-en-contra-del-copyright-y-las-patentes/
+guid: https://www.cortell.net/2006/05/23/catedratico-espanol-en-contra-del-copyright-y-las-patentes/
 permalink: /2006/05/23/catedratico-espanol-en-contra-del-copyright-y-las-patentes/
 categories:
   - CiberDerechos
@@ -14,7 +14,7 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-<a title="AEDI" target="_blank" href="http://www.aedi.es/asp/ANOT-0101.asp?NumeroN=188">Leo</a> en la revista de la Asociación Española para la Dirección Informática:
+<a title="AEDI" target="_blank" href="https://www.aedi.es/asp/ANOT-0101.asp?NumeroN=188">Leo</a> en la revista de la Asociación Española para la Dirección Informática:
 
 _El Reto de la Sociedad de la Innovación (3): Innovación y propiedad intelectual_
 
@@ -22,7 +22,7 @@ Autor: Juan Urrutia
   
 **Catedrático de Fundamentos de Análisis Económico de la Universidad Carlos III y presidente del consejo editorial de Expansión y Actualidad Económica**
   
-(Resumen de la <a title="ponencia Juan Urrutia en PDF" target="_blank" href="http://www.ibermatica.com/ibermatica/i3b/sociedadinnovacion/PonenciaJuanUrrutia.pdf">ponencia</a> )
+(Resumen de la <a title="ponencia Juan Urrutia en PDF" target="_blank" href="https://www.ibermatica.com/ibermatica/i3b/sociedadinnovacion/PonenciaJuanUrrutia.pdf">ponencia</a> )
 
 Desde su amplia experiencia y perspectiva como economista, Juan Urrutia se refirió a lo largo de su intervención a la innovación sistemática basada en la modelización. â€œEl enriquecimiento de las sociedades proviene de la productividad de los factores y aquí­ es crucial el elemento humano. Los gastos en I+D aumentan la productividad y están en el origen del crecimiento continuo de las sociedadesâ€, afirmó Urrutia.
 

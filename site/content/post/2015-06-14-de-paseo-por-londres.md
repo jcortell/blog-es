@@ -4,7 +4,7 @@ title: De paseo por Londres
 date: 2015-06-14T16:40:21+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5505
+guid: https://blog.cortell.net/es/?p=5505
 permalink: /2015/06/14/de-paseo-por-londres/
 categories:
   - General

@@ -4,7 +4,7 @@ title: Comunicado Mamoncí­n
 date: 2006-05-12T07:07:05+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/05/12/comunicado-mamoncin/
+guid: https://www.cortell.net/2006/05/12/comunicado-mamoncin/
 permalink: /2006/05/12/comunicado-mamoncin/
 categories:
   - CiberDerechos
@@ -14,7 +14,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-[Actualización: <a target="_blank" title="La verdad sobre Ramoncí­n" href="http://www.cortell.net/2006/05/15/la-verdad-sobre-ramoncin/">para saber más</a> sobre este "personaje"]
+[Actualización: <a target="_blank" title="La verdad sobre Ramoncí­n" href="https://www.cortell.net/2006/05/15/la-verdad-sobre-ramoncin/">para saber más</a> sobre este "personaje"]
 
 Comunicado de prensa (por cierto, se me han ocurrido algunos enlaces que podrí­a incluir para "aderezarlo", cosa que haré la semana que viene) sobre el "caso Ramoncí­n en Viñarock 2006, y en negrilla mis comentarios (menos de los que me gustarí­a, que no hay tiempo para más):
 

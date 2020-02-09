@@ -4,7 +4,7 @@ title: Singapur día 2
 date: 2017-03-22T17:29:10+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=6026
+guid: https://blog.cortell.net/es/?p=6026
 permalink: /2017/03/22/singapur-dia-2/
 categories:
   - General

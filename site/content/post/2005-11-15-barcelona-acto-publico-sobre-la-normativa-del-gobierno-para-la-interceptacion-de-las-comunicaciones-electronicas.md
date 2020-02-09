@@ -4,7 +4,7 @@ title: 'Barcelona:  Acto Público sobre la normativa del Gobierno para la interc
 date: 2005-11-15T00:24:26+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/11/15/barcelona-acto-publico-sobre-la-normativa-del-gobierno-para-la-interceptacion-de-las-comunicaciones-electronicas/
+guid: https://www.cortell.net/2005/11/15/barcelona-acto-publico-sobre-la-normativa-del-gobierno-para-la-interceptacion-de-las-comunicaciones-electronicas/
 permalink: /2005/11/15/barcelona-acto-publico-sobre-la-normativa-del-gobierno-para-la-interceptacion-de-las-comunicaciones-electronicas/
 categories:
   - CiberDerechos
@@ -48,4 +48,4 @@ Más información y enlaces relacionados:
   
 [
   
-http://www.internautas.org/html/3265.html](http://www.internautas.org/html/3265.html)
+https://www.internautas.org/html/3265.html](https://www.internautas.org/html/3265.html)

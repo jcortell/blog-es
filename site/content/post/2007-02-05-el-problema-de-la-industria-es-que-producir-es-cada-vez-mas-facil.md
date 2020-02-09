@@ -4,7 +4,7 @@ title: El problema de la industria es que producir es cada vez más fácil ??!!
 date: 2007-02-05T15:15:09+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/02/05/el-problema-de-la-industria-es-que-producir-es-cada-vez-mas-facil/
+guid: https://www.cortell.net/2007/02/05/el-problema-de-la-industria-es-que-producir-es-cada-vez-mas-facil/
 permalink: /2007/02/05/el-problema-de-la-industria-es-que-producir-es-cada-vez-mas-facil/
 categories:
   - CiberDerechos
@@ -13,7 +13,7 @@ categories:
   - Rants
   - Technology
 ---
-Según <a target="_blank" title="Expansión" href="http://www.expansion.com/edicion/expansion/economia_y_politica/sociedad_y_cultura/es/desarrollo/732144.html">este artí­culo</a> (que habla muy sintomáticamente del "enemigo digital", en vez de hablar de la "oportunidad digital") plagado de las tí­picas manipulaciones y falsedades surgidas del mensaje "oficial" de la "industria":
+Según <a target="_blank" title="Expansión" href="https://www.expansion.com/edicion/expansion/economia_y_politica/sociedad_y_cultura/es/desarrollo/732144.html">este artí­culo</a> (que habla muy sintomáticamente del "enemigo digital", en vez de hablar de la "oportunidad digital") plagado de las tí­picas manipulaciones y falsedades surgidas del mensaje "oficial" de la "industria":
 
 > <span class="not-cue">El problema central es que la industria discográfica ha perdido en parte el protagonismo central que ha disfrutado hasta ahora. Cada vez es más fácil participar del negocio musical sin contar con la maquinaria pesada de los grandes sellos. Un equipo informático relativamente modesto permite que la grabación, la promoción o la distribución se hagan desde casa... Y con posibilidades demostradas de éxito.</span>
 

@@ -4,7 +4,7 @@ title: 'Demagógica, pero cierta, queja a los &quot;artistas forraos y llorones&
 date: 2008-02-11T11:49:57+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/02/11/demagogica-pero-cierta-queja-a-los-artistas-forraos-y-llorones/
+guid: https://www.cortell.net/2008/02/11/demagogica-pero-cierta-queja-a-los-artistas-forraos-y-llorones/
 permalink: /2008/02/11/demagogica-pero-cierta-queja-a-los-artistas-forraos-y-llorones/
 categories:
   - CiberDerechos

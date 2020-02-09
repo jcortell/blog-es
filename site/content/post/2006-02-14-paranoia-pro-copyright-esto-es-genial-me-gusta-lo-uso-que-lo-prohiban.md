@@ -4,7 +4,7 @@ title: 'Paranoia pro-copyright: Esto es genial, me gusta, lo uso, -¡que lo proh
 date: 2006-02-14T11:51:35+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2006/02/14/paranoia-pro-copyright-esto-es-genial-me-gusta-lo-uso-%c2%a1que-lo-prohiban/'
+guid: 'https://www.cortell.net/2006/02/14/paranoia-pro-copyright-esto-es-genial-me-gusta-lo-uso-%c2%a1que-lo-prohiban/'
 permalink: /2006/02/14/paranoia-pro-copyright-esto-es-genial-me-gusta-lo-uso-que-lo-prohiban/
 categories:
   - CiberDerechos
@@ -13,7 +13,7 @@ categories:
   - Rants
   - Technology
 ---
-El Presidente de Capitol Broadcasting, Jim Goodmon, [está impresionado](http://www.broadcastingcable.com/article/CA6304972.html?display=Breaking+News&referral=SUPP&nid=2228) con Slingbox (aparato de Sling Media que permite enviar la señal de tu TV a través de la web). Lo usa para ver la televisión local de Charlotte, Carolina del Norte, cuando está en las oficinas de Raleigh.
+El Presidente de Capitol Broadcasting, Jim Goodmon, [está impresionado](https://www.broadcastingcable.com/article/CA6304972.html?display=Breaking+News&referral=SUPP&nid=2228) con Slingbox (aparato de Sling Media que permite enviar la señal de tu TV a través de la web). Lo usa para ver la televisión local de Charlotte, Carolina del Norte, cuando está en las oficinas de Raleigh.
   
 El invento ha sido nombrado uno de los mejores inventos del 2005 por la revista Time. Pero Jim Goodmon también ha dicho â€œNo me puedo creer que aun no lo hayan paradoâ€ "No hay forma de que esto sea legal".
 

@@ -4,7 +4,7 @@ title: RedTel penaliza a sus clientes para compensar su falta de servicio
 date: 2008-03-10T19:06:17+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/03/10/redtel-penaliza-a-sus-clientes-para-compensar-su-falta-de-servicio/
+guid: https://www.cortell.net/2008/03/10/redtel-penaliza-a-sus-clientes-para-compensar-su-falta-de-servicio/
 permalink: /2008/03/10/redtel-penaliza-a-sus-clientes-para-compensar-su-falta-de-servicio/
 categories:
   - CiberDerechos
@@ -15,7 +15,7 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-Como bien se puede leer en <a target="_blank" title="noticia en Publico" href="http://www.publico.es/dinero/056455/telefonica/vodafone/orange/ono/alian/poner/puertas/emule">este artí­culo</a> que me enví­a Ví­ctor, RedTel (las principales operadoras de telecom ISPs de España) en vez de apoyar las redes P2P, que no hacen más que incrementar la demanda de sus servicios de telecomunicaciones (a parte de la cultura y el acceso a la misma, pero eso parece que a nadie le importa), parece que van a solicitar que se restrinjan dichos servicios.
+Como bien se puede leer en <a target="_blank" title="noticia en Publico" href="https://www.publico.es/dinero/056455/telefonica/vodafone/orange/ono/alian/poner/puertas/emule">este artí­culo</a> que me enví­a Ví­ctor, RedTel (las principales operadoras de telecom ISPs de España) en vez de apoyar las redes P2P, que no hacen más que incrementar la demanda de sus servicios de telecomunicaciones (a parte de la cultura y el acceso a la misma, pero eso parece que a nadie le importa), parece que van a solicitar que se restrinjan dichos servicios.
 
 -¿Por qué?
 

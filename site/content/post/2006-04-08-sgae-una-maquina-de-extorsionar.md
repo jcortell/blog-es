@@ -4,7 +4,7 @@ title: 'SGAE: -¿una máquina de extorsionar?'
 date: 2006-04-08T23:46:03+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2006/04/08/sgae-%c2%bfuna-maquina-de-extorsionar/'
+guid: 'https://www.cortell.net/2006/04/08/sgae-%c2%bfuna-maquina-de-extorsionar/'
 permalink: /2006/04/08/sgae-una-maquina-de-extorsionar/
 categories:
   - CiberDerechos
@@ -12,7 +12,7 @@ categories:
   - General
   - Rants
 ---
-[Dice](http://buscon.rae.es/draeI/SrvltGUIBusUsual?LEMA=extorsión) el diccionario de la RAE:
+[Dice](https://buscon.rae.es/draeI/SrvltGUIBusUsual?LEMA=extorsión) el diccionario de la RAE:
   
 extorsión.
 
@@ -36,6 +36,6 @@ Además no se limitan a actuar con la ley en la mano, exigiendo una compensació
 
 Esto, si no me equivoco, es lo que definirí­a el diccionario de la RAE como Extorsión.
 
-Esto, si no me equivoco, es lo que hace la SGAE (y sus siete hermanas). Y no soy el único que piensa así­. El otro dí­a me enviaron [este post](http://rinconmarginado.blogspot.com/2006/04/de-nuevo-la-sgae.html). Cada vez somos más los que lo tenemos claro (algunos desde hace mucho tiempo).
+Esto, si no me equivoco, es lo que hace la SGAE (y sus siete hermanas). Y no soy el único que piensa así­. El otro dí­a me enviaron [este post](https://rinconmarginado.blogspot.com/2006/04/de-nuevo-la-sgae.html). Cada vez somos más los que lo tenemos claro (algunos desde hace mucho tiempo).
 
 Y aun hay más. Y más.

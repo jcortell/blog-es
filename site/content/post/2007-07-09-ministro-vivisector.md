@@ -4,7 +4,7 @@ title: Ministro Vivisector
 date: 2007-07-09T09:02:42+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/07/09/ministro-vivisector/
+guid: https://www.cortell.net/2007/07/09/ministro-vivisector/
 permalink: /2007/07/09/ministro-vivisector/
 categories:
   - General
@@ -13,7 +13,7 @@ categories:
   - Otras cosas
   - Sociedad y polí­tica
 ---
-Rita me enví­a <a target="_blank" title="Comunicado" href="http://www.defensanimal.org/comunicados/070707.htm">este comunicado</a>. Reproduzco tal cual:
+Rita me enví­a <a target="_blank" title="Comunicado" href="https://www.defensanimal.org/comunicados/070707.htm">este comunicado</a>. Reproduzco tal cual:
 
 (Escrito sin acentos)
   

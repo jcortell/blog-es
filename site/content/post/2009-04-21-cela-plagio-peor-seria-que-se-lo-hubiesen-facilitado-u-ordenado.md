@@ -4,7 +4,7 @@ title: ¿Cela plagió? Peor sería que se lo hubiesen facilitado u ordenado
 date: 2009-04-21T13:06:49+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1809
+guid: https://cortell.net/blog/?p=1809
 permalink: /2009/04/21/cela-plagio-peor-seria-que-se-lo-hubiesen-facilitado-u-ordenado/
 categories:
   - Copyfight
@@ -13,7 +13,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-> Según la <a title="http://www.elpais.com/articulo/cultura/juez/ve/plagio/Cruz/San/Andres/Cela/elpepucul/20090421elpepicul_3/Tes" href="http://www.elpais.com/articulo/cultura/juez/ve/plagio/Cruz/San/Andres/Cela/elpepucul/20090421elpepicul_3/Tes" target="_blank">noticia</a> que publica hoy El País (gracias KC), hay serios indicios de que Cela, nuestro laureado Premio Nobel de literatura, plagiase una obra.
+> Según la <a title="https://www.elpais.com/articulo/cultura/juez/ve/plagio/Cruz/San/Andres/Cela/elpepucul/20090421elpepicul_3/Tes" href="https://www.elpais.com/articulo/cultura/juez/ve/plagio/Cruz/San/Andres/Cela/elpepucul/20090421elpepicul_3/Tes" target="_blank">noticia</a> que publica hoy El País (gracias KC), hay serios indicios de que Cela, nuestro laureado Premio Nobel de literatura, plagiase una obra.
 
 De demostrarse ciertas las acusaciones, lo peor no sería esto, sino que le facilitasen u ordenasen el plagio para que ganase el premio Planeta.
 

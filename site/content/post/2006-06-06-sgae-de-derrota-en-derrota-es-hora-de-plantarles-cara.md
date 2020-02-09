@@ -4,7 +4,7 @@ title: 'SGAE: de derrota en derrota -¡es hora de plantarles cara!'
 date: 2006-06-06T16:18:46+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2006/06/06/sgae-de-derrota-en-derrota-%c2%a1es-hora-de-plantarles-cara/'
+guid: 'https://www.cortell.net/2006/06/06/sgae-de-derrota-en-derrota-%c2%a1es-hora-de-plantarles-cara/'
 permalink: /2006/06/06/sgae-de-derrota-en-derrota-es-hora-de-plantarles-cara/
 categories:
   - CiberDerechos
@@ -14,7 +14,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-Como explica con todo lujo de detalles <a title="SGAE pierde juicios por berbenas" target="_blank" href="http://www.lavozdegalicia.es/inicio/noticia.jsp?CAT=126&TEXTO=4834975">este artí­culo</a> (que me enví­a agapito) publicado hoy en La voz de Galicia, la SGAE está perdiendo un juicio tras otro por las berbenas populares, a las que exige millones de pesetas (**pretendiendo cobrar canon por gastos de montaje, de transporte ... de todo**).
+Como explica con todo lujo de detalles <a title="SGAE pierde juicios por berbenas" target="_blank" href="https://www.lavozdegalicia.es/inicio/noticia.jsp?CAT=126&TEXTO=4834975">este artí­culo</a> (que me enví­a agapito) publicado hoy en La voz de Galicia, la SGAE está perdiendo un juicio tras otro por las berbenas populares, a las que exige millones de pesetas (**pretendiendo cobrar canon por gastos de montaje, de transporte ... de todo**).
 
 Como es lógico, a la hora de aportar pruebas, están perdidos, así­ que no sólo se quedan sin cobrar, sino que además han de pagar las costas del juicio.
 
@@ -28,7 +28,7 @@ Me alegro muchí­simo de que las cosas se pongan en su sitio, y de que esa acti
 
 Y si no crees que sean unos chulos, dime qué te parece esta noticia (de Asociación de Internautas y de CCOO):
 
- _<a title="SGAE internautas" target="_blank" href="http://www.internautas.org/html/3715.html">La SGAE tampoco perdona a los refugiados saharahuis</a>_
+ _<a title="SGAE internautas" target="_blank" href="https://www.internautas.org/html/3715.html">La SGAE tampoco perdona a los refugiados saharahuis</a>_
 
 _Otra más. Esta vez el turno de pagar el canon le ha tocado al festival que la Fundación Paz y Solidaridad de Andalucí­a de CCOO realizó en solidaridad con los refugiados saharahuis.
   
@@ -48,4 +48,4 @@ _Hay que preguntarse por qué hay gente que tiene de todo -los defensores de SGA
 
 _-¿Va entendiendo ya Eduardo Bautista por qué los de Ce, Ce, O, O, estamos contra el canon?_
 
-_<a title="Comfia" target="_blank" href="http://www.comfia.info/noticias/">Boletí­n de Noticias de COMFIA.info</a>_
+_<a title="Comfia" target="_blank" href="https://www.comfia.info/noticias/">Boletí­n de Noticias de COMFIA.info</a>_

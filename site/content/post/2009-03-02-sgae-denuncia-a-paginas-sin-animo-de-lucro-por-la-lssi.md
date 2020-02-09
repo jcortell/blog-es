@@ -4,7 +4,7 @@ title: SGAE denuncia a páginas sin ánimo de lucro ¡¡¡por la LSSI!!!
 date: 2009-03-02T14:17:33+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1611
+guid: https://cortell.net/blog/?p=1611
 permalink: /2009/03/02/sgae-denuncia-a-paginas-sin-animo-de-lucro-por-la-lssi/
 categories:
   - CiberDerechos

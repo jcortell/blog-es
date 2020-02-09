@@ -4,14 +4,14 @@ title: Arturo Pérez-Reverte hace 10 años sobre la crisis financiera
 date: 2008-11-27T15:33:26+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1390
+guid: https://www.cortell.net/?p=1390
 permalink: /2008/11/27/arturo-perez-reverte-hace-10-anos-sobre-la-crisis-financiera/
 categories:
   - General
 ---
 <span style="text-decoration: line-through">NOTA: No he encontrado el enlace o referencia alguna al original de el artículo reseñado, así que si alguien lo encuentra, por favor que lo envíe porque no me gusta hacerme eco de hoaxes</span>.
 
-María me envía la <a title="http://www.xlsemanal.com/web/articulo.php?id=37397&id_edicion=3687" href="http://www.xlsemanal.com/web/articulo.php?id=37397&id_edicion=3687" target="_blank">info que verifica esto</a>, gracias. Impresionante.
+María me envía la <a title="https://www.xlsemanal.com/web/articulo.php?id=37397&id_edicion=3687" href="https://www.xlsemanal.com/web/articulo.php?id=37397&id_edicion=3687" target="_blank">info que verifica esto</a>, gracias. Impresionante.
 
 Artículo, <span style="text-decoration: line-through">SUPUESTAMENTE</span>, de Arturo Pérez-Reverte publicado en El Semanal el 15 de noviembre de **1998**, y que me envía Dylan (gracias)
 

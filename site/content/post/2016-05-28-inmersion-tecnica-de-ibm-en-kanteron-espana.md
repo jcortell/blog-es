@@ -4,7 +4,7 @@ title: Inmersión técnica de IBM en Kanteron España
 date: 2016-05-28T16:34:31+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5769
+guid: https://blog.cortell.net/es/?p=5769
 permalink: /2016/05/28/inmersion-tecnica-de-ibm-en-kanteron-espana/
 categories:
   - Free Software

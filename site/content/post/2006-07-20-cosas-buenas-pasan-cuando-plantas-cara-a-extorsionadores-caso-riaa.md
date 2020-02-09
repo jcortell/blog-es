@@ -4,7 +4,7 @@ title: Cosas buenas pasan cuando plantas cara a extorsionadores (caso RIAA)
 date: 2006-07-20T14:54:58+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/07/20/cosas-buenas-pasan-cuando-plantas-cara-a-extorsionadores-caso-riaa/
+guid: https://www.cortell.net/2006/07/20/cosas-buenas-pasan-cuando-plantas-cara-a-extorsionadores-caso-riaa/
 permalink: /2006/07/20/cosas-buenas-pasan-cuando-plantas-cara-a-extorsionadores-caso-riaa/
 categories:
   - CiberDerechos
@@ -13,7 +13,7 @@ categories:
   - Noticias
   - Rants
 ---
-<a target="_blank" title="Caso RIAA" href="http://-uno-.blogspot.com/2006/07/mi-mam-me-casca.html">Leo</a> en en blog de Lou Cipher (<a target="_blank" title="RIAA Case" href="http://www.bit-tech.net/news/2006/07/17/Mum_beats_RIAA/">esta</a> es la fuente original):
+<a target="_blank" title="Caso RIAA" href="https://-uno-.blogspot.com/2006/07/mi-mam-me-casca.html">Leo</a> en en blog de Lou Cipher (<a target="_blank" title="RIAA Case" href="https://www.bit-tech.net/news/2006/07/17/Mum_beats_RIAA/">esta</a> es la fuente original):
 
 _Habí­an denunciado a su hija, Amanda Foster, por uso ilegal de las redes P2P, y a la madre, Debbie Foster, como responsable de su hija y de sus actividades. La RIAA, pensando siempre en el bienestar de esta buena señora, le ofreció la posibilidad de olvidarse del asunto por una cantidad simbólica, 5.000 dolares de nada. La señora Foster, con buen criterio, decidió rehusar tan generosa oferta y seguir por la ví­a judicial.</p> 
 

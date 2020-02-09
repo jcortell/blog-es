@@ -4,7 +4,7 @@ title: Vancouver Day 3
 date: 2013-06-20T01:29:20+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4751
+guid: https://cortell.net/blog/?p=4751
 permalink: /2013/06/20/vancouver-day-3/
 categories:
   - General

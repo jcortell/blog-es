@@ -4,7 +4,7 @@ title: Diseño del blog ¿eyecandy?
 date: 2009-02-03T09:53:28+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1462
+guid: https://cortell.net/blog/?p=1462
 permalink: /2009/02/03/diseno-del-blog-eyecandy/
 categories:
   - Geek Fun
@@ -21,7 +21,7 @@ Tampoco debe ser solamente un "medio de comunicación". De ello se deriva el tit
 
 Un blog debe ser todo ello y mucho más. O sea, nada de todo eso. 
 
-Un blog debe ser un blog. Una bitácora. Un cuaderno de notas colaborativo o no, dialogante o no, pero siempre un blog. Por eso este <a title="http://www.smashingmagazine.com/2008/08/20/notepad-chaos-a-free-wordpress-theme/" href="http://www.smashingmagazine.com/2008/08/20/notepad-chaos-a-free-wordpress-theme/" target="_blank">diseño</a> de Evan para Smashingmagazine, "basado" en webdisegnerwall, de cuaderno de notas (con alguna licencia gráfica).
+Un blog debe ser un blog. Una bitácora. Un cuaderno de notas colaborativo o no, dialogante o no, pero siempre un blog. Por eso este <a title="https://www.smashingmagazine.com/2008/08/20/notepad-chaos-a-free-wordpress-theme/" href="https://www.smashingmagazine.com/2008/08/20/notepad-chaos-a-free-wordpress-theme/" target="_blank">diseño</a> de Evan para Smashingmagazine, "basado" en webdisegnerwall, de cuaderno de notas (con alguna licencia gráfica).
 
 Ahora a personalizar y modificar. Me gustan los retos, me encanta redireccionar, modificar php, css y html, editar gráficos... maldito cronos.
 

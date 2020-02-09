@@ -4,7 +4,7 @@ title: El Camino del Samurai
 date: 2010-08-09T02:17:00+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2578
+guid: https://cortell.net/blog/?p=2578
 permalink: /2010/08/09/el-camino-del-samurai/
 categories:
   - Filosofí­a

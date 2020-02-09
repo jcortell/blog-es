@@ -4,7 +4,7 @@ title: 'Quemar la selva tropical: eso sí que contamina, no sólo tu coche'
 date: 2009-11-28T00:35:20+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2355
+guid: https://cortell.net/blog/?p=2355
 permalink: /2009/11/28/quemar-la-selva-tropical-eso-si-que-contamina-no-solo-tu-coche/
 categories:
   - General

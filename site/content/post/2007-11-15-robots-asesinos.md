@@ -4,7 +4,7 @@ title: Robots asesinos
 date: 2007-11-15T08:44:34+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/11/15/robots-asesinos/
+guid: https://www.cortell.net/2007/11/15/robots-asesinos/
 permalink: /2007/11/15/robots-asesinos/
 categories:
   - Filosofí­a
@@ -29,7 +29,7 @@ by Noel Sharkey, U. of Sheffield
 
 These developments pose a moral and ethical minefield for engineers and computer scientists. ...
 
-To date, robots deployed in ground wars have been used mainly for ordinance disposal, such as clearing improvised explosive devices. This has saved lives.-  However, this summer the U.S. Army introduced the first three ... SWORDS (Special Weapons Observation Reconniaissance Direct-Action System) armed combat robots into Iraq (http://www.foster-miller.com).-  These have been so effective that 80 more have been approved for use ...
+To date, robots deployed in ground wars have been used mainly for ordinance disposal, such as clearing improvised explosive devices. This has saved lives.-  However, this summer the U.S. Army introduced the first three ... SWORDS (Special Weapons Observation Reconniaissance Direct-Action System) armed combat robots into Iraq (https://www.foster-miller.com).-  These have been so effective that 80 more have been approved for use ...
 
 Semi-autonomous robots in the form of unmanned combat aerial vehicals (UCAVs) have also proven popular...
 

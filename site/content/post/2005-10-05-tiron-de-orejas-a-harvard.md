@@ -4,7 +4,7 @@ title: Tirón de orejas a Harvard
 date: 2005-10-05T18:49:54+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/10/05/tiron-de-orejas-a-harvard/
+guid: https://www.cortell.net/2005/10/05/tiron-de-orejas-a-harvard/
 permalink: /2005/10/05/tiron-de-orejas-a-harvard/
 categories:
   - CiberDerechos
@@ -27,7 +27,7 @@ Some of these are available on the website. Please check for a hyperlink.
 
 Politics and Ethics: Doing the Right Thing
 
-[The Queen v. Dudley and Stephens (1884) (The lifeboat case)](http://www.courses.fas.harvard.edu/~mr22/archives/QUEEN%20v%20DUDLEY%20AND%20STEPHENS.doc)
+[The Queen v. Dudley and Stephens (1884) (The lifeboat case)](https://www.courses.fas.harvard.edu/~mr22/archives/QUEEN%20v%20DUDLEY%20AND%20STEPHENS.doc)
 
 
 
@@ -143,9 +143,9 @@ Aristotle, Nichomachean Ethics, Bks II (ch. 1-3), X (ch. 1-3)
 
 Cheerleaders and Casey Martinâ€™s Golf Cart
 
-[Presley, "A Safety Blitz; Texas Cheerleader Loses Status"](http://www.courses.fas.harvard.edu/~mr22/archives/2005/09/a_safety_blitz.html)
+[Presley, "A Safety Blitz; Texas Cheerleader Loses Status"](https://www.courses.fas.harvard.edu/~mr22/archives/2005/09/a_safety_blitz.html)
 
-[Ryan, "Sorry, Free Rides Not Right"](http://www.courses.fas.harvard.edu/~mr22/archives/2005/09/sorry_free_ride.html)
+[Ryan, "Sorry, Free Rides Not Right"](https://www.courses.fas.harvard.edu/~mr22/archives/2005/09/sorry_free_ride.html)
 
 Kite, "Keep the PGA on Foot"
 
@@ -191,13 +191,13 @@ Rawls, Political Liberalism, pp. 3-15, 29-35, 144-58
 
 Same-Sex Marriage, For and Against
 
-[Kinsley, "Abolish Marriage"](http://www.courses.fas.harvard.edu/~mr22/archives/2005/09/abolish_marriag.html)
+[Kinsley, "Abolish Marriage"](https://www.courses.fas.harvard.edu/~mr22/archives/2005/09/abolish_marriag.html)
 
-[Finnis, "Law, Morality, and â€˜Sexual Orientationâ€™"](http://www.courses.fas.harvard.edu/~mr22/archives/2005/09/finis_law_and_m.html)
+[Finnis, "Law, Morality, and â€˜Sexual Orientationâ€™"](https://www.courses.fas.harvard.edu/~mr22/archives/2005/09/finis_law_and_m.html)
 
-[Macedo, "Homosexuality and the Conservative Mind"](http://www.courses.fas.harvard.edu/~mr22/archives/2005/09/homosexuality_a.html)
+[Macedo, "Homosexuality and the Conservative Mind"](https://www.courses.fas.harvard.edu/~mr22/archives/2005/09/homosexuality_a.html)
 
-[West, "Universalism, Liberal Theory, and the Problem of Gay Marriage"](http://www.courses.fas.harvard.edu/~mr22/archives/2005/09/west_universali.html)
+[West, "Universalism, Liberal Theory, and the Problem of Gay Marriage"](https://www.courses.fas.harvard.edu/~mr22/archives/2005/09/west_universali.html)
 
 [Goodridge v. Dept. of Public Health (2003)](/~mr22/readings2005/Goodridge.doc)
 
@@ -217,23 +217,23 @@ You should link to these online (and perfectly legal, since they are in the Publ
 
 J.S. Mill, Utilitarianism
   
-http://www.gutenberg.org/etext/11224
+https://www.gutenberg.org/etext/11224
 
 Locke, Second Treatise of Government
   
-http://www.gutenberg.org/etext/7370
+https://www.gutenberg.org/etext/7370
 
 Kant, Grounding for the Metaphysics of Morals
   
-http://www.gutenberg.org/etext/5682
+https://www.gutenberg.org/etext/5682
 
 Aristotle, The Politics
   
-http://www.gutenberg.org/etext/6762
+https://www.gutenberg.org/etext/6762
 
 Aristotle, Nichomachean Ethics
   
-http://www.gutenberg.org/etext/8438
+https://www.gutenberg.org/etext/8438
 
 Enjoy culture, knowledge, freedom and the Net.
 

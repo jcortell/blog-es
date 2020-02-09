@@ -4,7 +4,7 @@ title: HD-DVD en FNAC con sorpresa ilegal
 date: 2006-05-11T10:38:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/05/11/hd-dvd-en-fnac-con-sorpresa-ilegal/
+guid: https://www.cortell.net/2006/05/11/hd-dvd-en-fnac-con-sorpresa-ilegal/
 permalink: /2006/05/11/hd-dvd-en-fnac-con-sorpresa-ilegal/
 categories:
   - CiberDerechos
@@ -19,9 +19,9 @@ Al llegar a casa, después de pelearme con los cables de la TV, el homecinema 5+
   
 Llegado el fin de semana, cuando toca ver lo grabado, lo encuentro en el número 46 de grabaciones. Y lo primero que pienso es _-¡eso te pasa por no leer el manual!_, luego pienso _-¿y si graba varios canales a la vez?_ pero rápidamente me doy cuenta de que las otras 45 grabaciones de la lista de reproducción tienen fechas anteriores (de hasta dos meses antes).
 
-Comprobando la lista, me doy cuenta de que hay de todo (desde cine español de antes de la guerra, hasta documentales, pasando por <a target="_blank" title="Internet Adult Film Database" href="http://www.iafd.com">porno</a>).
+Comprobando la lista, me doy cuenta de que hay de todo (desde cine español de antes de la guerra, hasta documentales, pasando por <a target="_blank" title="Internet Adult Film Database" href="https://www.iafd.com">porno</a>).
 
-![Porno en HD-DVD de Fnac](http://static.flickr.com/48/139802503_906baef0a4_m.jpg "Porno en HD-DVD de Fnac")
+![Porno en HD-DVD de Fnac](https://static.flickr.com/48/139802503_906baef0a4_m.jpg "Porno en HD-DVD de Fnac")
 
 Verán ustedes, no es que tenga nada contra el porno (sobre todo si es de calidad, lo cual no es muy habitual), pero no es de recibo comprar un aparato supuestamente nuevo, y encontrarse con horas y horas de grabaciones anteriores.
 

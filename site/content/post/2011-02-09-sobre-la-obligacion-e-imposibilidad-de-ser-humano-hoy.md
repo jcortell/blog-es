@@ -4,7 +4,7 @@ title: Sobre la obligación e imposibilidad de ser Humano hoy
 date: 2011-02-09T11:25:56+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2906
+guid: https://cortell.net/blog/?p=2906
 permalink: /2011/02/09/sobre-la-obligacion-e-imposibilidad-de-ser-humano-hoy/
 categories:
   - Filosofí­a

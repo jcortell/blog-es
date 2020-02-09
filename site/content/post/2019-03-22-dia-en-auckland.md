@@ -25,7 +25,7 @@ Se suponía que las 8 horas en Hong Kong nos permitirían un paseo por el centro
 Tan pronto como aterrizas en Nueva Zelanda, ves cómo el cliché de las colinas verdes, el cielo nublado y la gente amigable es absolutamente cierto.
 Tomamos un taxi hasta el increíble y nuevo [SO Sofitel hotel](https://sofitel.accorhotels.com/gb/hotel-9149-so-auckland/index.shtml), que tiene un diseño interior contemporáneo muy dramático.
 
-Aunque estábamos muy cansados, decidimos dar un corto paseo por la calle Quay hasta Wynyard Quarter para ver [Waterscape](https://www.aucklandfestival.co.nz/events/wastescape/), una instalación de la artista británica Gayle Chong Kwan en Silo 6, parte del Festival de Arte de Auckland. Luego comimos un delicioso [IkaBowl](http://ikabowl.co.nz/index.html) en el mercado de pescado, y regresamos al hotel para dormir y prepararnos para el emocionante día siguiente.
+Aunque estábamos muy cansados, decidimos dar un corto paseo por la calle Quay hasta Wynyard Quarter para ver [Waterscape](https://www.aucklandfestival.co.nz/events/wastescape/), una instalación de la artista británica Gayle Chong Kwan en Silo 6, parte del Festival de Arte de Auckland. Luego comimos un delicioso [IkaBowl](https://ikabowl.co.nz/index.html) en el mercado de pescado, y regresamos al hotel para dormir y prepararnos para el emocionante día siguiente.
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/dist/pa-embed-player.min.js" async></script>
 <div class="pa-embed-player" style="width:100%; height:480px; display:none;"

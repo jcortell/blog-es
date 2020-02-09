@@ -4,7 +4,7 @@ title: Lecciones del UBS Forum 2017
 date: 2017-02-07T16:31:33+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=6011
+guid: https://blog.cortell.net/es/?p=6011
 permalink: /2017/02/07/lecciones-del-ubs-forum-2017/
 categories:
   - General
@@ -46,11 +46,11 @@ También hubo una mesa redonda y preguntas de la audiencia, facilitada por un m
 
   * > "El nacionalismo, los prejuicios y la discriminación conducen a mercados ineficientes y el derroche de un capital humano perfectamente bueno que conduce a menos crecimiento y daño económico" (SIC, pero despierta: así es como te ven)
 
-  * > [The Loser‘s Game](http://www.cfapubs.org/doi/abs/10.2469/faj.v51.n1.1865) es un artículo antiguo, pero vale la pena leerlo
+  * > [The Loser‘s Game](https://www.cfapubs.org/doi/abs/10.2469/faj.v51.n1.1865) es un artículo antiguo, pero vale la pena leerlo
 
   * > [Teoría del Prospecto](https://en.wikipedia.org/wiki/Prospect_theory): las ganancias potenciales alientan la aversión al riesgo, las posibles pérdidas fomentan la toma de riesgo un DOBLE
 
-  * > Un asombroso ejemplo de polarización de _status quo_ es los [dos niveles de donación de órganos en Europa](http://www.wheelofpersuasion.com/technique/status-quo-bias/)
+  * > Un asombroso ejemplo de polarización de _status quo_ es los [dos niveles de donación de órganos en Europa](https://www.wheelofpersuasion.com/technique/status-quo-bias/)
 
   * > Un ejemplo asombroso del efecto del señuelo o del efecto de anclaje es las opciones de las suscripciones a The Economist ([número 6 en esta lista](https://www.fastcompany.com/3019903/work-smart/8-subconscious-mistakes-our-brains-make-every-day-and-how-to-avoid-them))
 

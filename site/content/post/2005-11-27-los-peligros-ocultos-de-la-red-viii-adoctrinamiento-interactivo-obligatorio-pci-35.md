@@ -4,7 +4,7 @@ title: 'Los peligros ocultos de la Red VIII: Adoctrinamiento interactivo obligat
 date: 2005-11-27T20:11:31+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/11/27/los-peligros-ocultos-de-la-red-viii-adoctrinamiento-interactivo-obligatorio-pci-35/
+guid: https://www.cortell.net/2005/11/27/los-peligros-ocultos-de-la-red-viii-adoctrinamiento-interactivo-obligatorio-pci-35/
 permalink: /2005/11/27/los-peligros-ocultos-de-la-red-viii-adoctrinamiento-interactivo-obligatorio-pci-35/
 categories:
   - 'Artí­culos escritos para la revista PC&amp;I'
@@ -40,4 +40,4 @@ El adoctrinamiento obligatorio es una poderosa arma para perpetuar un sistema an
   
 serán lógicamente cada vez más necesarios). Defendamos nuestra libertad de pensamiento.
 
-[<img border="0" alt="tira es.comp.os.linux" src="http://mirror3.escomposlinux.org/tira/ecol-225.png" />](http://tira.escomposlinux.org)
+[<img border="0" alt="tira es.comp.os.linux" src="https://mirror3.escomposlinux.org/tira/ecol-225.png" />](https://tira.escomposlinux.org)

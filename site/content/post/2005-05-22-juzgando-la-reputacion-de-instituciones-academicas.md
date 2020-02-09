@@ -4,7 +4,7 @@ title: Juzgando la reputación de instituciones académicas
 date: 2005-05-22T14:10:35+00:00
 author: Jorge Cortell
 layout: post
-guid: http://64.246.54.67/cortell.net/2005/05/22/juzgando-la-reputacion-de-instituciones-academicas/
+guid: https://64.246.54.67/cortell.net/2005/05/22/juzgando-la-reputacion-de-instituciones-academicas/
 permalink: /2005/05/22/juzgando-la-reputacion-de-instituciones-academicas/
 categories:
   - Otras cosas

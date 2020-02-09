@@ -4,7 +4,7 @@ title: 'Y uno aprende...'
 date: 2011-08-14T13:52:10+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3403
+guid: https://cortell.net/blog/?p=3403
 permalink: /2011/08/14/y-uno-aprende/
 wpsd_autopost:
   - "1"

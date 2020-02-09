@@ -4,7 +4,7 @@ title: Museos de Düsseldorf
 date: 2016-11-26T09:14:26+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5960
+guid: https://blog.cortell.net/es/?p=5960
 permalink: /2016/11/26/museos-de-dusseldorf/
 categories:
   - Arte
@@ -16,7 +16,7 @@ La semana pasada pasé 3 días en Düsseldorf, asistiendo a la feria de Medica. 
 
 Como Düsseldorf es una ciudad que conozco bien, decidí concentrarme en sus museos y galerías de arte. ¡No podía haber elegido un momento más perfecto!
 
-En la <a href="http://www.kunsthalle-duesseldorf.de/index.php?id=399" target="_blank">Kunsthalle</a> asistí a la excelente exposición titulada "Lana y agua", con: Lili Dujourie, Isa Genzken, Astrid Klein, Mischa Kuball, Aron Mehzion, Reinhard Mucha, Sturtevant, Rosemarie Trockel y Gerhard Richte; Comisariada por Gregor Jansen. Una exposición que definitivamente "no te puedes perder". Seductora y emocionante. No recuerdo la última vez que me emocionaba tanto por una exposición. Me dieron ganas de aplaudir, de llamar al curador y los artistas y mostrar mi respeto y admiración.
+En la <a href="https://www.kunsthalle-duesseldorf.de/index.php?id=399" target="_blank">Kunsthalle</a> asistí a la excelente exposición titulada "Lana y agua", con: Lili Dujourie, Isa Genzken, Astrid Klein, Mischa Kuball, Aron Mehzion, Reinhard Mucha, Sturtevant, Rosemarie Trockel y Gerhard Richte; Comisariada por Gregor Jansen. Una exposición que definitivamente "no te puedes perder". Seductora y emocionante. No recuerdo la última vez que me emocionaba tanto por una exposición. Me dieron ganas de aplaudir, de llamar al curador y los artistas y mostrar mi respeto y admiración.
 
 También visité el K20 y el K21 en el [Kunstsammlung Nordrhein-Westfalen (KNW)](https://www.kunstsammlung.de).
 

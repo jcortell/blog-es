@@ -4,7 +4,7 @@ title: Administración Pública y SGAE atentan contra la libertad de asociación
 date: 2006-05-18T10:34:07+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/05/18/administracion-publica-y-sgae-atentan-contra-la-libertad-de-asociacion/
+guid: https://www.cortell.net/2006/05/18/administracion-publica-y-sgae-atentan-contra-la-libertad-de-asociacion/
 permalink: /2006/05/18/administracion-publica-y-sgae-atentan-contra-la-libertad-de-asociacion/
 categories:
   - CiberDerechos
@@ -14,13 +14,13 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-<a target="_blank" title="Post Ramón Ramón" href="http://rinconmarginado.blogspot.com/2006/05/el-ayto-de-mlaga-obliga-los-jvenes.html">Leo</a> en el blog de mi amigo Ramón Ramón:
+<a target="_blank" title="Post Ramón Ramón" href="https://rinconmarginado.blogspot.com/2006/05/el-ayto-de-mlaga-obliga-los-jvenes.html">Leo</a> en el blog de mi amigo Ramón Ramón:
 
 > "MíLAGACREAROCK 2006", un certamen para promover la música y a los jóvenes grupos malagueños. En las bases oficiales te avisan que si quieres ser uno de los finalistas necesariamente debes tener tus canciones registradas en la SGAE:
   
-> <a target="_blank" title="Ayto Málaga obliga a ser de la SGAE" href="http://www.malagajoven.com/servlet/page?_pageid=273&_dad=portal30&_schema=PORTAL30&_type=site&_fsiteid=266&_fid=584878&_fnavbarid=1&_fnavbarsiteid=266&_fedit=0&_fmode=2&_fdisplaymode=7&_fcalledfrom=1&_fdisplayurl=p_id%3D%3E586344%2Cp_inframe%3D%3E1%2Cp_currcornerid%3D%3E584878%2Cp_settingssetid%3D%3E121482%2Cp_settingssiteid%3D%3E266%2Cp_siteid%3D%3E266%2Cp_type%3D%3E%27text%27%2Cp_textid%3D%3E586346">NOTA:<br /> los grupos seleccionados para la fase final deberán tener sus canciones registradas en la SGAE (Sociedad general de autores de España) corriendo por su cuenta los derechos de autor, así­ como los arreglos o adaptaciones. Renunciando por escrito a cualquier percepción económica que se genere durante el desarrollo de la fase final de Málagacrearock 2006</a>
+> <a target="_blank" title="Ayto Málaga obliga a ser de la SGAE" href="https://www.malagajoven.com/servlet/page?_pageid=273&_dad=portal30&_schema=PORTAL30&_type=site&_fsiteid=266&_fid=584878&_fnavbarid=1&_fnavbarsiteid=266&_fedit=0&_fmode=2&_fdisplaymode=7&_fcalledfrom=1&_fdisplayurl=p_id%3D%3E586344%2Cp_inframe%3D%3E1%2Cp_currcornerid%3D%3E584878%2Cp_settingssetid%3D%3E121482%2Cp_settingssiteid%3D%3E266%2Cp_siteid%3D%3E266%2Cp_type%3D%3E%27text%27%2Cp_textid%3D%3E586346">NOTA:<br /> los grupos seleccionados para la fase final deberán tener sus canciones registradas en la SGAE (Sociedad general de autores de España) corriendo por su cuenta los derechos de autor, así­ como los arreglos o adaptaciones. Renunciando por escrito a cualquier percepción económica que se genere durante el desarrollo de la fase final de Málagacrearock 2006</a>
 
-La Constitución Española establece la Libertad de Asociación en su <a target="_blank" title="Libertad de Asociación" href="http://www.congreso.es/constitucion/constitucion/indice/sinopsis/sinopsis.jsp?art=22&tipo=2">artí­culo 22</a>.
+La Constitución Española establece la Libertad de Asociación en su <a target="_blank" title="Libertad de Asociación" href="https://www.congreso.es/constitucion/constitucion/indice/sinopsis/sinopsis.jsp?art=22&tipo=2">artí­culo 22</a>.
 
 Sin embargo, tal y como nos recuerda el Catedrático y magistrado del Tribunal Superior de Justicia de la Comunidad Valenciana, Profesor Juan Montero Aroca en "La legitimación colectiva de las entidades de gestión de la propiedad intelectual". Ed. Comares. Madrid. 1997, p. 131:
   

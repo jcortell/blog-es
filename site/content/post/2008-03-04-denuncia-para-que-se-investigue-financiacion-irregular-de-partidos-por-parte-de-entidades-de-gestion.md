@@ -4,7 +4,7 @@ title: Denuncia para que se investigue financiación irregular de partidos por p
 date: 2008-03-04T19:36:28+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/03/04/denuncia-para-que-se-investigue-financiacion-irregular-de-partidos-por-parte-de-entidades-de-gestion/
+guid: https://www.cortell.net/2008/03/04/denuncia-para-que-se-investigue-financiacion-irregular-de-partidos-por-parte-de-entidades-de-gestion/
 permalink: /2008/03/04/denuncia-para-que-se-investigue-financiacion-irregular-de-partidos-por-parte-de-entidades-de-gestion/
 categories:
   - CiberDerechos
@@ -16,11 +16,11 @@ categories:
 ---
 Anamarí­a me enví­a esta nota de prensa:
 
-<a target="_blank" title="apemit" href="http://www.apemit.org">APEMIT</a>
+<a target="_blank" title="apemit" href="https://www.apemit.org">APEMIT</a>
   
 Asociación Española Pymes de Informática y Nuevas Tecnologí­as.
 
-<a target="_blank" title="VACHE" href="http://www.asociacionvache.com">VACHE</a>
+<a target="_blank" title="VACHE" href="https://www.asociacionvache.com">VACHE</a>
   
 Asociación Española de Hosteleros Victimas del Canon.
 

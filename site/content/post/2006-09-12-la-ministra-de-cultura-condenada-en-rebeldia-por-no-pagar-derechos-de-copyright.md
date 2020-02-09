@@ -4,7 +4,7 @@ title: La Ministra de Cultura, condenada (en rebeldí­a) por -¡no pagar derech
 date: 2006-09-12T08:11:15+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2006/09/12/la-ministra-de-cultura-condenada-en-rebeldia-por-%c2%a1no-pagar-derechos-de-copyright/'
+guid: 'https://www.cortell.net/2006/09/12/la-ministra-de-cultura-condenada-en-rebeldia-por-%c2%a1no-pagar-derechos-de-copyright/'
 permalink: /2006/09/12/la-ministra-de-cultura-condenada-en-rebeldia-por-no-pagar-derechos-de-copyright/
 categories:
   - CiberDerechos
@@ -16,17 +16,17 @@ categories:
 ---
 Donde las dan las toman. -¿Será esto un ejemplo de lo que llaman "justicia divina", el resultado de "mal karma"?
 
-![Carmen Calvo la Ministra Budista](http://www.antonioburgos.com/sevilla/puntas/2003/01/images/031503idigoras.jpg "Carmen Calvo la Ministra Budista")
+![Carmen Calvo la Ministra Budista](https://www.antonioburgos.com/sevilla/puntas/2003/01/images/031503idigoras.jpg "Carmen Calvo la Ministra Budista")
 
-Según <a target="_blank" title="noticia La Razón" href="http://www.larazon.es/noticias/noti_nac457.htm">esta noticia</a> publicada ayer por el diario La Razón (las negrillas son mí­as):
+Según <a target="_blank" title="noticia La Razón" href="https://www.larazon.es/noticias/noti_nac457.htm">esta noticia</a> publicada ayer por el diario La Razón (las negrillas son mí­as):
 
-![Carmen Calvo y Teddy Bautista](http://inciclopedia.wikia.com/images/e/ee/Carmen_calvo_e_teddy_bautista.jpg "Carmen Calvo y Teddy Bautista")
+![Carmen Calvo y Teddy Bautista](https://inciclopedia.wikia.com/images/e/ee/Carmen_calvo_e_teddy_bautista.jpg "Carmen Calvo y Teddy Bautista")
 
 LOS IMPUTADOS:
 
 _Entre los 26 imputados figuran: la ministra de Cultura, Carmen Calvo; el ministro de industria Joan Clos; el ex conseller en cap de la Generalitat Josep Bargalló; Ernest Maragall; el lí­der del PP de Cataluña, Josep Piqué; y el conseller de Relaciones Institucionales y Participación de la Generalitat, Joan Saura._ Todos ellos miembros del consejo de administración del Fórum de Barcelona.
 
-![Carmen Calvo la de Pixie & Dixie](http://static.flickr.com/31/91759971_b769c6f70b_m.jpg "Carmen Calvo la de Pixie & Dixie")
+![Carmen Calvo la de Pixie & Dixie](https://static.flickr.com/31/91759971_b769c6f70b_m.jpg "Carmen Calvo la de Pixie & Dixie")
 
 EL CASO:
 
@@ -38,7 +38,7 @@ En marzo de 2005, Hall citó personalmente a todos los miembros del Consejo de A
   
 Tras la incomparecencia de todos ellos, en junio de 2005, la magistrada declaró a los **26 imputados en rebeldí­a por un delito de desacato, imponiéndoles una multa de 3.000 dólares al dí­a (2.543 euros), deuda que, con el paso del tiempo, asciende ya a un millón de dólares**._
 
-![Carmen Calvo](http://www.20minutos.es/data/img/2006/01/30/339533.jpg "Carmen Calvo")
+![Carmen Calvo](https://www.20minutos.es/data/img/2006/01/30/339533.jpg "Carmen Calvo")
 
 CONFLICTO INTERNACIONAL E INMUNIDAD DIPLOMATICA:
 

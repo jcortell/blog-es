@@ -4,7 +4,7 @@ title: Trees rise, leafs leave
 date: 2012-11-12T16:08:55+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4451
+guid: https://cortell.net/blog/?p=4451
 permalink: /2012/11/12/trees-rise-leafs-leave/
 wpsd_autopost:
   - "1"

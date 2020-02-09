@@ -4,7 +4,7 @@ title: Consejo para Asistente de Migración de Apple
 date: 2008-05-31T12:27:18+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1233
+guid: https://www.cortell.net/?p=1233
 permalink: /2008/05/31/consejo-para-asistente-de-migracion-de-apple/
 categories:
   - General

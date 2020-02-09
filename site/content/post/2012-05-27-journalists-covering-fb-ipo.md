@@ -4,7 +4,7 @@ title: Journalists covering FB IPO
 date: 2012-05-27T13:55:08+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4152
+guid: https://cortell.net/blog/?p=4152
 permalink: /2012/05/27/journalists-covering-fb-ipo/
 wpsd_autopost:
   - "1"

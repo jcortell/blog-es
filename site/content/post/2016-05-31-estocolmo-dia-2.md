@@ -4,7 +4,7 @@ title: Estocolmo, día 2
 date: 2016-05-31T11:12:39+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5799
+guid: https://blog.cortell.net/es/?p=5799
 permalink: /2016/05/31/estocolmo-dia-2/
 categories:
   - General
@@ -13,7 +13,7 @@ categories:
 ---
 Empezamos el día con un desayuno _buffet_ muy rico, que nos dio un montón de energía para las caminatas que habíamos planeado hacer.
 
-Ya que la el Museo Nacional está cerrado por obras, caminamos a lo largo del Strandvägen y cruzamos el puente Djurgårdsbron hasta Djurgården para ir al [Vasa Museet](http://www.vasamuseet.se/en).
+Ya que la el Museo Nacional está cerrado por obras, caminamos a lo largo del Strandvägen y cruzamos el puente Djurgårdsbron hasta Djurgården para ir al [Vasa Museet](https://www.vasamuseet.se/en).
 
 El museo Vasa esun lugar bastante increíble, mucho más interesante de lo que parece en un principio: muestra el único barco del siglo XVII casi completamente intacto que se ha recuperado, el buque de guerra de 64 cañones Vasa que se hundió en su viaje inaugural en 1628.
 
@@ -29,7 +29,7 @@ Es el museo más visitado de Escandinavia, lo cual al principio parece un insult
 
 Después de esa experiencia masiva de aprendizaje, seguimos caminando a lo largo de Djurgården, más allá del circo, hasta Skansen.
 
-[Skansen](http://www.skansen.se/en/kategori/english) es un parque muy grande con edificios de época "recogidos" por su fundador, Artur Hazelius, en 1891. Por supuesto que ha crecido desde entonces, y ahora abarca muchos más edificios y actividades diferentes.
+[Skansen](https://www.skansen.se/en/kategori/english) es un parque muy grande con edificios de época "recogidos" por su fundador, Artur Hazelius, en 1891. Por supuesto que ha crecido desde entonces, y ahora abarca muchos más edificios y actividades diferentes.
 
 Vimos un montón de animales, como wolverines, renos, osos, focas ... pero también acariciamos cabras y "hablamos con" gansos. Nos maravillamos recorriendo los edificios perfectamente conservados, floridos jardines e idílicos estanques.
 
@@ -37,7 +37,7 @@ Ya que teníamos reserva para cenar mucho más tarde de la hora en la que cerrab
 
 Antes de ir, nos preocupaba si sería demasiado cursi y ñoño, pero por el contrario, es verdaderamente encantador y agradable, y completamente recomendable.
 
-Terminamos el día cenando en [Oaxen Slip](http://oaxen.com).
+Terminamos el día cenando en [Oaxen Slip](https://oaxen.com).
 
 En 1994 Magnus Ek y Agneta Green fundaron un restaurante en Estocolmo que ha cambiado de nombre y ubicación a lo largo de los años. Pero una cosa ha permanecido constante: la calidad. Fue nombrado uno de los 50 mejores restaurantes del mundo cinco años consecutivos por la revista Restaurant. El año pasado recibieron una calificación de dos estrellas Michelín.
 

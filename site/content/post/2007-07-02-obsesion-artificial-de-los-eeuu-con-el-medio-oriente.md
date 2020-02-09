@@ -4,7 +4,7 @@ title: Obsesión artificial de los EEUU con el Medio Oriente
 date: 2007-07-02T07:41:29+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/07/02/obsesion-artificial-de-los-eeuu-con-el-medio-oriente/
+guid: https://www.cortell.net/2007/07/02/obsesion-artificial-de-los-eeuu-con-el-medio-oriente/
 permalink: /2007/07/02/obsesion-artificial-de-los-eeuu-con-el-medio-oriente/
 categories:
   - General

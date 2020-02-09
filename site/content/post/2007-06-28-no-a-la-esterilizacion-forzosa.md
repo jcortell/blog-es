@@ -4,7 +4,7 @@ title: NO a la esterilización forzosa
 date: 2007-06-28T12:02:42+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/06/28/no-a-la-esterilizacion-forzosa/
+guid: https://www.cortell.net/2007/06/28/no-a-la-esterilizacion-forzosa/
 permalink: /2007/06/28/no-a-la-esterilizacion-forzosa/
 categories:
   - CiberDerechos

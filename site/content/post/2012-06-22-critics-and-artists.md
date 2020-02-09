@@ -4,7 +4,7 @@ title: Critics and artists
 date: 2012-06-22T17:15:32+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4202
+guid: https://cortell.net/blog/?p=4202
 permalink: /2012/06/22/critics-and-artists/
 wpsd_autopost:
   - "1"

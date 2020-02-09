@@ -4,7 +4,7 @@ title: La economía del iPod
 date: 2008-11-07T19:33:02+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1371
+guid: https://www.cortell.net/?p=1371
 permalink: /2008/11/07/la-economia-del-ipod/
 categories:
   - General

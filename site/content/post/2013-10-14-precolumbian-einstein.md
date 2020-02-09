@@ -4,7 +4,7 @@ title: Precolumbian Einstein
 date: 2013-10-14T00:32:48+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4956
+guid: https://cortell.net/blog/?p=4956
 permalink: /2013/10/14/precolumbian-einstein/
 categories:
   - General

@@ -4,7 +4,7 @@ title: 'Below zero... even on Google'
 date: 2011-12-17T19:20:40+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3691
+guid: https://cortell.net/blog/?p=3691
 permalink: /2011/12/17/below-zero-even-on-google/
 wpsd_autopost:
   - "1"

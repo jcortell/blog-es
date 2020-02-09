@@ -4,7 +4,7 @@ title: Mercado de la calle Maltby
 date: 2015-05-31T17:31:46+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5488
+guid: https://blog.cortell.net/es/?p=5488
 permalink: /2015/05/31/mercado-de-la-calle-maltby/
 categories:
   - General
@@ -12,7 +12,7 @@ categories:
   - Personal
   - Placeres de la vida
 ---
-Admito que soy un cobarde cuando se trata de clima desapacible (¿quién lo hubiese pensado, después de caminar kilómetros y kilómetros por las aceras nevadas de Nueva York?), así que este fin de semana entre la lluvia, el viento y las bajas temperaturas (a parte de una migración tecnológica que no ha salido lo bien que debería) me han dejado en casa, sin asistir a los eventos a los que realmente hubiese querido ir, como el <a href="http://webwewant.southbankcentre.co.uk/" target="_blank">Web We Want Festival</a>, y el Festival de Música y Filosofía <a href="https://howthelightgetsin.iai.tv/" target="_blank">HowTheLightGetsIn2015</a>. Pero un hombre ha de comer, así que el sábado fui al <a href="http://www.maltby.st/" target="_blank">mercado de la calle Maltby</a>.
+Admito que soy un cobarde cuando se trata de clima desapacible (¿quién lo hubiese pensado, después de caminar kilómetros y kilómetros por las aceras nevadas de Nueva York?), así que este fin de semana entre la lluvia, el viento y las bajas temperaturas (a parte de una migración tecnológica que no ha salido lo bien que debería) me han dejado en casa, sin asistir a los eventos a los que realmente hubiese querido ir, como el <a href="https://webwewant.southbankcentre.co.uk/" target="_blank">Web We Want Festival</a>, y el Festival de Música y Filosofía <a href="https://howthelightgetsin.iai.tv/" target="_blank">HowTheLightGetsIn2015</a>. Pero un hombre ha de comer, así que el sábado fui al <a href="https://www.maltby.st/" target="_blank">mercado de la calle Maltby</a>.
 
 Había leído online que era una gran alternativa al carísimo, abigarrado y _sólo-para-turistas_ mercado de Borough, así que sentía curiosidad, ya que ambos están cerca de mi apartamento en la zona del London Bridge.
 

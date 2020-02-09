@@ -18,7 +18,7 @@ Del 24 al 26 de octubre el banco UBS me invitó a asistir en Boston al [evento](
 
 <!--more-->
 
-El primer día, miércoles, llegué al [hotel](https://www.lenoxhotel.com/), dejé los trastos, y me fui directo a la [Universidad Northeastern](http://www.northeastern.edu/), a recabar una información personal. Luego regresé al hotel y me puse a trabajar. Por suerte, tenía un [Luke's Lobster](https://www.lukeslobster.com) al lado del hotel (¡cómo lo echaba de menos desde que vivía en Nueva York!), con lo que disfruté de una cena rápida, y pude trabajar bastante.
+El primer día, miércoles, llegué al [hotel](https://www.lenoxhotel.com/), dejé los trastos, y me fui directo a la [Universidad Northeastern](https://www.northeastern.edu/), a recabar una información personal. Luego regresé al hotel y me puse a trabajar. Por suerte, tenía un [Luke's Lobster](https://www.lukeslobster.com) al lado del hotel (¡cómo lo echaba de menos desde que vivía en Nueva York!), con lo que disfruté de una cena rápida, y pude trabajar bastante.
 
 Los dos siguientes días estuvieron completamente dedicados al evento. Tal y como lo define UBS:
 

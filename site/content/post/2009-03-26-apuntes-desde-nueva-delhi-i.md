@@ -4,26 +4,26 @@ title: Apuntes desde Nueva Delhi I
 date: 2009-03-26T15:54:54+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1704
+guid: https://cortell.net/blog/?p=1704
 permalink: /2009/03/26/apuntes-desde-nueva-delhi-i/
 categories:
   - General
   - Personal
   - Placeres de la vida
 ---
-<img class="aligncenter" title="Tumba de Humayu" src="http://farm4.static.flickr.com/3664/3399619390_e561e4c30b_m.jpg" alt="" width="240" height="160" />
+<img class="aligncenter" title="Tumba de Humayu" src="https://farm4.static.flickr.com/3664/3399619390_e561e4c30b_m.jpg" alt="" width="240" height="160" />
 
 Tras una visita a un potencial distribuidor esta mañana a primera hora (en taxi a gas con chófer de Punjab con turbante y bigotes rizados en los extremos), mi chica y yo nos hemos ido a visitar la tumba de Humayu y el Swaminarayan Akshardham, donde por cierto no permiten la entrada de móviles, cámaras, ni nada de nada.
 
 <p style="text-align: center">
-  <img class="aligncenter" title="Swaminarayan Akshardham" src="http://farm4.static.flickr.com/3622/3399625522_41db78701e_m.jpg" alt="" width="240" height="77" />
+  <img class="aligncenter" title="Swaminarayan Akshardham" src="https://farm4.static.flickr.com/3622/3399625522_41db78701e_m.jpg" alt="" width="240" height="77" />
 </p>
 
 Curioso, hacen como en Cuba: al extranjero le cobran mucho más. Es como "si tienes alto poder adquisitivo en tu país, paga acorde con ese nivel aquí". Lo que no creo que consideren es que si pago con el nivel de mi país, espero servicios del nivel de mi país (higiene, señalización, etc) cosa que no se obtiene ni de lejos.
 
-<img class="aligncenter" title="precios más altos para extranjeros" src="http://farm4.static.flickr.com/3590/3399617038_79c948b03c_m.jpg" alt="" width="160" height="240" />
+<img class="aligncenter" title="precios más altos para extranjeros" src="https://farm4.static.flickr.com/3590/3399617038_79c948b03c_m.jpg" alt="" width="160" height="240" />
 
-Por la tarde ella se ha ido con unos amigos de compras a Fabindia, mientras yo me las tenía que ver con más turbantes. Al acabar trabajar (y postear) desde la habitación, y a cenar a <a title="http://www.starwoodhotels.com/sheraton/property/dining/index.html?propertyID=1996" href="http://www.starwoodhotels.com/sheraton/property/dining/index.html?propertyID=1996" target="_blank">Dakshin</a>, el fantástico restaurante de comida del sur de la India del hotel Sheraton (anoche, nada más aterrizar, fuimos a uno muy típico en Connaught Place, pero en el que picaba hasta el agua).
+Por la tarde ella se ha ido con unos amigos de compras a Fabindia, mientras yo me las tenía que ver con más turbantes. Al acabar trabajar (y postear) desde la habitación, y a cenar a <a title="https://www.starwoodhotels.com/sheraton/property/dining/index.html?propertyID=1996" href="https://www.starwoodhotels.com/sheraton/property/dining/index.html?propertyID=1996" target="_blank">Dakshin</a>, el fantástico restaurante de comida del sur de la India del hotel Sheraton (anoche, nada más aterrizar, fuimos a uno muy típico en Connaught Place, pero en el que picaba hasta el agua).
 
 Nueva Delhi es mucho más monumental que Mumbai, y se ve menos pobreza (aunque estar está). Por otra parte tiene menos pujanza económica que Mumbai.
 
@@ -40,4 +40,4 @@ Otra cosa que es común con todos ellos: la manía de decir "es caro". Da igual 
 
 Esto, señores, es la India. Uno puede adaptarse o no, pero no parece que ellos piensen cambiar mucho (aunque se vean signos de "occidentalización").
 
-<img class="aligncenter" title="Barbies Indias" src="http://farm4.static.flickr.com/3657/3398787099_a4721c80d2_m.jpg" alt="" width="240" height="98" />
+<img class="aligncenter" title="Barbies Indias" src="https://farm4.static.flickr.com/3657/3398787099_a4721c80d2_m.jpg" alt="" width="240" height="98" />

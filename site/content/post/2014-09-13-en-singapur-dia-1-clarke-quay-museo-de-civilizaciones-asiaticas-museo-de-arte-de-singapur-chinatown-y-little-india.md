@@ -4,7 +4,7 @@ title: 'En Singapur, día 1: Clarke Quay, Museo de Civilizaciones Asiáticas, Mu
 date: 2014-09-13T16:40:22+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5287
+guid: https://blog.cortell.net/es/?p=5287
 permalink: /2014/09/13/en-singapur-dia-1-clarke-quay-museo-de-civilizaciones-asiaticas-museo-de-arte-de-singapur-chinatown-y-little-india/
 categories:
   - Arte
@@ -12,13 +12,13 @@ categories:
   - Personal
   - Placeres de la vida
 ---
-NOTA: Por algún motivo WordPress no muestra todas las fotos de ese día (8 de septiembre), pero puedes ver MAS FOTOS aquí: <a title="http://www.flickr.com/photos/jcortell/sets/72157647043529148/" href="http://www.flickr.com/photos/jcortell/sets/72157647043529148/" target="_blank">http://www.flickr.com/photos/jcortell/sets/72157647043529148/</a>
+NOTA: Por algún motivo WordPress no muestra todas las fotos de ese día (8 de septiembre), pero puedes ver MAS FOTOS aquí: <a title="https://www.flickr.com/photos/jcortell/sets/72157647043529148/" href="https://www.flickr.com/photos/jcortell/sets/72157647043529148/" target="_blank">https://www.flickr.com/photos/jcortell/sets/72157647043529148/</a>
 
 Trato de no tener ideas preconcebidas acerca de un destino. Pero uno no puede dejar de asociar Singapur con rascacielos, lujo, orden y limpieza provocados por leyes estrictas. Como estaba a punto de averiguar, hay mucho de todo eso, y razones para ello, pero Singapur es también mucho más que eso.
 
 Singapur es uno de los dos puertos marítimos más concurridos del mundo, junto con Hong Kong. Alrededor de tres veces el tamaño de Washington DC, es uno de los países más densamente poblados del mundo, después de Mónaco.
 
-Llegué a medianoche, y después de un procedimiento de inmigración muy rápido y fácil, lo único que quería era llegar al <a title="http://www.millenniumhotels.com.sg/studiomhotelsingapore" href="http://www.millenniumhotels.com.sg/studiomhotelsingapore" target="_blank">hotel</a> e ir a dormir, que es lo que hice.
+Llegué a medianoche, y después de un procedimiento de inmigración muy rápido y fácil, lo único que quería era llegar al <a title="https://www.millenniumhotels.com.sg/studiomhotelsingapore" href="https://www.millenniumhotels.com.sg/studiomhotelsingapore" target="_blank">hotel</a> e ir a dormir, que es lo que hice.
 
 Al día siguiente me decidí a dar un paseo por el río, de Clarke Quay donde estaba mi hotel, al Barrio Cívico. Por supuesto, después del Parlamento y la Casa de Artes estaba el Museo de las Civilizaciones de Asia. ¡Bien!
 

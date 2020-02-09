@@ -4,7 +4,7 @@ title: 'Proyecto de ley: modificación de la Ley de Propiedad Intelectual'
 date: 2005-07-23T00:07:29+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/07/23/proyecto-de-ley-modificacion-de-la-ley-de-propiedad-intelectual/
+guid: https://www.cortell.net/2005/07/23/proyecto-de-ley-modificacion-de-la-ley-de-propiedad-intelectual/
 permalink: /2005/07/23/proyecto-de-ley-modificacion-de-la-ley-de-propiedad-intelectual/
 categories:
   - CiberDerechos
@@ -12,7 +12,7 @@ categories:
   - General
   - Noticias
 ---
-El Consejo de Ministros ha acordado remitir al Parlamento para su tramitación el Proyecto de Ley de modificación del Texto refundido de la Ley de Propiedad Intelectual. Podéis leer la crónica en la [Asociación de Internautas](http://www.internautas.org/html/3062.html) o en [El Paí­s](http://www.elpais.es/articulo/elpportec/20050722elpepunet_5/Tes).
+El Consejo de Ministros ha acordado remitir al Parlamento para su tramitación el Proyecto de Ley de modificación del Texto refundido de la Ley de Propiedad Intelectual. Podéis leer la crónica en la [Asociación de Internautas](https://www.internautas.org/html/3062.html) o en [El Paí­s](https://www.elpais.es/articulo/elpportec/20050722elpepunet_5/Tes).
 
 Cosas que me han llamado la atención a priori de esta propuesta:
 

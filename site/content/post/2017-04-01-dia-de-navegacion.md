@@ -4,7 +4,7 @@ title: Día de navegación
 date: 2017-04-01T11:00:36+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=6051
+guid: https://blog.cortell.net/es/?p=6051
 permalink: /2017/04/01/dia-de-navegacion/
 categories:
   - General

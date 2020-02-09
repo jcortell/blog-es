@@ -4,7 +4,7 @@ title: El drama de los ní­speros es CASI el mismo que el de los músicos
 date: 2006-06-09T08:04:31+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/06/09/el-drama-de-los-nisperos-es-casi-el-mismo-que-el-de-los-musicos/
+guid: https://www.cortell.net/2006/06/09/el-drama-de-los-nisperos-es-casi-el-mismo-que-el-de-los-musicos/
 permalink: /2006/06/09/el-drama-de-los-nisperos-es-casi-el-mismo-que-el-de-los-musicos/
 categories:
   - CiberDerechos
@@ -15,7 +15,7 @@ categories:
 ---
 Lola Sánchez, en irreverendos.com, tiene este excelente chiste gráfico:
 
-<a target="_blank" title="entrada en Irreverendos" href="http://www.irreverendos.com/?p=683"><img alt="Intermediarios" title="Intermediarios" src="http://www.irreverendos.com/wp-content/uploads/2006/06/piratas.jpg" /></a>
+<a target="_blank" title="entrada en Irreverendos" href="https://www.irreverendos.com/?p=683"><img alt="Intermediarios" title="Intermediarios" src="https://www.irreverendos.com/wp-content/uploads/2006/06/piratas.jpg" /></a>
 
 Los campesinos, como los músicos, son ví­ctimas de los intermediarios, que hacen que "su" "producto" (o mejor dicho el resultado de su trabajo) llegue al "mercado" con precios manipulados por entidades intermediarias y quasi-monopolí­sticas. PERO...
 

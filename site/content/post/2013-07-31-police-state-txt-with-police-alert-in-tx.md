@@ -4,7 +4,7 @@ title: 'Police state: TXT with police alert in TX'
 date: 2013-07-31T14:30:04+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4864
+guid: https://cortell.net/blog/?p=4864
 permalink: /2013/07/31/police-state-txt-with-police-alert-in-tx/
 categories:
   - CiberDerechos
@@ -35,7 +35,7 @@ Benjamin Franklin, 1775
 
 <blockquote class="twitter-tweet">
   <p>
-    NJ Gov. Chris Christie: Opposing NSA Surveillance Is A 'Strain Of Very Dangerous Thought' <a href="http://t.co/x0MwD4JGz0">http://t.co/x0MwD4JGz0</a>
+    NJ Gov. Chris Christie: Opposing NSA Surveillance Is A 'Strain Of Very Dangerous Thought' <a href="https://t.co/x0MwD4JGz0">https://t.co/x0MwD4JGz0</a>
   </p>
   
   <p>
@@ -45,7 +45,7 @@ Benjamin Franklin, 1775
 
 <blockquote class="twitter-tweet">
   <p>
-    Revealed: NSA program collects 'nearly everything a user does on the internet' <a href="http://t.co/9amLG9j8Yw">http://t.co/9amLG9j8Yw</a>
+    Revealed: NSA program collects 'nearly everything a user does on the internet' <a href="https://t.co/9amLG9j8Yw">https://t.co/9amLG9j8Yw</a>
   </p>
   
   <p>
@@ -55,7 +55,7 @@ Benjamin Franklin, 1775
 
 <blockquote class="twitter-tweet">
   <p>
-    TSA Misconduct Up 26 Percent <a href="http://t.co/Lmk9emL3di">http://t.co/Lmk9emL3di</a> <a href="https://twitter.com/search?q=%23cheatsheet&src=hash">#cheatsheet</a>
+    TSA Misconduct Up 26 Percent <a href="https://t.co/Lmk9emL3di">https://t.co/Lmk9emL3di</a> <a href="https://twitter.com/search?q=%23cheatsheet&src=hash">#cheatsheet</a>
   </p>
   
   <p>

@@ -4,7 +4,7 @@ title: Cuatro conferencias durante el Fin de Semana de Ex-Alumnos de Oxford
 date: 2015-09-24T10:15:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5602
+guid: https://blog.cortell.net/es/?p=5602
 permalink: /2015/09/24/cuatro-conferencias-durante-el-fin-de-semana-de-ex-alumnos-de-oxford/
 categories:
   - Ciencias
@@ -78,7 +78,7 @@ De nuevo, aquí hay algunas notas en ningún orden en particular:
   
     Electrodébil + Energía Fuerte = Gran Fuerza Unificada / supersimetría o SUSY (materia oscura)
   * ¿Cómo encontramos la materia oscura?… a través de la asimetría
-  * <a href="http://atlas.ch" target="_blank">Atlas</a> es la cámara digital más grande del mundo, en el interior del LHC. Es tan grande como una catedral, para ser capaz de capturar el más pequeño de los acontecimientos (reacciones de partículas). Se actualizará en 2023
+  * <a href="https://atlas.ch" target="_blank">Atlas</a> es la cámara digital más grande del mundo, en el interior del LHC. Es tan grande como una catedral, para ser capaz de capturar el más pequeño de los acontecimientos (reacciones de partículas). Se actualizará en 2023
   * Llevó 10.000 personas de 60 países hacer el LHC. Se produce el equivalente a 10.000 Enciclopedias Británicas de datos cada segundo, que si se grabasen en CDs y apilados alcanzarían 1.5 veces la altura del Monte Everest
   * El LHC sólo ha ejecutado el 1% de las colisiones previstas todavía
   * Hay 20 células en un mm, 500 mil ADN, 500 mil millones de núcleos atómicos, y 10 billones de quarks

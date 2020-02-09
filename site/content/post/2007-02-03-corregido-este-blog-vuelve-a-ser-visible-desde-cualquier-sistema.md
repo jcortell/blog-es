@@ -4,7 +4,7 @@ title: 'Corregido: este blog vuelve a ser visible desde cualquier sistema'
 date: 2007-02-03T17:59:08+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/02/03/corregido-este-blog-vuelve-a-ser-visible-desde-cualquier-sistema/
+guid: https://www.cortell.net/2007/02/03/corregido-este-blog-vuelve-a-ser-visible-desde-cualquier-sistema/
 permalink: /2007/02/03/corregido-este-blog-vuelve-a-ser-visible-desde-cualquier-sistema/
 categories:
   - General

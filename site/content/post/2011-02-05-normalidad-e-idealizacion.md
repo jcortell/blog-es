@@ -4,7 +4,7 @@ title: Normalidad e idealización
 date: 2011-02-05T19:42:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2891
+guid: https://cortell.net/blog/?p=2891
 permalink: /2011/02/05/normalidad-e-idealizacion/
 categories:
   - General
@@ -28,7 +28,7 @@ Parece "normal" no padecer enfermedades. Pero si uno busca "una de cada personas
 
 Una mujer no puede ser madre y mantener un vientre plano (cosa que, ya de por sí, no es natural, por ser la zona del vientre femenino una región estructuralmente diseñada para la acumulación de tejido adiposo en mucha mayor cantidad y proporción que en el hombre). ¿Por qué la muñeca Barbie, referente iconográfico del modelo corporal de mujer para millones de niñas, no se mantiene de pie sola? Sencillamente porque tiene unas proporciones imposibles.
 
-<img class="aligncenter" title="Barbie anoréxica" src="http://t2.gstatic.com/images?q=tbn:ANd9GcQukC6rLjonXzwc0H514v9nuTf5pHMa0x6SVQurlQVICSLuUJkqYQ&t=1" alt="" width="194" height="259" />
+<img class="aligncenter" title="Barbie anoréxica" src="https://t2.gstatic.com/images?q=tbn:ANd9GcQukC6rLjonXzwc0H514v9nuTf5pHMa0x6SVQurlQVICSLuUJkqYQ&t=1" alt="" width="194" height="259" />
 
 Un hombre no puede estar completamente sano toda la vida, y vivir muchos años. Se cuide lo que se cuide. Ni puede pretender que sea "normal" llegar a estrella de rock, o estrella del balón, mientras trabaja de día de contable, y por la tarde cuida a sus padres enfermos.
 

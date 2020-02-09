@@ -4,7 +4,7 @@ title: Pancartas para el 29-S
 date: 2010-09-25T11:48:18+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2641
+guid: https://cortell.net/blog/?p=2641
 permalink: /2010/09/25/pancartas-para-el-29-s/
 categories:
   - ¿Por qué no? ¿Utopías?

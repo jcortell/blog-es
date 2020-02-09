@@ -4,7 +4,7 @@ title: How to abide to the law while rejecting threats
 date: 2013-07-29T14:13:07+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4860
+guid: https://cortell.net/blog/?p=4860
 permalink: /2013/07/29/how-to-abide-to-the-law-while-rejecting-threat/
 categories:
   - CiberDerechos
@@ -17,9 +17,9 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-Según la <a title="http://www.minetur.gob.es/telecomunicaciones/lssi/faqs/paginas/faq_obligaciones.aspx" href="http://www.minetur.gob.es/telecomunicaciones/lssi/faqs/paginas/faq_obligaciones.aspx" target="_blank">web</a> de la
+Según la <a title="https://www.minetur.gob.es/telecomunicaciones/lssi/faqs/paginas/faq_obligaciones.aspx" href="https://www.minetur.gob.es/telecomunicaciones/lssi/faqs/paginas/faq_obligaciones.aspx" target="_blank">web</a> de la
 
-<a title="http://www.minetur.gob.es/telecomunicaciones/lssi/faqs/paginas/faq_obligaciones.aspx" href="http://www.minetur.gob.es/telecomunicaciones/lssi/faqs/paginas/faq_obligaciones.aspx" target="_blank"><img alt="logo ministerio" src="http://www.minetur.gob.es/SiteCollectionImages/images/logo-ministerio.png" width="285" height="66" /><img alt="logo secretaría" src="http://www.minetur.gob.es/SiteCollectionImages/plantilla/secretaria_teleco_SDLI.gif" width="150" height="66" /></a>
+<a title="https://www.minetur.gob.es/telecomunicaciones/lssi/faqs/paginas/faq_obligaciones.aspx" href="https://www.minetur.gob.es/telecomunicaciones/lssi/faqs/paginas/faq_obligaciones.aspx" target="_blank"><img alt="logo ministerio" src="https://www.minetur.gob.es/SiteCollectionImages/images/logo-ministerio.png" width="285" height="66" /><img alt="logo secretaría" src="https://www.minetur.gob.es/SiteCollectionImages/plantilla/secretaria_teleco_SDLI.gif" width="150" height="66" /></a>
 
 (las negrillas son mías):
 

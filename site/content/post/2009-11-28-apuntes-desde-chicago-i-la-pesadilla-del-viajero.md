@@ -4,7 +4,7 @@ title: 'Apuntes desde Chicago I: la pesadilla del viajero'
 date: 2009-11-28T09:09:48+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2381
+guid: https://cortell.net/blog/?p=2381
 permalink: /2009/11/28/apuntes-desde-chicago-i-la-pesadilla-del-viajero/
 categories:
   - General

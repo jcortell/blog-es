@@ -4,7 +4,7 @@ title: 'Alaska Cruise Day 2: Inside Passage'
 date: 2013-06-20T16:29:08+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4756
+guid: https://cortell.net/blog/?p=4756
 permalink: /2013/06/20/alaska-cruise-day-2-inside-passage/
 categories:
   - General

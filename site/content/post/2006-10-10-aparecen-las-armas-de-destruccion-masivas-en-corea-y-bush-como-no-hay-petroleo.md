@@ -4,7 +4,7 @@ title: 'Aparecen las armas de destrucción masivas en Corea -¿y Bush? como no h
 date: 2006-10-10T10:00:42+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2006/10/10/aparecen-las-armas-de-destruccion-masivas-en-corea-%c2%bfy-bush-como-no-hay-petroleo/'
+guid: 'https://www.cortell.net/2006/10/10/aparecen-las-armas-de-destruccion-masivas-en-corea-%c2%bfy-bush-como-no-hay-petroleo/'
 permalink: /2006/10/10/aparecen-las-armas-de-destruccion-masivas-en-corea-y-bush-como-no-hay-petroleo/
 categories:
   - General
@@ -20,4 +20,4 @@ Hasta aquí­ todo redondo (para los mangante simperialistas y los ingénuos de 
 
 Pero la hipocresí­a ha quedado descaradamente en evidencia con la chulerí­a de Corea. Ahora todos corren a esconderse tras la ONU (a quien mil veces han tachado de inoperante, inútil, y le han retirado el pago).
 
-![Como vi en un poster hace tiempo...](http://home.arcor.de/deantaylor/usworldtour.jpg "Como vi en un poster hace tiempo...")
+![Como vi en un poster hace tiempo...](https://home.arcor.de/deantaylor/usworldtour.jpg "Como vi en un poster hace tiempo...")

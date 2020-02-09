@@ -4,7 +4,7 @@ title: 'URGENTE: el gobierno prepara una traición'
 date: 2009-01-15T23:01:33+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1440
+guid: https://www.cortell.net/?p=1440
 permalink: /2009/01/15/urgente-el-gobierno-prepara-una-traicion/
 categories:
   - CiberDerechos
@@ -13,7 +13,7 @@ categories:
   - Noticias
   - Rants
 ---
-Según adelanta Roberto: **"Las entidades de gestión y las operadoras está en este mismisimo momento negociando un acuerdo bajo la supervisión y el amparo del <a title="http://www.internautas.org/html/5253.html" href="http://www.internautas.org/html/5253.html" target="_blank">ministro</a>** (de la SGA€) **Molina"**
+Según adelanta Roberto: **"Las entidades de gestión y las operadoras está en este mismisimo momento negociando un acuerdo bajo la supervisión y el amparo del <a title="https://www.internautas.org/html/5253.html" href="https://www.internautas.org/html/5253.html" target="_blank">ministro</a>** (de la SGA€) **Molina"**
 
 Si esto es así, y va en la línea de lo anunciado (corte del P2P, básicamente) es una **traición a:**
 
@@ -27,7 +27,7 @@ Si esto es así, y va en la línea de lo anunciado (corte del P2P, básicamente)
 
 – **Los CIUDADANOS**: que en su gran mayoría emplean el P2P, quieren seguir empleándolo, quieren acceder a la cultura, y no quieren que se les tase por ello y mucho menos que se les criminalice por hacer lo que se les ha intentado inculcar desde pequeños "compartir es bueno"
 
-– **La <a title="http://www.internautas.org/html/5250.html" href="http://www.internautas.org/html/5250.html" target="_blank">CULTURA</a>**: ya que dificultará su difusión, que es lo mejor que le puede pasar a una obra, y por ende a un autor, y por ende a su bolsillo.
+– **La <a title="https://www.internautas.org/html/5250.html" href="https://www.internautas.org/html/5250.html" target="_blank">CULTURA</a>**: ya que dificultará su difusión, que es lo mejor que le puede pasar a una obra, y por ende a un autor, y por ende a su bolsillo.
 
 – **La RAZÓN**: ¿no estamos en el siglo XXI? ¿no es obvio que discográficas y productoras, así como por supuesto Suciedades de Gestión, están anacrónicamente desfasados e intentando interferir con el libre mercado, la ley, y el avance de la tecnología, forzando una endogamia y restricción al proceso de creación que atenta gravemente contra la cultura? ¿no ha quedado demostrado que existen modelos de negocio alternativos?
 

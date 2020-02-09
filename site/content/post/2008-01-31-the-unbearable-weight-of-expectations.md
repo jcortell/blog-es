@@ -4,7 +4,7 @@ title: The unbearable weight of expectations
 date: 2008-01-31T11:39:09+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/01/31/the-unbearable-weight-of-expectations/
+guid: https://www.cortell.net/2008/01/31/the-unbearable-weight-of-expectations/
 permalink: /2008/01/31/the-unbearable-weight-of-expectations/
 categories:
   - Filosofí­a

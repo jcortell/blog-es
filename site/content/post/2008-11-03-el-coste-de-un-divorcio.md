@@ -4,7 +4,7 @@ title: El coste de un divorcio
 date: 2008-11-03T02:03:36+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1359
+guid: https://www.cortell.net/?p=1359
 permalink: /2008/11/03/el-coste-de-un-divorcio/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -13,7 +13,7 @@ categories:
   - Personal
 ---
 <p style="text-align: center">
-  <img class="aligncenter" src="http://4.bp.blogspot.com/_5Yvf4Ne_lmM/SPOQRVctNzI/AAAAAAAAAck/LNwAj7ogd3g/s400/pareja_camboyana_sierra_casa_mitad_acelerar_divorcio.jpg" alt="foto casa partida" width="400" height="294" />
+  <img class="aligncenter" src="https://4.bp.blogspot.com/_5Yvf4Ne_lmM/SPOQRVctNzI/AAAAAAAAAck/LNwAj7ogd3g/s400/pareja_camboyana_sierra_casa_mitad_acelerar_divorcio.jpg" alt="foto casa partida" width="400" height="294" />
 </p>
 
 Esta foto de AFP (familia camboyana que decide salomónicamente repartir la casa por divorcio) es muy ilustrativa.

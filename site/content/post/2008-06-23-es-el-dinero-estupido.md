@@ -4,7 +4,7 @@ title: 'Es el dinero... estúpido'
 date: 2008-06-23T07:42:59+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1250
+guid: https://www.cortell.net/?p=1250
 permalink: /2008/06/23/es-el-dinero-estupido/
 categories:
   - CiberDerechos

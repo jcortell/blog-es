@@ -4,7 +4,7 @@ title: Cuatro días en Dusseldorf
 date: 2015-11-19T11:14:55+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5678
+guid: https://blog.cortell.net/es/?p=5678
 permalink: /2015/11/19/cuatro-dias-en-dusseldorf/
 categories:
   - General

@@ -18,7 +18,7 @@ Como cualquier valenciano sabe, debes huir de [Fallas] (https://en.wikipedia.org
 
 <!--more-->
 
-Este año tuvimos la suerte de tener un par de amigos visitándonos: Megan Roberts, compositora y artista de medios, y Raymond Ghirardo, escultor y artista de medios, [ambos] (http://www.roberts-ghirardo.net) catedráticos de arte retirados de Ithaca College. Por supuesto, les presentamos a nuestros buenos amigos Trini y Claudio ([otro artista] (https://zirotticrea.blogspot.com)), y nos lo pasamos de maravilla.
+Este año tuvimos la suerte de tener un par de amigos visitándonos: Megan Roberts, compositora y artista de medios, y Raymond Ghirardo, escultor y artista de medios, [ambos] (https://www.roberts-ghirardo.net) catedráticos de arte retirados de Ithaca College. Por supuesto, les presentamos a nuestros buenos amigos Trini y Claudio ([otro artista] (https://zirotticrea.blogspot.com)), y nos lo pasamos de maravilla.
 
 Para colmo, otro amigo, Thomas, nos visitó desde Australia.
 

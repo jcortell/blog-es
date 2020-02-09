@@ -4,7 +4,7 @@ title: San Francisco, día 5
 date: 2016-09-16T02:42:43+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5890
+guid: https://blog.cortell.net/es/?p=5890
 permalink: /2016/09/16/san-francisco-dia-5/
 categories:
   - ¿Por qué no? ¿Utopías?

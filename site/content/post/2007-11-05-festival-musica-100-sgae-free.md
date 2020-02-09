@@ -4,7 +4,7 @@ title: 'Festival música 100% SGAE Free'
 date: 2007-11-05T17:59:27+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/11/05/festival-musica-100-sgae-free/
+guid: https://www.cortell.net/2007/11/05/festival-musica-100-sgae-free/
 permalink: /2007/11/05/festival-musica-100-sgae-free/
 categories:
   - CiberDerechos
@@ -66,6 +66,6 @@ desarrollos y herramientas libres para la performance VJ
   
 fundamentos basicos de soporte técnico en directos.
 
-Para mas información, consulta en la web http://delcorp.org/distorsionfest
+Para mas información, consulta en la web https://delcorp.org/distorsionfest
   
 o escribenos a distorsionfest@gmail.com

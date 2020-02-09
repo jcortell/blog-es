@@ -4,7 +4,7 @@ title: El increíble sistema menguante
 date: 2009-08-29T09:46:52+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2127
+guid: https://cortell.net/blog/?p=2127
 permalink: /2009/08/29/el-increible-sistema-menguante/
 categories:
   - Geek Fun

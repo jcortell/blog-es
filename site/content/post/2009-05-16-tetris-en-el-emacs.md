@@ -4,7 +4,7 @@ title: Tetris en el Emacs
 date: 2009-05-16T02:36:45+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1912
+guid: https://cortell.net/blog/?p=1912
 permalink: /2009/05/16/tetris-en-el-emacs/
 categories:
   - Free Software

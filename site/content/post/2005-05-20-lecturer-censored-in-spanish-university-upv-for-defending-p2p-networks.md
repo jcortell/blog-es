@@ -4,7 +4,7 @@ title: Lecturer censored in Spanish University (UPV) for defending P2P networks
 date: 2005-05-20T09:15:47+00:00
 author: Jorge Cortell
 layout: post
-guid: http://64.246.54.67/cortell.net/?p=2
+guid: https://64.246.54.67/cortell.net/?p=2
 permalink: /2005/05/20/lecturer-censored-in-spanish-university-upv-for-defending-p2p-networks/
 categories:
   - CiberDerechos
@@ -46,98 +46,98 @@ jorgecortell (at) mac (dot) com
 
 My website with a lot of information (in Spanish) regarding this issue (including transcripts, screen captures and other proofs):
   
-http://jorge.cortell.net
+https://jorge.cortell.net
 
 INTERNATIONAL COVERAGE:
   
-[Slashdot.org](http://yro.slashdot.org/yro/05/05/20/1538242.shtml?tid=153&tid=155&tid=146) (over 700 comments in a day)
+[Slashdot.org](https://yro.slashdot.org/yro/05/05/20/1538242.shtml?tid=153&tid=155&tid=146) (over 700 comments in a day)
   
-[The Inquirer](http://www.theinquirer.net/?article=23423)
+[The Inquirer](https://www.theinquirer.net/?article=23423)
   
-[boingboing.net](http://www.boingboing.net/2005/05/20/spanish_copyright_so.html)
+[boingboing.net](https://www.boingboing.net/2005/05/20/spanish_copyright_so.html)
   
-[zeropaid.com](http://www.zeropaid.com/news/5406/Lecturer+censored+in+Spanish+University+(UPV)+for+defending+P2P+networks)
+[zeropaid.com](https://www.zeropaid.com/news/5406/Lecturer+censored+in+Spanish+University+(UPV)+for+defending+P2P+networks)
   
-in [Finnish](http://fin.afterdawn.com/uutiset/arkisto/6454.cfm)
+in [Finnish](https://fin.afterdawn.com/uutiset/arkisto/6454.cfm)
   
-in [Norwegian](http://anders.arendal.no/p2psensorship.no) (and [another one)](http://www.itavisen.no/showArticle.php?articleId=1306191)
+in [Norwegian](https://anders.arendal.no/p2psensorship.no) (and [another one)](https://www.itavisen.no/showArticle.php?articleId=1306191)
   
-in [German](http://www.macwelt.de/index.cfm?pid=4&pk=331962)
+in [German](https://www.macwelt.de/index.cfm?pid=4&pk=331962)
   
-in [Italian](http://www.p2pforum.it/forum/showthread.php?t=35396)
+in [Italian](https://www.p2pforum.it/forum/showthread.php?t=35396)
   
-in [French](http://www.plazoo.com/en/item/13374547.htm) (and [2](http://www.framasoft.net/article3920.html))
+in [French](https://www.plazoo.com/en/item/13374547.htm) (and [2](https://www.framasoft.net/article3920.html))
   
-in [Japanese](http://blog.livedoor.jp/tak2/archives/22733006.html)
+in [Japanese](https://blog.livedoor.jp/tak2/archives/22733006.html)
   
-and even turned into an [animated short film](http://mm.dfilm.com/mm2s/mm_route.php?id=2408937)!
+and even turned into an [animated short film](https://mm.dfilm.com/mm2s/mm_route.php?id=2408937)!
 
 IN SPANISH:
 
 Particularly:
   
-[[1]](http://homepage.mac.com/jorgecortell/blogwavestudio/LH20041021114344/LHA20050505142849/index.html)
+[[1]](https://homepage.mac.com/jorgecortell/blogwavestudio/LH20041021114344/LHA20050505142849/index.html)
   
-[[2]](http://homepage.mac.com/jorgecortell/blogwavestudio/LH20041021114344/LHA20050428093531/index.html)
+[[2]](https://homepage.mac.com/jorgecortell/blogwavestudio/LH20041021114344/LHA20050428093531/index.html)
   
-[[3]](http://homepage.mac.com/jorgecortell/blogwavestudio/LH20041117170647/LHA20050505191504/index.html)
+[[3]](https://homepage.mac.com/jorgecortell/blogwavestudio/LH20041117170647/LHA20050505191504/index.html)
   
-[[4]](http://homepage.mac.com/jorgecortell/blogwavestudio/LH20041117170647/LHA20050505205536/index.html)
+[[4]](https://homepage.mac.com/jorgecortell/blogwavestudio/LH20041117170647/LHA20050505205536/index.html)
   
-[[5]](http://homepage.mac.com/jorgecortell/blogwavestudio/LH20041117170647/LHA20050510142036/index.html)
+[[5]](https://homepage.mac.com/jorgecortell/blogwavestudio/LH20041117170647/LHA20050510142036/index.html)
   
-[[6]](http://homepage.mac.com/jorgecortell/blogwavestudio/LH20041117170647/LHA20050504193150/index.html)
+[[6]](https://homepage.mac.com/jorgecortell/blogwavestudio/LH20041117170647/LHA20050504193150/index.html)
   
-[[7]](http://homepage.mac.com/jorgecortell/blogwavestudio/LH20041117170647/LHA20050504095812/index.html)
+[[7]](https://homepage.mac.com/jorgecortell/blogwavestudio/LH20041117170647/LHA20050504095812/index.html)
   
-[[8]](http://homepage.mac.com/jorgecortell/blogwavestudio/LH20041021114344/LHA20050507235615/index.html)
+[[8]](https://homepage.mac.com/jorgecortell/blogwavestudio/LH20041021114344/LHA20050507235615/index.html)
 
-[List of Blogs](http://www.technorati.com/cosmos/search.html?rank=&url=Cortell) that follow the issue
+[List of Blogs](https://www.technorati.com/cosmos/search.html?rank=&url=Cortell) that follow the issue
   
-[Audio](http://homepage.mac.com/jorgecortell/blogwavestudio/LH20041021114344/LHA20050504184022/index.html) of the lecture (recorded outdoors)
+[Audio](https://homepage.mac.com/jorgecortell/blogwavestudio/LH20041021114344/LHA20050504184022/index.html) of the lecture (recorded outdoors)
 
 Media coverage.-
 
 NEWSPAPERS:
   
-[El Pais](http://www.elpais.es/articulo.html?d_date=&xref=20050512elpcibenr_4&type=Tes&anchor=elpcibred#articulo) (National Newspaper, paid subscription required)
+[El Pais](https://www.elpais.es/articulo.html?d_date=&xref=20050512elpcibenr_4&type=Tes&anchor=elpcibred#articulo) (National Newspaper, paid subscription required)
   
-[El Mundo](http://www.elmundo.es/navegante/2005/05/04/esociedad/1115222036.html) (National Newspaper)
+[El Mundo](https://www.elmundo.es/navegante/2005/05/04/esociedad/1115222036.html) (National Newspaper)
   
-[20 Minutos](http://www.20minutos.es/noticia/22543/0/Politecnica/musica/publico/) (National Newspaper)
+[20 Minutos](https://www.20minutos.es/noticia/22543/0/Politecnica/musica/publico/) (National Newspaper)
 
 NEWS SITES:
   
-[Periodista Digital](http://www.periodistadigital.com/tecnologia/object.php?o=83090)
+[Periodista Digital](https://www.periodistadigital.com/tecnologia/object.php?o=83090)
   
-[Noticias dot com](http://www.noticias.com/index.php?action=mostrar_articulo&id=65103&seccion=Cultura%20y%20Ocio&categoria=&IDCanal=1)
+[Noticias dot com](https://www.noticias.com/index.php?action=mostrar_articulo&id=65103&seccion=Cultura%20y%20Ocio&categoria=&IDCanal=1)
   
-[Consumer Magazine](http://www.consumer.es/web/es/tecnologia/2005/05/09/141815.php)
+[Consumer Magazine](https://www.consumer.es/web/es/tecnologia/2005/05/09/141815.php)
   
-[Libertad Digital](http://www.libertaddigital.com/noticias/noticia_1276251087.html)
+[Libertad Digital](https://www.libertaddigital.com/noticias/noticia_1276251087.html)
   
-Spanish NetCitizens Association [[1]](http://www.internautas.org/html/1/2897.html)
+Spanish NetCitizens Association [[1]](https://www.internautas.org/html/1/2897.html)
   
-Spanish NetCitizens Association [[2]](http://www.internautas.org/html/1/2913.html)
+Spanish NetCitizens Association [[2]](https://www.internautas.org/html/1/2913.html)
   
-[Indymedia Barcelona](http://barcelona.indymedia.org/newswire/display/178812/index.php)
+[Indymedia Barcelona](https://barcelona.indymedia.org/newswire/display/178812/index.php)
 
 RADIO:
   
-[COPE national radio (interview)](http://homepage.mac.com/jorgecortell/blogwavestudio/LH20041021114344/LHA20050516145400/Media/LHA20050516145407.zip)
+[COPE national radio (interview)](https://homepage.mac.com/jorgecortell/blogwavestudio/LH20041021114344/LHA20050516145400/Media/LHA20050516145407.zip)
   
 [
   
-Radio 87Mhz (lecture)](http://sindominio.net/radio87mhz/)
+Radio 87Mhz (lecture)](https://sindominio.net/radio87mhz/)
 
 ENGLISH SPEAKING BLOGS:
   
-[English speaking blogger](http://www.protozoo.com/index.php?postId=78)
+[English speaking blogger](https://www.protozoo.com/index.php?postId=78)
   
 [
   
-Another English speaking blogger](http://ayk.textamerica.com/?r=2483560)
+Another English speaking blogger](https://ayk.textamerica.com/?r=2483560)
   
 [
   
-And many more links](http://piezas.bandaancha.st/docs/cortell.html)
+And many more links](https://piezas.bandaancha.st/docs/cortell.html)

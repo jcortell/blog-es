@@ -4,7 +4,7 @@ title: 'Artist that still do not get it'
 date: 2012-02-08T05:30:49+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3837
+guid: https://cortell.net/blog/?p=3837
 permalink: /2012/02/08/artist-that-still-dont-get-it/
 wpsd_autopost:
   - "1"

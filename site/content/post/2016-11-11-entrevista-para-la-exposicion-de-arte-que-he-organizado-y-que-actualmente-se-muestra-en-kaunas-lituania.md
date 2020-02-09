@@ -4,7 +4,7 @@ title: Entrevista para la exposición de arte que he organizado y que actualment
 date: 2016-11-11T09:31:45+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5946
+guid: https://blog.cortell.net/es/?p=5946
 permalink: /2016/11/11/entrevista-para-la-exposicion-de-arte-que-he-organizado-y-que-actualmente-se-muestra-en-kaunas-lituania/
 categories:
   - Arte
@@ -19,7 +19,7 @@ categories:
 ---
 Jorge Cortell, curador de arte, entrevistado por Airida Rekštytė el 4 de noviembre de 2016
 
-_Quiero hacerle las siguientes preguntas sobre la idea de [la exposición](http://netfreedomart.surge.sh/); creo que de acuerdo con su profunda formación teórica (sic), no le será difícil de exponer brevemente sus intenciones al organizar este evento. Tenemos un círculo mimado y exigente de visitantes y espectadores, así que necesitamos darles un poco más sobre la concepción principal:_
+_Quiero hacerle las siguientes preguntas sobre la idea de [la exposición](https://netfreedomart.surge.sh/); creo que de acuerdo con su profunda formación teórica (sic), no le será difícil de exponer brevemente sus intenciones al organizar este evento. Tenemos un círculo mimado y exigente de visitantes y espectadores, así que necesitamos darles un poco más sobre la concepción principal:_
 
 _¿Cuándo se le ocurrió la idea de hacer esta exposición y qué la inspiró?_
   

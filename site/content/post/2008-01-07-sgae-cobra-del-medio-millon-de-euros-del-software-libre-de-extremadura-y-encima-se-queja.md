@@ -4,7 +4,7 @@ title: SGAE cobra del medio millón de euros del software libre de Extremadura y
 date: 2008-01-07T11:52:17+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/01/07/sgae-cobra-del-medio-millon-de-euros-del-software-libre-de-extremadura-y-encima-se-queja/
+guid: https://www.cortell.net/2008/01/07/sgae-cobra-del-medio-millon-de-euros-del-software-libre-de-extremadura-y-encima-se-queja/
 permalink: /2008/01/07/sgae-cobra-del-medio-millon-de-euros-del-software-libre-de-extremadura-y-encima-se-queja/
 categories:
   - CiberDerechos
@@ -21,7 +21,7 @@ La postura de mantener un canon en España es cada dí­a mas insostenible, por 
 
 Ahora, y en algunos medios de comunicación están comenzando una campaña extremeña, con **declaraciones a Europa Press como ‘es "rotundamente falso" que haya obtenido más de medio millón de euros "por la grabación en cedés del programa gnuLinex", la aplicación de software libre creada por la Junta de Extremadura‘**
 
-<a target="_blank" title="EuropaPress" href="http://www.europapress.es/00285/20080104150421/sgae-asegura-falso-haya-obtenido-mas-medio-millon-euros-cedes-gnulinex.html">Enlace</a> a la noticia en la web de dicha agencia.
+<a target="_blank" title="EuropaPress" href="https://www.europapress.es/00285/20080104150421/sgae-asegura-falso-haya-obtenido-mas-medio-millon-euros-cedes-gnulinex.html">Enlace</a> a la noticia en la web de dicha agencia.
 
 Los datos contrastables que tenemos son muy sencillos:
 
@@ -31,4 +31,4 @@ b) SGAE ha ingresado por concepto de canon (por CD y DVD) varias decenas o de ci
 
 -¿Como sabe SGAE que no es así­? Que nos lo diga. -¿Cómo puede afirmar que eso es "rotundamente falso? -¿Qué es falso?
 
-Os pongo enlaces a <a target="_blank" title="historia en menéame" href="http://meneame.net/story/sgae-niega-haber-ingresado-500.000-gnulinex-como-sabe">menéame</a> por si queréis hacer algún comentario, así­ como otro a un <a target="_blank" title="Artí­culo" href="http://meneame.net/story/sociedad-conocimiento-comprendemos-no">artí­culo</a> que me ha parecido igualmente interesante del amigo David Santo Orcero.
+Os pongo enlaces a <a target="_blank" title="historia en menéame" href="https://meneame.net/story/sgae-niega-haber-ingresado-500.000-gnulinex-como-sabe">menéame</a> por si queréis hacer algún comentario, así­ como otro a un <a target="_blank" title="Artí­culo" href="https://meneame.net/story/sociedad-conocimiento-comprendemos-no">artí­culo</a> que me ha parecido igualmente interesante del amigo David Santo Orcero.

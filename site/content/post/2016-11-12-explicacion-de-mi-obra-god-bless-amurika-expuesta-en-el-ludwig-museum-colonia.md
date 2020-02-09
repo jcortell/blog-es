@@ -4,7 +4,7 @@ title: 'Explicación de mi obra “God bless Amurika”, expuesta en el Ludwig M
 date: 2016-11-12T10:41:37+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5950
+guid: https://blog.cortell.net/es/?p=5950
 permalink: /2016/11/12/explicacion-de-mi-obra-god-bless-amurika-expuesta-en-el-ludwig-museum-colonia/
 categories:
   - Arte

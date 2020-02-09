@@ -4,7 +4,7 @@ title: Manchester
 date: 2016-05-28T17:15:57+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5775
+guid: https://blog.cortell.net/es/?p=5775
 permalink: /2016/05/28/manchester/
 categories:
   - General

@@ -4,7 +4,7 @@ title: Hong Kong día 2
 date: 2017-04-01T16:00:46+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=6061
+guid: https://blog.cortell.net/es/?p=6061
 permalink: /2017/04/01/hong-kong-dia-2/
 categories:
   - General
@@ -30,7 +30,7 @@ Mientras la tarde se convertía en noche, tomamos el Star Ferry de regreso a Kow
 
 Para ir al aeropuerto cogimos uno de los autobuses de transporte gratuito que nos llevó desde el hotel a la estación de Kowloon donde abordamos el tren Airport Express, llegando al aeropuerto en pocos minutos.
 
-Para nuestra última cena en Asia, escogimos [Tasty Congee & Noodle Wantun Shop](http://www.tasty.co.hk), donde tomamos un festín:
+Para nuestra última cena en Asia, escogimos [Tasty Congee & Noodle Wantun Shop](https://www.tasty.co.hk), donde tomamos un festín:
 
   * Congee con bolas de pescado fresco
   * Masa frita china

@@ -4,7 +4,7 @@ title: 10 años después, cosas que cambian y cosas que no
 date: 2008-05-26T22:39:50+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1224
+guid: https://www.cortell.net/?p=1224
 permalink: /2008/05/26/10-anos-despues-cosas-que-cambian-y-cosas-que-no/
 categories:
   - General

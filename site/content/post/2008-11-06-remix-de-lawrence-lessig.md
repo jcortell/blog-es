@@ -4,7 +4,7 @@ title: '&quot;Remix&quot; de Lawrence Lessig'
 date: 2008-11-06T14:51:38+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1373
+guid: https://www.cortell.net/?p=1373
 permalink: /2008/11/06/remix-de-lawrence-lessig/
 categories:
   - CiberDerechos
@@ -12,7 +12,7 @@ categories:
   - General
   - Noticias
 ---
-Lawrence Lessig ha sacado un nuevo <a title="Penguin" href="http://booksellers.penguin.com/nf/Book/BookDisplay/0,,9781594201721,00.html#" target="_blank">libro</a>: "_Remix: Making Art and Commerce Thrive in the Hybrid Economy_".
+Lawrence Lessig ha sacado un nuevo <a title="Penguin" href="https://booksellers.penguin.com/nf/Book/BookDisplay/0,,9781594201721,00.html#" target="_blank">libro</a>: "_Remix: Making Art and Commerce Thrive in the Hybrid Economy_".
 
 _Dios nos libre de la herejía_. Lo que voy a decir es desde el más profundo respeto a uno de los grandes de la reforma (esa es la clave, y la pena) del ©. Pero qué quieren que les diga, Remix es... un remix.
 

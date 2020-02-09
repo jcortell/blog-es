@@ -4,7 +4,7 @@ title: 'Cuando el codependiente se ahoga...'
 date: 2011-04-17T09:14:03+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3062
+guid: https://cortell.net/blog/?p=3062
 permalink: /2011/04/17/cuando-el-codependiente-se-ahoga/
 categories:
   - General

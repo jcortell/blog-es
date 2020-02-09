@@ -4,7 +4,7 @@ title: 'Los peligros ocultos de la Red IX: El espí­a traidor en casa II (empre
 date: 2006-01-22T02:56:50+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/01/22/los-peligros-ocultos-de-la-red-ix-el-espia-traidor-en-casa-ii-empresas-pci-37/
+guid: https://www.cortell.net/2006/01/22/los-peligros-ocultos-de-la-red-ix-el-espia-traidor-en-casa-ii-empresas-pci-37/
 permalink: /2006/01/22/los-peligros-ocultos-de-la-red-ix-el-espia-traidor-en-casa-ii-empresas-pci-37/
 categories:
   - 'Artí­culos escritos para la revista PC&amp;I'
@@ -15,7 +15,7 @@ categories:
   - Privacidad
   - Rants
 ---
-Si el mes anterior [hablábamos](http://www.cortell.net/2006/01/05/los-peligros-ocultos-de-la-red-ix-el-espia-traidor-en-casa-i-gobiernos-pci-36/) del spyware distribuí­do o esponsorizado por gobiernos, en esta ocasión vamos a hablar del que distribuyen las empresas por iniciativa propia. Los ejemplos, por desgracia, son más abundantes de lo que a priori se podrí­a pensar veamos un par (hay docenas).
+Si el mes anterior [hablábamos](https://www.cortell.net/2006/01/05/los-peligros-ocultos-de-la-red-ix-el-espia-traidor-en-casa-i-gobiernos-pci-36/) del spyware distribuí­do o esponsorizado por gobiernos, en esta ocasión vamos a hablar del que distribuyen las empresas por iniciativa propia. Los ejemplos, por desgracia, son más abundantes de lo que a priori se podrí­a pensar veamos un par (hay docenas).
 
 Microsoft fue la primera (que yo sepa), cómo no, en cometer este abuso, y que quedase suficientemente documentado. En verano de 2002, tal y como se denunció en la web BSDVault.net, en la Licencia de Usuario (EULA) de una actualización de seguridad de su Windows Media Player 6.4, decí­a: "Acepta que para proteger la integridad del contenido y software protegido por DRM ("Contenido Seguro"), Microsoft puede proporcionar actualizaciones de seguridad al Sistema Operativo que serán automáticamente instalados en su ordenador. Estas actualizaciones de seguridad eliminarán su capacidad de copiar y/o ejecutar Contenido Seguro y usar otro software en su ordenador. Si proporcionamos tal actualización de seguridad, haremos esfuerzos razonables por comunicarlo en una web".
 
@@ -43,4 +43,4 @@ Lo curioso es que con la legislación española (y la norteamericana) en la mano
 
 Pero aun hay algo que me preocupa más: existiendo muchí­simas alternativas libres (Software Libre como Linux y miles de programas más, y millones de discos libros y pelí­culas libres o bajo licencias menos restrictivas que el copyright como Creative Commons, etc) la mayorí­a de ciudadanos/consumidores sigen permitiendo abusos contra sus derechos fundamentales. **-¡Qué cara sale la ignorancia, la sumisión, y el inmovilismo! Moraleja: emplea herramientas libres, disfruta de contenidos libres, y no permitas que abusen de tus derechos -¡y además te cobren por ello!**
 
-[<img src="http://tira.escomposlinux.org/ecol-227.png" alt="tira es.comp.os.linux" border="0" />](http://tira.escomposlinux.org)
+[<img src="https://tira.escomposlinux.org/ecol-227.png" alt="tira es.comp.os.linux" border="0" />](https://tira.escomposlinux.org)

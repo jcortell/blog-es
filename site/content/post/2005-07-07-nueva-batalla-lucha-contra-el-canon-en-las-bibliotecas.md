@@ -4,7 +4,7 @@ title: 'Nueva batalla: lucha contra el canon en las bibliotecas'
 date: 2005-07-07T15:16:04+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/07/07/nueva-batalla-lucha-contra-el-canon-en-las-bibliotecas/
+guid: https://www.cortell.net/2005/07/07/nueva-batalla-lucha-contra-el-canon-en-las-bibliotecas/
 permalink: /2005/07/07/nueva-batalla-lucha-contra-el-canon-en-las-bibliotecas/
 categories:
   - CiberDerechos
@@ -18,7 +18,7 @@ Tras las resaca de las celebraciones por la "victoria" -con cautela- por lo de l
   
 NO AL CANON A LAS BIBLIOTECAS
   
-Empieza, como siempre informándote. Aquí­ va un buen [enlace](http://exlibris.usal.es/bibesp/nopago/) de inicio (gracias Alfonso).
+Empieza, como siempre informándote. Aquí­ va un buen [enlace](https://exlibris.usal.es/bibesp/nopago/) de inicio (gracias Alfonso).
 
 _Ley de Propiedad Intelectual española:_
 

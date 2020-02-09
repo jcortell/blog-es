@@ -4,7 +4,7 @@ title: Datos, estadí­sticas, y conclusiones sin cerebro
 date: 2007-07-05T09:52:57+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/07/05/datos-estadisticas-y-conclusiones-sin-cerebro/
+guid: https://www.cortell.net/2007/07/05/datos-estadisticas-y-conclusiones-sin-cerebro/
 permalink: /2007/07/05/datos-estadisticas-y-conclusiones-sin-cerebro/
 categories:
   - Filosofí­a
@@ -15,9 +15,9 @@ categories:
 ---
 Un par de curiosos ejemplos de cómo, si no se ponen las cosas en contexto y se racionalizan, los datos estadí­sticos frí­os nos pueden llevar a asumir conclusiones erróneas (o a los legisladores a tomar decisiones inconexas con la realidad, pero convenientemente respaldadas por la implacable dureza de los datos):
 
-– 7 de los 8 detenidos por terrorismo <a target="_blank" title="IHT" href="http://www.iht.com/articles/ap/2007/07/03/america/NA-GEN-US-Britain-Terrorism.php">la semana pasada en Inglaterra</a> son médicos o trabajaban en hospitales.
+– 7 de los 8 detenidos por terrorismo <a target="_blank" title="IHT" href="https://www.iht.com/articles/ap/2007/07/03/america/NA-GEN-US-Britain-Terrorism.php">la semana pasada en Inglaterra</a> son médicos o trabajaban en hospitales.
 
-– 22% de las mujeres españolas que trabajan fuera de casa <a target="_blank" title="5 dáis" href="http://www.cincodias.com/articulo/economia/22/mujeres/trabaja/fuera/casa/ha/creado/propia/empresa/cdscdi/20070223cdscdieco_5/Tes/">tienen su propia empresa</a> (siendo el promedio europeo el 8%).
+– 22% de las mujeres españolas que trabajan fuera de casa <a target="_blank" title="5 dáis" href="https://www.cincodias.com/articulo/economia/22/mujeres/trabaja/fuera/casa/ha/creado/propia/empresa/cdscdi/20070223cdscdieco_5/Tes/">tienen su propia empresa</a> (siendo el promedio europeo el 8%).
 
 Conclusiones erróneas que algunos medios (y por desgracia mucha gente) saca de estos curiosos datos:
 

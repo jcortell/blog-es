@@ -4,7 +4,7 @@ title: Síntomas de crisis
 date: 2008-10-10T22:27:11+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1338
+guid: https://www.cortell.net/?p=1338
 permalink: /2008/10/10/sintomas-de-crisis/
 categories:
   - General

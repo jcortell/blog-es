@@ -4,7 +4,7 @@ title: Yahoo, AOL, y Goodmail quieren cobrar por email
 date: 2006-03-07T15:16:42+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/03/07/yahoo-aol-y-goodmail-quieren-cobrar-por-email/
+guid: https://www.cortell.net/2006/03/07/yahoo-aol-y-goodmail-quieren-cobrar-por-email/
 permalink: /2006/03/07/yahoo-aol-y-goodmail-quieren-cobrar-por-email/
 categories:
   - CiberDerechos
@@ -14,7 +14,7 @@ categories:
   - Rants
   - Technology
 ---
-Lo [leo](http://www.eff.org/deeplinks/archives/004398.php) en EFF.
+Lo [leo](https://www.eff.org/deeplinks/archives/004398.php) en EFF.
 
 A algunos les puede parecer incluso bien (Pedro Farré: "Lo que alguien ha creado no puede ser gratis"). Pero recordemos que los muchos modelos de negocio que sustentan internet (principalmente publicidad en el caso de Yahoo, o cuotas a subscriptores en el caso de AOL) les reporta un ENORME beneficio a estas empresas.
 

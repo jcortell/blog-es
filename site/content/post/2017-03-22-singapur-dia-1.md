@@ -4,7 +4,7 @@ title: Singapur día 1
 date: 2017-03-22T17:05:12+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=6024
+guid: https://blog.cortell.net/es/?p=6024
 permalink: /2017/03/22/singapur-dia-1/
 categories:
   - General

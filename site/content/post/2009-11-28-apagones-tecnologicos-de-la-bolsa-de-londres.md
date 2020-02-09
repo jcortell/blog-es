@@ -4,7 +4,7 @@ title: Apagones tecnológicos de la Bolsa de Londres
 date: 2009-11-28T00:43:36+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2365
+guid: https://cortell.net/blog/?p=2365
 permalink: /2009/11/28/apagones-tecnologicos-de-la-bolsa-de-londres/
 categories:
   - General

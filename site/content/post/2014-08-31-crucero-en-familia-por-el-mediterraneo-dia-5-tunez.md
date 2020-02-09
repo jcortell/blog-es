@@ -4,7 +4,7 @@ title: 'Crucero en familia por el Mediterráneo, día 5: Túnez'
 date: 2014-08-31T16:29:59+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5242
+guid: https://blog.cortell.net/es/?p=5242
 permalink: /2014/08/31/crucero-en-familia-por-el-mediterraneo-dia-5-tunez/
 categories:
   - Arte
@@ -16,4 +16,4 @@ A sabiendas de que la excursión organizada en Túnez iba a ser larga y pesada, 
 
 Sin duda Sidi Bou Saïd es pintoresco y agradable de visitar. Claramente mediterráneo en sus colores y folklore, recuerda a las islas griegas o la propia Ibiza (pueblo viejo).
 
-Pero lo que fue realmente impresionante fue la colección de mosaicos romanos del <a href="http://www.bardomuseum.tn/" title="http://www.bardomuseum.tn/" target="_blank">Museo Nacional del Bardo</a>. Me trajo vívidos recuerdos de la expedición arqueológica a la que me uní hace 15 años en Van, en la frontera entre Turquía, Irán e Iraq.
+Pero lo que fue realmente impresionante fue la colección de mosaicos romanos del <a href="https://www.bardomuseum.tn/" title="https://www.bardomuseum.tn/" target="_blank">Museo Nacional del Bardo</a>. Me trajo vívidos recuerdos de la expedición arqueológica a la que me uní hace 15 años en Van, en la frontera entre Turquía, Irán e Iraq.

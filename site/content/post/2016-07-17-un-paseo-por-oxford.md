@@ -4,7 +4,7 @@ title: Un paseo por Oxford
 date: 2016-07-17T08:15:09+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5855
+guid: https://blog.cortell.net/es/?p=5855
 permalink: /2016/07/17/un-paseo-por-oxford/
 categories:
   - Arte

@@ -4,7 +4,7 @@ title: 'RS-DVR: el ví­deo en casa del proveedor de cable'
 date: 2006-03-29T08:12:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=396
+guid: https://www.cortell.net/?p=396
 permalink: /2006/03/29/rs-dvr-el-video-en-casa-del-proveedor-de-cable/
 categories:
   - CiberDerechos
@@ -14,7 +14,7 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-Con la propuesta de CableVision de crear el [RS-DVR](http://www.redherring.com/Article.aspx?a=16268&hed=Cablevision%20Disconnects%20DVR) (básicamente es una ví­deo grabador basado en disco duro, pero en vez de tenerlo tú en tu casa, lo tiene el proveedor y tú accedes a él por tu conexión de cable) -¿cambian las cosas?
+Con la propuesta de CableVision de crear el [RS-DVR](https://www.redherring.com/Article.aspx?a=16268&hed=Cablevision%20Disconnects%20DVR) (básicamente es una ví­deo grabador basado en disco duro, pero en vez de tenerlo tú en tu casa, lo tiene el proveedor y tú accedes a él por tu conexión de cable) -¿cambian las cosas?
 
 Hay quien hace mucho tiempo vaticinó que el contenido residirí­a online y que accederí­amos a él desde muchos dispositivos y de muchas maneras, pero que no tendrí­a sentido almacenar el contenido de modo local.
 

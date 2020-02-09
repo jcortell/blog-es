@@ -4,7 +4,7 @@ title: ¿Para qué sirve la filosofía?
 date: 2011-02-22T09:51:15+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2937
+guid: https://cortell.net/blog/?p=2937
 permalink: /2011/02/22/para-que-sirve-la-filosofia/
 categories:
   - Filosofí­a

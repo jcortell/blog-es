@@ -4,7 +4,7 @@ title: Recopilación de particularidades linguísticas de Málaga y Valencia
 date: 2009-03-10T16:28:01+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1457
+guid: https://cortell.net/blog/?p=1457
 permalink: /2009/03/10/recopilacion-de-particularidades-linguisticas-de-malaga-y-valencia/
 categories:
   - General
@@ -15,7 +15,7 @@ Ya que estoy en Málaga, aprovecho y recopilo. Ni idiomas ni dialectos, estos vo
 **Málaga**:
 
   * Pechá: cantidad ("mogollón")
-  * Más perdido que el barco del arroz: ver <a title="http://es.wikipedia.org/wiki/Barco_del_arroz" href="http://es.wikipedia.org/wiki/Barco_del_arroz" target="_blank">wikipedia</a> para entender el origen de la expresión
+  * Más perdido que el barco del arroz: ver <a title="https://es.wikipedia.org/wiki/Barco_del_arroz" href="https://es.wikipedia.org/wiki/Barco_del_arroz" target="_blank">wikipedia</a> para entender el origen de la expresión
   * Cachete: glúteo
   * Mico: pequeño (en Valencia se emplea más como "mono, primate")
   * Tito: tío (familia)

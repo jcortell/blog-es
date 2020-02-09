@@ -4,7 +4,7 @@ title: '¿Un &quot;buen&quot; suicidio?'
 date: 2010-07-15T20:04:14+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2524
+guid: https://cortell.net/blog/?p=2524
 permalink: /2010/07/15/un-buen-suicidio/
 categories:
   - Filosofí­a

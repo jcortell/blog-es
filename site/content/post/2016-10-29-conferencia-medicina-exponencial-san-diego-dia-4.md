@@ -4,7 +4,7 @@ title: Conferencia Medicina Exponencial San Diego día 4
 date: 2016-10-29T16:19:19+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5927
+guid: https://blog.cortell.net/es/?p=5927
 permalink: /2016/10/29/conferencia-medicina-exponencial-san-diego-dia-4/
 categories:
   - Ciencias

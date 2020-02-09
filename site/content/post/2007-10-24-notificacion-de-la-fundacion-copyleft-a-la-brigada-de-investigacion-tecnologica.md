@@ -4,7 +4,7 @@ title: Notificación de la Fundación Copyleft a la Brigada de Investigación Te
 date: 2007-10-24T18:25:17+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/10/24/notificacion-de-la-fundacion-copyleft-a-la-brigada-de-investigacion-tecnologica/
+guid: https://www.cortell.net/2007/10/24/notificacion-de-la-fundacion-copyleft-a-la-brigada-de-investigacion-tecnologica/
 permalink: /2007/10/24/notificacion-de-la-fundacion-copyleft-a-la-brigada-de-investigacion-tecnologica/
 categories:
   - CiberDerechos
@@ -13,7 +13,7 @@ categories:
   - Noticias
   - Sociedad y polí­tica
 ---
-Visto en <a target="_blank" title="Bandaancha" href="http://www.bandaancha.st/weblogart.php?artid=5095">Bandaancha</a>
+Visto en <a target="_blank" title="Bandaancha" href="https://www.bandaancha.st/weblogart.php?artid=5095">Bandaancha</a>
   
 [...] La FUNDACIÓN COPYLEFT notifica a la Brigada de Investigación Tecnológica y demás integrantes de las Fuerzas y cuerpos del Estado que investiguen este tipo de delitos, que interpondrá las acciones legales siguientes en el caso de producirse los supuestos que se enumeran:
 

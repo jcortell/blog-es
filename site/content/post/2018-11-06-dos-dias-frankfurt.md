@@ -18,37 +18,37 @@ El 5 y 6 de noviembre fui a Frankfurt por una reunión de negocios y mucho arte.
 
 <!--more-->
 
-La reunión de negocios fue bien, e incluyó comida de negocios (fuimos a [Margarete](http://www.margarete.eu)), un restaurante de fusión alemán - oriente medio, donde finalmente pude probar la famosa especialidad local Salsa Verde .
+La reunión de negocios fue bien, e incluyó comida de negocios (fuimos a [Margarete](https://www.margarete.eu)), un restaurante de fusión alemán - oriente medio, donde finalmente pude probar la famosa especialidad local Salsa Verde .
 
 Mi hotel estaba ubicado cerca de la estación central. Muy conveniente para el transporte desde y hacia el aeropuerto, y cerca de mi lugar de reunión. Pero esa es también una de las partes más sórdidas de la ciudad (no obstante, se está gentrificando rápidamente). Aunque la prostitución es legal en Alemania, por lo que no hay necesidad de "distritos de luz roja" o "zonas de tolerancia", esta área se calificaría como una. Y eso me permitió hacer una rápida observación: había muchas más personas caminando por las calles en busca de una transacción sexual, que visitantes en todos los museos combinados, en busca de estimulación intelectual. No juzgo (apoyo la legalización de la prostitución), sino simplemente observo prioridades de inversión, la población en general, y cómo el avance de una sociedad racional debe pasar por un nivel de educación y cultura que no está donde debería estar.
 
 La reunión fue lo suficientemente importante como para permitir un día extra "por si acaso", pero no fue necesario porque cubrimos todo el primer día, así que pasé ese día adicional haciendo una de mis cosas favoritas: arte, arte, arte.
 
-[Schirn Kunsthalle](http://www.schirn.de)
+[Schirn Kunsthalle](https://www.schirn.de)
 Uno de los espacios de exhibición más respetados de Europa, se centra tanto en el arte contemporáneo como en el contemporáneo. Ha realizado exposiciones individuales de Munch, Courbet, Ono, Aitken ... Ahora están exhibiendo dos exposiciones, pero solo me interesaba una: Wilderness. Pequeña, pero muy interesante.
 
-[Frankfurter Kunstverein](http://www.fkv.de)
+[Frankfurter Kunstverein](https://www.fkv.de)
 Una asociación de arte con un impresionante programa de arte contemporáneo. Me encantaron TODAS las piezas que tienen en exhibición ahora. En especial las de Hicham Berrada.
 
-[Museum für Moderne Kunst (MMK 1)](http://www.mmk-frankfurt.de)
+[Museum für Moderne Kunst (MMK 1)](https://www.mmk-frankfurt.de)
 Uno de los museos de arte contemporáneo más importantes del mundo. Si bien la colección permanente tiene obras de Beuys, Lichtenstein, Richter, Warhol, etc., estuve allí principalmente para ver una retrospectiva de Candy Noland.
 El trabajo de Noland no es tan atractivo a primera vista, para los no iniciados. Pero tampoco es inaccesible. Dedica un par de minutos a verlo, y los temas y mensajes se vuelven obvios y evidentes. Ella describe principalmente la violencia en y a través de objetos y estructuras cotidianas. En su ensayo "Hacia un metalenguaje del mal" (1987), describe a la sociedad estadounidense con tanto desapego como con una clarividencia que, como es lógico, retrata perfectamente a casi todo el mundo tres décadas después.
 Siempre lo he dicho: si quieres ver el futuro, lee poesía, observa el arte visual y aprende sobre la investigación en ciencias básicas. Si quieres conocer el presente, entiende la tecnología. Si quieres escuchar el pasado, presta atención a los políticos.
 
-[Zollamt (MMK3)](http://www.mmk.art)
+[Zollamt (MMK3)](https://www.mmk.art)
 Directamente enfrente del MKK1, solía ser la oficina de aduanas de la ciudad. Todo el espacio está dedicado, hasta enero de 2019, a la inquietante instalación de video de 73 minutos (video en HD de 5 canales) "Blood in Milk", de la artista británica Marianna Simnett. Sorprendente, poderosa, inteligente, muy bien producida, dirigida, actuada y editada, aborda temas como la identidad, el feminismo, la transgresión, el antropocentrismo, el abuso, el miedo ... No puedo recomendarlo lo suficiente (aunque no es para todos los públicos).
 
 Portikus
 Parte de la academia de arte Städelschule. La exposición (instalación) fue completamente olvidable, pero el edificio y la ubicación son bastante interesantes. De hecho, tiene una instalación de luz de Olafur Eliasson en el techo que, todas las noches después de la puesta del sol, se refleja en el Main.
 
-[Museum Angewandte Kunst](http://www.museumangewandtekunst.de)
+[Museum Angewandte Kunst](https://www.museumangewandtekunst.de)
 Ubicado en un impresionante edificio modernista, el museo tiene exposiciones temporales. Esta vez vi, entre otros:
 "Lara me protege: una historia georgiana". Curada por Mahret Kupka. Basado en una carta anónima encontrada, el título es una excusa para una exposición colectiva que muestra parte del arte que se está produciendo en Tbilisi ("el nuevo Berlín", dicen).
 "Lugar de nacimiento Yokohama", una colección privada de artefactos asiáticos.
 "Richard Meier", una muestra del trabajo de uno de los más grandes diseñadores industriales de todos los tiempos (trabajando para Braun). Me encanta su estilo (y puedes ver su influencia en todas partes, desde Apple hasta las apps).
 La "Restitución de plata de Pinkus", que documenta cómo el museo robó una colección de plata de la familia judía Pinker, después de que el régimen nazi hubiera caído, al declararlo "perdido en un bombardeo", mientras estuvo allí todo el tiempo. La historia es fascinante, y si bien finalmente se hizo justicia, representa la lucha entre personas e instituciones buenas (éticas) y malas (corruptas), que son, después de todo, personas, no lo olvidemos.
 
-[Städel Museum](http://www.staedelmuseum.de)
+[Städel Museum](https://www.staedelmuseum.de)
 Es la fundación museística más antigua de Alemania (1815). Contiene arte desde el siglo XIV hasta el Renacimiento, Barroco y Neoclasicismo en el segundo piso: Mantegna, Botticelli, Durero, Rembrandt, Vermeer ... El arte Moderno se exhibe en el primer piso: Manet, Renoir, Monet, Picasso , Beckmann ... Pero definitivamente la extensión de 2012 para el arte Contemporáneo, en un espectacular sótano, la ha convertido en uno de los espacios de arte contemporáneo más interesantes, con obras de Bacon, Baselitz, Richter, Judd, Klein, Sherman y muchos más.
 
 Después de ese torbellino de arte, cené en Pho Ngon, che de postre, y me fui a dormir, agotado pero con mis baterías intelectuales cargadas.

@@ -4,7 +4,7 @@ title: Lightning bugs in Central Park instead of Oliver Stone debate
 date: 2012-07-07T03:46:53+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4213
+guid: https://cortell.net/blog/?p=4213
 permalink: /2012/07/07/lightning-bugs-in-central-park-instead-of-oliver-stone-debate/
 wpsd_autopost:
   - "1"

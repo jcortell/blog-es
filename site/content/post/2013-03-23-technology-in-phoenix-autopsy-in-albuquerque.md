@@ -4,7 +4,7 @@ title: Technology in Phoenix, autopsy in Albuquerque
 date: 2013-03-23T16:56:29+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4650
+guid: https://cortell.net/blog/?p=4650
 permalink: /2013/03/23/technology-in-phoenix-autopsy-in-albuquerque/
 wpsd_autopost:
   - "1"
@@ -19,11 +19,11 @@ categories:
   [mudslide:picasa,0,111219615350942087056,5858242196358685121]
 </p>
 
-4 vuelos y 40 horas más tarde (tras perderme <a title="http://www.grandcentralterminal.com/event/japan-week/2145410449" href="http://www.grandcentralterminal.com/event/japan-week/2145410449" target="_blank">Japan Week</a>), estoy de vuelta en Nueva York, en la moderna y tecnológica terminal de Delta (C, no D) del aeropuerto de Laguardia, con sus  tablets y lectores de tarjetas en todas las mesas y barras de todos los bares y restaurantes. ¡Menuda diferencia con la terminal 4 de Delta de JKF! Menos mal que en mayo terminan de renovarla, porque está que se cae en pedazos.
+4 vuelos y 40 horas más tarde (tras perderme <a title="https://www.grandcentralterminal.com/event/japan-week/2145410449" href="https://www.grandcentralterminal.com/event/japan-week/2145410449" target="_blank">Japan Week</a>), estoy de vuelta en Nueva York, en la moderna y tecnológica terminal de Delta (C, no D) del aeropuerto de Laguardia, con sus  tablets y lectores de tarjetas en todas las mesas y barras de todos los bares y restaurantes. ¡Menuda diferencia con la terminal 4 de Delta de JKF! Menos mal que en mayo terminan de renovarla, porque está que se cae en pedazos.
 
 Incluso los más rápidos viajes de negocios puede estar llena de anécdotas. Sin embargo esta vez no fueron todas divertidas o buenas.
 
-El miércoles en Phoenix aprendí cómo la tecnología se ensambla y se entrega a través de un tour "back stage" muy interesante de una de los centros de integración más grandes de <a title="http://www.avnet.com" href="http://www.avnet.com" target="_blank">Avnet</a>. Realmente te hace entender el proceso de entrega de tecnología mucho mejor.
+El miércoles en Phoenix aprendí cómo la tecnología se ensambla y se entrega a través de un tour "back stage" muy interesante de una de los centros de integración más grandes de <a title="https://www.avnet.com" href="https://www.avnet.com" target="_blank">Avnet</a>. Realmente te hace entender el proceso de entrega de tecnología mucho mejor.
 
 Al día siguiente, en Albuquerque, recibí un tour muy diferente: probablemente el mayor y mejor equipado edificio médico forense del mundo, donde tuve el "privilegio" de ver las áreas restringidas como la sala de pruebas, la unidad de refrigeración llena de cadáveres (donde todos terminaremos, un día u otro), y una de las cosas más difíciles que he visto en mi vida (y he visto cosas muy muy duras): la autopsia de un bebé y un adulto.
 

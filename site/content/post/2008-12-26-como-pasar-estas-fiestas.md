@@ -4,7 +4,7 @@ title: Cómo pasar estas fiestas
 date: 2008-12-26T12:30:55+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1425
+guid: https://www.cortell.net/?p=1425
 permalink: /2008/12/26/como-pasar-estas-fiestas/
 categories:
   - General

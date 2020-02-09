@@ -4,7 +4,7 @@ title: Esto sí que es un Rector
 date: 2009-04-12T08:52:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1777
+guid: https://cortell.net/blog/?p=1777
 permalink: /2009/04/12/esto-si-que-es-un-rector/
 categories:
   - Filosofí­a

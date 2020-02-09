@@ -4,7 +4,7 @@ title: Bug en el Diccionario de la RAE El peligro del copiopego digital
 date: 2006-05-16T02:18:17+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/05/16/bug-en-el-diccionario-de-la-rae/
+guid: https://www.cortell.net/2006/05/16/bug-en-el-diccionario-de-la-rae/
 permalink: /2006/05/16/bug-en-el-diccionario-de-la-rae/
 categories:
   - General
@@ -15,11 +15,11 @@ categories:
   
 Hace unos dí­as escribí­ (para mi vergí¼enza) esto:
 
-Si buscamos "<a target="_blank" title="DRAE proselitismo" href="http://buscon.rae.es/draeI/SrvltGUIBusUsual?LEMA=proselitismo">proselitismo</a>", el Diccionario de la RAE nos dice:
+Si buscamos "<a target="_blank" title="DRAE proselitismo" href="https://buscon.rae.es/draeI/SrvltGUIBusUsual?LEMA=proselitismo">proselitismo</a>", el Diccionario de la RAE nos dice:
 
 _1. m. Celo de ganar prosélitos._
 
-Pero si buscamos "<a target="_blank" title="DRAE Prosélitos" href="http://buscon.rae.es/draeI/SrvltGUIBusUsual?LEMA=prosélitos">prosélitos</a>" nos dice:
+Pero si buscamos "<a target="_blank" title="DRAE Prosélitos" href="https://buscon.rae.es/draeI/SrvltGUIBusUsual?LEMA=prosélitos">prosélitos</a>" nos dice:
 
 _AVISO
   

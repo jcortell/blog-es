@@ -4,7 +4,7 @@ title: El Papa, exorcismos y otros anacronismos
 date: 2005-09-19T12:44:29+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/09/19/el-papa-exorcismos-y-otros-anacronismos/
+guid: https://www.cortell.net/2005/09/19/el-papa-exorcismos-y-otros-anacronismos/
 permalink: /2005/09/19/el-papa-exorcismos-y-otros-anacronismos/
 categories:
   - General
@@ -26,7 +26,7 @@ El Sun, Sep 18, 2005 at 04:41:01PM +0200 Lluis ha dicho:</p>
 
 ho sento... no he pogut evitar-ho! XD
   
-<http://www.es.gnu.org/~jemarch/homepage/Ratzinger.html>
+<https://www.es.gnu.org/~jemarch/homepage/Ratzinger.html>
   
 apa!</em>
 

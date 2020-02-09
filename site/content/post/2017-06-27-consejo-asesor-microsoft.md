@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-El pasado martes, 20 de junio, fui invitado a participar en el III Consejo Asesor de Partrners de Microsoft, que tuvo lugar en [The Hawksmoor Guildhall](http://thehawksmoor.com/locations/guildhall/), Londres.  
+El pasado martes, 20 de junio, fui invitado a participar en el III Consejo Asesor de Partrners de Microsoft, que tuvo lugar en [The Hawksmoor Guildhall](https://thehawksmoor.com/locations/guildhall/), Londres.  
  
 <!--more-->
 

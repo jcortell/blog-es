@@ -4,7 +4,7 @@ title: Vaciando acuíferos
 date: 2011-08-04T13:02:06+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3360
+guid: https://cortell.net/blog/?p=3360
 permalink: /2011/08/04/vaciando-acuiferos/
 wpsd_autopost:
   - "1"
@@ -15,7 +15,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-El Dr. <a title="Oxford Martin School" href="http://www.oxfordmartin.ox.ac.uk/" target="_blank">James Martin</a> <a title="OxfordToday" href="https://www.oxfordtoday.ox.ac.uk/page.aspx?pid=1131" target="_blank">explica</a> (Oxford Today, Vol. 23, Nº 3) que los humanos estamos vaciando los acuíferos, fundamentales para la agricultura. Sacamos de ellos 400.000.000 de toneladas diarias de agua más de la que entra por la lluvia. Eso son 25.000.000 de camiones al día (o sea, un convoy que le da la vuelta a la tierra 30 veces si se ponen uno detrás de otro).
+El Dr. <a title="Oxford Martin School" href="https://www.oxfordmartin.ox.ac.uk/" target="_blank">James Martin</a> <a title="OxfordToday" href="https://www.oxfordtoday.ox.ac.uk/page.aspx?pid=1131" target="_blank">explica</a> (Oxford Today, Vol. 23, Nº 3) que los humanos estamos vaciando los acuíferos, fundamentales para la agricultura. Sacamos de ellos 400.000.000 de toneladas diarias de agua más de la que entra por la lluvia. Eso son 25.000.000 de camiones al día (o sea, un convoy que le da la vuelta a la tierra 30 veces si se ponen uno detrás de otro).
 
 Hemos pescado ya el 90% de todos los peces comestibles.
 

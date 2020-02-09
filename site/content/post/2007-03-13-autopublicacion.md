@@ -4,7 +4,7 @@ title: Autopublicación
 date: 2007-03-13T14:37:56+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/03/13/autopublicacion/
+guid: https://www.cortell.net/2007/03/13/autopublicacion/
 permalink: /2007/03/13/autopublicacion/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -22,7 +22,7 @@ En ayuda de la distribución (y promoción, aunque para eso hace falta muchas ve
 
 Quedaba un paso: la publicación.
 
-Hoy en dí­a hay miles de ejemplos de empresas que permiten la autopublicación, como <a title="Lulu" target="_blank" href="http://www.lulu.com/es">lulu</a> o <a target="_blank" title="Blurb.com" href="http://www.blurb.com">blurb</a> (libros), <a title="CDBaby" target="_blank" href="http://cdbaby.net/">CDBaby</a> (música), <a title="FilmBaby" target="_blank" href="http://filmbaby.com/">FilmBaby</a> (pelí­culas), o <a title="CafePress" target="_blank" href="http://www.cafepress.com/">CafePress</a> (de todo).
+Hoy en dí­a hay miles de ejemplos de empresas que permiten la autopublicación, como <a title="Lulu" target="_blank" href="https://www.lulu.com/es">lulu</a> o <a target="_blank" title="Blurb.com" href="https://www.blurb.com">blurb</a> (libros), <a title="CDBaby" target="_blank" href="https://cdbaby.net/">CDBaby</a> (música), <a title="FilmBaby" target="_blank" href="https://filmbaby.com/">FilmBaby</a> (pelí­culas), o <a title="CafePress" target="_blank" href="https://www.cafepress.com/">CafePress</a> (de todo).
 
 Si tenéis ejemplos de éxito, conocéis otras empresas y webs, o más info que aportar, poned un comentario a este post.
 

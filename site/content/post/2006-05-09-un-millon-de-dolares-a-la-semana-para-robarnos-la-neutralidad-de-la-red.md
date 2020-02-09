@@ -4,7 +4,7 @@ title: Un millón de dólares a la semana para robarnos la neutralidad de la red
 date: 2006-05-09T04:38:33+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/05/09/un-millon-de-dolares-a-la-semana-para-robarnos-la-neutralidad-de-la-red/
+guid: https://www.cortell.net/2006/05/09/un-millon-de-dolares-a-la-semana-para-robarnos-la-neutralidad-de-la-red/
 permalink: /2006/05/09/un-millon-de-dolares-a-la-semana-para-robarnos-la-neutralidad-de-la-red/
 categories:
   - CiberDerechos
@@ -15,9 +15,9 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-Según [este](http://www.savetheinternet.com/blog/2006/05/04/telcos-blitz-washington-in-million-dollar-campaign/) artí­culo (que cita a [este](http://www.democraticmedia.org/jcblog/?p=37) otro) empresas como AT&T, Verizon, Qwest, Comcast y Time Warner, están gastando un millón de dólares a la semana en publicidad (imaginen lo que está ocurriendo "bajo mano") para convencer a los polí­ticos norteamericanos de que nos roben la neutralidad de la red (y así­, los que más paguen conseguirán que sus bits circulen por la red, y a los demás nos dejarán de lado).
+Según [este](https://www.savetheinternet.com/blog/2006/05/04/telcos-blitz-washington-in-million-dollar-campaign/) artí­culo (que cita a [este](https://www.democraticmedia.org/jcblog/?p=37) otro) empresas como AT&T, Verizon, Qwest, Comcast y Time Warner, están gastando un millón de dólares a la semana en publicidad (imaginen lo que está ocurriendo "bajo mano") para convencer a los polí­ticos norteamericanos de que nos roben la neutralidad de la red (y así­, los que más paguen conseguirán que sus bits circulen por la red, y a los demás nos dejarán de lado).
 
-Si esto no les sorprende, entonces tampoco lo hará el sabe que según [este](http://www.statesman.com/business/content/business/stories/technology/05/7telecom.html) otro artí­culo, la ley se aprobará a escondidas: a base de regulaciones escritas y negociadas en pequeños [Comités](http://www.redherring.com/Article.aspx?a=16654&hed=Phone%20Firms%20Win%20on%20Hill) del Congreso de EEUU, sin que el público se entere y sin que participen en el "debate" más que unos pocos congresistas.
+Si esto no les sorprende, entonces tampoco lo hará el sabe que según [este](https://www.statesman.com/business/content/business/stories/technology/05/7telecom.html) otro artí­culo, la ley se aprobará a escondidas: a base de regulaciones escritas y negociadas en pequeños [Comités](https://www.redherring.com/Article.aspx?a=16654&hed=Phone%20Firms%20Win%20on%20Hill) del Congreso de EEUU, sin que el público se entere y sin que participen en el "debate" más que unos pocos congresistas.
 
 Según las palabras del propio Director General de AT&T Ed Whitacre:
 

@@ -4,7 +4,7 @@ title: Reuniones y paseos por Londres
 date: 2015-06-27T14:19:16+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5541
+guid: https://blog.cortell.net/es/?p=5541
 permalink: /2015/06/27/reuniones-y-paseos-por-londres/
 categories:
   - General

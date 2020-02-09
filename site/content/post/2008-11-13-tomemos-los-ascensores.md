@@ -4,7 +4,7 @@ title: ¡Tomemos los ascensores!
 date: 2008-11-13T20:57:36+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1377
+guid: https://www.cortell.net/?p=1377
 permalink: /2008/11/13/tomemos-los-ascensores/
 categories:
   - ¿Por qué no? ¿Utopías?

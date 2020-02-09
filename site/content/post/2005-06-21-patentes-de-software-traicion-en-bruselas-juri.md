@@ -4,7 +4,7 @@ title: 'Patentes de Software: Traición en Bruselas (JURI)'
 date: 2005-06-21T12:32:56+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/06/21/patentes-de-software-traicion-en-bruselas-juri/
+guid: https://www.cortell.net/2005/06/21/patentes-de-software-traicion-en-bruselas-juri/
 permalink: /2005/06/21/patentes-de-software-traicion-en-bruselas-juri/
 categories:
   - CiberDerechos
@@ -41,10 +41,10 @@ Abajo hay unos enlaces para empezar, pero sobre todo llama (o enví­a un fax o 
 
 Más información:
   
-[Proinnova](http://proinnova.hispalinux.es/) (mucha información y cosas para hacer, en Español)
+[Proinnova](https://proinnova.hispalinux.es/) (mucha información y cosas para hacer, en Español)
   
-[FFII](http://www.ffii.org/index.es.html) (en Español)
+[FFII](https://www.ffii.org/index.es.html) (en Español)
   
-[Documentación](http://wiki.ffii.org/ConfDoc050601En) (en inglés) de FFII
+[Documentación](https://wiki.ffii.org/ConfDoc050601En) (en inglés) de FFII
 
-Contacto de [eurodiputados](http://wwwdb.europarl.eu.int/ep6/owa/p_meps.short_list?ilg=ES&ictry=ES&ipolgrp=&iorig=) españoles
+Contacto de [eurodiputados](https://wwwdb.europarl.eu.int/ep6/owa/p_meps.short_list?ilg=ES&ictry=ES&ipolgrp=&iorig=) españoles

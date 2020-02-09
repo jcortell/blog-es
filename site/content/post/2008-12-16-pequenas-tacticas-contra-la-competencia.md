@@ -4,7 +4,7 @@ title: Pequeñas tácticas contra la competencia
 date: 2008-12-16T16:11:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1415
+guid: https://www.cortell.net/?p=1415
 permalink: /2008/12/16/pequenas-tacticas-contra-la-competencia/
 categories:
   - ¿Por qué no? ¿Utopías?

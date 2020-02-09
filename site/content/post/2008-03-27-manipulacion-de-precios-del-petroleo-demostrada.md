@@ -4,7 +4,7 @@ title: Manipulación de precios del petróleo demostrada
 date: 2008-03-27T16:04:51+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/03/27/manipulacion-de-precios-del-petroleo-demostrada/
+guid: https://www.cortell.net/2008/03/27/manipulacion-de-precios-del-petroleo-demostrada/
 permalink: /2008/03/27/manipulacion-de-precios-del-petroleo-demostrada/
 categories:
   - General

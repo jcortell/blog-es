@@ -4,7 +4,7 @@ title: 'Reuniones en Londres (HSBC, Microsoft, abogados, eventos...)'
 date: 2015-12-09T10:50:49+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5685
+guid: https://blog.cortell.net/es/?p=5685
 permalink: /2015/12/09/reuniones-en-londres-hsbc-microsoft-abogados-eventos/
 categories:
   - General

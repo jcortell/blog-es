@@ -4,7 +4,7 @@ title: 'La avaricia rompe el saco – por una cultura libre y ciudadanos que com
 date: 2008-07-10T06:38:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1266
+guid: https://www.cortell.net/?p=1266
 permalink: /2008/07/10/la-avaricia-rompe-el-saco-por-una-cultura-libre-y-ciudadanos-que-compartan/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -18,11 +18,11 @@ categories:
 ---
 Respuesta colectiva a consecuencia de los últimos ataques a nuestros derechos digitales y en vista del próximo G8 que se promulga "para la protección de la propiedad intelectual" (sic).
   
-(fuente: <a title="noticia en Público" href="http://www.publico.es/ciencias/tecnologia/132364/poderosos/p2p" target="_blank">Público</a>).
+(fuente: <a title="noticia en Público" href="https://www.publico.es/ciencias/tecnologia/132364/poderosos/p2p" target="_blank">Público</a>).
   
 Esta carta se está enviando al gobierno y a 287  autoridades.
   
-Puedes menear <a title="Menéame" href="http://meneame.net/story/avaricia-rompe-saco-7-propuestas-enviadas-287-autoridades-para-defende" target="_blank">aquí</a>.
+Puedes menear <a title="Menéame" href="https://meneame.net/story/avaricia-rompe-saco-7-propuestas-enviadas-287-autoridades-para-defende" target="_blank">aquí</a>.
 
 LA AVARICIA ROMPE EL SACO
   
@@ -32,7 +32,7 @@ POR UNA CULTURA LIBRE Y CIUDADANOS QUE COMPARTAN:
   
 Una respuesta ciudadana a los últimos ataques a las libertades fundamentales perpetrados en nombre de la Propiedad Intelectual
 
-En estas fechas hemos asistido a varios ataque a las libertades en nombre de la propiedad intelectual. También hemos tenido la ocasión de leer el manifiesto (http://www.sgae.es/recursos/documentacion/Manifiesto\_Derechos\_para\_todos\_en_Internet.pdf)
+En estas fechas hemos asistido a varios ataque a las libertades en nombre de la propiedad intelectual. También hemos tenido la ocasión de leer el manifiesto (https://www.sgae.es/recursos/documentacion/Manifiesto\_Derechos\_para\_todos\_en_Internet.pdf)
   
 que ha perpetrado una autodenominada Coalición de Creadores e Industria de Contenidos ( que agrupa a cinco de las principales entidades de gestión de derechos y corporaciones de la industria cultural  – SGAE (autores), Egeda (producción audiovisual), Promusicae (productores musicales), Adivan-Adican (distribuidores e importadores videográficos) y FAP (propiedad intelectual) – que a su vez agrupan el lobby en España de las grandes productoras y distribuidoras de cine norteamericanas: Disney, Universal, Paramount, Sony Pictures, Fox y Warner) y las declaraciones de sus portavoces sobre la supuesta agresión a la cultura que suponen las redes de intercambio de archivos o redes P2P.
 
@@ -238,6 +238,6 @@ Multiplica y reparte.
 
 Más informaciones:
   
-<a title="http://exgae.net" href="http://exgae.net" target="_blank">http://exgae.net</a>
+<a title="https://exgae.net" href="https://exgae.net" target="_blank">https://exgae.net</a>
   
 Multiplica y reparte

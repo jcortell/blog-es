@@ -4,7 +4,7 @@ title: Llamamiento a los Hacklabs (en especial Valencia)
 date: 2006-05-04T09:44:25+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/05/04/llamamiento-a-los-hacklabs-en-especial-valencia/
+guid: https://www.cortell.net/2006/05/04/llamamiento-a-los-hacklabs-en-especial-valencia/
 permalink: /2006/05/04/llamamiento-a-los-hacklabs-en-especial-valencia/
 categories:
   - General
@@ -16,7 +16,7 @@ En Valencia -¡por fin! parece que se está moviendo lo de montar un hacklab.
 
 Hace un par de años lo propuse en varias listas y no obtuve respuesta. El martes lo comenté en mi conferencia y parece que picó el interés de algunoss de los presentes y tanto Raulete como Santi me enví­an estos enlaces para mostrar que la cosa se mueve:
 
-– [Wiki de "puntos pendientes"](http://zeros.raulete.net/wk/index.pl?PuntosPendientes)
+– [Wiki de "puntos pendientes"](https://zeros.raulete.net/wk/index.pl?PuntosPendientes)
   
 – [Lista general de Hacklabs](https://listas.sindominio.net/mailman/listinfo/hacklabs)
   

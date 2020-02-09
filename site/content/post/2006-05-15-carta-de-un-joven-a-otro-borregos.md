@@ -4,7 +4,7 @@ title: 'carta de un joven a otro: borregos'
 date: 2006-05-15T05:14:54+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/05/15/carta-de-un-joven-a-otro-borregos/
+guid: https://www.cortell.net/2006/05/15/carta-de-un-joven-a-otro-borregos/
 permalink: /2006/05/15/carta-de-un-joven-a-otro-borregos/
 categories:
   - General

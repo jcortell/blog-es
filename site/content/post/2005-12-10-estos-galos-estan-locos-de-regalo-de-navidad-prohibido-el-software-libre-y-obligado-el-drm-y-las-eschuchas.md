@@ -4,7 +4,7 @@ title: 'Estos galos están locos: de regalo de navidad PROHIBIDO EL SOFTWARE LIB
 date: 2005-12-10T20:33:36+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/12/10/estos-galos-estan-locos-de-regalo-de-navidad-prohibido-el-software-libre-y-obligado-el-drm-y-las-eschuchas/
+guid: https://www.cortell.net/2005/12/10/estos-galos-estan-locos-de-regalo-de-navidad-prohibido-el-software-libre-y-obligado-el-drm-y-las-eschuchas/
 permalink: /2005/12/10/estos-galos-estan-locos-de-regalo-de-navidad-prohibido-el-software-libre-y-obligado-el-drm-y-las-eschuchas/
 categories:
   - CiberDerechos
@@ -16,7 +16,7 @@ categories:
 ---
 Los Franceses se han vuelto locos. Y lo peor es que cuando las barbas de tu vecino veas cortar...
 
-No permitas que en España acabemos así­ de mal. Esto es lo que [según](http://www.boingboing.net/2005/12/02/france_about_to_get_.html) el muy honorable blog boingboing.net (mi favorito) está a punto de pasar en Francia (22 o 23 de diciembre, como regalo de navidad), en resumen:
+No permitas que en España acabemos así­ de mal. Esto es lo que [según](https://www.boingboing.net/2005/12/02/france_about_to_get_.html) el muy honorable blog boingboing.net (mi favorito) está a punto de pasar en Francia (22 o 23 de diciembre, como regalo de navidad), en resumen:
 
 – Prohibición del software que permita la transmisión de archivos desprotegidos (sin marca de agua ni DRM)
   

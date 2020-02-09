@@ -4,7 +4,7 @@ title: El mundo virtual y el real cada vez más cerca
 date: 2006-02-14T14:45:05+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/02/14/el-mundo-virtual-y-el-real-cada-vez-mas-cerca/
+guid: https://www.cortell.net/2006/02/14/el-mundo-virtual-y-el-real-cada-vez-mas-cerca/
 permalink: /2006/02/14/el-mundo-virtual-y-el-real-cada-vez-mas-cerca/
 categories:
   - Filosofí­a
@@ -15,7 +15,7 @@ categories:
 ---
 El fenómeno de los videojuegos siempre me ha fascinado. Sobretodo el de los juegos online. Y más todaví­a el de los MMPORPG con sus mundos y personajes virtuales, con sus economí­as virtuales (que en algunos casos tienen una correlación con economí­as fí­sicas y tangibles superior a muchas naciones de este planeta)... y con sus juicios reales derivados de comentarios de personajes virtuales.
 
-En una carta de Lambda Legal los abogados del colectivo homosexual advierten a Vivendi Universal que la [polémica](http://www.kotaku.com/gaming/breaking/wow-blizzard-gets-gay-rights-warning-153075.php) por los comentarios de orientación sexual en World of Warcraft podrí­a dar paso a acciones legales por considerar el "mundo virtual del videojuego" un "espacio de transacción comercial definido", y por lo tanto sujeto a leyes y normativas del paí­s (en este caso EEUU).
+En una carta de Lambda Legal los abogados del colectivo homosexual advierten a Vivendi Universal que la [polémica](https://www.kotaku.com/gaming/breaking/wow-blizzard-gets-gay-rights-warning-153075.php) por los comentarios de orientación sexual en World of Warcraft podrí­a dar paso a acciones legales por considerar el "mundo virtual del videojuego" un "espacio de transacción comercial definido", y por lo tanto sujeto a leyes y normativas del paí­s (en este caso EEUU).
 
 Invoca tu hechizo, saca tu escudo, y vamos a los tribunales.
 

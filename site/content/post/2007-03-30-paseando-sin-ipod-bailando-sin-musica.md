@@ -4,7 +4,7 @@ title: Paseando sin iPod (bailando sin música)
 date: 2007-03-30T14:12:50+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/03/30/paseando-sin-ipod-bailando-sin-musica/
+guid: https://www.cortell.net/2007/03/30/paseando-sin-ipod-bailando-sin-musica/
 permalink: /2007/03/30/paseando-sin-ipod-bailando-sin-musica/
 categories:
   - ¿Por qué no? ¿Utopías?

@@ -4,7 +4,7 @@ title: Supermoon
 date: 2013-06-23T22:04:13+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4777
+guid: https://cortell.net/blog/?p=4777
 permalink: /2013/06/23/supermoon/
 categories:
   - General
@@ -14,7 +14,7 @@ categories:
 ---
 <blockquote class="twitter-tweet">
   <p>
-    <a href="https://twitter.com/search?q=%23Supermoon&src=hash">#Supermoon</a> #Superluna desde nuestro edificio <a href="http://t.co/PhPWiRKLZA">pic.twitter.com/PhPWiRKLZA</a>
+    <a href="https://twitter.com/search?q=%23Supermoon&src=hash">#Supermoon</a> #Superluna desde nuestro edificio <a href="https://t.co/PhPWiRKLZA">pic.twitter.com/PhPWiRKLZA</a>
   </p>
   
   <p>

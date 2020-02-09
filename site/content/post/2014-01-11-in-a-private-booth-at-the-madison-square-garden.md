@@ -4,7 +4,7 @@ title: In a private booth at the Madison Square Garden
 date: 2014-01-11T20:10:24+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=5062
+guid: https://cortell.net/blog/?p=5062
 permalink: /2014/01/11/in-a-private-booth-at-the-madison-square-garden/
 categories:
   - General
@@ -22,4 +22,4 @@ La primera nos invitaron, a mi esposa y a mí, a un partido de la NBA (New York 
 
 La segunda vez fui invitado por IBM a su palco privado para ver un partido contra los Chicago Bulls, un partido mucho mejor. Es tan arriba, que a veces hay que mirar a las pantallas gigantes para ver el partido. Está lejos de los increíbles palcos privados del Xcel Energy Center en St. Paul, Minnesota (que disfruté hace muchos años y ya entonces era impresionante, con su uso de la tecnología), pero había un buffet completo, nuestros propios baños, pantallas, y definitivamente es el lugar perfecto para hacer negocios.
 
-Lo fue aún más genial es que se nos unió uno de mis ídolos de cuando era jugador de baloncesto: <a title="http://www.nba.com/knicks/news/profile_starks.html" href="http://www.nba.com/knicks/news/profile_starks.html" target="_blank">John Starks</a>. Tan agradable y _guay_ como lo recordaba.
+Lo fue aún más genial es que se nos unió uno de mis ídolos de cuando era jugador de baloncesto: <a title="https://www.nba.com/knicks/news/profile_starks.html" href="https://www.nba.com/knicks/news/profile_starks.html" target="_blank">John Starks</a>. Tan agradable y _guay_ como lo recordaba.

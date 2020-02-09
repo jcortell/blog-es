@@ -4,7 +4,7 @@ title: Cómo amargar un vuelo en Business Class
 date: 2005-11-27T20:25:02+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/11/27/como-amargar-un-vuelo-en-business-class/
+guid: https://www.cortell.net/2005/11/27/como-amargar-un-vuelo-en-business-class/
 permalink: /2005/11/27/como-amargar-un-vuelo-en-business-class/
 categories:
   - CiberDerechos
@@ -48,7 +48,7 @@ Chenoa, Alejandro, y compañí­a, -¿no os molesta saberos un "producto" en un 
 
 _"la piraterí­a seguirá siendo el mayor cancer de los creadores, no sólo musicales, sino de todos los creadores"_
 
-Pues, perdone usted, pero yo (en contra de lo que al principio del debate de la semana pasada pensaba Kiko Veneno, por no hacer sus deberes antes) soy autor. Y cobro por ello. Y me encantarí­a que me "pirateasean". De hecho, hay un libro a la venta que incluye un artí­culo mí­o, del que no voy a ver un euro, y me parece perfecto (tampoco me han pedido que lo escriba para ellos sin pagarme, ni me han pedido dinero por editar el libro, claro). Incluso [hay](http://www.business-opportunities.biz/projects/how-much-is-your-blog-worth/) quien ha calculado que mi blog vale actualmente más de 70.000 dólares (aunque a mí­ me da la risa). Y no por ello restrinjo el acceso al mismo o no permito que otros copien, modifiquen, y redistribuyan mi obra.
+Pues, perdone usted, pero yo (en contra de lo que al principio del debate de la semana pasada pensaba Kiko Veneno, por no hacer sus deberes antes) soy autor. Y cobro por ello. Y me encantarí­a que me "pirateasean". De hecho, hay un libro a la venta que incluye un artí­culo mí­o, del que no voy a ver un euro, y me parece perfecto (tampoco me han pedido que lo escriba para ellos sin pagarme, ni me han pedido dinero por editar el libro, claro). Incluso [hay](https://www.business-opportunities.biz/projects/how-much-is-your-blog-worth/) quien ha calculado que mi blog vale actualmente más de 70.000 dólares (aunque a mí­ me da la risa). Y no por ello restrinjo el acceso al mismo o no permito que otros copien, modifiquen, y redistribuyan mi obra.
 
 Si la "piraterí­a" = Top Manta, todos de acuerdo conque causa más mal que bien (evasión de impuestos, normalmente controlado por mafias, malas condiciones laborales, etc). Pero recuerden que **el verdadero cáncer para la creación es la reducción de variedad, es la imposición de barreras de acceso al mercado, es la manipulación de los gustos del mercado a través del control de los medios de comunicación, es la conspiración para la manipulación de precios, es la falta de competencia... SON USTEDES (las discográficas).**
 

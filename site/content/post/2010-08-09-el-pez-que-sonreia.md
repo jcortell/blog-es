@@ -4,7 +4,7 @@ title: El pez que sonreía
 date: 2010-08-09T01:23:24+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2573
+guid: https://cortell.net/blog/?p=2573
 permalink: /2010/08/09/el-pez-que-sonreia/
 categories:
   - General

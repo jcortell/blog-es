@@ -4,7 +4,7 @@ title: Manifestacion contra la SGAE, pasalo!!!
 date: 2006-03-24T08:31:23+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/03/24/manifestacion-contra-la-sgae-pasalo/
+guid: https://www.cortell.net/2006/03/24/manifestacion-contra-la-sgae-pasalo/
 permalink: /2006/03/24/manifestacion-contra-la-sgae-pasalo/
 categories:
   - CiberDerechos
@@ -229,21 +229,21 @@ NO A LA SGAE! NO AL CANON! NO LO TOLEREMOS!!!
 
 PD: Para obtener mayor información sobre lo que la $GAâ‚¬ hace:
 
-//[http://www.escolar.net/MT/archives/2006/03...uevas_tari.html](http://www.escolar.net/MT/archives/2006/03...uevas_tari.html)
+//[https://www.escolar.net/MT/archives/2006/03...uevas_tari.html](https://www.escolar.net/MT/archives/2006/03...uevas_tari.html)
   
-/<http://www.bandaancha.st>/
+/<https://www.bandaancha.st>/
   
-/<http://www.barrapunto.com>/
+/<https://www.barrapunto.com>/
   
-/<http://jorge.cortell.net>/
+/<https://jorge.cortell.net>/
   
-/<http://piezas.f2o.org/?p=132>/
+/<https://piezas.f2o.org/?p=132>/
   
-/<http://www.filmica.com/david_bravo/archivos/003202.html>/
+/<https://www.filmica.com/david_bravo/archivos/003202.html>/
   
-/<http://lamundial.net/home.php?pg=article&idart=470>/
+/<https://lamundial.net/home.php?pg=article&idart=470>/
   
-/[http://www.informativos.telecinco.es/sgae/...yo/dn_19194.htm](http://www.informativos.telecinco.es/sgae/...yo/dn_19194.htm)/
+/[https://www.informativos.telecinco.es/sgae/...yo/dn_19194.htm](https://www.informativos.telecinco.es/sgae/...yo/dn_19194.htm)/
 
 /Y muchas mas... (Si al reenviar este correo crees conveniente añadir URLs, -¡hazlo!)
 

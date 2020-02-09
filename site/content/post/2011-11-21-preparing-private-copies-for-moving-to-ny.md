@@ -4,7 +4,7 @@ title: Preparing private copies for moving to NY
 date: 2011-11-21T16:19:35+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3638
+guid: https://cortell.net/blog/?p=3638
 permalink: /2011/11/21/preparing-private-copies-for-moving-to-ny/
 wpsd_autopost:
   - "1"

@@ -4,7 +4,7 @@ title: 'Sabes que eres un jugón cuando...'
 date: 2005-12-14T10:17:44+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/12/14/sabes-que-eres-un-jugon-cuando/
+guid: https://www.cortell.net/2005/12/14/sabes-que-eres-un-jugon-cuando/
 permalink: /2005/12/14/sabes-que-eres-un-jugon-cuando/
 categories:
   - General

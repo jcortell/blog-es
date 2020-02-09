@@ -4,7 +4,7 @@ title: 'Derechos Humanos...'
 date: 2010-11-21T11:42:48+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2725
+guid: https://cortell.net/blog/?p=2725
 permalink: /2010/11/21/derechos-humanos/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -17,7 +17,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-El otro día estuve con Ana en una conferencia de Esteban Beltrán (<a title="http://www.es.amnesty.org/quienes-somos/como-nos-organizamos/" href="http://www.es.amnesty.org/quienes-somos/como-nos-organizamos/" target="_blank">Director de Amnistía Internacional España</a>) organizada por la <a title="http://www.fundacionmondiplo.es/epc.htm" href="http://www.fundacionmondiplo.es/epc.htm" target="_blank">Escuela de Pensamiento Crítico</a> de Le Monde Diplomatique.
+El otro día estuve con Ana en una conferencia de Esteban Beltrán (<a title="https://www.es.amnesty.org/quienes-somos/como-nos-organizamos/" href="https://www.es.amnesty.org/quienes-somos/como-nos-organizamos/" target="_blank">Director de Amnistía Internacional España</a>) organizada por la <a title="https://www.fundacionmondiplo.es/epc.htm" href="https://www.fundacionmondiplo.es/epc.htm" target="_blank">Escuela de Pensamiento Crítico</a> de Le Monde Diplomatique.
 
 Las reflexiones que de ella derivé, pertenecen a dos planos: el abstracto de "Los Derechos Humanos" y el tangible de "las ONGs".
 

@@ -4,7 +4,7 @@ title: Arden 500 cartas de amor
 date: 2009-03-05T07:48:24+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1638
+guid: https://cortell.net/blog/?p=1638
 permalink: /2009/03/05/arden-500-cartas-de-amor/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -21,7 +21,7 @@ Yo mantenía en un cofre más de 500 cartas de amor (y desamor, celos, nostalgia
 Hoy, siguiendo el ejemplo de John Lennon y Yoko Ono, he decidido deshacerme de todas esas cartas. Pero antes de quemarlas las he revisado, por si había en los sobres algo de plástico o metal, fotos, etc.
 
 <p style="text-align: center">
-  <img class="aligncenter" title="cartas en chimenea" src="http://farm4.static.flickr.com/3398/3328830201_47ef7d40ec_m.jpg" alt="" width="180" height="240" />
+  <img class="aligncenter" title="cartas en chimenea" src="https://farm4.static.flickr.com/3398/3328830201_47ef7d40ec_m.jpg" alt="" width="180" height="240" />
 </p>
 
 Mis sorpresas han sido varias. Las principales:
@@ -34,13 +34,13 @@ Mis sorpresas han sido varias. Las principales:
 En cualquier caso, el acto de quemar esa enorme pila de papel manuscrito o mecanografiado (incluso con sobres hechos a mano, y demás filigranas) no es una forma de renegar de mi pasado, o de intentar olvidar. Tampoco es una "afrenta" a todas esas maravillosas mujeres con las que he compartido experiencias y recuerdos. Es sólo **una liberación de atadura**. Es aligerar equipaje, para poder continuar el camino más concentrado, más intenso.
 
 <p style="text-align: center">
-  <img class="aligncenter" title="arden" src="http://farm4.static.flickr.com/3558/3328834151_551fbf5676_m.jpg" alt="" width="180" height="240" />
+  <img class="aligncenter" title="arden" src="https://farm4.static.flickr.com/3558/3328834151_551fbf5676_m.jpg" alt="" width="180" height="240" />
 </p>
 
 > Al arder, lo ha hecho con una violencia realmente impresionante. Las llamas eran moradas, y los papeles se retorcían quebrándose y resquebrajándose, como si se retorciesen en un último acto de pasión. Definitivamente algo salía de esa pira, a parte de calor y humo.
 
 <p style="text-align: center">
-  <img class="aligncenter" title="Pira" src="http://farm4.static.flickr.com/3375/3329671720_3854f96c07_m.jpg" alt="" width="180" height="240" />
+  <img class="aligncenter" title="Pira" src="https://farm4.static.flickr.com/3375/3329671720_3854f96c07_m.jpg" alt="" width="180" height="240" />
 </p>
 
 Un fuerte abrazo a todas las que me escribisteis esas cartas. Vuestras letras quedan en mí, no en un papel arrugado. Con cariño: Maria José, Sara, Cherisse, Anna, Ana, Ana A., Ana I., Monique, Mari Carmen, Debbie, Cinnamon, Auri, Alicia, Eva, Almudena, Begoña, Nuria, Rocío, Gema, Susana, Teresa, Lynann, Karri, Alana, Belén, Carmela, Aurora, María, Karen, Kimberly, Beatriz, Gretchen, Tammy, Laura, e Inés. Y descansen en paz las (dos que yo sepa) que no siguen entre nosotros.

@@ -4,7 +4,7 @@ title: My first Kendo class
 date: 2012-01-26T20:34:35+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3801
+guid: https://cortell.net/blog/?p=3801
 permalink: /2012/01/26/my-first-kendo-class/
 wpsd_autopost:
   - "1"

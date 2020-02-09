@@ -4,7 +4,7 @@ title: Bush veta el subsidio de seguro médico para niños
 date: 2007-10-04T10:54:51+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/10/04/bush-veta-el-subsidio-de-seguro-medico-para-ninos/
+guid: https://www.cortell.net/2007/10/04/bush-veta-el-subsidio-de-seguro-medico-para-ninos/
 permalink: /2007/10/04/bush-veta-el-subsidio-de-seguro-medico-para-ninos/
 categories:
   - General
@@ -14,6 +14,6 @@ Mientras incrementa el presupuesto del Pentágono, y responde al cambio climáti
 
 Supongo que a nadie le hací­an falta más argumentos para odiar a este personaje, pero siempre vienen bien los recordatorios.
 
-<a title="Health Imaging Today" target="_blank" href="http://www.healthimaging.com/content/view/8005/118/">Aquí­</a> hay más detalles de la noticia.
+<a title="Health Imaging Today" target="_blank" href="https://www.healthimaging.com/content/view/8005/118/">Aquí­</a> hay más detalles de la noticia.
 
-[<a target="_blank" title="Healthimaging.com" href="http://www.healthimaging.com/content/view/8235/89/">Actualización</a> 18 octubre 2007: El Congreso de EEUU fracasa al intentar contrarrestar el veto con una votación de 273 a 156, que se quedó corta por 13 votos para alcanzar la mayorí­a de 2/3 necesaria en esos casos (la votación para aprobar la ley fue de 265 a 159 el 25 de septiembre). En la votación inicial 45 Republicanos votaron a favor de la ley. Hoy sólo 44 se han opuesto al veto del Presidente]
+[<a target="_blank" title="Healthimaging.com" href="https://www.healthimaging.com/content/view/8235/89/">Actualización</a> 18 octubre 2007: El Congreso de EEUU fracasa al intentar contrarrestar el veto con una votación de 273 a 156, que se quedó corta por 13 votos para alcanzar la mayorí­a de 2/3 necesaria en esos casos (la votación para aprobar la ley fue de 265 a 159 el 25 de septiembre). En la votación inicial 45 Republicanos votaron a favor de la ley. Hoy sólo 44 se han opuesto al veto del Presidente]

@@ -4,7 +4,7 @@ title: MIT final day (6)
 date: 2013-02-11T17:11:20+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4563
+guid: https://cortell.net/blog/?p=4563
 permalink: /2013/02/11/mit-final-day-6/
 wpsd_autopost:
   - "1"

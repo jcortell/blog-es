@@ -4,7 +4,7 @@ title: Deleuziano
 date: 2010-08-09T02:39:08+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2580
+guid: https://cortell.net/blog/?p=2580
 permalink: /2010/08/09/deleuziano-sin-saberlo/
 categories:
   - ¿Por qué no? ¿Utopías?

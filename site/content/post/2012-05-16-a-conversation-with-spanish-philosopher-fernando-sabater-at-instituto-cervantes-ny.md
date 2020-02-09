@@ -4,7 +4,7 @@ title: A conversation with Spanish Philosopher Fernando Sabater at Instituto Cer
 date: 2012-05-16T13:44:38+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4126
+guid: https://cortell.net/blog/?p=4126
 permalink: /2012/05/16/a-conversation-with-spanish-philosopher-fernando-sabater-at-instituto-cervantes-ny/
 wpsd_autopost:
   - "1"
@@ -20,9 +20,9 @@ categories:
   [mudslide:picasa,0,111219615350942087056,5742886902413892049]
 </p>
 
-El miércoles 2 de mayo tuve el placer de conocer a <a title="http://www.savater.org/" href="http://www.savater.org/" target="_blank">Fernando Sabater</a> en el <a title="http://nyork.cervantes.es" href="http://nyork.cervantes.es" target="_blank">Instituto Cervantes, NY</a>.
+El miércoles 2 de mayo tuve el placer de conocer a <a title="https://www.savater.org/" href="https://www.savater.org/" target="_blank">Fernando Sabater</a> en el <a title="https://nyork.cervantes.es" href="https://nyork.cervantes.es" target="_blank">Instituto Cervantes, NY</a>.
 
-La conversación fue ligera e incluyó muchas anécdotas y curiosidades, pero también una buena dosis de Filosofía, Psicología y aforismos (como los de <a title="http://www.andresneuman.com/contenido_libros.php?id=23" href="http://www.andresneuman.com/contenido_libros.php?id=23" target="_blank">Andrés Newman</a>). Aquí van algunas deliciosas frases suyas:
+La conversación fue ligera e incluyó muchas anécdotas y curiosidades, pero también una buena dosis de Filosofía, Psicología y aforismos (como los de <a title="https://www.andresneuman.com/contenido_libros.php?id=23" href="https://www.andresneuman.com/contenido_libros.php?id=23" target="_blank">Andrés Newman</a>). Aquí van algunas deliciosas frases suyas:
 
 >   * Sin atacar, sin acatar
 >   * La infancia es siempre mala: ya sea porque ha sido mala y te deja un trauma, o porque fue buena y te frustra dejarla atrás

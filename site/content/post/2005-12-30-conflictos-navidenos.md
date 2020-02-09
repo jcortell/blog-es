@@ -4,7 +4,7 @@ title: Conflictos Navideños
 date: 2005-12-30T11:40:08+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/12/30/conflictos-navidenos/
+guid: https://www.cortell.net/2005/12/30/conflictos-navidenos/
 permalink: /2005/12/30/conflictos-navidenos/
 categories:
   - General
@@ -33,4 +33,4 @@ Me niego. Por eso yo regalo cuando veo algo bonito, o que le gustará a la perso
 
 Último comentario: respecto a la Iglesia, me encanta esta visión plástica de la artista italiana Benedetta Bonichi
   
-![Cardenal según Benedetta Bonichi](http://www.toseeinthedark.it/Opere/cardinale.jpg)
+![Cardenal según Benedetta Bonichi](https://www.toseeinthedark.it/Opere/cardinale.jpg)

@@ -4,7 +4,7 @@ title: Crisis, según Einstein
 date: 2009-04-06T09:46:47+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1741
+guid: https://cortell.net/blog/?p=1741
 permalink: /2009/04/06/crisis-segun-einstein/
 categories:
   - ¿Por qué no? ¿Utopías?

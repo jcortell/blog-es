@@ -4,7 +4,7 @@ title: 'EEUU: Arrestado niño de 14 por llevar porno al cole en la PSP'
 date: 2006-04-28T09:39:25+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/04/28/eeuu-arrestado-nino-de-14-por-llevar-porno-al-cole-en-la-psp/
+guid: https://www.cortell.net/2006/04/28/eeuu-arrestado-nino-de-14-por-llevar-porno-al-cole-en-la-psp/
 permalink: /2006/04/28/eeuu-arrestado-nino-de-14-por-llevar-porno-al-cole-en-la-psp/
 categories:
   - General
@@ -13,11 +13,11 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-Makk me enví­a esta noticia (comentada en [este blog](http://www.vidaextra.com/archivos/2006/04/27-tener-pornografia-en-la-psp-e.php#comments)), que por increí­ble que parezca, ha ocurrido en los EEUU.
+Makk me enví­a esta noticia (comentada en [este blog](https://www.vidaextra.com/archivos/2006/04/27-tener-pornografia-en-la-psp-e.php#comments)), que por increí­ble que parezca, ha ocurrido en los EEUU.
 
-![arrestado niño porno PSP](http://www.vidaextra.com/archivos/arrestadopsp.jpg)
+![arrestado niño porno PSP](https://www.vidaextra.com/archivos/arrestadopsp.jpg)
 
-En la ciudad de [Bismark](http://www.bismarcktribune.com/articles/2006/04/25/news/local/113696.txt), un niño de 14 años fue arrestado por la policí­a por llevar y mostrar (esto no se ha probado) pornografí­a a otros niños en el colegio. La denuncia la puso otro niño con el que habí­a tenido una pelea. Lo curioso (aunque sin importancia) es que el porno lo llevaba en la PSP.
+En la ciudad de [Bismark](https://www.bismarcktribune.com/articles/2006/04/25/news/local/113696.txt), un niño de 14 años fue arrestado por la policí­a por llevar y mostrar (esto no se ha probado) pornografí­a a otros niños en el colegio. La denuncia la puso otro niño con el que habí­a tenido una pelea. Lo curioso (aunque sin importancia) es que el porno lo llevaba en la PSP.
 
 Dejémonos de mojigaterí­a y gilipolleces.
 

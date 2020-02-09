@@ -4,7 +4,7 @@ title: La Marcha del Millón de Máscaras
 date: 2015-11-09T14:11:45+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5659
+guid: https://blog.cortell.net/es/?p=5659
 permalink: /2015/11/09/la-marcha-del-millon-de-mascaras/
 categories:
   - General

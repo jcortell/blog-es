@@ -4,7 +4,7 @@ title: 'Paseos a caballo de vacaciones por el campo Inglés: Four Seasons Hampsh
 date: 2015-09-09T10:00:39+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5579
+guid: https://blog.cortell.net/es/?p=5579
 permalink: /2015/09/09/paseos-a-caballo-de-vacaciones-por-el-campo-ingles-four-seasons-hampshire/
 categories:
   - General
@@ -12,7 +12,7 @@ categories:
   - Personal
   - Placeres de la vida
 ---
-El mes pasado llevamos a los niños a un paraje idílico en el campo Inglés: el <a href="http://www.fourseasons.com/hampshire/" target="_blank">Four Seasons Hampshire</a>, donde nos alojamos en dos suites adyacentes.
+El mes pasado llevamos a los niños a un paraje idílico en el campo Inglés: el <a href="https://www.fourseasons.com/hampshire/" target="_blank">Four Seasons Hampshire</a>, donde nos alojamos en dos suites adyacentes.
 
 No muy lejos de Londres, tiene todo lo que un niño puede soñar para unas vacaciones maravillosas de campo: colinas verdes, un estanque de pesca, tiro al plato (biodegradable), piscina interior climatizada, bicicletas, una gran colección de DVDs, biblioteca, un parque infantil, un circuito de cuerda-aventura, un campo de crocket, pistas de tenis, una sala de juegos para niños con videojuegos, futbolín, mesa de billar ... ¡incluso un perro labrador negro residente llamado Oliver!
 

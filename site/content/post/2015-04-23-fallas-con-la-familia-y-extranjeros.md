@@ -4,7 +4,7 @@ title: Fallas con la familia y extranjeros
 date: 2015-04-23T20:21:40+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5424
+guid: https://blog.cortell.net/es/?p=5424
 permalink: /2015/04/23/fallas-con-la-familia-y-extranjeros/
 categories:
   - General

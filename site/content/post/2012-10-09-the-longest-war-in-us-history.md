@@ -4,7 +4,7 @@ title: The longest war in US history
 date: 2012-10-09T00:52:23+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4345
+guid: https://cortell.net/blog/?p=4345
 permalink: /2012/10/09/the-longest-war-in-us-history/
 wpsd_autopost:
   - "1"

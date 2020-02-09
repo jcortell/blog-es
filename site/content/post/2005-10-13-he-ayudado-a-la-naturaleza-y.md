@@ -4,7 +4,7 @@ title: He ayudado a la Naturaleza -¿Y?
 date: 2005-10-13T17:00:48+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2005/10/13/he-ayudado-a-la-naturaleza-%c2%bfy/'
+guid: 'https://www.cortell.net/2005/10/13/he-ayudado-a-la-naturaleza-%c2%bfy/'
 permalink: /2005/10/13/he-ayudado-a-la-naturaleza-y/
 categories:
   - General

@@ -4,7 +4,7 @@ title: Haciendo negocio con el Cambio Climático y el Copyright
 date: 2007-10-24T18:22:34+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/10/24/haciendo-negocio-con-el-cambio-climatico-y-el-copyright/
+guid: https://www.cortell.net/2007/10/24/haciendo-negocio-con-el-cambio-climatico-y-el-copyright/
 permalink: /2007/10/24/haciendo-negocio-con-el-cambio-climatico-y-el-copyright/
 categories:
   - CiberDerechos
@@ -15,7 +15,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-Pascual Serrano tiene un excelente artí­culo titulado "<a target="_blank" title="Artí­culo en Rebelión" href="http://www.rebelion.org/noticia.php?id=57743">El pelotazo del Premio Nobel de la Paz</a>" en Rebelión sobre "**Al Gore vendiendo su DVD en lotes de 30.000 copias por 580.000 euros**".
+Pascual Serrano tiene un excelente artí­culo titulado "<a target="_blank" title="Artí­culo en Rebelión" href="https://www.rebelion.org/noticia.php?id=57743">El pelotazo del Premio Nobel de la Paz</a>" en Rebelión sobre "**Al Gore vendiendo su DVD en lotes de 30.000 copias por 580.000 euros**".
 
 Aunque el artí­culo es genial, creo que el enfoque no es el correcto. Al Gore posiblemente _pasa_ de las ventas, los derechos y los royalties. Muy posiblemente haya pensado "para distribuir (lo que en el mundo US Business significa corecializar) este documental lo mejor es que se lo de a una multinacional -Paramount en este caso- y así­ llegará a todo el mundo". El problema con este enfoque no es sólo el precio/margen, sino el mero hecho del ánimo de lucro. Estoy seguro que más de una ONG lo hubiera hecho sin ánimo de lucro. Estoy seguro que llegarí­a a mucha más gente si se colgase y se permitiese acceder gratis en la red. Estoy seguro que son los de siempre (intermediarios, distribuidores, comerciantes, entidades de gestión, abogados, contables, etc) los interesados en cobrar y ganar pasta con este importante (dejemos de lado las crí­ticas varias que puede suscitar el documental en sí­) mensaje.
 

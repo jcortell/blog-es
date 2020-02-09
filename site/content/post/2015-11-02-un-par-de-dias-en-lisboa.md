@@ -4,7 +4,7 @@ title: Un par de días en Lisboa
 date: 2015-11-02T16:26:18+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5646
+guid: https://blog.cortell.net/es/?p=5646
 permalink: /2015/11/02/un-par-de-dias-en-lisboa/
 categories:
   - General

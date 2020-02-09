@@ -4,7 +4,7 @@ title: Anti-Zen ad making me sick
 date: 2012-01-17T10:56:54+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3763
+guid: https://cortell.net/blog/?p=3763
 permalink: /2012/01/17/anti-zen-ad-making-me-sick/
 wpsd_autopost:
   - "1"

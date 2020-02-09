@@ -4,7 +4,7 @@ title: Chicago June 13th and 14th
 date: 2012-06-22T17:59:19+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4204
+guid: https://cortell.net/blog/?p=4204
 permalink: /2012/06/22/chicago-june-13th-and-14th/
 wpsd_autopost:
   - "1"
@@ -25,6 +25,6 @@ Primero uno de esos momentos WTF que no puedes creer o comprender por mucho que 
   [mudslide:picasa,0,111219615350942087056,5755877679307920161]
 </p>
 
-Así que una vez en Chicago, directo a mi primera reunión en el Centro de Innovación de IBM. Intensa, interesante... y a mi <a title="http://www.getawayhostel.com" href="http://www.getawayhostel.com" target="_blank">hotel</a> a pasar unas horas preparando lo del día siguiente (reunión importante). El día siguiente, estupendas presentaciones y reuniones (incluido almuerzo con el gran jefe) y algo muy interesante: tenían un quiosco interactivo de Watson con el que poder competir a Jeopardy. Pero más sobre eso en otro post.
+Así que una vez en Chicago, directo a mi primera reunión en el Centro de Innovación de IBM. Intensa, interesante... y a mi <a title="https://www.getawayhostel.com" href="https://www.getawayhostel.com" target="_blank">hotel</a> a pasar unas horas preparando lo del día siguiente (reunión importante). El día siguiente, estupendas presentaciones y reuniones (incluido almuerzo con el gran jefe) y algo muy interesante: tenían un quiosco interactivo de Watson con el que poder competir a Jeopardy. Pero más sobre eso en otro post.
 
 Y directo al aeropuerto donde una mujer me dijo que el motivo por el que se llama "ciudad del viento (windy city)" no es por el "efecto del lago" y las asquerosas ráfagas de viento (que en invierno parece que te acuchillen), sino por sus políticos "windy" (charlatanes). Me tomase el pelo (difícil, por lo poco que tengo) o no, eso es lo que me dijo. Hasta la próxima, Chicago.

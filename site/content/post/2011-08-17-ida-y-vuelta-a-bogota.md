@@ -4,7 +4,7 @@ title: Ida y vuelta a Bogotá
 date: 2011-08-17T23:33:14+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3418
+guid: https://cortell.net/blog/?p=3418
 permalink: /2011/08/17/ida-y-vuelta-a-bogota/
 wpsd_autopost:
   - "1"

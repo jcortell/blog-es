@@ -4,7 +4,7 @@ title: 'Motion Picture Association of America: mafiosos hipócritas'
 date: 2006-01-28T11:31:35+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/01/28/motion-picture-association-of-america-mafiosos-hipocritas/
+guid: https://www.cortell.net/2006/01/28/motion-picture-association-of-america-mafiosos-hipocritas/
 permalink: /2006/01/28/motion-picture-association-of-america-mafiosos-hipocritas/
 categories:
   - CiberDerechos
@@ -12,7 +12,7 @@ categories:
   - General
   - Rants
 ---
-Tal y como [informa](http://www.latimes.com/business/custom/cotown/cl-et-mpaa24jan24,0,2188275.story) Los Angeles Times la Motion Picture Association of America (MPAA) realizó copias no autorizadas del documental (que criticaba a la MPAA) _This Film Not Yet Rated_.
+Tal y como [informa](https://www.latimes.com/business/custom/cotown/cl-et-mpaa24jan24,0,2188275.story) Los Angeles Times la Motion Picture Association of America (MPAA) realizó copias no autorizadas del documental (que criticaba a la MPAA) _This Film Not Yet Rated_.
 
 Recordemos que la todopoderosa MPAA (una especie de SGAE norteamericana del cine) califica constantemente en los medios de comunicación de "robo" y "piraterí­a" el copiar los discos DVD que uno ha comprado o alquilado.
 

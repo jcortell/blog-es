@@ -4,7 +4,7 @@ title: 'Datos sentencia AGEDI: remuneraciones abusivas y discriminatorias'
 date: 2006-07-18T10:38:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/07/18/datos-sentencia-agedi-remuneraciones-abusivas-y-discriminatorias/
+guid: https://www.cortell.net/2006/07/18/datos-sentencia-agedi-remuneraciones-abusivas-y-discriminatorias/
 permalink: /2006/07/18/datos-sentencia-agedi-remuneraciones-abusivas-y-discriminatorias/
 categories:
   - CiberDerechos

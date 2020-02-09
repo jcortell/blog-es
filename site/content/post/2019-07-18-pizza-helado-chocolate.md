@@ -20,7 +20,7 @@ Vamos a hablar de algunas comidas únicas en Nueva York.
 
 Nueva York puede definirse por su concentración, de todo, desde el poder y el dinero hasta los edificios, personas, tiendas o restaurantes. Puede ir uno a un restaurante diferente cada comida y, dada la rotación en la industria de la restauración, nunca se quedará sin opciones. Antes de la Semana de Restaurantes de Nueva York, decidimos probar algunas opciones interesantes.
 
-Primero, buscar buena pizza en Nueva York. Creo que la pizza de NY está sobrevalorada, pero por supuesto que puedes encontrar una buena pizza. Probamos [John's of Bleeker Street](http://www.johnsbrickovenpizza.com/) el miércoles. Si bien es viejo y famoso, y el horno al carbón le da a las pizzas un toque muy agradable, como Lady Gaga, prefiero las pizzas "más sabrosas" como [Famous Amadeus Pizza](https://www.famousamadeus.com/), convenientemente ubicado cerca de la oficina de mi esposa.
+Primero, buscar buena pizza en Nueva York. Creo que la pizza de NY está sobrevalorada, pero por supuesto que puedes encontrar una buena pizza. Probamos [John's of Bleeker Street](https://www.johnsbrickovenpizza.com/) el miércoles. Si bien es viejo y famoso, y el horno al carbón le da a las pizzas un toque muy agradable, como Lady Gaga, prefiero las pizzas "más sabrosas" como [Famous Amadeus Pizza](https://www.famousamadeus.com/), convenientemente ubicado cerca de la oficina de mi esposa.
 
 Pero no se puede vivir solo de pizza, así que también fuimos a [Big Gay Ice Cream](https://biggayicecream.com/) en Grove Street, y a [Max Brenner](https://maxbrenner.com /) en Union Square, donde tomé la "pizza" que más llena: mantequilla de cacahuete, plátano, chocolate, y malvaviscos. Porque sí.
 

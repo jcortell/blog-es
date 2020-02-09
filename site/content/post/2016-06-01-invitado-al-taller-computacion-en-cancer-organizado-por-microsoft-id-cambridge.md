@@ -4,7 +4,7 @@ title: 'Invitado al taller "Computación en Cancer" organizado por Microsoft I+D
 date: 2016-06-01T06:36:54+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5801
+guid: https://blog.cortell.net/es/?p=5801
 permalink: /2016/06/01/invitado-al-taller-computacion-en-cancer-organizado-por-microsoft-id-cambridge/
 categories:
   - Ciencias
@@ -14,11 +14,11 @@ categories:
   - Placeres de la vida
   - Technology
 ---
-<img class="aligncenter" src="http://www.leoprojects.co.uk/images/images/case_study_cambridge3.jpg" width="300" height="227" />
+<img class="aligncenter" src="https://www.leoprojects.co.uk/images/images/case_study_cambridge3.jpg" width="300" height="227" />
 
 El pasado 27 de mayo fui invitado a participar en el taller "Computación en Cancer" organizado por Microsoft I+D Cambridge.
 
-<img class="aligncenter" src="http://www.cambridgefilmworks.com/wp-content/uploads/2015/07/Microsoft-Research_Entrance.jpg" width="1600" height="622" />
+<img class="aligncenter" src="https://www.cambridgefilmworks.com/wp-content/uploads/2015/07/Microsoft-Research_Entrance.jpg" width="1600" height="622" />
 
 Fue una gran oportunidad para establecer contactos, reunirse con colegas y otros investigadores, y sobre todo para aprender mucho.
 

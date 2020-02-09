@@ -4,7 +4,7 @@ title: Working distractions
 date: 2013-05-02T13:30:51+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4689
+guid: https://cortell.net/blog/?p=4689
 permalink: /2013/05/02/working-distractions/
 categories:
   - Geek Fun

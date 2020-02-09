@@ -4,7 +4,7 @@ title: Sin compromisos
 date: 2008-09-11T17:10:42+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1309
+guid: https://www.cortell.net/?p=1309
 permalink: /2008/09/11/sin-compromisos/
 categories:
   - ¿Por qué no? ¿Utopías?

@@ -4,7 +4,7 @@ title: Nombre para HackLab de Valencia
 date: 2006-05-16T00:48:12+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/05/16/nombre-para-hacklab-de-valencia/
+guid: https://www.cortell.net/2006/05/16/nombre-para-hacklab-de-valencia/
 permalink: /2006/05/16/nombre-para-hacklab-de-valencia/
 categories:
   - Geek Fun
@@ -13,7 +13,7 @@ categories:
   - Otras cosas
   - Technology
 ---
-En <a target="_blank" title="Nombre HackLab Valencia" href="http://zeros.raulete.net/wk/index.pl?PropuestasNombre">esta página</a> raulete ha recopilado las opciones propuestas para nombrar al HackLab de Valencia, desde los más _geek_ hasta puro _l33t_ pasando por _lamer_ total, hay que reconocer que otra cosa no, pero creatividad los valencianos tenemos un rato.
+En <a target="_blank" title="Nombre HackLab Valencia" href="https://zeros.raulete.net/wk/index.pl?PropuestasNombre">esta página</a> raulete ha recopilado las opciones propuestas para nombrar al HackLab de Valencia, desde los más _geek_ hasta puro _l33t_ pasando por _lamer_ total, hay que reconocer que otra cosa no, pero creatividad los valencianos tenemos un rato.
 
 La gente está votando. Por curiosidad, -¿qué nombre os gusta más?
 

@@ -4,7 +4,7 @@ title: Cómo multiplicarme por mil
 date: 2005-05-11T13:07:04+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/05/11/como-multiplicarme-por-mil/
+guid: https://www.cortell.net/2005/05/11/como-multiplicarme-por-mil/
 permalink: /2005/05/11/como-multiplicarme-por-mil/
 categories:
   - General

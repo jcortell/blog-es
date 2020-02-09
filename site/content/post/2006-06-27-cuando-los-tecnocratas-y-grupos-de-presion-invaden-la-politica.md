@@ -4,7 +4,7 @@ title: Cuando los tecnócratas y grupos de presión invaden la polí­tica
 date: 2006-06-27T07:08:51+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/06/27/cuando-los-tecnocratas-y-grupos-de-presion-invaden-la-politica/
+guid: https://www.cortell.net/2006/06/27/cuando-los-tecnocratas-y-grupos-de-presion-invaden-la-politica/
 permalink: /2006/06/27/cuando-los-tecnocratas-y-grupos-de-presion-invaden-la-politica/
 categories:
   - CiberDerechos
@@ -22,7 +22,7 @@ Pero el espectáculo al que estamos asistiendo, sobretodo en España, empieza a 
 
 Los lectores habituales de este humilde (;-) y lo digo con cachondeo) blog ya habrán visto pruebas suficientes de que las Suciedades de Gestión colectiva se pasean por el Ministerio de Cultura, cenan a menudo con ministros y otros altos cargos, redactan las leyes, dan cursos a policí­as, jueces y abogados, y si algún Ministerio de Industria u otros pendejos electrónicos hacen sonar la voz de alarma, van con un autobús lleno de famosos a llorarle al Presidente, se inventan una consultora que se inventa estadí­sticas para dar legitimidad a sus falacias, o se ponen una camiseta con eslogan en una entrega de premios televisada, y el polí­tico de turno se caga en los pantalones. Todo vale con tal de medrar en la polí­tica y sacar rédito económico y regalí­as a cambio de tanta presión.
 
-Pero esta injerencia en los asuntos de gobierno, esta intromisión en la vida polí­tica va a más, alcanzando cuotas realmente preocupantes. Como muestra <a title="tecnócratas en polí­tica" target="_blank" href="http://www.elconfidencial.com/economia/noticia.asp?id=4473&edicion=22/06/2006&pass=">esta noticia</a>, ahora los tecnócratas asisten a las reuniones polí­ticas como si de un representante de la voluntad popular más se tratase.
+Pero esta injerencia en los asuntos de gobierno, esta intromisión en la vida polí­tica va a más, alcanzando cuotas realmente preocupantes. Como muestra <a title="tecnócratas en polí­tica" target="_blank" href="https://www.elconfidencial.com/economia/noticia.asp?id=4473&edicion=22/06/2006&pass=">esta noticia</a>, ahora los tecnócratas asisten a las reuniones polí­ticas como si de un representante de la voluntad popular más se tratase.
 
 Este patrón de comportamiento carroñero lo estamos viendo contí­nuamente: se forman "comisiones" que se supone debaten en pro del bien común, y para legitimar decisiones a todas luces partidistas y que perpetúan restricciones de libre mercado y lesionan los intereses de los ciudadanos, lo que hacen es basarse en declaraciones de unos supuestos "representantes" de "grupos" que conforman el espectro completo de posturas a atender... con la única salvedad de que eso no es así­.
 

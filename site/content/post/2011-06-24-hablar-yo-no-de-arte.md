@@ -4,7 +4,7 @@ title: Hablar y/o no de arte
 date: 2011-06-24T22:34:22+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3240
+guid: https://cortell.net/blog/?p=3240
 permalink: /2011/06/24/hablar-yo-no-de-arte/
 wpsd_autopost:
   - "1"

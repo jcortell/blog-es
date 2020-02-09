@@ -4,7 +4,7 @@ title: 'Los peligros ocultos de la Red V: La retención de datos y la intercepta
 date: 2005-08-31T01:25:11+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/08/30/los-peligros-ocultos-de-la-red-v-la-retencion-de-datos-y-la-interceptacion-de-telecomunicaciones/
+guid: https://www.cortell.net/2005/08/30/los-peligros-ocultos-de-la-red-v-la-retencion-de-datos-y-la-interceptacion-de-telecomunicaciones/
 permalink: /2005/08/31/los-peligros-ocultos-de-la-red-v-la-retencion-de-datos-y-la-interceptacion-de-telecomunicaciones/
 categories:
   - 'Artí­culos escritos para la revista PC&amp;I'
@@ -23,7 +23,7 @@ El tema de la retención de datos no es nuevo, y "la excusa oficial" va cambiand
 
 Desde el 12 de octubre de 2002 los proveedores de servicios de la sociedad de la información están obligados a retener esos datos de sus clientes durante un año, según el artí­culo 12 de la LSSICE (Ley de Servicios de la Sociedad de la Información y Comercio Electrónico), ley a la que muchos internautas nos opusimos desde su inicio, siendo este uno de los principales motivos. Recordemos que la Constitución Española establece el derecho a la intimidad (art. 18) y la presunción de inocencia (art. 24). Además esta retención de datos podrí­a equivaler a una declaración forzosa de nuestra ideologí­a (prohibida por el art. 16.2), a parte de incumplir la LOPDCP (Ley Orgánica de Protección de Datos de Carácter Personal).
 
-Ante estos potenciales abusos, a parte de la presión social y mediática, siempre podemos contar con la tecnologí­a para ayudarnos. En http://www.puntnet.org/script.html tenemos un ejemplo de script anti-retención que nos ayudará a impedir dicha retención de datos. Hay muchos más disponibles en la red. Dichos scripts, junto con una navegación con proxy de privacidad nos garantizarán que sigamos siendo libres en el uso y disfrute de las telecomunicaciones, sin la intrusión injustificada de nadie.
+Ante estos potenciales abusos, a parte de la presión social y mediática, siempre podemos contar con la tecnologí­a para ayudarnos. En https://www.puntnet.org/script.html tenemos un ejemplo de script anti-retención que nos ayudará a impedir dicha retención de datos. Hay muchos más disponibles en la red. Dichos scripts, junto con una navegación con proxy de privacidad nos garantizarán que sigamos siendo libres en el uso y disfrute de las telecomunicaciones, sin la intrusión injustificada de nadie.
 
 Pero como decí­a anteriormente existe un problema mucho mayor, que deberí­a hacernos considerar la adopción de cifrado en nuestras comunicaciones: la interceptación de telecomunicaciones.
 
@@ -33,4 +33,4 @@ La Asociación de Internautas (respaldada por la Comisión de Libertades e Infor
 
 Es muy preocupante que un gobierno (sea norteamericano, británico, español, o de donde sea, pero sobretodo si se considera "democrático") imponga sin ningún debate ni consideración hacia la realidad ni sensibilidad sociales normativas de tal calaña. Así­ que, para concluir con el aparentemente necesario razonamiento simplista (más que simplificado): "retención de datos mala, interceptación de datos malí­sima; scripts anti-retención buenos, proxies de privacidad muy buenos, y cifrado buení­simo".
 
-[<img src="http://tira.escomposlinux.org/ecol-220.png" alt="tira es.comp.os.linux" border="0" />](http://tira.escomposlinux.org/ecol-220.png)
+[<img src="https://tira.escomposlinux.org/ecol-220.png" alt="tira es.comp.os.linux" border="0" />](https://tira.escomposlinux.org/ecol-220.png)

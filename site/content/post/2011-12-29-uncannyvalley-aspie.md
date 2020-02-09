@@ -4,7 +4,7 @@ title: The Uncanny Valley as an approach to the pseudo-empathy of Aperger Syndro
 date: 2011-12-29T18:33:32+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3708
+guid: https://cortell.net/blog/?p=3708
 permalink: /2011/12/29/uncannyvalley-aspie/
 wpsd_autopost:
   - "1"
@@ -16,19 +16,19 @@ categories:
   - Psicología
   - Rants
 ---
-Según la <a title="http://es.wikipedia.org/wiki/Valle_inquietante" href="http://es.wikipedia.org/wiki/Valle_inquietante" target="_blank">wikipedia</a> (ver <a title="http://en.wikipedia.org/wiki/Uncanny_valley" href="http://en.wikipedia.org/wiki/Uncanny_valley" target="_blank">versión inglesa</a> para mayor información, como por ejemplo el origen Freudiano de esta teoría):
+Según la <a title="https://es.wikipedia.org/wiki/Valle_inquietante" href="https://es.wikipedia.org/wiki/Valle_inquietante" target="_blank">wikipedia</a> (ver <a title="https://en.wikipedia.org/wiki/Uncanny_valley" href="https://en.wikipedia.org/wiki/Uncanny_valley" target="_blank">versión inglesa</a> para mayor información, como por ejemplo el origen Freudiano de esta teoría):
 
-> La teoría del **valle inquietante o inexplicable** (en inglés, "Uncanny Valley") es un principio de la [robótica](http://es.wikipedia.org/wiki/Rob%C3%B3tica "Robótica") sobre las respuestas emocionales de los humanos hacia los robots y otras entidades no humanas. Fue descrito por el robotista japonés [Masahiro Mori](http://es.wikipedia.org/w/index.php?title=Masahiro_Mori&action=edit&redlink=1 "Masahiro Mori (aún no redactado)") en [1970](http://es.wikipedia.org/wiki/1970 "1970"). Este principio dice que la respuesta emocional de un humano hacia un robot hecho en apariencia y comportamiento muy similar al humano, incrementará positivamente y de forma empática, hasta alcanzar un punto en el que la respuesta emocional se vuelve de repente fuertemente repulsiva. Cuando la apariencia y comportamiento del robot se vuelven indistinguibles al ser humano, la respuesta emocional vuelve a crecer de forma positiva y se va aproximando a niveles de empatía como los que se dan entre humanos.
+> La teoría del **valle inquietante o inexplicable** (en inglés, "Uncanny Valley") es un principio de la [robótica](https://es.wikipedia.org/wiki/Rob%C3%B3tica "Robótica") sobre las respuestas emocionales de los humanos hacia los robots y otras entidades no humanas. Fue descrito por el robotista japonés [Masahiro Mori](https://es.wikipedia.org/w/index.php?title=Masahiro_Mori&action=edit&redlink=1 "Masahiro Mori (aún no redactado)") en [1970](https://es.wikipedia.org/wiki/1970 "1970"). Este principio dice que la respuesta emocional de un humano hacia un robot hecho en apariencia y comportamiento muy similar al humano, incrementará positivamente y de forma empática, hasta alcanzar un punto en el que la respuesta emocional se vuelve de repente fuertemente repulsiva. Cuando la apariencia y comportamiento del robot se vuelven indistinguibles al ser humano, la respuesta emocional vuelve a crecer de forma positiva y se va aproximando a niveles de empatía como los que se dan entre humanos.
 > 
 > <div>
 >   <div>
 >     <p>
->       <a href="http://es.wikipedia.org/wiki/Archivo:Valle_inexplicable2.gif"><img class="aligncenter" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Valle_inexplicable2.gif/300px-Valle_inexplicable2.gif" alt="" width="300" height="270" /></a>
+>       <a href="https://es.wikipedia.org/wiki/Archivo:Valle_inexplicable2.gif"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Valle_inexplicable2.gif/300px-Valle_inexplicable2.gif" alt="" width="300" height="270" /></a>
 >     </p>
 >     
 >     <div>
 >       <div>
->         <a title="Aumentar" href="http://es.wikipedia.org/wiki/Archivo:Valle_inexplicable2.gif"><img src="http://bits.wikimedia.org/skins-1.18/common/images/magnify-clip.png" alt="" width="15" height="11" /></a>
+>         <a title="Aumentar" href="https://es.wikipedia.org/wiki/Archivo:Valle_inexplicable2.gif"><img src="https://bits.wikimedia.org/skins-1.18/common/images/magnify-clip.png" alt="" width="15" height="11" /></a>
 >       </div>
 >       
 >       <p>

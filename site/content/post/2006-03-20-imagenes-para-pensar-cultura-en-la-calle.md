@@ -4,7 +4,7 @@ title: 'Imágenes para pensar: cultura en la calle'
 date: 2006-03-20T10:36:00+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/03/20/imagenes-para-pensar-cultura-en-la-calle/
+guid: https://www.cortell.net/2006/03/20/imagenes-para-pensar-cultura-en-la-calle/
 permalink: /2006/03/20/imagenes-para-pensar-cultura-en-la-calle/
 categories:
   - Filosofí­a
@@ -17,10 +17,10 @@ Al autor anómimo: GRACIAS.
 
 Las podéis disfrutar "al natural" en Conde Duque (Madrid).
 
-![Corazón: usar en caso de emergencia](http://static.flickr.com/56/112955869_31a4c12bd1.jpg?v=0)
+![Corazón: usar en caso de emergencia](https://static.flickr.com/56/112955869_31a4c12bd1.jpg?v=0)
 
-![Cerebro: usar en caso de emergencia](http://static.flickr.com/51/112955868_f93eab1b36.jpg?v=0)
+![Cerebro: usar en caso de emergencia](https://static.flickr.com/51/112955868_f93eab1b36.jpg?v=0)
 
 Y otra imagen, más geek, con una profunda carga artí­stica y cientí­fica (la evolución de la imagen, de la obra, de la vida...)
 
-![evolución](http://static.flickr.com/55/113446514_a09d28bac2.jpg?v=0)
+![evolución](https://static.flickr.com/55/113446514_a09d28bac2.jpg?v=0)

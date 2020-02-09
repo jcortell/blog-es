@@ -4,7 +4,7 @@ title: Absurdos conflictos donde no los hay
 date: 2007-04-26T20:35:13+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/04/26/absurdos-conflictos-donde-no-los-hay/
+guid: https://www.cortell.net/2007/04/26/absurdos-conflictos-donde-no-los-hay/
 permalink: /2007/04/26/absurdos-conflictos-donde-no-los-hay/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -13,7 +13,7 @@ categories:
   - Noticias
   - Sociedad y polí­tica
 ---
-David me enví­a un <a target="_blank" title="Noticia en VilaWeb" href="http://www.vilaweb.cat/www/noticia?p_idcmp=2371437">enlace</a> a una interesante noticia:
+David me enví­a un <a target="_blank" title="Noticia en VilaWeb" href="https://www.vilaweb.cat/www/noticia?p_idcmp=2371437">enlace</a> a una interesante noticia:
 
 El consistori de Castelldefels ha instal-·lat una antena a la plaí§a de les Palmeres que permet d‘accedir a internet des de la platja i del passeig marí­tim. (...)
   

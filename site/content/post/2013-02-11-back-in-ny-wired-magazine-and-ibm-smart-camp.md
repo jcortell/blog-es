@@ -4,7 +4,7 @@ title: 'Back in NY: Wired Magazine and IBM Smart Camp'
 date: 2013-02-11T17:30:06+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4565
+guid: https://cortell.net/blog/?p=4565
 permalink: /2013/02/11/back-in-ny-wired-magazine-and-ibm-smart-camp/
 wpsd_autopost:
   - "1"

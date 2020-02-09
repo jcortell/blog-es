@@ -4,7 +4,7 @@ title: 'Voto Electrónico en manos de empresas: PELIGRO'
 date: 2006-05-10T01:12:23+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/05/10/voto-electronico-en-manos-de-empresas-peligro/
+guid: https://www.cortell.net/2006/05/10/voto-electronico-en-manos-de-empresas-peligro/
 permalink: /2006/05/10/voto-electronico-en-manos-de-empresas-peligro/
 categories:
   - CiberDerechos
@@ -14,9 +14,9 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-[Este documental](http://www.archive.org/details/HelpAmericaVoteonPaper) nos habla de ello, pero [este otro post](http://www.bradblog.com/archives/00002787.htm) da detalles técnicos: los sitemas de voto electrónico de la empresa Diebold (sobre los que he estado advirtiendo durante años en mis conferencias, y sobre los que se ha escrito mucho a raiz de los Halloween Memos) no sólo siguen teniendo vulnerabilidades espantosas, sino que estas han sido descritas como de "gran riesgo nacional".
+[Este documental](https://www.archive.org/details/HelpAmericaVoteonPaper) nos habla de ello, pero [este otro post](https://www.bradblog.com/archives/00002787.htm) da detalles técnicos: los sitemas de voto electrónico de la empresa Diebold (sobre los que he estado advirtiendo durante años en mis conferencias, y sobre los que se ha escrito mucho a raiz de los Halloween Memos) no sólo siguen teniendo vulnerabilidades espantosas, sino que estas han sido descritas como de "gran riesgo nacional".
 
-![eVoting Diebold](http://www.bradblog.com/Images/DieboldAccuvoteTSX.jpg)
+![eVoting Diebold](https://www.bradblog.com/Images/DieboldAccuvoteTSX.jpg)
 
 Estas máquinas, empleadas hace un par de semanas en las elecciones primarias de Ohio y que dentro de poco se emplearán en las de Pennsylvania, son similares a las anteriores (las que permitieron que Bush robara electrónicamente las elecciones dos veces consecutivas), pero con una vulnerabilidad extra: se les puede cargar software no autorizado y encubierto, para manipular los resultados, sin intervención humana en el momento.
 

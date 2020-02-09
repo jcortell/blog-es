@@ -4,7 +4,7 @@ title: -¿Paz social o muerte social? Mercado -¿libre? Subversión YA
 date: 2005-12-16T14:48:48+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2005/12/16/%c2%bfpaz-social-o-muerte-social-mercado-%c2%bflibre-subversion-ya/'
+guid: 'https://www.cortell.net/2005/12/16/%c2%bfpaz-social-o-muerte-social-mercado-%c2%bflibre-subversion-ya/'
 permalink: /2005/12/16/paz-social-o-muerte-social-mercado-libre-subversion-ya/
 categories:
   - CiberDerechos
@@ -23,7 +23,7 @@ categories:
 
 Tenemos unos polí­ticos ridí­culos que nos causan vergí¼enza ajena y que con esos grandes temas mencionados están recortando nuestras libertades, y nos dirigen hacia un futuro muy muy terrible.
 
-Incluso en el nivel pequeño y anecdótico de una ciudad, los barceloneses están que trinan con las famosas medidas "cí­vicas" de Clos. Pancake lo [relata](http://news.nopcode.org/pancake/post_46.html) de maravilla en su blog, pero a modo de resumen: Clos ha prohibido sentarse en el suelo, multa a indigentes (por dar mala imagen a la ciudad), cierra radios libres, persigue la prostitución (claro, a los polí­ticos se las traen al hotel, no las buscan en la calle), prohibe comer en la calle... incluso se ha retirado la famosa (en Cataluña) figura del "cagador" del belén de Barcelona. Pero el fondo de la cuestión está en normas como: para hacer una manifestación no sólo hay que pedir permiso. También hay que pagar un seguro "por los posibles daños materiales", se prohibe repartir boletines informativos, colgar carteles, y hay que pagarles a los cuerpos de seguridad (como dice pancake, son cuerpos, no cabezas), para mantener la "paz social".
+Incluso en el nivel pequeño y anecdótico de una ciudad, los barceloneses están que trinan con las famosas medidas "cí­vicas" de Clos. Pancake lo [relata](https://news.nopcode.org/pancake/post_46.html) de maravilla en su blog, pero a modo de resumen: Clos ha prohibido sentarse en el suelo, multa a indigentes (por dar mala imagen a la ciudad), cierra radios libres, persigue la prostitución (claro, a los polí­ticos se las traen al hotel, no las buscan en la calle), prohibe comer en la calle... incluso se ha retirado la famosa (en Cataluña) figura del "cagador" del belén de Barcelona. Pero el fondo de la cuestión está en normas como: para hacer una manifestación no sólo hay que pedir permiso. También hay que pagar un seguro "por los posibles daños materiales", se prohibe repartir boletines informativos, colgar carteles, y hay que pagarles a los cuerpos de seguridad (como dice pancake, son cuerpos, no cabezas), para mantener la "paz social".
 
 -¿Paz social o muerte social?
 

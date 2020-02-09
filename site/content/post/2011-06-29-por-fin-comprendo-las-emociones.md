@@ -4,7 +4,7 @@ title: ¡Por fin comprendo las emociones!
 date: 2011-06-29T19:26:34+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3292
+guid: https://cortell.net/blog/?p=3292
 permalink: /2011/06/29/por-fin-comprendo-las-emociones/
 wpsd_autopost:
   - "1"
@@ -17,11 +17,11 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-<img class="aligncenter" src="http://farm6.static.flickr.com/5139/5468624509_125233a614.jpg" alt="emociones según Plutchik" />
+<img class="aligncenter" src="https://farm6.static.flickr.com/5139/5468624509_125233a614.jpg" alt="emociones según Plutchik" />
 
-Si ya lo decía yo, lo único que me hacía falta era una taxonomía bien definida (y a ser posible que se convierta en un estándar y en un lenguaje bien estructurado y definido como el [EML](http://www.w3.org/2005/Incubator/emotion/XGR-emotionml-20081120/)), que permita expresiones y procesos del tipo:
+Si ya lo decía yo, lo único que me hacía falta era una taxonomía bien definida (y a ser posible que se convierta en un estándar y en un lenguaje bien estructurado y definido como el [EML](https://www.w3.org/2005/Incubator/emotion/XGR-emotionml-20081120/)), que permita expresiones y procesos del tipo:
 
-<emotionml xmlns=“http://www.w3.org/2011/06/emotionml”>
+<emotionml xmlns=“https://www.w3.org/2011/06/emotionml”>
   
 <metadata>
   
@@ -95,12 +95,12 @@ Si ya lo decía yo, lo único que me hacía falta era una taxonomía bien defini
   
 </emotionml>
 
-y un [estudio](http://wefeelfine.org/book/) estadístico amplio y actual presentado de forma visual:
+y un [estudio](https://wefeelfine.org/book/) estadístico amplio y actual presentado de forma visual:
 
-<img class="aligncenter" src="http://wefeelfine.org/book/pages/236-237.jpg" alt="pp 236-237" />
+<img class="aligncenter" src="https://wefeelfine.org/book/pages/236-237.jpg" alt="pp 236-237" />
   
-<img class="aligncenter" src="http://wefeelfine.org/book/pages/242-243.jpg" alt="242-243" />
+<img class="aligncenter" src="https://wefeelfine.org/book/pages/242-243.jpg" alt="242-243" />
   
-<img class="aligncenter" src="http://wefeelfine.org/book/pages/244-245.jpg" alt="244-245" />
+<img class="aligncenter" src="https://wefeelfine.org/book/pages/244-245.jpg" alt="244-245" />
 
 **¿Te ríes? Me alegro de que las emociones estuviesen en tu _firmware_ de origen.**

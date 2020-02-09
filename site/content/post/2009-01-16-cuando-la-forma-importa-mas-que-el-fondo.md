@@ -4,7 +4,7 @@ title: Cuando la forma importa más que el fondo
 date: 2009-01-16T14:14:38+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1442
+guid: https://www.cortell.net/?p=1442
 permalink: /2009/01/16/cuando-la-forma-importa-mas-que-el-fondo/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -22,7 +22,7 @@ Un par de ejemplos.
 Al pulsar el bote de gel de afeitado, en vez de la típica montaña uniforme y azul, se ha formado en mi mano esta hermosa y curiosa forma:
 
 <p style="text-align: center">
-  <img class="aligncenter" src="http://farm4.static.flickr.com/3084/3201379690_382a065562_t.jpg" alt="tubo gel" width="80" height="100" />
+  <img class="aligncenter" src="https://farm4.static.flickr.com/3084/3201379690_382a065562_t.jpg" alt="tubo gel" width="80" height="100" />
 </p>
 
 En la foto no se aprecia muy bien (a esas horas y de la mañana, y con la cámara del iPhone, no se pueden hacer maravillas), pero el gel queda por fuera, y un hilo de espuma va por dentro, apreciándose a través del tubo translúcido. Me ha costado más dejar de mirarlo que afeitarme.
@@ -30,7 +30,7 @@ En la foto no se aprecia muy bien (a esas horas y de la mañana, y con la cámar
 Taladrando (o eso intentaba) la pared, me ocurrió esto con la broca:
 
 <p style="text-align: center">
-  <img class="aligncenter" src="http://farm4.static.flickr.com/3527/3201379546_3da008bf2b_t.jpg" alt="broca torcida" width="47" height="100" />
+  <img class="aligncenter" src="https://farm4.static.flickr.com/3527/3201379546_3da008bf2b_t.jpg" alt="broca torcida" width="47" height="100" />
 </p>
 
 Ya no importa que sea una broca. Lo importante ahora es que es una broca torcida.

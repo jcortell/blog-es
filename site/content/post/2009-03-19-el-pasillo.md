@@ -4,7 +4,7 @@ title: El pasillo
 date: 2009-03-19T10:52:36+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1690
+guid: https://cortell.net/blog/?p=1690
 permalink: /2009/03/19/el-pasillo/
 categories:
   - General

@@ -4,7 +4,7 @@ title: India, Irán, EEUU y la mentira nuclear
 date: 2006-03-07T19:44:19+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/03/07/india-iran-eeuu-y-la-mentira-nuclear/
+guid: https://www.cortell.net/2006/03/07/india-iran-eeuu-y-la-mentira-nuclear/
 permalink: /2006/03/07/india-iran-eeuu-y-la-mentira-nuclear/
 categories:
   - General

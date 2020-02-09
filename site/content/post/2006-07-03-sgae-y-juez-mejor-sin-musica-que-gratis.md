@@ -4,7 +4,7 @@ title: 'SGAE y juez: mejor sin música que gratis'
 date: 2006-07-03T18:39:02+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/07/03/sgae-y-juez-mejor-sin-musica-que-gratis/
+guid: https://www.cortell.net/2006/07/03/sgae-y-juez-mejor-sin-musica-que-gratis/
 permalink: /2006/07/03/sgae-y-juez-mejor-sin-musica-que-gratis/
 categories:
   - CiberDerechos

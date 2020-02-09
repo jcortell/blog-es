@@ -4,7 +4,7 @@ title: Políticos españoles, el mamoneo de la pasta y la casta
 date: 2009-10-31T14:55:36+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2282
+guid: https://cortell.net/blog/?p=2282
 permalink: /2009/10/31/politicos-espanoles-el-mamoneo-de-la-pasta-y-la-casta/
 categories:
   - General
@@ -12,7 +12,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-<img class="aligncenter" title="Portada del libro Casta" src="http://ecodiario.eleconomista.es/imag/_v2/ecodiario/cultura/la_casta.jpg" alt="" width="150" height="200" />Escucho en <a title="http://www.rtve.es/podcast/radio-3/surtido-selecto/" href="http://www.rtve.es/podcast/radio-3/surtido-selecto/" target="_blank">Surtido Selecto</a> (Radio 3) a Daniel Montero hablar (puedes verlo en vídeo <a title="http://www.youtube.com/watch?v=c4nP0eWLDS8" href="http://www.youtube.com/watch?v=c4nP0eWLDS8" target="_blank">1</a> y <a title="http://www.youtube.com/watch?v=IMoPnW21CTM" href="http://www.youtube.com/watch?v=IMoPnW21CTM" target="_blank">2</a>) sobre su libro "La casta: El increíble chollo de ser político en España", y tristemente aun me sorprenden cosas como (<a title="http://ecodiario.eleconomista.es/libros/noticias/1632834/10/09/Descubra-por-que-es-un-chollo-ser-politico-en-Espana.html" href="http://ecodiario.eleconomista.es/libros/noticias/1632834/10/09/Descubra-por-que-es-un-chollo-ser-politico-en-Espana.html" target="_blank">resumen</a> de El Economista):
+<img class="aligncenter" title="Portada del libro Casta" src="https://ecodiario.eleconomista.es/imag/_v2/ecodiario/cultura/la_casta.jpg" alt="" width="150" height="200" />Escucho en <a title="https://www.rtve.es/podcast/radio-3/surtido-selecto/" href="https://www.rtve.es/podcast/radio-3/surtido-selecto/" target="_blank">Surtido Selecto</a> (Radio 3) a Daniel Montero hablar (puedes verlo en vídeo <a title="https://www.youtube.com/watch?v=c4nP0eWLDS8" href="https://www.youtube.com/watch?v=c4nP0eWLDS8" target="_blank">1</a> y <a title="https://www.youtube.com/watch?v=IMoPnW21CTM" href="https://www.youtube.com/watch?v=IMoPnW21CTM" target="_blank">2</a>) sobre su libro "La casta: El increíble chollo de ser político en España", y tristemente aun me sorprenden cosas como (<a title="https://ecodiario.eleconomista.es/libros/noticias/1632834/10/09/Descubra-por-que-es-un-chollo-ser-politico-en-Espana.html" href="https://ecodiario.eleconomista.es/libros/noticias/1632834/10/09/Descubra-por-que-es-un-chollo-ser-politico-en-Espana.html" target="_blank">resumen</a> de El Economista):
 
 ABSENTISMO: **no existen datos oficiales sobre la falta al trabajo de los políticos** o al menos no se han hecho públicos.
 

@@ -4,7 +4,7 @@ title: En plena mudanza
 date: 2009-01-25T10:19:19+00:00
 author: Jorge Cortell
 layout: post
-guid: http://192.168.0.3/weblogs/wordpress_2_3/?p=1
+guid: https://192.168.0.3/weblogs/wordpress_2_3/?p=1
 permalink: /2009/01/25/hello-world-2/
 categories:
   - General

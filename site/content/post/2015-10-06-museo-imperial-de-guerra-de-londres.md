@@ -4,7 +4,7 @@ title: Museo Imperial de Guerra de Londres
 date: 2015-10-06T13:26:02+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5609
+guid: https://blog.cortell.net/es/?p=5609
 permalink: /2015/10/06/museo-imperial-de-guerra-de-londres/
 categories:
   - General

@@ -4,7 +4,7 @@ title: 'Problemas de DRM con DVD &quot;legal&quot; que regala Público'
 date: 2007-10-08T18:43:11+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/10/08/problemas-de-drm-con-dvd-legal-que-regala-publico/
+guid: https://www.cortell.net/2007/10/08/problemas-de-drm-con-dvd-legal-que-regala-publico/
 permalink: /2007/10/08/problemas-de-drm-con-dvd-legal-que-regala-publico/
 categories:
   - CiberDerechos

@@ -4,7 +4,7 @@ title: 'En mi tiempo libre: análisis estructural de mutaciones protéicas causa
 date: 2016-12-01T09:22:51+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5973
+guid: https://blog.cortell.net/es/?p=5973
 permalink: /2016/12/01/en-mi-tiempo-libre-analisis-estructural-de-mutaciones-proteicas-causantes-de-enfermedades-congenitas/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -23,7 +23,7 @@ Esta semana soy un "padre soltero", ya que mi esposa está de viaje. Con lo que
 
 ### Método
 
-La estructura 3D de mi proteína objetivo la obtuve de la base de datos UniProt empleando Reprof. La información estructural la obtuve del análisis de PDB: [3NIR](http://pdb.rcsb.org/pdb/explore/explore.do?structureId=3NIR). Las anotaciones las obtuuve de UniProt [CRAM_CRAAB](http://www.uniprot.org/uniprot/CRAM_CRAAB).</section> <section> 
+La estructura 3D de mi proteína objetivo la obtuve de la base de datos UniProt empleando Reprof. La información estructural la obtuve del análisis de PDB: [3NIR](https://pdb.rcsb.org/pdb/explore/explore.do?structureId=3NIR). Las anotaciones las obtuuve de UniProt [CRAM_CRAAB](https://www.uniprot.org/uniprot/CRAM_CRAAB).</section> <section> 
 
 ### Amino Ácidos
 
@@ -31,7 +31,7 @@ Me interesaba la mutación de <span>una Prolina en una Glicina en la posición 
 
 La figura más abajo muestra la estructura esquemática del amino ácido original (izquierda) y mutante (derecha). El esqueleto, que es el mismo para cada amino ácido, se muestra de color rojo. La cadena lateral, única para cada amino ácido, de color negro.
 
-![](http://www.cmbi.ru.nl/hope/static/images/aa/pro.jpg) muta a ![](http://www.cmbi.ru.nl/hope/static/images/aa/gly.jpg)
+![](https://www.cmbi.ru.nl/hope/static/images/aa/pro.jpg) muta a ![](https://www.cmbi.ru.nl/hope/static/images/aa/gly.jpg)
 
 Cada amino ácido tiene su propio tamaño, carga, y valor de hidrofobicidad. El resíduo original y el mutante difieren en dichas propiedades: el resíduo mutante es más pequeño que el original, mientras que el original es más hidrofóbico que el mutante.</section> <section> 
 
@@ -45,7 +45,7 @@ El resíduo original no se conserva en esta posición. Otro tipo de resíduo se 
 
 ### Dominios
 
-Este resíduo es parte de un dominio de interpro llamado: _Thionin [IPR001010](http://www.ebi.ac.uk/interpro/entry/IPR001010)_
+Este resíduo es parte de un dominio de interpro llamado: _Thionin [IPR001010](https://www.ebi.ac.uk/interpro/entry/IPR001010)_
 
 El resíduo mutado está ubicado en la superficie de un dominio sin función conocida. El resíduo no parece estar en contacto con otros dominios con función conocida en la estructura definida. No obstante, el contacto con otras moléculas o dominios es posible y puede ser afectado por esta mutación.</section> <section> 
 
@@ -57,32 +57,32 @@ La hidrofobia del original y el mutante también difieren. La mutación puede ca
 
 ### Imágenes
 
-![](http://www.cmbi.ru.nl/hope/yasara/0fc26700-bbb3-4a1c-85a9-b6a3b0f5e997/22GLY_overview.png/)Vista general de la proteína en forma de diagrama de Richardson. La proteína está coloreada por elemento; α-hélice=azul, β-filamento = rojo, giro=verde, y bobina aleatoria=cián.
+![](https://www.cmbi.ru.nl/hope/yasara/0fc26700-bbb3-4a1c-85a9-b6a3b0f5e997/22GLY_overview.png/)Vista general de la proteína en forma de diagrama de Richardson. La proteína está coloreada por elemento; α-hélice=azul, β-filamento = rojo, giro=verde, y bobina aleatoria=cián.
 
-![](http://www.cmbi.ru.nl/hope/yasara/0fc26700-bbb3-4a1c-85a9-b6a3b0f5e997/22GLY_overview_grey.png/)
+![](https://www.cmbi.ru.nl/hope/yasara/0fc26700-bbb3-4a1c-85a9-b6a3b0f5e997/22GLY_overview_grey.png/)
 
 Aquí la proteína está coloreada en gris, la cadena lateral del resíduo mutado está coloreada magenta y se muestra como pequeñas bolas.
 
-![](http://www.cmbi.ru.nl/hope/yasara/0fc26700-bbb3-4a1c-85a9-b6a3b0f5e997/22GLY_zoom.png/)
+![](https://www.cmbi.ru.nl/hope/yasara/0fc26700-bbb3-4a1c-85a9-b6a3b0f5e997/22GLY_zoom.png/)
 
 Vista cercana de la mutación. La proteína está coloreada gris, ambas cadenas (original y mutada) se muestran en verde y rojo respectivamente.
 
-![](http://www.cmbi.ru.nl/hope/yasara/0fc26700-bbb3-4a1c-85a9-b6a3b0f5e997/22GLY_zoom2.png/)
+![](https://www.cmbi.ru.nl/hope/yasara/0fc26700-bbb3-4a1c-85a9-b6a3b0f5e997/22GLY_zoom2.png/)
 
 Desde un ángulo diferente.
 
-![](http://www.cmbi.ru.nl/hope/yasara/0fc26700-bbb3-4a1c-85a9-b6a3b0f5e997/22GLY_zoom3.png/)
+![](https://www.cmbi.ru.nl/hope/yasara/0fc26700-bbb3-4a1c-85a9-b6a3b0f5e997/22GLY_zoom3.png/)
 
 Desde otro ángulo</section> <section> 
 
 ### Animado
 
-![](http://www.cmbi.ru.nl/hope/yasara/6c11cb58-f112-43f9-9f7a-4d907c84c268/22GLY_turning.gif/)Animación rotatoria con mismo esquema de colores.
+![](https://www.cmbi.ru.nl/hope/yasara/6c11cb58-f112-43f9-9f7a-4d907c84c268/22GLY_turning.gif/)Animación rotatoria con mismo esquema de colores.
 
-![](http://www.cmbi.ru.nl/hope/yasara/6c11cb58-f112-43f9-9f7a-4d907c84c268/22GLY_morphing.gif/)
+![](https://www.cmbi.ru.nl/hope/yasara/6c11cb58-f112-43f9-9f7a-4d907c84c268/22GLY_morphing.gif/)
 
 Animación con mismo esquema de colores.</section> <section> 
 
 ### Cita
 
-Protein structure analysis of mutations causing inheritable diseases. DOI: [10.1186/1471-2105-11-548.](http://dx.doi.org/10.1186/1471-2105-11-548) PubMed: [21059217](http://www.ncbi.nlm.nih.gov/pubmed/21059217)<a href="http://www.cmbi.ru.nl/hope/report/583f164001ca360009798abb/" target="_blank">.</a></section>
+Protein structure analysis of mutations causing inheritable diseases. DOI: [10.1186/1471-2105-11-548.](https://dx.doi.org/10.1186/1471-2105-11-548) PubMed: [21059217](https://www.ncbi.nlm.nih.gov/pubmed/21059217)<a href="https://www.cmbi.ru.nl/hope/report/583f164001ca360009798abb/" target="_blank">.</a></section>

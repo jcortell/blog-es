@@ -4,7 +4,7 @@ title: Reflexiones
 date: 2009-11-30T00:47:41+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2377
+guid: https://cortell.net/blog/?p=2377
 permalink: /2009/11/30/reflexiones/
 categories:
   - Filosofí­a

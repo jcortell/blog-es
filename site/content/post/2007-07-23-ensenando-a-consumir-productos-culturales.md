@@ -4,7 +4,7 @@ title: 'Enseñando a &quot;consumir&quot; &quot;productos culturales&quot;'
 date: 2007-07-23T07:59:53+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/07/23/ensenando-a-consumir-productos-culturales/
+guid: https://www.cortell.net/2007/07/23/ensenando-a-consumir-productos-culturales/
 permalink: /2007/07/23/ensenando-a-consumir-productos-culturales/
 categories:
   - ¿Por qué no? ¿Utopías?

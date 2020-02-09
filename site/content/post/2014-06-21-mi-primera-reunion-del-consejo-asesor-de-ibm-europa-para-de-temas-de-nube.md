@@ -4,7 +4,7 @@ title: Mi primera reunión del Consejo Asesor de IBM Europa para de temas de nub
 date: 2014-06-21T15:19:23+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5206
+guid: https://blog.cortell.net/es/?p=5206
 permalink: /2014/06/21/mi-primera-reunion-del-consejo-asesor-de-ibm-europa-para-de-temas-de-nube/
 categories:
   - General
@@ -15,7 +15,7 @@ El jueves pasado llegué en Niza, justo a tiempo para coger un taxi muy bonito y
 
 Fue una reunión interesante, a la que asistieron 15 ejecutivos, inversores y analistas. No sólo eran todos muy inteligente, sino que además yo estaba cerca de una muerte cerebral después de un largo vuelo de "_ojos rojos_". Incluso teniendo eso en cuenta, hice mi pequeña contribución.
 
-Después de la reunión y algunos talleres técnicos, nos volvimos a nuestro hotel en Niza. Todo el mundo se hospedaba en el hotel Holiday Inn, pero como yo no confirmé hasta el último minuto, me "tuve que quedar" en el precioso hotel <a href="http://www.le-grimaldi.com/" title="http://www.le-grimaldi.com/" target="_blank">Le Grimaldi</a>. ¡Una auténtica delicia!
+Después de la reunión y algunos talleres técnicos, nos volvimos a nuestro hotel en Niza. Todo el mundo se hospedaba en el hotel Holiday Inn, pero como yo no confirmé hasta el último minuto, me "tuve que quedar" en el precioso hotel <a href="https://www.le-grimaldi.com/" title="https://www.le-grimaldi.com/" target="_blank">Le Grimaldi</a>. ¡Una auténtica delicia!
 
 Después de una ducha, comprobar correo electrónico, y cambiarme de ropa, nos fuimos a cenar en el restaurante Clarion, en el piso 12 del Hotel Aston, con excelentes vistas sobre la avenida Félix Faure. La noche anterior cenaron en La Terrasse, el restaurante de la azotea del hotel Méridien, justo en la Promenade des Anglais, mientras yo volaba sobre el Atlántico.
 

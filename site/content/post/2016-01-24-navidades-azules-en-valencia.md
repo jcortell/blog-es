@@ -4,7 +4,7 @@ title: Navidades azules en Valencia
 date: 2016-01-24T16:36:40+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5703
+guid: https://blog.cortell.net/es/?p=5703
 permalink: /2016/01/24/navidades-azules-en-valencia/
 categories:
   - General

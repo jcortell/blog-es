@@ -4,7 +4,7 @@ title: Apuntes desde Londres
 date: 2009-07-03T23:41:23+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2002
+guid: https://cortell.net/blog/?p=2002
 permalink: /2009/07/03/apuntes-desde-londres/
 categories:
   - Filosofí­a
@@ -22,11 +22,11 @@ De Hyde park salgo por una puerta al azar, para explorar, como me gusta: sin rum
 
 Último metro de vuelta. Y siempre me hace fijarme en las CCTV y la supuesta seguridad para la que se emplea dicha tecnología. Seguridad que se ha demostrado no incrementa, y sin embargo Londres sigue siendo la ciudad del mundo con más cámaras CCTV y más intromisión en la privacidad del ciudadano en espacios públicos. Control. Está claro.
 
-<img class="aligncenter" title="CCTVs en metro" src="http://farm3.static.flickr.com/2494/3689964636_00fbafb963_m.jpg" alt="" width="180" height="240" />
+<img class="aligncenter" title="CCTVs en metro" src="https://farm3.static.flickr.com/2494/3689964636_00fbafb963_m.jpg" alt="" width="180" height="240" />
 
 Por lo menos tienen puntos de información y emergencias.
 
-<img class="aligncenter" title="punto info" src="http://farm3.static.flickr.com/2553/3689964480_12759edfe3_m.jpg" alt="" width="180" height="240" />
+<img class="aligncenter" title="punto info" src="https://farm3.static.flickr.com/2553/3689964480_12759edfe3_m.jpg" alt="" width="180" height="240" />
 
 Esta mañana he desayunado rodeado de coreanas y japonesas (tripulaciones de líneas aéreas), y ha sido una extraña sensación. Otra vez ¿dónde estoy? ¿qué somos?
 

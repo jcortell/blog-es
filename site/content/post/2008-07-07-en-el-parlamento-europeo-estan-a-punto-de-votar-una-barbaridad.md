@@ -4,7 +4,7 @@ title: En el Parlamento Europeo están a punto de votar una barbaridad
 date: 2008-07-07T12:04:27+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1262
+guid: https://www.cortell.net/?p=1262
 permalink: /2008/07/07/en-el-parlamento-europeo-estan-a-punto-de-votar-una-barbaridad/
 categories:
   - CiberDerechos
@@ -50,7 +50,7 @@ Por la presente, le solicito que se posicione en contra de las enmiendas H1, H2 
 
 Estas enmiendas son un ataque a la libertad de los usuarios en la red, y supondrían grandes dificultades en el uso de software libre y de aplicaciones P2P.
 
-Me permito llamarle la atención sobre el comunicado de la Asociación de Internautas al respecto: http://www.internautas.org/html/5039.html
+Me permito llamarle la atención sobre el comunicado de la Asociación de Internautas al respecto: https://www.internautas.org/html/5039.html
 
 Agradeciendo su colaboración, reciba un cordial saludo
 

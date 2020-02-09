@@ -4,7 +4,7 @@ title: A la revolución mediante la intoxicación utópica
 date: 2010-07-02T01:55:12+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2496
+guid: https://cortell.net/blog/?p=2496
 permalink: /2010/07/02/a-la-revolucion-mediante-la-intoxicacion-utopica/
 categories:
   - ¿Por qué no? ¿Utopías?

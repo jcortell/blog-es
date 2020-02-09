@@ -4,7 +4,7 @@ title: Me jode el trato de favor, discriminación inversa
 date: 2009-10-21T12:21:08+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2254
+guid: https://cortell.net/blog/?p=2254
 permalink: /2009/10/21/me-jode-el-trato-de-favor-discriminacion-inversa/
 categories:
   - ¿Por qué no? ¿Utopías?

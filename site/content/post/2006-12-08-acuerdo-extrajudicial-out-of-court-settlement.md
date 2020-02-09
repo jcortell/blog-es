@@ -4,7 +4,7 @@ title: Acuerdo extrajudicial / Out of court settlement
 date: 2006-12-08T23:31:17+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/12/08/acuerdo-extrajudicial-out-of-court-settlement/
+guid: https://www.cortell.net/2006/12/08/acuerdo-extrajudicial-out-of-court-settlement/
 permalink: /2006/12/08/acuerdo-extrajudicial-out-of-court-settlement/
 categories:
   - CiberDerechos

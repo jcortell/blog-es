@@ -4,7 +4,7 @@ title: A definition of art
 date: 2012-05-18T10:43:24+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4132
+guid: https://cortell.net/blog/?p=4132
 permalink: /2012/05/18/a-definition-of-art/
 wpsd_autopost:
   - "1"

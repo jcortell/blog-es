@@ -4,7 +4,7 @@ title: A conversation with Walt Mossberg and Kara Swisher at NYU
 date: 2012-04-28T11:15:55+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4108
+guid: https://cortell.net/blog/?p=4108
 permalink: /2012/04/28/a-conversation-with-walt-mossberg-and-kara-swisher-at-nyu/
 wpsd_autopost:
   - "1"
@@ -20,7 +20,7 @@ categories:
 ---
 <img class="aligncenter" title="NYU" src="https://lh6.googleusercontent.com/-1dKqln4AqTY/T5gyt2xgJAI/AAAAAAAABhs/-RxCJ6KjKtE/s828/20120424_194455.jpg" alt="" width="596" height="222" />
 
-El martes fui a la Universidad de Nueva York University para una charla dentro de la serie <a title="http://www.incnyu.org/internet-garage/" href="http://www.incnyu.org/internet-garage/" target="_blank">Inside the Internet Garage</a>, con los periodistas Walt Mossberg y Kara Swisher (<a title="http://allthingsd.com/" href="http://allthingsd.com/" target="_blank">AllThingsDigital</a>, Wall Street Journal, etc).
+El martes fui a la Universidad de Nueva York University para una charla dentro de la serie <a title="https://www.incnyu.org/internet-garage/" href="https://www.incnyu.org/internet-garage/" target="_blank">Inside the Internet Garage</a>, con los periodistas Walt Mossberg y Kara Swisher (<a title="https://allthingsd.com/" href="https://allthingsd.com/" target="_blank">AllThingsDigital</a>, Wall Street Journal, etc).
 
 A parte del interesante repaso que dio el organizador a sus orígenes y bio, aquí van algunas frases que me llamaron la atención.
 

@@ -4,7 +4,7 @@ title: Lo que meter en las urnas estas elecciones
 date: 2011-05-07T18:39:08+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3133
+guid: https://cortell.net/blog/?p=3133
 permalink: /2011/05/07/lo-que-meter-en-las-urnas-estas-elecciones/
 wpsd_autopost:
   - "1"

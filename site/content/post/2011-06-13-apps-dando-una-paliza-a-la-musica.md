@@ -4,7 +4,7 @@ title: Apps dando una paliza a la música
 date: 2011-06-13T12:02:25+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3217
+guid: https://cortell.net/blog/?p=3217
 permalink: /2011/06/13/apps-dando-una-paliza-a-la-musica/
 wpsd_autopost:
   - "1"
@@ -16,7 +16,7 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-<img class="alignnone" src="http://173.236.143.97/wp-content/uploads/2010/04/screen-shot-2010-04-12-at-4-12-3-36-43-pm.png" alt="gráfico de asymco" />
+<img class="alignnone" src="https://173.236.143.97/wp-content/uploads/2010/04/screen-shot-2010-04-12-at-4-12-3-36-43-pm.png" alt="gráfico de asymco" />
 
 Como vemos en este gráfico de asymco, se descargan muchísimas más aplicaciones para dispositivos móviles (iOS) que canciones via iTunes. No sólo en unidades totales, sino en crecimiento, la gente demanda más aplicaciones que música. ¿Datos graciosos?
 

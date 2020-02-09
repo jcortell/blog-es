@@ -4,7 +4,7 @@ title: Errores tipográficos y juegos de palabras
 date: 2011-07-19T15:33:32+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3320
+guid: https://cortell.net/blog/?p=3320
 permalink: /2011/07/19/errores-tipograficos-y-juegos-de-palabras/
 wpsd_autopost:
   - "1"

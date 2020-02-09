@@ -4,7 +4,7 @@ title: 'La Red omnipresente (PC&amp;I 41)'
 date: 2006-05-25T00:31:03+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/05/25/la-red-omnipresente-pci-41/
+guid: https://www.cortell.net/2006/05/25/la-red-omnipresente-pci-41/
 permalink: /2006/05/25/la-red-omnipresente-pci-41/
 categories:
   - 'Artí­culos escritos para la revista PC&amp;I'
@@ -33,4 +33,4 @@ Que quede claro que soy el primer defensor de los avances tecnológicos, y el pr
 
 Pero el ritmo de asimilación de tecnologí­as "de consumo", la creciente dependencia de las mismas, y los requisitos que cada nuevo avance suponen, significa una autoimpuesta carrera ciega hacia la conectividad total. Y pronto llegarán la web semántica, la inteligencia artificial, la autodefensa del sistema, y quizá la consciencia de silicio que nos recuerde lo que somos: un mono con gafas, un virus, y en definitiva los creadores de nuestra propia sucesión.
 
-[<img border="0" alt="tira es.comp.os.linux" src="http://tira.escomposlinux.org/ecol-235.png" />](http://tira.escomposlinux.org)
+[<img border="0" alt="tira es.comp.os.linux" src="https://tira.escomposlinux.org/ecol-235.png" />](https://tira.escomposlinux.org)

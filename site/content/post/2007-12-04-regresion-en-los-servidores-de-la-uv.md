@@ -4,7 +4,7 @@ title: Regresión en los ORDENADORES de la UV
 date: 2007-12-04T12:06:50+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/12/04/regresion-en-los-servidores-de-la-uv/
+guid: https://www.cortell.net/2007/12/04/regresion-en-los-servidores-de-la-uv/
 permalink: /2007/12/04/regresion-en-los-servidores-de-la-uv/
 categories:
   - CiberDerechos

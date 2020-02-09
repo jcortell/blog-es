@@ -4,7 +4,7 @@ title: EU comparado con el mundo
 date: 2009-11-30T00:48:19+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2379
+guid: https://cortell.net/blog/?p=2379
 permalink: /2009/11/30/eu-comparado-con-el-mundo/
 categories:
   - General

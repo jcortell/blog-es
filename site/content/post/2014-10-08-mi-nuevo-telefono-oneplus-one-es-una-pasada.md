@@ -4,7 +4,7 @@ title: Mi nuevo teléfono OnePlus One es una pasada
 date: 2014-10-08T22:12:12+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5315
+guid: https://blog.cortell.net/es/?p=5315
 permalink: /2014/10/08/mi-nuevo-telefono-oneplus-one-es-una-pasada/
 categories:
   - CiberDerechos
@@ -20,7 +20,7 @@ categories:
   - Technology
   - Technolust
 ---
-Acabo de comprar un teléfono <a title="http://oneplus.net/" href="http://oneplus.net/" target="_blank">OnePlus</a> One, y he estado usándolo durante un par de días. Déjame decirte: es una PASADA.
+Acabo de comprar un teléfono <a title="https://oneplus.net/" href="https://oneplus.net/" target="_blank">OnePlus</a> One, y he estado usándolo durante un par de días. Déjame decirte: es una PASADA.
 
 Si nunca has oído hablar de la empresa, no te preocupes, no estás solo. Pero definitivamente échale un vistazo, sus teléfonos son de una muy alta calidad, altas especificaciones y precios bajos (el mío, libre, me ha costado $349). "Sin trampa ni cartón":
 

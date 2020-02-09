@@ -4,7 +4,7 @@ title: 'Los peligros ocultos de la Red II: El Canon a la conexión (PCI 29)'
 date: 2005-05-30T08:18:29+00:00
 author: Jorge Cortell
 layout: post
-guid: http://64.246.54.67/cortell.net/2005/05/30/los-peligros-ocultos-de-la-red-ii-el-canon-a-la-conexion-pci-29/
+guid: https://64.246.54.67/cortell.net/2005/05/30/los-peligros-ocultos-de-la-red-ii-el-canon-a-la-conexion-pci-29/
 permalink: /2005/05/30/los-peligros-ocultos-de-la-red-ii-el-canon-a-la-conexion-pci-29/
 categories:
   - 'Artí­culos escritos para la revista PC&amp;I'
@@ -26,4 +26,4 @@ Y -¿qué tiene esto que ver con Internet? Pues, según la filtración de la ref
 
 Consideraciones de justicia social o legislativa a parte, yo soy un informático, escribiendo en una revista de informática, así­ que voy a hacer un análisis desde ese punto de vista: si lo que se pretende es incrementar las lí­neas de banda ancha, llevar internet a los hogares españoles, y que la tecnologí­a, la investigación y la educación sean el valor añadido sobre el que sostener la economí­a y la cultura del futuro... que dejen de ponerle trabas.
   
-[<img src="http://tira.escomposlinux.org/ecol-209.png" alt="tira es.comp.os.linux" border="0" />](http://tira.escomposlinux.org/ecol-209.png)
+[<img src="https://tira.escomposlinux.org/ecol-209.png" alt="tira es.comp.os.linux" border="0" />](https://tira.escomposlinux.org/ecol-209.png)

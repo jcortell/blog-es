@@ -4,7 +4,7 @@ title: Los mercaderes de la cultura creen que en millones 552 = 350 y 16 = 3
 date: 2006-04-12T12:48:09+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=414
+guid: https://www.cortell.net/?p=414
 permalink: /2006/04/12/los-mercaderes-de-la-cultura-creen-que-en-millones-552-350-y-16-3/
 categories:
   - CiberDerechos
@@ -15,9 +15,9 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-![titular](http://static.flickr.com/55/127405545_60db9235ed.jpg?v=0)
+![titular](https://static.flickr.com/55/127405545_60db9235ed.jpg?v=0)
 
-Elmundo.es, [citando a EFE](http://www.elmundo.es/navegante/2006/04/07/cultura/1144420430.html), publicó que en España se produjeron el año pasado un tercio de las descargas de música de todo el mundo (avisado por José Nogueira y Malaprensa.com). Aunque después realizcón una ambí­gua rectificación.
+Elmundo.es, [citando a EFE](https://www.elmundo.es/navegante/2006/04/07/cultura/1144420430.html), publicó que en España se produjeron el año pasado un tercio de las descargas de música de todo el mundo (avisado por José Nogueira y Malaprensa.com). Aunque después realizcón una ambí­gua rectificación.
 
 Si las declaraciones son literales (como se supone cuando van entre comillas, y es de suponer pues El Mundo escribió una nota de rectificación sobre el contexto de las cifras, pero ni sobre quién las dijo ni sobre las cifras mismas) entonces Manuel de Benito, jefe de la Oficina de Defensa de la Propiedad Intelectual de la SGAE, y autor de las mismas:
 
@@ -29,9 +29,9 @@ c) Ha manipulado consciente y alevosamente a los medios de comunicación.
 
 En ellas aseguraba que "según datos del Centro de Investigación del Mercado del Entretenimiento y la Cultura, en España se descargaron 552.707.000 archivos en 2005, de los cuales sólo unos 16 millones fueron de pago."
 
-Curiosamente, como [comenta Malaprensa.com](http://personales.ya.com/josumezo/2006/04/un-tercio-de-las-descargas-musicales.html), tal volumen de descargas corresponderí­a a un tercio del total de las descargas mundiales, unos 1.500 millones [según la IFPI](http://www.ifpi.org/site-content/press/20050623a.html).
+Curiosamente, como [comenta Malaprensa.com](https://personales.ya.com/josumezo/2006/04/un-tercio-de-las-descargas-musicales.html), tal volumen de descargas corresponderí­a a un tercio del total de las descargas mundiales, unos 1.500 millones [según la IFPI](https://www.ifpi.org/site-content/press/20050623a.html).
 
-También curiosamente encontramos que PROMUSICAE (junto con ACAM, "voz de su amo" de SGAE), a través de su infame presidente Antonio Guisasola, [declaró a El Paí­s](http://www.elpais.es/articulo/elpportec/20060330elpepunet_8/Tes/internet/350/millones/canciones/descargaron/Internet/Espana/2005) que las descargas anuales de música en Internet eran de 350.000.000, siendo 3.000.000 de pago.
+También curiosamente encontramos que PROMUSICAE (junto con ACAM, "voz de su amo" de SGAE), a través de su infame presidente Antonio Guisasola, [declaró a El Paí­s](https://www.elpais.es/articulo/elpportec/20060330elpepunet_8/Tes/internet/350/millones/canciones/descargaron/Internet/Espana/2005) que las descargas anuales de música en Internet eran de 350.000.000, siendo 3.000.000 de pago.
 
 Dado que ninguna de estas entidades ni organismos habla ni trata (menos mal, sólo faltaba) del software, y dado que en España no están disponibles pelí­culas online de pago, está claro que ambas hablan de música.
 

@@ -4,7 +4,7 @@ title: Campuseros 1 SGAE/Acam/Promusicae 0
 date: 2005-07-28T19:26:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/07/28/campuseros-1-sgaeacampromusicae-0/
+guid: https://www.cortell.net/2005/07/28/campuseros-1-sgaeacampromusicae-0/
 permalink: /2005/07/28/campuseros-1-sgaeacampromusicae-0/
 categories:
   - CiberDerechos

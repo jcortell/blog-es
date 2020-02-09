@@ -4,7 +4,7 @@ title: Iconos muertos + anuncios + derechos
 date: 2007-05-30T10:26:34+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/05/30/iconos-muertos-anuncios-derechos/
+guid: https://www.cortell.net/2007/05/30/iconos-muertos-anuncios-derechos/
 permalink: /2007/05/30/iconos-muertos-anuncios-derechos/
 categories:
   - CiberDerechos
@@ -13,15 +13,15 @@ categories:
   - Humor y curiosidades
   - Noticias
 ---
-En The Daily Swarm hace unos dí­as <a target="_blank" title="The Daily Swarm" href="http://www.thedailyswarm.com/swarm/heavensgate-flogging-dead-horse/">publicaron la GENIAL campaña de publicidad</a> que Saatchi y Saatchi presentó a Dr. Martens (aunque al final no solo no se empleó, sino que hizo que despidieran a Saatchi):
+En The Daily Swarm hace unos dí­as <a target="_blank" title="The Daily Swarm" href="https://www.thedailyswarm.com/swarm/heavensgate-flogging-dead-horse/">publicaron la GENIAL campaña de publicidad</a> que Saatchi y Saatchi presentó a Dr. Martens (aunque al final no solo no se empleó, sino que hizo que despidieran a Saatchi):
 
-![Poster 1](http://farm1.static.flickr.com/211/498277700_2bd053a1fd.jpg "Poster 1")
+![Poster 1](https://farm1.static.flickr.com/211/498277700_2bd053a1fd.jpg "Poster 1")
 
-![poster 2](http://farm1.static.flickr.com/219/498288202_93416168a6.jpg "poster 2")
+![poster 2](https://farm1.static.flickr.com/219/498288202_93416168a6.jpg "poster 2")
 
-![poster 3](http://farm1.static.flickr.com/209/498288214_e816cbb4dc.jpg "poster 3")
+![poster 3](https://farm1.static.flickr.com/209/498288214_e816cbb4dc.jpg "poster 3")
 
-![poster 4](http://farm1.static.flickr.com/210/498288222_522e77af8b.jpg "poster 4")
+![poster 4](https://farm1.static.flickr.com/210/498288222_522e77af8b.jpg "poster 4")
 
 A parte de los detalles varios de la historia, hay un par de aspectos ("derechos") muy interesantes en ella:
 

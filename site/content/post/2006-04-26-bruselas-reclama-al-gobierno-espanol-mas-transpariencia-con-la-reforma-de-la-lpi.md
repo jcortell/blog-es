@@ -4,7 +4,7 @@ title: Bruselas reclama al gobierno español más transpariencia con la reforma 
 date: 2006-04-26T11:13:41+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/04/26/bruselas-reclama-al-gobierno-espanol-mas-transpariencia-con-la-reforma-de-la-lpi/
+guid: https://www.cortell.net/2006/04/26/bruselas-reclama-al-gobierno-espanol-mas-transpariencia-con-la-reforma-de-la-lpi/
 permalink: /2006/04/26/bruselas-reclama-al-gobierno-espanol-mas-transpariencia-con-la-reforma-de-la-lpi/
 categories:
   - CiberDerechos
@@ -15,7 +15,7 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-Tal y como [nos cuenta](http://www.vnunet.es/Actualidad/Noticias/Comunicaciones/Legislación/20060419023) Vunet, Bruselas reclama información sobre la reforma de la LPI y si no recibe respuesta en dos meses, el Ejecutivo comunitario impondrá a España el pago de una multa diaria.
+Tal y como [nos cuenta](https://www.vnunet.es/Actualidad/Noticias/Comunicaciones/Legislación/20060419023) Vunet, Bruselas reclama información sobre la reforma de la LPI y si no recibe respuesta en dos meses, el Ejecutivo comunitario impondrá a España el pago de una multa diaria.
 
 Bruselas ha dado un ultimátum a las autoridades **por no informar** de los pasos dados para hacerlo, y ha advertido de que en caso de que no corrija la situación en dos meses, le condenará al pago de **multas diarias**.
 

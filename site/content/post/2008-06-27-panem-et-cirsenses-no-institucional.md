@@ -4,7 +4,7 @@ title: Panem et cirsenses no institucional
 date: 2008-06-27T06:42:18+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1253
+guid: https://www.cortell.net/?p=1253
 permalink: /2008/06/27/panem-et-cirsenses-no-institucional/
 categories:
   - General
@@ -18,9 +18,9 @@ Enfadado con el descaro con que la televisión pública reconoce el clásico _pa
 Esto demuestra que **la mencionada estrategia de manipulación y desvío de la atención no es un fenómeno planificado y orquestrado (aunque sí potenciado) por el "gobierno central"**. Tal y como explica Noam Chomsky que sucede con la concentración y orientación ideológica de los medios de comunicación, es un fenómeno que resulta de la dinámica natural del sistema pervertido en el que hemos permitido que se conviertan los medios de comunicación de masas. A esto añado la tendencia natural a la abstracción y la alienación que la mayoría de personas padece (resultado de un desajuste evolutivo en relación a la "necesidad" de limitar los procesos mentales para economizar recursos como la glucosa en un medio hostil y de escasez... pese a que hoy ya no sea así).
 
 <p style="text-align: center">
-  <a title="by RICARDO, en El Mundo" href="http://www.elmundo.es/diario/opinion/" target="_blank"><img class="aligncenter" src="http://hhmmss.com/kiosko/HOY/elmundo_v_2.jpg" alt="viñeta en El Mundo" width="489" height="360" /></a>
+  <a title="by RICARDO, en El Mundo" href="https://www.elmundo.es/diario/opinion/" target="_blank"><img class="aligncenter" src="https://hhmmss.com/kiosko/HOY/elmundo_v_2.jpg" alt="viñeta en El Mundo" width="489" height="360" /></a>
 </p>
 
-Ironías de la vida, el día en que los medios hablan de "<a title="Diario de Sevilla" href="http://news.google.com/news/url?sa=t&ct=es/1-0&fp=48643aa1f9c9c2e1&ei=n3tkSKmKOpGIQtLIpaUD&url=http%3A//www.diariodesevilla.es/article/eurocopa2008/165744/toda/espana/celebra/con/pasion/y/orgullo/una/final/despues/anos.html&cid=1236343835&usg=AFQjCNFbg6U092AZCC8oGVXF40aJ59oJmQ" target="_blank">Toda España</a> celebra con pasión y orgullo...", con tufo a "una, grande, y libre", los separatistas (los más cercanos a los terroristas con posibilidad de participar en política) de la izquierda _abertzale_ <a title="El País" href="http://www.elpais.com/articulo/espana/izquierda/abertzale/salva/Ibarretxe/elpepiesp/20080627elpepinac_1/Tes" target="_blank">dan su apoyo</a> a Ibarretxe para que saque a delante su referéndum de "¿quiere usted ir a su puta bola?" en una muestra más de "en política todo vale, donde dije digo digo Diego, soy puta y pongo la cama con tal de salir en la foto y conseguir cuatro votos más (y cuatro años más mamando del dinero público)".
+Ironías de la vida, el día en que los medios hablan de "<a title="Diario de Sevilla" href="https://news.google.com/news/url?sa=t&ct=es/1-0&fp=48643aa1f9c9c2e1&ei=n3tkSKmKOpGIQtLIpaUD&url=https%3A//www.diariodesevilla.es/article/eurocopa2008/165744/toda/espana/celebra/con/pasion/y/orgullo/una/final/despues/anos.html&cid=1236343835&usg=AFQjCNFbg6U092AZCC8oGVXF40aJ59oJmQ" target="_blank">Toda España</a> celebra con pasión y orgullo...", con tufo a "una, grande, y libre", los separatistas (los más cercanos a los terroristas con posibilidad de participar en política) de la izquierda _abertzale_ <a title="El País" href="https://www.elpais.com/articulo/espana/izquierda/abertzale/salva/Ibarretxe/elpepiesp/20080627elpepinac_1/Tes" target="_blank">dan su apoyo</a> a Ibarretxe para que saque a delante su referéndum de "¿quiere usted ir a su puta bola?" en una muestra más de "en política todo vale, donde dije digo digo Diego, soy puta y pongo la cama con tal de salir en la foto y conseguir cuatro votos más (y cuatro años más mamando del dinero público)".
 
 País de opereta, oiga. Aquí no nos hace falta Berlusconi.

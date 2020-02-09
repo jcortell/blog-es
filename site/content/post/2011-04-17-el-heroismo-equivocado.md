@@ -4,7 +4,7 @@ title: El heroismo equivocado
 date: 2011-04-17T09:35:56+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3066
+guid: https://cortell.net/blog/?p=3066
 permalink: /2011/04/17/el-heroismo-equivocado/
 categories:
   - Filosofí­a

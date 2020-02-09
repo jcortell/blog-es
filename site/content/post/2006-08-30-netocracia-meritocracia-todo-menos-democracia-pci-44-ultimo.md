@@ -4,7 +4,7 @@ title: 'Netocracia, meritocracia ... todo menos democracia (PC&amp;I 44 ... últ
 date: 2006-08-30T07:23:00+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/08/30/netocracia-meritocracia-todo-menos-democracia-pci-44-ultimo/
+guid: https://www.cortell.net/2006/08/30/netocracia-meritocracia-todo-menos-democracia-pci-44-ultimo/
 permalink: /2006/08/30/netocracia-meritocracia-todo-menos-democracia-pci-44-ultimo/
 categories:
   - 'Artí­culos escritos para la revista PC&amp;I'
@@ -16,7 +16,7 @@ El verano es una estación ideal para relajarse. Pese a que escribo este artí­
 
 Este artí­culo lo escribo para los primeros. Los segundos... -¿qué hacen leyendo esta revista? -¡A la playa, a jugar con vuestros hijos, que también es maravilloso y edificante! (Ahora, al que pille plantándose delante del receptor de TV, lo castigo a leer notas de prensa de las sociedades de gestión y patronales de la industria hasta que se las crean: o sea, que se quedan sin castigo).
 
--¿Qué es la Netocracia? -¿y la Meritocracia? -¿y por qué es necesario dedicarle tiempo y esfuerzo extra a la comprensión de estos conceptos? Os intentaré explicar lo que aprendí­ gracias a los excelentes e interesantí­simos artí­culos del profesor <a title="David de Ugarte" target="_blank" href="http://www.deugarte.com/conflicto-y-estrategia-en-redes-sociales-distribuidas">David de Ugarte</a>.
+-¿Qué es la Netocracia? -¿y la Meritocracia? -¿y por qué es necesario dedicarle tiempo y esfuerzo extra a la comprensión de estos conceptos? Os intentaré explicar lo que aprendí­ gracias a los excelentes e interesantí­simos artí­culos del profesor <a title="David de Ugarte" target="_blank" href="https://www.deugarte.com/conflicto-y-estrategia-en-redes-sociales-distribuidas">David de Ugarte</a>.
 
 Básicamente, la Netocracia es esa forma de organización "social" idí­lica que los que defienden la democracia representativa por sufragio como "la menos mala" de las alternativas, creen que no existe.
 
@@ -26,11 +26,11 @@ La Plurarquí­a (término acuñado por el tecnólogo sueco Alexander Bard) defi
 
 La Plurarquí­a es posible en las redes sociales distribuí­das, porque en ellas impera la Lógica de la Abundancia.
 
-La <a title="Lógica de la abundancia" target="_blank" href="http://www.deugarte.com/wiki/contextos/Lógica_de_la_abundancia">Lógica de la Abundancia</a> (concepto introducido por Juan de Urrutia en su libro "Economí­a en porciones") aparece cuando la estructura de producción y costes vuelve innecesario dirimir colectivamente -via mercado o decisión autoritaria o democrática- qué se produce y qué no. Es la eterna promesa de la Red de Redes: la desaparición de la escasez, y todo lo que ello conlleva.
+La <a title="Lógica de la abundancia" target="_blank" href="https://www.deugarte.com/wiki/contextos/Lógica_de_la_abundancia">Lógica de la Abundancia</a> (concepto introducido por Juan de Urrutia en su libro "Economí­a en porciones") aparece cuando la estructura de producción y costes vuelve innecesario dirimir colectivamente -via mercado o decisión autoritaria o democrática- qué se produce y qué no. Es la eterna promesa de la Red de Redes: la desaparición de la escasez, y todo lo que ello conlleva.
 
 En principio los autores anteriormente reseñados sólo se atreven a aplicarlo a la "Economí­a de la información", "el conocimiento", etc. Esto es ya de por sí­ muy interesante, pues conlleva la imperiosa necesidad de garantizar la libertad del conocimiento, la información y la cultura en contra de las restricciones pro-mercantilistas basadas en la artificiosa escasez de los modelos de mercado actuales. Pero no acaban ahí­ sus posibilidades de aplicación.
   
-La Lógica de la Abundancia nos permite la <a title="Plurarquí­a" target="_blank" href="http://www.deugarte.com/wiki/contextos/Pluriarquí­a">Plurarquí­a</a>, la cual es la base de una Netocracia que conlleve, en definitiva, la Meritocracia (la primera modelo funcional, la segunda modelo filosófico).
+La Lógica de la Abundancia nos permite la <a title="Plurarquí­a" target="_blank" href="https://www.deugarte.com/wiki/contextos/Pluriarquí­a">Plurarquí­a</a>, la cual es la base de una Netocracia que conlleve, en definitiva, la Meritocracia (la primera modelo funcional, la segunda modelo filosófico).
 
 -¿Y qué es la Meritocracia?
 
@@ -44,4 +44,4 @@ La Netocracia pone todo esto en práctica, y mucho más: generada espontáneamen
 
 Es la verdadera libertad, y no puede estar más alejada de lo que conocemos como "Democracia".
 
-[<img border="0" alt="tira es.comp.os.linux" src="http://tira.escomposlinux.org/ecol-241.png" />](http://tira.escomposlinux.org)
+[<img border="0" alt="tira es.comp.os.linux" src="https://tira.escomposlinux.org/ecol-241.png" />](https://tira.escomposlinux.org)

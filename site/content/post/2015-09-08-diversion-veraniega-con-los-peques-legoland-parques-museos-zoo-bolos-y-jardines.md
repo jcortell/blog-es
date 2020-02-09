@@ -4,7 +4,7 @@ title: 'Diversión veraniega con los peques: Legoland, Parques, Museos, Zoo, Bol
 date: 2015-09-08T08:59:24+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5575
+guid: https://blog.cortell.net/es/?p=5575
 permalink: /2015/09/08/diversion-veraniega-con-los-peques-legoland-parques-museos-zoo-bolos-y-jardines/
 categories:
   - General
@@ -34,7 +34,7 @@ Sólo había jugado a los bolos una vez en mi vida, pero a los niños les gusta
   <strong>Hyde Park y la Galería Serpentine</strong>
 </p>
 
-Hyde Park siempre es encantador, y este verano, aunque no ha hecho mucho calor, hemos disfrutado de varios días de sol. Uno de esos días fuimos a hacer un _picnic_ en el parque, jugamos al Frisbee, dimos de comer (cereales, no pan) a los cisnes, patos, y ardillas, subimos a un patinete acuático, visitamos la Galería Serpentine, y visitamos el <a href="http://www.serpentinegalleries.org/exhibitions-events/serpentine-pavilion-2015" target="_blank">Pabellón Serpentine</a>.
+Hyde Park siempre es encantador, y este verano, aunque no ha hecho mucho calor, hemos disfrutado de varios días de sol. Uno de esos días fuimos a hacer un _picnic_ en el parque, jugamos al Frisbee, dimos de comer (cereales, no pan) a los cisnes, patos, y ardillas, subimos a un patinete acuático, visitamos la Galería Serpentine, y visitamos el <a href="https://www.serpentinegalleries.org/exhibitions-events/serpentine-pavilion-2015" target="_blank">Pabellón Serpentine</a>.
 
 <p style="text-align: center;">
   <strong>Museo de Historia Natural</strong>

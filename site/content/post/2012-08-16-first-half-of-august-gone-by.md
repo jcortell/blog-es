@@ -4,7 +4,7 @@ title: First half of August gone by
 date: 2012-08-16T17:46:16+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4277
+guid: https://cortell.net/blog/?p=4277
 permalink: /2012/08/16/first-half-of-august-gone-by/
 wpsd_autopost:
   - "1"
@@ -38,11 +38,11 @@ Antes de que pasen más días y me olvide de lo que he hecho, aquí va un listad
 
 8 de agosto paseé por Grand Central y re-descubrí su mercado (donde compré algo de comida y la comí en Bryant Park).
 
-9 de agosto fui a la <a title="http://cortell.net/blog/2012/08/with-keanu-reeves-and-chris-kenneally-at-side-by-side-premiere-moma/" href="http://cortell.net/blog/2012/08/with-keanu-reeves-and-chris-kenneally-at-side-by-side-premiere-moma/" target="_blank">premiere</a> del nuevo documental de Keanu Reeves sobre la industria del cine en el MoMA.
+9 de agosto fui a la <a title="https://cortell.net/blog/2012/08/with-keanu-reeves-and-chris-kenneally-at-side-by-side-premiere-moma/" href="https://cortell.net/blog/2012/08/with-keanu-reeves-and-chris-kenneally-at-side-by-side-premiere-moma/" target="_blank">premiere</a> del nuevo documental de Keanu Reeves sobre la industria del cine en el MoMA.
 
 11 de agosto fui al Times Square Summer Festival (un par de calles cerradas al tráfico donde comí mozzarepa, crêpe, y limonada).
 
-12 de agosto disfruté de un estupendo día en dos parques. Primero fui en kayak por el río Hudson (embarcadero Riverside Park downtown). Luego fui a Central Park donde reflexioné junto al mosáico Imagine, disfruté de conmovedora música baja la Bethesda Terrace, y lo pasé bomba viendo a los <a title="https://www.google.com/search?q=afrobats+new+york" href="https://www.google.com/search?q=afrobats+new+york" target="_blank">AfroBats</a> y los <a title="http://cpdsa.org/" href="http://cpdsa.org/" target="_blank">Central Park Roller Skaters</a>.
+12 de agosto disfruté de un estupendo día en dos parques. Primero fui en kayak por el río Hudson (embarcadero Riverside Park downtown). Luego fui a Central Park donde reflexioné junto al mosáico Imagine, disfruté de conmovedora música baja la Bethesda Terrace, y lo pasé bomba viendo a los <a title="https://www.google.com/search?q=afrobats+new+york" href="https://www.google.com/search?q=afrobats+new+york" target="_blank">AfroBats</a> y los <a title="https://cpdsa.org/" href="https://cpdsa.org/" target="_blank">Central Park Roller Skaters</a>.
 
 <p style="text-align: center">
   [mudslide:picasa,0,111219615350942087056,5776683890933551969]

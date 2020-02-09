@@ -4,7 +4,7 @@ title: 'Los museos de Ciencia y V&A'
 date: 2015-11-14T15:53:11+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5667
+guid: https://blog.cortell.net/es/?p=5667
 permalink: /2015/11/14/los-museos-de-ciencia-y-va/
 categories:
   - Arte

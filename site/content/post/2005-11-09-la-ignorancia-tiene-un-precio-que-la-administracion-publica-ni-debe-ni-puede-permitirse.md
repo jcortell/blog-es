@@ -4,7 +4,7 @@ title: La ignorancia tiene un precio que la Administración Pública ni debe ni 
 date: 2005-11-09T12:37:52+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/11/09/la-ignorancia-tiene-un-precio-que-la-administracion-publica-ni-debe-ni-puede-permitirse/
+guid: https://www.cortell.net/2005/11/09/la-ignorancia-tiene-un-precio-que-la-administracion-publica-ni-debe-ni-puede-permitirse/
 permalink: /2005/11/09/la-ignorancia-tiene-un-precio-que-la-administracion-publica-ni-debe-ni-puede-permitirse/
 categories:
   - CiberDerechos

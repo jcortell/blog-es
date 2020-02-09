@@ -4,7 +4,7 @@ title: Retención de datos NO
 date: 2005-07-29T17:40:26+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/07/29/retencion-de-datos-no/
+guid: https://www.cortell.net/2005/07/29/retencion-de-datos-no/
 permalink: /2005/07/29/retencion-de-datos-no/
 categories:
   - CiberDerechos
@@ -12,7 +12,7 @@ categories:
   - Noticias
   - Rants
 ---
-Abraham me comenta que República Internet habla [en este post](http://www.republicainternet.com/articulo.php?id=120) contra la [retención de datos](http://www.dataretentionisnosolution.com/). Perfecto, nada que añadir por mi parte. Se trata del comunicado de prensa de CPSR:
+Abraham me comenta que República Internet habla [en este post](https://www.republicainternet.com/articulo.php?id=120) contra la [retención de datos](https://www.dataretentionisnosolution.com/). Perfecto, nada que añadir por mi parte. Se trata del comunicado de prensa de CPSR:
 
 -¡La retención de datos no es la solución!
 
@@ -36,7 +36,7 @@ Los ataques a Londres fueron ataques a los derechos humanos. La protección de e
 
 Si te preocupan los planes relacionados con la retención de datos, por favor, firma la petición y alerta a todas las personas que puedas para dar apoyo a esta campaña. Las firmas se enviarán a la Comisión Europea y al Parlamento Europeo.
 
-Puede firmar digitalmente en la siguiente URL: http://www.dataretentionisnosolution.com/
+Puede firmar digitalmente en la siguiente URL: https://www.dataretentionisnosolution.com/
 
 ï¿¼\___\___\___\___\___\___\___\___\_____Computer Professionals for Social Responsibility (CPSR)
   
@@ -44,8 +44,8 @@ is the oldest non-profit, mass membership organization
   
 working on social impacts of computer technology.
 
-To learn more, go to http://www.cpsr.org
+To learn more, go to https://www.cpsr.org
 
-To join, use http://cpsr.org/membership
+To join, use https://cpsr.org/membership
   
 \___\___\___\___\___\___

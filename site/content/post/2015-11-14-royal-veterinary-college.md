@@ -4,7 +4,7 @@ title: Royal Veterinary College
 date: 2015-11-14T15:45:39+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5665
+guid: https://blog.cortell.net/es/?p=5665
 permalink: /2015/11/14/royal-veterinary-college/
 categories:
   - Uncategorized

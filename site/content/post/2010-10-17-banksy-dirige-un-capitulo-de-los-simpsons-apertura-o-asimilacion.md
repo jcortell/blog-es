@@ -4,7 +4,7 @@ title: 'Banksy dirige un capítulo de los Simpsons... ¿apertura o asimilación?
 date: 2010-10-17T11:45:45+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2661
+guid: https://cortell.net/blog/?p=2661
 permalink: /2010/10/17/banksy-dirige-un-capitulo-de-los-simpsons-apertura-o-asimilacion/
 categories:
   - ¿Por qué no? ¿Utopías?

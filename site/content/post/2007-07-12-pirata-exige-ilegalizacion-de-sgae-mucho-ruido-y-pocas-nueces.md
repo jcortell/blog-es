@@ -4,7 +4,7 @@ title: 'PIRATA exige ilegalización de SGAE: mucho ruí­do y pocas nueces'
 date: 2007-07-12T10:10:49+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/07/12/pirata-exige-ilegalizacion-de-sgae-mucho-ruido-y-pocas-nueces/
+guid: https://www.cortell.net/2007/07/12/pirata-exige-ilegalizacion-de-sgae-mucho-ruido-y-pocas-nueces/
 permalink: /2007/07/12/pirata-exige-ilegalizacion-de-sgae-mucho-ruido-y-pocas-nueces/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -15,7 +15,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-Que conste que creo que el <a title="Partido Pirata" target="_blank" href="http://www.partidopirata.es/">Partido Pirata</a> es una inciativa sintomática, positiva, graciosa, y quizá incluso necesaria. Pero dista mucho de ser una herramienta realmente útil (y seguro que no por falta de esfuerzo y voluntad, sino porque sabe más el diablo por viejo que por diablo). Como ejemplo basta <a title="Escrito PDF" target="_blank" href="http://www.partidopirata.es/w/images/6/6c/EscritoFiscalia.pdf">este escrito</a> en el que solicitan al Fiscal General del Estado la ilegalización de la SGAE.
+Que conste que creo que el <a title="Partido Pirata" target="_blank" href="https://www.partidopirata.es/">Partido Pirata</a> es una inciativa sintomática, positiva, graciosa, y quizá incluso necesaria. Pero dista mucho de ser una herramienta realmente útil (y seguro que no por falta de esfuerzo y voluntad, sino porque sabe más el diablo por viejo que por diablo). Como ejemplo basta <a title="Escrito PDF" target="_blank" href="https://www.partidopirata.es/w/images/6/6c/EscritoFiscalia.pdf">este escrito</a> en el que solicitan al Fiscal General del Estado la ilegalización de la SGAE.
 
 > La redacción dista de ser la estándar en un procedimiento de estas caracterí­sticas. El tono es decididamente partidista e interesado, plagado de valoraciones. Y sobretodo la argumentación es realmente floja.
 
@@ -30,5 +30,5 @@ Pero no, han decidido dejarse guiar por su instinto, su rabia, y su impulso.
 Y no seré yo quién los censure. A veces el fuego es lo que ha de arder tras la capa de hielo.
 
 <div style="text-align: center">
-  <img title="Fire in ice" alt="Fire in ice" src="http://www.fhzal.com/works/051216/Fire-Ice01w.jpg" />
+  <img title="Fire in ice" alt="Fire in ice" src="https://www.fhzal.com/works/051216/Fire-Ice01w.jpg" />
 </div>

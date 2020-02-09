@@ -4,7 +4,7 @@ title: ¿Subir los impuestos u optimizar la gestión de los recursos?
 date: 2009-08-26T13:24:44+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2125
+guid: https://cortell.net/blog/?p=2125
 permalink: /2009/08/26/subir-los-impuestos-u-optimizar-la-gestion-de-los-recursos/
 categories:
   - ¿Por qué no? ¿Utopías?

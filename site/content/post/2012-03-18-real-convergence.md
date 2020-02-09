@@ -4,7 +4,7 @@ title: Real convergence
 date: 2012-03-18T05:11:58+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3923
+guid: https://cortell.net/blog/?p=3923
 permalink: /2012/03/18/real-convergence/
 wpsd_autopost:
   - "1"

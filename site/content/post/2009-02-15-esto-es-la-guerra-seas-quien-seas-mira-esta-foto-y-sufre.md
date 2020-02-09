@@ -4,14 +4,14 @@ title: Esto es la guerra, seas quien seas mira esta foto y sufre
 date: 2009-02-15T14:33:52+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1559
+guid: https://cortell.net/blog/?p=1559
 permalink: /2009/02/15/esto-es-la-guerra-seas-quien-seas-mira-esta-foto-y-sufre/
 categories:
   - General
   - Rants
   - Sociedad y polí­tica
 ---
- [![](http://pixdaus.com/pics/kxdcpXmRBXYN.jpg)](http://pixdaus.com/single.php?id=5008&from=embed)
+ [![](https://pixdaus.com/pics/kxdcpXmRBXYN.jpg)](https://pixdaus.com/single.php?id=5008&from=embed)
 
 > Que a nadie se le olvide: lloran los soldados, mueren los niños, sufren los ancianos... todos somos humanos menos los hijos de puta de políticos y "líderes" sectarios que quieren enriquecerse o hacer avanzar su causa enfermiza a costa de la sangre, sudor y lágrimas de los demás.
 

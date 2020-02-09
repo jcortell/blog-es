@@ -4,7 +4,7 @@ title: Llena tu reproductor de música libre en un concierto
 date: 2007-05-31T10:47:14+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/05/31/llena-tu-reproductor-de-musica-libre-en-un-concierto/
+guid: https://www.cortell.net/2007/05/31/llena-tu-reproductor-de-musica-libre-en-un-concierto/
 permalink: /2007/05/31/llena-tu-reproductor-de-musica-libre-en-un-concierto/
 categories:
   - ¿Por qué no? ¿Utopías?

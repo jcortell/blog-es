@@ -4,7 +4,7 @@ title: Reunión en el Centro de Soluciones de Dell en Nueva York
 date: 2014-10-08T21:35:50+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5312
+guid: https://blog.cortell.net/es/?p=5312
 permalink: /2014/10/08/reunion-en-el-centro-de-soluciones-de-dell-en-nueva-york/
 categories:
   - General

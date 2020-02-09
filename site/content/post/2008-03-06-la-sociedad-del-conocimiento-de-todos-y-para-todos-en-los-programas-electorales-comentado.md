@@ -4,7 +4,7 @@ title: '&quot;La Sociedad del Conocimiento de todos y para todos en los programa
 date: 2008-03-06T18:54:03+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/03/06/la-sociedad-del-conocimiento-de-todos-y-para-todos-en-los-programas-electorales-comentado/
+guid: https://www.cortell.net/2008/03/06/la-sociedad-del-conocimiento-de-todos-y-para-todos-en-los-programas-electorales-comentado/
 permalink: /2008/03/06/la-sociedad-del-conocimiento-de-todos-y-para-todos-en-los-programas-electorales-comentado/
 categories:
   - CiberDerechos
@@ -14,7 +14,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-Hispalinux publica la siguiente <a target="_blank" title="fuente" href="http://www.hispalinux.es/node/664">nota de prensa</a> (que comento al final):
+Hispalinux publica la siguiente <a target="_blank" title="fuente" href="https://www.hispalinux.es/node/664">nota de prensa</a> (que comento al final):
 
 Al realizar una lectura objetiva de los compromisos expresados por los principales partidos polí­ticos de ámbito estatal en sus programas electorales, todo indica que todos, en mayor o menor medida, tienen propuestas importantes o, al menos, personas con capacidad para liderar las acciones que son necesarias para lograr el impulso y extensión de las tecnologí­as y conocimiento libres y a así­ lograr una sociedad del conocimiento de todos y para todos.
 
@@ -42,7 +42,7 @@ Mis comentarios:
 
 [3] González Pons y el "gratis": Igual que Lourdes Muñoz, una excepción que confirma la regla. Pero además con un error de concepto ENORME y preocupante: software LIBRE NO es necesariamente = gratis. Y el no entender eso es no entender nada. Además, el que Hispalinux no haya puntualizado y comentado esto es igual o más preocupante (por falta de cuidado, o por "lameculismo", porque no puede ser por ignorancia). Y que no digan que esto es sólo un compendio de las promesas y posturas de los partidos porque (ver [5])
 
-[4] Promesas: hasta que no tengamos la <a target="_blank" title="mi post" href="http://www.cortell.net/2008/03/06/agencia-de-promesas-electorales/">Agencia de Promesas Electorales</a>, todo quedará en papel mojado.
+[4] Promesas: hasta que no tengamos la <a target="_blank" title="mi post" href="https://www.cortell.net/2008/03/06/agencia-de-promesas-electorales/">Agencia de Promesas Electorales</a>, todo quedará en papel mojado.
 
 [5] Hispalinux y la buena esperanza: está bien "luchar desde dentro del sistema". No me gusta, pero mejor eso que no hacer nada. Pero el riesgo es la asimilación y la destrucción. En esta última frase veo una intención de complacer, de sonreir a la cámara, de no querer ofender sensibilidades polí­ticas... LAMECULISMO polí­tico de triste, rastrero y barato. Joder, -¿dónde están los activistas? -¿Y los grupos de lobbys poderosos e influyentes que no se inclinan ni ante el presidente del gobierno? -¿Es esto todo lo que podemos hacer?
 

@@ -4,7 +4,7 @@ title: Cuando tu hijo cae en un lago helado
 date: 2016-12-23T11:15:26+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5990
+guid: https://blog.cortell.net/es/?p=5990
 permalink: /2016/12/23/cuando-tu-hijo-cae-en-un-lago-helado/
 categories:
   - General

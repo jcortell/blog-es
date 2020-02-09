@@ -4,7 +4,7 @@ title: Lo que con dinero público se financia no PUEDE ni debe ser patentado ni 
 date: 2006-03-13T18:20:28+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/03/13/lo-que-con-dinero-publico-se-financia-no-puede-ni-debe-ser-patentado-ni-estar-restringido-a-copyright/
+guid: https://www.cortell.net/2006/03/13/lo-que-con-dinero-publico-se-financia-no-puede-ni-debe-ser-patentado-ni-estar-restringido-a-copyright/
 permalink: /2006/03/13/lo-que-con-dinero-publico-se-financia-no-puede-ni-debe-ser-patentado-ni-estar-restringido-a-copyright/
 categories:
   - CiberDerechos

@@ -4,7 +4,7 @@ title: 'LAECAP: tienes hasta el jueves para hacer algo'
 date: 2007-06-04T17:25:05+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/06/04/laecap-tienes-hasta-el-jueves-para-hacer-algo/
+guid: https://www.cortell.net/2007/06/04/laecap-tienes-hasta-el-jueves-para-hacer-algo/
 permalink: /2007/06/04/laecap-tienes-hasta-el-jueves-para-hacer-algo/
 categories:
   - CiberDerechos
@@ -16,7 +16,7 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-Reproduzco literalmente (<a target="_blank" title="Hispalinux" href="http://www.hispalinux.es/node/635">nota de prensa de Hispalinux</a> y FFII):
+Reproduzco literalmente (<a target="_blank" title="Hispalinux" href="https://www.hispalinux.es/node/635">nota de prensa de Hispalinux</a> y FFII):
 
 **LAECAP, Servicio público electrónico; defectuoso por diseño**
 
@@ -48,6 +48,6 @@ distribution of this entire article is permitted in any digital medium,
   
 provided this notice is preserved".
 
-Votos emitidos en la comisisión de Administracion Pública del Senado sobre las <a title="Enmiendas" target="_blank" href="http://www.hispalinux.es/files/enmiendas-LAECAP-SenadoII0097C.pdf">enmiendas a la LAECAP</a>
+Votos emitidos en la comisisión de Administracion Pública del Senado sobre las <a title="Enmiendas" target="_blank" href="https://www.hispalinux.es/files/enmiendas-LAECAP-SenadoII0097C.pdf">enmiendas a la LAECAP</a>
   
-Adjunto: <a title="comisión" target="_blank" href="http://www.hispalinux.es/files/COMISIÓN%20DE%20ADMINISTRACIONES%20PÚBLICAS.pdf">COMISIÓN DE ADMINISTRACIONES PÚBLICAS.pdf 149.27 KB</a>
+Adjunto: <a title="comisión" target="_blank" href="https://www.hispalinux.es/files/COMISIÓN%20DE%20ADMINISTRACIONES%20PÚBLICAS.pdf">COMISIÓN DE ADMINISTRACIONES PÚBLICAS.pdf 149.27 KB</a>

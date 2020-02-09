@@ -4,16 +4,16 @@ title: Sigue el acoso y derribo
 date: 2005-05-10T15:18:18+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=105
+guid: https://www.cortell.net/?p=105
 permalink: /2005/05/10/sigue-el-acoso-y-derribo-2/
 categories:
   - General
   - Personal
   - Rants
 ---
-Está bien que el domingo (8/5/05) el diario valenciano Levante en su edición digital [publicase](http://www.levante-emv.es/secciones//noticia.jsp?pIdNoticia=105399&pIdSeccion=19) unas incorrecciones que no quise entrar a comentar porque, aunque es misión del periodista contrastar la información, todos cometemos errores. Era de esperar que el artí­culo de ACAM (que no merecen ni ser enlazados) se aprovechase de dichos errores (aunque omitiesen la parte que relata las presiones al rectorado de la UPV).
+Está bien que el domingo (8/5/05) el diario valenciano Levante en su edición digital [publicase](https://www.levante-emv.es/secciones//noticia.jsp?pIdNoticia=105399&pIdSeccion=19) unas incorrecciones que no quise entrar a comentar porque, aunque es misión del periodista contrastar la información, todos cometemos errores. Era de esperar que el artí­culo de ACAM (que no merecen ni ser enlazados) se aprovechase de dichos errores (aunque omitiesen la parte que relata las presiones al rectorado de la UPV).
 
-Lo que no estoy dispuesto a tolerar es que, tras una conversación telefónica con la periodista del artí­culo (Mayte Rucaju, si no me equivoco) de más de media hora anoche desde el aeropuerto de Bilbao, en la que le expliqué todos los errores que cometí­a su anterior artí­culo y dónde podí­a encontrar información veraz de todo ello, hoy (10/5/05) vuelve a publicar un [artí­culo](http://www.levante-emv.es/secciones/noticia.jsp?pIdNoticia=106309&pIdSeccion=19&pNumEjemplar=2785&pFechaEjemplar=2005-05-10%2000:00:00), más subido de todo, en el que se incide en los mismos errores. Y el hombre es el único animal que tropieza dos veces con la misma piedra
+Lo que no estoy dispuesto a tolerar es que, tras una conversación telefónica con la periodista del artí­culo (Mayte Rucaju, si no me equivoco) de más de media hora anoche desde el aeropuerto de Bilbao, en la que le expliqué todos los errores que cometí­a su anterior artí­culo y dónde podí­a encontrar información veraz de todo ello, hoy (10/5/05) vuelve a publicar un [artí­culo](https://www.levante-emv.es/secciones/noticia.jsp?pIdNoticia=106309&pIdSeccion=19&pNumEjemplar=2785&pFechaEjemplar=2005-05-10%2000:00:00), más subido de todo, en el que se incide en los mismos errores. Y el hombre es el único animal que tropieza dos veces con la misma piedra
 
 En esta ocasión de forma anónima (ya que según reconoció en nuestra conversación telefónica, le habí­an inundado el correo electrónico de quejas por el tratamiento del artí­culo anterior), esta "señora" escribe lo siguiente (que comento punto por punto):
 
@@ -55,7 +55,7 @@ Correcto (varias=15).
 
 "En declaraciones a Levante-EMV afirmó ayer que -«dimito porque entiendo que hay presiones-» del master que impartí­a sobre Artes Gráficas de la Politécnica, en donde ha estado más de cinco años dando cursos de postgrado como el de Aplicaciones Multimedia para Internet. En el rectorado señalaron la semana pasada que ya no estaba vinculado y que -«no es profesor-» de esta universidad."
 
-O sea, que ahora ya no es ni el delegado de comunicación, sino que el propio rectorado me desvincula de la institución, e insisten en decir que un profesor de master (aunque sea "extrauniversitario" oficialmente) no es profesor. Entonces -¿a santo de qué le sacan más de 3000 euros a unos alumnos que asisten a un master? -¿para que les de clases [un señor que pasaba por allí­](http://www.mag.upv.es/FMPro?-db=provedores&-lay=cgi&-token=%5BFMP-currenttoken%5D&-format=profesor.html&-error=customerid.htm&-find=++&CIF=20159736)?
+O sea, que ahora ya no es ni el delegado de comunicación, sino que el propio rectorado me desvincula de la institución, e insisten en decir que un profesor de master (aunque sea "extrauniversitario" oficialmente) no es profesor. Entonces -¿a santo de qué le sacan más de 3000 euros a unos alumnos que asisten a un master? -¿para que les de clases [un señor que pasaba por allí­](https://www.mag.upv.es/FMPro?-db=provedores&-lay=cgi&-token=%5BFMP-currenttoken%5D&-format=profesor.html&-error=customerid.htm&-find=++&CIF=20159736)?
 
 "Recordaron que un docente de master es un profesor externo que no está ligado al cuerpo docente e investigador de una universidad ni es una figura reconocida en la Ley Orgánica de Universidades (LOU)."
 
@@ -67,7 +67,7 @@ Y lo de la LOU, qué les voy a decir. Si los masters no tienen profesor...
 
 "Jorge Cortell, que ya en septiembre de 2004 se hizo notar al proponer a sus alumnos del master la descarga de libros de texto por Internet, aseguraba entonces que -«todos tenemos el derecho protegido por la Ley de realizar copias privadas, por lo que podemos copiar un disco compacto de música, fotocopiar un libro en casa o escanearlo-». Para hacerlo posible proponí­a que los que puedan compren los manuales -«los escaneen y los pongan en Internet en las redes de intercambio de archivos, los enví­en por correo electrónico o que regalen el libro una vez lo tengan en formato digital-»."
 
-En su momento ya lo expliqué, y porqué serí­a bueno para todos. No me voy a repetir. El que quiera, tiene el [artí­culo](http://homepage.mac.com/jorgecortell/docs/libros.rtf) (.rtf) en mi [web](http://homepage.mac.com/jorgecortell/blogwavestudio/LH20041021114344/LHA20041021184908/index.html).
+En su momento ya lo expliqué, y porqué serí­a bueno para todos. No me voy a repetir. El que quiera, tiene el [artí­culo](https://homepage.mac.com/jorgecortell/docs/libros.rtf) (.rtf) en mi [web](https://homepage.mac.com/jorgecortell/blogwavestudio/LH20041021114344/LHA20041021184908/index.html).
 
 "Quienes protegen la propiedad intelectual y el producto de sus asociados no piensan igual."
 

@@ -4,7 +4,7 @@ title: Un par de días en Londres
 date: 2014-11-26T02:31:05+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5346
+guid: https://blog.cortell.net/es/?p=5346
 permalink: /2014/11/26/un-par-de-dias-en-londres/
 categories:
   - General

@@ -4,7 +4,7 @@ title: Aprendiendo a programar ordenadores cuánticos
 date: 2014-05-23T11:38:19+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5193
+guid: https://blog.cortell.net/es/?p=5193
 permalink: /2014/05/23/aprendiendo-a-programar-ordenadores-cuanticos/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -18,7 +18,7 @@ categories:
 ---
 Ayer comencé a aprender y experimentar con programación de ordenadores cuánticos. No me es fácil expresar lo bien que me lo pasé y lo que me emocionó, pero lo intentaré:
 
-<img class="aligncenter" src="http://www.extremetech.com/wp-content/uploads/2014/05/quantum-playground-640x353.jpg" alt="quantum computing simulator" width="640" height="353" />
+<img class="aligncenter" src="https://www.extremetech.com/wp-content/uploads/2014/05/quantum-playground-640x353.jpg" alt="quantum computing simulator" width="640" height="353" />
 
 Programar un ordenador cuántico es diferente de programar un ordenador "digital" binario (0 y 1). Para programar un sistema cuántico tienes que mapear un problema a la búsqueda del "punto más bajo" de una gran cantidad de opciones, que corresponde con el mejor resultado posible. El procesador considera todas las posibilidades simultáneamente para determinar **la menor energía requerida para formar esas relaciones**. Un ordenador cuántico es probabilístico, no determinístico, así que el ordenador produce las mejores respuestas de una forma muy rápida. Esto resulta no sólo en la solución óptima de una sola respuesta, sino en otras alternativas entre las que elegir.
 

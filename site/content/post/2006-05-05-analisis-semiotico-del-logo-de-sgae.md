@@ -4,7 +4,7 @@ title: Análisis semiótico del logo de SGAE
 date: 2006-05-05T01:56:08+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/05/05/analisis-semiotico-del-logo-de-sgae/
+guid: https://www.cortell.net/2006/05/05/analisis-semiotico-del-logo-de-sgae/
 permalink: /2006/05/05/analisis-semiotico-del-logo-de-sgae/
 categories:
   - CiberDerechos
@@ -14,7 +14,7 @@ categories:
   - Otras cosas
   - Rants
 ---
-     ![desafortunado logo SGAE](http://www.sgae.es/img/cab_nueva_r1_c1.gif)Como todo el que ha estudiado Marketing sabe (o deberí­a saber), y definitivamente como todo el que ha estudiado Dirección de Arte, Publicidad y Comunicación, en el proceso de creación o evolución de un logotipo o una logomarca hay un apartado fundamental que es el análisis semiótico.
+     ![desafortunado logo SGAE](https://www.sgae.es/img/cab_nueva_r1_c1.gif)Como todo el que ha estudiado Marketing sabe (o deberí­a saber), y definitivamente como todo el que ha estudiado Dirección de Arte, Publicidad y Comunicación, en el proceso de creación o evolución de un logotipo o una logomarca hay un apartado fundamental que es el análisis semiótico.
 
 Pese a que lo he hecho cientos de veces en mi carrera profesional, nunca habí­a reparado en el logo de la SGAE desde el punto de vista semiótico. Y realmente es muy interesante. Veamos en unas pinceladas (sin entrar en detalle, que hoy tengo mucho trabajo) lo que nos transmite consciente o subconscientemente (aunque cabrí­a decir _inconscientemente_ 😉 ):
 

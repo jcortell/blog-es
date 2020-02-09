@@ -4,7 +4,7 @@ title: En defensa de Noam Chomsky
 date: 2006-10-03T15:29:53+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/10/03/en-defensa-de-noam-chomsky/
+guid: https://www.cortell.net/2006/10/03/en-defensa-de-noam-chomsky/
 permalink: /2006/10/03/en-defensa-de-noam-chomsky/
 categories:
   - Filosofí­a

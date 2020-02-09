@@ -14,14 +14,14 @@ metaAlignment: center
 coverMeta: out
 ---
 
-El 13 de noviembre, después de una reunión de trabajo, visité el [CAC de Málaga](http://cacmalaga.eu/).
+El 13 de noviembre, después de una reunión de trabajo, visité el [CAC de Málaga](https://cacmalaga.eu/).
 
 <!--more-->
 
 Siempre disfruto de un paseo por Málaga, y nunca hay tiempo suficiente para visitar y hacer todo lo que quisiera. Así que esta vez me concentré en mis dos favoritos:
 
-* [La Tetería](http://www.la-teteria.com/), donde tomé mithi lassi, pastel de choco-galleta de coco y un té blanco.
-* Centro de Arte Contemporáneo, donde, además de la siempre excelente colección permanente, disfruté especialmente de [Drácula x Drácula](http://cacmalaga.eu/2019/10/31/dracula-x-dracula-2/), comisariada por el Laboratorio de las Artes como proyecto de Juan Miguel Quiñones
+* [La Tetería](https://www.la-teteria.com/), donde tomé mithi lassi, pastel de choco-galleta de coco y un té blanco.
+* Centro de Arte Contemporáneo, donde, además de la siempre excelente colección permanente, disfruté especialmente de [Drácula x Drácula](https://cacmalaga.eu/2019/10/31/dracula-x-dracula-2/), comisariada por el Laboratorio de las Artes como proyecto de Juan Miguel Quiñones
 
 Photos: https://photos.app.goo.gl/kbcDtwmUhNCFvo9v8
 

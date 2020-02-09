@@ -4,7 +4,7 @@ title: Suben las temperaturas, y no nos fiamos de Bush
 date: 2006-02-01T11:01:22+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/02/01/suben-las-temperaturas-y-no-nos-fiamos-de-bush/
+guid: https://www.cortell.net/2006/02/01/suben-las-temperaturas-y-no-nos-fiamos-de-bush/
 permalink: /2006/02/01/suben-las-temperaturas-y-no-nos-fiamos-de-bush/
 categories:
   - General
@@ -15,11 +15,11 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-Parece mentira que presidentes de gobierno (como [Bush](http://www.salon.com/tech/feature/2004/09/10/bush/index_np.html), quién sino) o empresas (como varias [petroleras](http://www.guardian.co.uk/life/science/story/0,12996,1399585,00.html)) nieguen la [evidencia](http://www.newscientist.com/channel/earth/climate-change). Otros como Putin [dicen](http://unfccc.int/meetings/workshops/other_meetings/items/1643.php) que es bueno porque implicará mayores cosechas de cereales (no es broma, pero este señor cree que sí­) y algunos cientí­ficos defienden que todo es debatible ([sobretodo aquellos cuyas becas de investigación están financiadas por fundaciones montadas por empresas petroleras](http://www.exxonsecrets.org/)). Juzguen ustedes mismos:
+Parece mentira que presidentes de gobierno (como [Bush](https://www.salon.com/tech/feature/2004/09/10/bush/index_np.html), quién sino) o empresas (como varias [petroleras](https://www.guardian.co.uk/life/science/story/0,12996,1399585,00.html)) nieguen la [evidencia](https://www.newscientist.com/channel/earth/climate-change). Otros como Putin [dicen](https://unfccc.int/meetings/workshops/other_meetings/items/1643.php) que es bueno porque implicará mayores cosechas de cereales (no es broma, pero este señor cree que sí­) y algunos cientí­ficos defienden que todo es debatible ([sobretodo aquellos cuyas becas de investigación están financiadas por fundaciones montadas por empresas petroleras](https://www.exxonsecrets.org/)). Juzguen ustedes mismos:
 
-![subida de temperaturas](http://earthobservatory.nasa.gov/Newsroom/NewImages/Images/temperature_gis_2005.gif)
+![subida de temperaturas](https://earthobservatory.nasa.gov/Newsroom/NewImages/Images/temperature_gis_2005.gif)
 
-Según el Instituto Goddard, la subida de temperaturas es la mayor en los últimos 100 años (y no es que antes de eso llevaran un buen control). El informe completo esta [aquí­](http://earthobservatory.nasa.gov/Newsroom/NewImages/Images/temperature_gis_2005.pdf) en PDF.
+Según el Instituto Goddard, la subida de temperaturas es la mayor en los últimos 100 años (y no es que antes de eso llevaran un buen control). El informe completo esta [aquí­](https://earthobservatory.nasa.gov/Newsroom/NewImages/Images/temperature_gis_2005.pdf) en PDF.
 
 Y en eso que ayer el presidente Bush anuncia que reducirá las importaciones de crudo del Oriente Medio en un 75% y todos nos alegramos. Lo que no se ha dicho es que posiblemente eso signifique el emplear las excavaciones y reservas de EEUU (muchas de las cuales controlan empresas suyas o de sus amigos), incluyendo las que ha autorizado en reservas naturales como las de Alaska. Tampoco se ha comentado que eso implicarí­a precios más altos, o sea mayor inflación.
 

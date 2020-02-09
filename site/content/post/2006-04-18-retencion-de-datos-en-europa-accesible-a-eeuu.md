@@ -4,7 +4,7 @@ title: Retención de datos en Europa accesible a EEUU
 date: 2006-04-18T10:23:51+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/04/18/retencion-de-datos-en-europa-accesible-a-eeuu/
+guid: https://www.cortell.net/2006/04/18/retencion-de-datos-en-europa-accesible-a-eeuu/
 permalink: /2006/04/18/retencion-de-datos-en-europa-accesible-a-eeuu/
 categories:
   - CiberDerechos
@@ -24,7 +24,7 @@ Sí­, aquella que no importó demasiado a mucha gente siempre que se nos asegur
   
 Esa, sí­.</p> 
 
-Pues puede leerse en [estas actas](http://www.statewatch.org/news/2006/apr/eu-us-jha-7618-06.pdf) de la UE que los yanquis quieren tener acceso a ellos.
+Pues puede leerse en [estas actas](https://www.statewatch.org/news/2006/apr/eu-us-jha-7618-06.pdf) de la UE que los yanquis quieren tener acceso a ellos.
 
 En concreto en la página 6, apartado "**Extremist‘s use of Internet**" puede leerse:
 

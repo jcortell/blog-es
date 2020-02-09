@@ -4,7 +4,7 @@ title: 'Ejemplo de cómo &quot;los poderosos&quot; te pueden quitar el nombre'
 date: 2006-02-03T10:39:14+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/02/03/ejemplo-de-como-los-poderosos-te-pueden-quitar-el-nombre/
+guid: https://www.cortell.net/2006/02/03/ejemplo-de-como-los-poderosos-te-pueden-quitar-el-nombre/
 permalink: /2006/02/03/ejemplo-de-como-los-poderosos-te-pueden-quitar-el-nombre/
 categories:
   - CiberDerechos
@@ -27,29 +27,29 @@ En 1997 registré el dominio deusto.com. Ahora viene Planeta Agostini, propietar
   
 Me han puesto una demanda ante la WIPO, han contratado a un importante bufete de abogados de Madrid, y me han suspendido el dominio, con lo que mis visitantes han desaparecido y mi sitio ha bajado estrepitosamente en Google.
   
-Deusto es el nombre de un barrio de Bilbao, de la Universidad de Deusto (<http://deusto.es>), de una ferreterí­a, de una consultora, de una panaderí­a, etc.
+Deusto es el nombre de un barrio de Bilbao, de la Universidad de Deusto (<https://deusto.es>), de una ferreterí­a, de una consultora, de una panaderí­a, etc.
   
 -¿ Es esto justo ? -¿ Me van a quitar el dominio sólo porque tienen más dinero para pagar a los abogados ?
   
-El contenido del sitio lo podéis ver todaví­a en <http://literatura-digital.com>. Espero que no registren esa marca también mañana y me lo quiten ......
+El contenido del sitio lo podéis ver todaví­a en <https://literatura-digital.com>. Espero que no registren esa marca también mañana y me lo quiten ......
   
 Por cierto, Planeta no tiene ni deusto.es, ni deusto.net, ni deusto.org. Y deusto.biz y deusto.info no están siquiera registrados. -¿ No será que lo que les interesa no es el nombre sino mis visitantes sin tener que pagar a cambio ? -¡ No, que va, como va a ser eso, que cosas se me ocurren, lo que quieren es proteger su marca .... ! (-¿será entonces que mi amigo Luis, que vive en Deusto, les pertenece ?)
 
 Unons links:
 
-<http://minilobo.blogspot.com//2006/01/planeta-agostini-quiere-apropiarse-de.html> 
+<https://minilobo.blogspot.com//2006/01/planeta-agostini-quiere-apropiarse-de.html> 
   
-<http://barrapunto.com/articles/06/01/26/0127201.shtml>
+<https://barrapunto.com/articles/06/01/26/0127201.shtml>
   
-<http://meneame.net/story.php?id=4069>
+<https://meneame.net/story.php?id=4069>
 
-<http://wolfb.com/2006/01/big-publishing-group-demands-my-domain.html> 
+<https://wolfb.com/2006/01/big-publishing-group-demands-my-domain.html> 
   
-[http://digg.com/technology/Big\_Publishing\_Group\_demands\_my_domain](http://digg.com/technology/Big_Publishing_Group_demands_my_domain) 
+[https://digg.com/technology/Big\_Publishing\_Group\_demands\_my_domain](https://digg.com/technology/Big_Publishing_Group_demands_my_domain) 
 
 Eduardo Perez Orue (el del dominio suspendido)
   
-<http://minilobo.com> 
+<https://minilobo.com> 
   
 minilobo@gmail.com
 
@@ -61,15 +61,15 @@ OMPI (Organización Mundial de la Propiedad Intelectual) ha aceptado la reclamac
 
 Necesito la ayuda de todos vosotros. Podéis leer la notificación de la demanda en:
   
-<http://wolfb.com/?q=notificacion-demanda>
+<https://wolfb.com/?q=notificacion-demanda>
 
 Y la demanda presentada aquí­:
   
-<http://wolfb.com/?q=demanda-deustocom>
+<https://wolfb.com/?q=demanda-deustocom>
 
 He preparado otra página (una wiki) en la que he puesto la respuesta estandarizada de la OMPI. Pero todos podéis entrar y cambiarla, modificarla y mejorarla. Sólo os pido registraros (lo siento, pero me tengo que proteger un poco de quién cambia qué, todos los cambios serán revisados). Lo podéis ver en:
 
-<http://wolfb.com/?q=respuesta-demanda>
+<https://wolfb.com/?q=respuesta-demanda>
 
 -¿ Me podéis ayudar ? Creo que no puedo hacer esto sólo. Y la respuesta tiene que llegar antes del 22 de febrero del 2006.
 
@@ -81,4 +81,4 @@ Eduardo Perez Orue
   
 hombrelobo
   
-http://minilobo.com
+https://minilobo.com

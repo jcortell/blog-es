@@ -4,7 +4,7 @@ title: Acuerdo final / Final agreement
 date: 2007-01-17T23:02:50+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/01/17/acuerdo-final-final-agreement/
+guid: https://www.cortell.net/2007/01/17/acuerdo-final-final-agreement/
 permalink: /2007/01/17/acuerdo-final-final-agreement/
 categories:
   - CiberDerechos
@@ -28,12 +28,12 @@ PD.- Me gustarí­a expresar mi más sincero agradecimiento a:
 
 – Mi familia, que siempre son los que más (y más injustamente) sufren en estos casos
   
-– El bufete de abogados <a target="_blank" title="CMS-ASL" href="http://www.cms-asl.com/">Albiñana & Suárez de Lezo C/M/S</a>, y en especial Carlos Aguilar, por su asesoramiento en temas penales
+– El bufete de abogados <a target="_blank" title="CMS-ASL" href="https://www.cms-asl.com/">Albiñana & Suárez de Lezo C/M/S</a>, y en especial Carlos Aguilar, por su asesoramiento en temas penales
   
-– El bufete de abogados <a target="_blank" title="Monfort & Bonell" href="http://www.monfortybonell.com/">Monforte & Bonell</a>, y en especial Ernesto Cubero, por su excelente asesoramiento en otros aspectos legales
+– El bufete de abogados <a target="_blank" title="Monfort & Bonell" href="https://www.monfortybonell.com/">Monforte & Bonell</a>, y en especial Ernesto Cubero, por su excelente asesoramiento en otros aspectos legales
   
 – Uno de los letrados de la parte contraria, al que no puedo mencionar por la cláusula de confidencialidad, que facilitó con su sensatez el acuerdo (él sabe quién es: el que jugaba a "poli bueno")
   
-– La Asociación de <a target="_blank" title="Asoc. Internautas" href="http://www.internautas.org/">Internautas</a> y la Asociación <a target="_blank" title="Hispalinux" href="http://hispalinux.es/">Hispalinux</a>, por poner su asesoramiento y poder de comunicación a mi disposición
+– La Asociación de <a target="_blank" title="Asoc. Internautas" href="https://www.internautas.org/">Internautas</a> y la Asociación <a target="_blank" title="Hispalinux" href="https://hispalinux.es/">Hispalinux</a>, por poner su asesoramiento y poder de comunicación a mi disposición
   
 – A los cientos de internautas que me han expresado su apoyo, y a los miles de lectores que pese a estar el blog oficialmente cerrado, siguen suscritos al RSS y siguen visitando la página

@@ -4,7 +4,7 @@ title: La conferencia de hoy
 date: 2005-07-30T17:57:21+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/07/30/la-conferencia-de-hoy/
+guid: https://www.cortell.net/2005/07/30/la-conferencia-de-hoy/
 permalink: /2005/07/30/la-conferencia-de-hoy/
 categories:
   - General

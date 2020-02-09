@@ -4,7 +4,7 @@ title: Harvard MidTerm paper GOVT E-1045
 date: 2005-10-26T17:03:50+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/10/26/harvard-midterm-paper-govt-e-1045/
+guid: https://www.cortell.net/2005/10/26/harvard-midterm-paper-govt-e-1045/
 permalink: /2005/10/26/harvard-midterm-paper-govt-e-1045/
 categories:
   - Filosofí­a
@@ -100,7 +100,7 @@ The second case would mean a profound change in our legal and values‘ system. 
 
 And the third case, well, some people even laugh at that possibility, but a quick look at history books and media that cover something else than CNN Headline News will show how torture has been and is being widespread used by many governments throughout the world. It is too much of a plausible threat which a US President like George W. Bush (I base this assertion on his record of infringing international laws and allowing and signing orders that go against US laws and that limit citizen‘s rights all based on a "war on terror" that is all too convenient for his political interests) might be tempted to abuse.
 
-What is even more troubling is that Pandora‘s box has already been opened. Far from mainland, and as hidden and surrounded by as much secrecy as possible, but it has been opened. Detailed in a Human Right‘s Watch report (http://hrw.org/reports/2004/usa0604/2.htm) we can see top members of President Bush‘s cabinet (such as Rumsfeld) devising methods to keep torture in place (at least for interrogations) while avoiding international court of law‘s prosecution.
+What is even more troubling is that Pandora‘s box has already been opened. Far from mainland, and as hidden and surrounded by as much secrecy as possible, but it has been opened. Detailed in a Human Right‘s Watch report (https://hrw.org/reports/2004/usa0604/2.htm) we can see top members of President Bush‘s cabinet (such as Rumsfeld) devising methods to keep torture in place (at least for interrogations) while avoiding international court of law‘s prosecution.
 
 My final argument is that the lack of terrible immediate consequences should not lead us to think that we are safe from paying a price for our actions. Specially when analyzing a dilemma from an abstract philosophical point of view. Absolute detachment form reality does no good to a healthy debate. But just because something is not apparent to the naked eye does not mean it does not exist (today or in the future).
 

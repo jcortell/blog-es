@@ -4,7 +4,7 @@ title: Sexo copyright y manga
 date: 2007-11-26T17:45:01+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/11/26/sexo-copyright-y-manga/
+guid: https://www.cortell.net/2007/11/26/sexo-copyright-y-manga/
 permalink: /2007/11/26/sexo-copyright-y-manga/
 categories:
   - CiberDerechos

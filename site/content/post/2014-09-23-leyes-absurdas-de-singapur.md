@@ -4,7 +4,7 @@ title: Leyes absurdas de Singapur
 date: 2014-09-23T05:12:12+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5294
+guid: https://blog.cortell.net/es/?p=5294
 permalink: /2014/09/23/leyes-absurdas-de-singapur/
 categories:
   - General
@@ -27,5 +27,5 @@ Durante este viaje he llegado a entender la historia única de Singapur, multicu
   * Criticar la religión = ¡sedición!
   * Presentar a un extraño como un buen amigo y hablar bien de él con motivos falsos = instigación
   * Conexión a Wi-Fi hotspots abiertos = piratería
-  * El sexo oral y anal era ilegal hasta<a title="http://www.theguardian.com/world/2007/oct/24/gayrights.uk" href="http://www.theguardian.com/world/2007/oct/24/gayrights.uk" target="_blank">2007</a> ¡a menos que condujese a relación sexual vaginal!
+  * El sexo oral y anal era ilegal hasta<a title="https://www.theguardian.com/world/2007/oct/24/gayrights.uk" href="https://www.theguardian.com/world/2007/oct/24/gayrights.uk" target="_blank">2007</a> ¡a menos que condujese a relación sexual vaginal!
   * Las relaciones homosexuales (incluso en privado) =<a title="https://en.wikipedia.org/wiki/Section_377A_of_the_Penal_Code_(Singapore)" href="https://en.wikipedia.org/wiki/Section_377A_of_the_Penal_Code_(Singapore)" target="_blank">2 años de cárcel</a> años de cárcel

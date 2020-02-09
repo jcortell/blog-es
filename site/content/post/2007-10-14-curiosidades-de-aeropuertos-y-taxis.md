@@ -4,7 +4,7 @@ title: Curiosidades de aeropuertos y taxis
 date: 2007-10-14T00:18:14+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/10/14/curiosidades-de-aeropuertos-y-taxis/
+guid: https://www.cortell.net/2007/10/14/curiosidades-de-aeropuertos-y-taxis/
 permalink: /2007/10/14/curiosidades-de-aeropuertos-y-taxis/
 categories:
   - General
@@ -20,7 +20,7 @@ Ahora bien, en un aeropuerto -¿qué hay mejor que una sala VIP?. Una con WiFi g
 Esta mañana he estado en el aeropuerto JFK de Nueva York, en la sala VIP CrownRoom. La WiFi, mala, lenta y de pago (TMobile). Esta tarde estoy en el aeropuerto de Syracuse. No hay sala VIP, pero como veis en la foto (y podéis comprobar por el post en directo) aquí­ hay WiFi gratis en todo el aeropuerto, y va que vuela.
 
 <div style="text-align: center">
-  <img alt="WiFi gratis Syracuse" title="WiFi gratis Syracuse" src="http://farm3.static.flickr.com/2093/1563099602_e831eb93e3_m.jpg" />
+  <img alt="WiFi gratis Syracuse" title="WiFi gratis Syracuse" src="https://farm3.static.flickr.com/2093/1563099602_e831eb93e3_m.jpg" />
 </div>
 
 Ahora voy a Washington DC. Luego La Guardia (Nueva York). Mañana Charles De Gaulle (Paris)... al final te sientes como en casa. Pero ni siquiera una WiFi gratis y rápida te compensa por lo peor: sentirte solo.

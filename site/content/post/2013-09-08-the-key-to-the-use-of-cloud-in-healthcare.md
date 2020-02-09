@@ -4,7 +4,7 @@ title: The key to the use of cloud in healthcare
 date: 2013-09-08T12:58:10+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4874
+guid: https://cortell.net/blog/?p=4874
 permalink: /2013/09/08/the-key-to-the-use-of-cloud-in-healthcare/
 categories:
   - CiberDerechos

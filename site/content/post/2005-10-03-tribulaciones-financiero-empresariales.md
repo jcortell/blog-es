@@ -4,7 +4,7 @@ title: Tribulaciones financiero empresariales
 date: 2005-10-03T09:41:31+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/10/03/tribulaciones-financiero-empresariales/
+guid: https://www.cortell.net/2005/10/03/tribulaciones-financiero-empresariales/
 permalink: /2005/10/03/tribulaciones-financiero-empresariales/
 categories:
   - General
@@ -14,7 +14,7 @@ Estas dos últimas semanas han sido de locos. La verdad es que "cambiar el chip"
 
 A mitad de septiembre viajé a Estambul en viaje de negocios. Es increí­ble lo mucho que ha cambiado en este último año, pero también es cierto que les queda mucho por hacer.
 
-Nada más regresar me centré en los últimos pasos para lanzar mi nueva empresa [Kanteron Systems](http://www.kanteron.com). Tras la burocracia del mes pasado (notario, registros, dominio, etc), septiembre ha sido el de la práctica: testar productos, acuerdos con distribuidores, encontrar oficinas (en varios paí­ses), preparar la web, la lista de precios y el catálogo, etc.
+Nada más regresar me centré en los últimos pasos para lanzar mi nueva empresa [Kanteron Systems](https://www.kanteron.com). Tras la burocracia del mes pasado (notario, registros, dominio, etc), septiembre ha sido el de la práctica: testar productos, acuerdos con distribuidores, encontrar oficinas (en varios paí­ses), preparar la web, la lista de precios y el catálogo, etc.
 
 Ahora ya sólo queda encontrar personal. Así­ que, por si a alguien le interesa trabajar en una empresa nueva pero con mucha ilusión, buscamos dos perfiles:
 

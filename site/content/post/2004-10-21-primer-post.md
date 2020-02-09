@@ -4,7 +4,7 @@ title: Primer post
 date: 2004-10-21T09:43:33+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2004/10/21/primer-post/
+guid: https://www.cortell.net/2004/10/21/primer-post/
 permalink: /2004/10/21/primer-post/
 categories:
   - General

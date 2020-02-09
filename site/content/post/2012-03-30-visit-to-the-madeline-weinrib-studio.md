@@ -4,7 +4,7 @@ title: Visit to the Madeline Weinrib studio
 date: 2012-03-30T12:47:24+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3982
+guid: https://cortell.net/blog/?p=3982
 permalink: /2012/03/30/visit-to-the-madeline-weinrib-studio/
 wpsd_autopost:
   - "1"
@@ -15,13 +15,13 @@ categories:
   - Personal
   - Placeres de la vida
 ---
-El miércoles visité el estudio de <a title="http://madelineweinrib.com/" href="http://madelineweinrib.com/" target="_blank">Madeline Weinrib</a> en la 5ª Avenida de Nueva York.
+El miércoles visité el estudio de <a title="https://madelineweinrib.com/" href="https://madelineweinrib.com/" target="_blank">Madeline Weinrib</a> en la 5ª Avenida de Nueva York.
 
 <img class="aligncenter" title="Madeline Weinrib studio" src="https://lh3.googleusercontent.com/-NswXcy7EpRc/T3SuyAIiWbI/AAAAAAAABAk/bc0uTKxOP4k/w500-h375-k/20120328_184551.jpg" alt="" width="500" height="375" />
 
 Ubicado en un impresionante loft, su nuevo estudio (el anterior estaba en su apartamento, encima de un pequeño museo en el SoHo) está, como uno hubiese imaginado, lleno de elementos decorativos e inspiradores, además de montones y montones de muestras de tela, libros y fotos.
 
-En una conversación informal, Madeline explicó el motivo de pasarse de pintar a diseñar telas en 1997 (aunque se le "olvidó" mencionar su conexión con la <a title="http://www.abchome.com/" href="http://www.abchome.com/" target="_blank">empresa de su bisabuelo</a>), su red mundial de artesanos y proveedores, y sus "inspiraciones" obvias de diseño patrones históricos (curioso cómo considera que grandes fabricantes le "roban" al copiar "sus patrones", cuando su trabajo es una "apropiación" tan obvia de diseños histórico-culturales como el zig-zag o los patrones de diseño geométrico musulmanes, como lo describe en <a title="http://www.thestylesaloniste.com/2010/01/private-visit-and-preview-meet-designer.html" href="http://www.thestylesaloniste.com/2010/01/private-visit-and-preview-meet-designer.html" target="_blank">esta entrevista</a>).
+En una conversación informal, Madeline explicó el motivo de pasarse de pintar a diseñar telas en 1997 (aunque se le "olvidó" mencionar su conexión con la <a title="https://www.abchome.com/" href="https://www.abchome.com/" target="_blank">empresa de su bisabuelo</a>), su red mundial de artesanos y proveedores, y sus "inspiraciones" obvias de diseño patrones históricos (curioso cómo considera que grandes fabricantes le "roban" al copiar "sus patrones", cuando su trabajo es una "apropiación" tan obvia de diseños histórico-culturales como el zig-zag o los patrones de diseño geométrico musulmanes, como lo describe en <a title="https://www.thestylesaloniste.com/2010/01/private-visit-and-preview-meet-designer.html" href="https://www.thestylesaloniste.com/2010/01/private-visit-and-preview-meet-designer.html" target="_blank">esta entrevista</a>).
 
 Pero por encima de la charla pseudo-cultural, de estilo, y mercado, la cosa iba de _networking_. Renée Price (Directora de la Neue Gallery), Margot Norton (Curadora Asociada del New Museum), y un par de pintores presentes en la habitación hablaban como los buenos amigos que son, haciendo que pareciese tan natural e incluso positivo, algo que puede estar matando al espacio del arte contemporáneo: la endogamia. 
 

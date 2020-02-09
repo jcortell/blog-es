@@ -4,7 +4,7 @@ title: Fabricante de máquinas de voto electrónico amenaza con demanda si se co
 date: 2008-03-25T11:20:10+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/03/25/fabricante-de-maquinas-de-voto-electronico-amenaza-con-demanda-si-se-comprueba-su-maquina/
+guid: https://www.cortell.net/2008/03/25/fabricante-de-maquinas-de-voto-electronico-amenaza-con-demanda-si-se-comprueba-su-maquina/
 permalink: /2008/03/25/fabricante-de-maquinas-de-voto-electronico-amenaza-con-demanda-si-se-comprueba-su-maquina/
 categories:
   - CiberDerechos

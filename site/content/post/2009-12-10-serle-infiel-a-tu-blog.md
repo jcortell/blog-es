@@ -4,7 +4,7 @@ title: Serle infiel a tu blog
 date: 2009-12-10T01:53:16+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2418
+guid: https://cortell.net/blog/?p=2418
 permalink: /2009/12/10/serle-infiel-a-tu-blog/
 categories:
   - ¿Por qué no? ¿Utopías?

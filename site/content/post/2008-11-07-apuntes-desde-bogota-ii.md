@@ -4,7 +4,7 @@ title: Apuntes desde Bogotá II
 date: 2008-11-07T19:42:22+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1374
+guid: https://www.cortell.net/?p=1374
 permalink: /2008/11/07/apuntes-desde-bogota-ii/
 categories:
   - General
@@ -17,11 +17,11 @@ El sitio en sí ya es digno de un post: "kitsch" se queda corto. No es mi estilo
 
 Bueno, al final conseguimos llegar al restaurante. Gigante desde fuera (capacidad para 3000 personas y no es un salón de banquetes) y lleno de lucecitas, la sorpresa es grande cuando entras y ves la "decoración".
 
-<img src="http://farm4.static.flickr.com/3280/3010188573_cf60aeac69.jpg?v=0" alt="decoración" width="500" height="375" />
+<img src="https://farm4.static.flickr.com/3280/3010188573_cf60aeac69.jpg?v=0" alt="decoración" width="500" height="375" />
 
 Pero para colmo había una fiesta privada de disfraces, de unas 500 personas. Los disfraces eran buenísimos (desde Shrek hasta Marge Simpson), y no vi ni uno repetido.
 
-<img src="http://farm4.static.flickr.com/3248/3010189043_6080b57e5f.jpg?v=0" alt="fiesta disfraces" width="500" height="375" />
+<img src="https://farm4.static.flickr.com/3248/3010189043_6080b57e5f.jpg?v=0" alt="fiesta disfraces" width="500" height="375" />
 
 Nos sentaron en la zona de la fiesta, y pudimos ver a todo el mundo bailar durante horas. El tono ni subió ni decayó. A la gente no se la veía ni "a la caza" ni "a la pose". Simplemente montones de gente joven y guapa pasándolo realmente bien. Nunca había visto una fiesta tan alegre, tranquila, positiva... y tumultuosa.
 
@@ -29,6 +29,6 @@ Otra cosa que me llamó la atención, y esto es general del país, es la amabili
 
 Como curiosidades finales, de nuevo las reuniones con estupendas vistas
 
-<img src="http://farm4.static.flickr.com/3172/3010188143_2e571b3acb.jpg?v=0" alt="sala de reuniones" width="500" height="375" />
+<img src="https://farm4.static.flickr.com/3172/3010188143_2e571b3acb.jpg?v=0" alt="sala de reuniones" width="500" height="375" />
 
 la cantidad de mujeres en puestos directivos. Y el lenguaje: "¿me regala su nombre?" "le provoca un tinto?". Y muchas más expresiones que nos resultan graciosas.

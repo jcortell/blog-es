@@ -4,7 +4,7 @@ title: 'Bendita abstracción / Maldita abstracción (PC&amp;I 23)'
 date: 2004-10-27T10:56:27+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2004/10/27/bendita-abstraccion-maldita-abstraccion-pci-23/
+guid: https://www.cortell.net/2004/10/27/bendita-abstraccion-maldita-abstraccion-pci-23/
 permalink: /2004/10/27/bendita-abstraccion-maldita-abstraccion-pci-23/
 categories:
   - 'Artí­culos escritos para la revista PC&amp;I'
@@ -29,4 +29,4 @@ Esto mismo lo podrí­amos aplicar a otros ámbitos más allá de las computador
 
 Así­ que emplea la abstracción hasta donde sea necesaria, pero retoma el control. Infórmate. No te abstraigas demasiado. (Esto es realmente lo que significa ser un Hacker, pero de eso ya hablaré en otro artí­culo).
 
-[<img src="http://tira.escomposlinux.org/ecol-188.png" alt="tira es.comp.os.linux" border="0" />](http://tira.escomposlinux.org/ecol-188.png)
+[<img src="https://tira.escomposlinux.org/ecol-188.png" alt="tira es.comp.os.linux" border="0" />](https://tira.escomposlinux.org/ecol-188.png)

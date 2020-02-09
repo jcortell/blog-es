@@ -4,7 +4,7 @@ title: Flipando sin límite con las compañías aéreas
 date: 2009-07-01T12:00:01+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1998
+guid: https://cortell.net/blog/?p=1998
 permalink: /2009/07/01/flipando-sin-limite-con-las-companias-aereas/
 categories:
   - ¿Por qué no? ¿Utopías?

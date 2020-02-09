@@ -4,7 +4,7 @@ title: Según PRISA soy uno de los bloggers más importantes de España
 date: 2009-03-07T23:23:32+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1654
+guid: https://cortell.net/blog/?p=1654
 permalink: /2009/03/07/segun-prisa-soy-uno-de-los-bloggers-mas-importante-de-espana/
 categories:
   - General
@@ -13,13 +13,13 @@ categories:
   - Personal
   - Technology
 ---
-El Grupo PRISA publica una especie de "Quién es quién" en Internet llamado "<a title="http://www.lalistawip.com" href="http://www.lalistawip.com" target="_blank">Lista WIP</a> (Web Important Person)". A lo largo de montones de categorías, y subcategorías, con filtros de todo tipo, se pueden obtener listados de personas que consideran importantes (el porqué y el cómo <a title="http://blog.lalistawip.com/blog_de_famosos/2008/02/de-dnde-salen-l.html" href="http://blog.lalistawip.com/blog_de_famosos/2008/02/de-dnde-salen-l.html" target="_blank">aquí</a>). 
+El Grupo PRISA publica una especie de "Quién es quién" en Internet llamado "<a title="https://www.lalistawip.com" href="https://www.lalistawip.com" target="_blank">Lista WIP</a> (Web Important Person)". A lo largo de montones de categorías, y subcategorías, con filtros de todo tipo, se pueden obtener listados de personas que consideran importantes (el porqué y el cómo <a title="https://blog.lalistawip.com/blog_de_famosos/2008/02/de-dnde-salen-l.html" href="https://blog.lalistawip.com/blog_de_famosos/2008/02/de-dnde-salen-l.html" target="_blank">aquí</a>). 
 
 ¡Incluso genera un widget!
 
 Esperando Contenido Widget ...
 
-Pues bien, la sorpresa me la he llevado, y mayúscula, cuando vía <a title="http://www.treceporciento.com/recopilaciones/24-bloggers-mas-importantes/" href="http://www.treceporciento.com/recopilaciones/24-bloggers-mas-importantes/" target="_blank">Fernando Muñoz</a> me entero que **estoy en el número 3 de** **<a title="http://www.lalistawip.com/top-100/?lista=cat__Comunicaci%F3n-role__Blogger-loc__Espa%F1a" href="http://www.lalistawip.com/top-100/?lista=cat__Comunicaci%F3n-role__Blogger-loc__Espa%F1a" target="_blank">los bloggers más importantes de España</a>** [actualización: ahora estoy en el 7 de bloggers españoles, el 498 de España, y en el 11866 mundial] con mi propia <a title="http://www.lalistawip.com/personaje/Jorge+Cortell_9987298/" href="http://www.lalistawip.com/personaje/Jorge+Cortell_9987298/" target="_blank">página de perfil</a>.
+Pues bien, la sorpresa me la he llevado, y mayúscula, cuando vía <a title="https://www.treceporciento.com/recopilaciones/24-bloggers-mas-importantes/" href="https://www.treceporciento.com/recopilaciones/24-bloggers-mas-importantes/" target="_blank">Fernando Muñoz</a> me entero que **estoy en el número 3 de** **<a title="https://www.lalistawip.com/top-100/?lista=cat__Comunicaci%F3n-role__Blogger-loc__Espa%F1a" href="https://www.lalistawip.com/top-100/?lista=cat__Comunicaci%F3n-role__Blogger-loc__Espa%F1a" target="_blank">los bloggers más importantes de España</a>** [actualización: ahora estoy en el 7 de bloggers españoles, el 498 de España, y en el 11866 mundial] con mi propia <a title="https://www.lalistawip.com/personaje/Jorge+Cortell_9987298/" href="https://www.lalistawip.com/personaje/Jorge+Cortell_9987298/" target="_blank">página de perfil</a>.
 
 > Me ha costado un rato parar de reír. Sólo lo he hecho cuando he caído en la cuenta del agravio comparativo que supone poner mi nombre por delante otros. Hay gente con blogs geniales, profesionales como la copa de un pino, gente brillante, divertida, mordaz, sagaz...
 

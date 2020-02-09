@@ -4,12 +4,12 @@ title: 'Conferencia, descarga, y donación: UPF'
 date: 2005-05-27T20:56:33+00:00
 author: Jorge Cortell
 layout: post
-guid: http://64.246.54.67/cortell.net/2005/06/03/conferencia-descarga-y-donacion-upf/
+guid: https://64.246.54.67/cortell.net/2005/06/03/conferencia-descarga-y-donacion-upf/
 permalink: /2005/05/27/conferencia-descarga-y-donacion-upf/
 categories:
   - Copyfight
 ---
-La conferencia de hoy en la [Universidad Pompeu Fabra](http://www.upf.edu/grec/en/0405/0519.htm) ha transcurrido sin el más mí­nimo incidente (a excepción de un pequeño problema técnico al inicio). A parte de explicar, durante varias horas, conceptos relacionados con las redes P2P, la inexistente Propiedad Intelectual, y el software libre, también demostré el uso de una de esta aplicaciones de redes P2P (con "descarga" y "subida") gracias a que se habilitó una conexión especial.
+La conferencia de hoy en la [Universidad Pompeu Fabra](https://www.upf.edu/grec/en/0405/0519.htm) ha transcurrido sin el más mí­nimo incidente (a excepción de un pequeño problema técnico al inicio). A parte de explicar, durante varias horas, conceptos relacionados con las redes P2P, la inexistente Propiedad Intelectual, y el software libre, también demostré el uso de una de esta aplicaciones de redes P2P (con "descarga" y "subida") gracias a que se habilitó una conexión especial.
 
 Sigo sin ser detenido. Puede que no demuestre nada, pero cada vez parece más claro que no debe ser ilegal ni "subir" ni "bajar" en contra de lo que la SGAE nos quiere hacer creer, pues si no ya hubiese sido arrestado.
 

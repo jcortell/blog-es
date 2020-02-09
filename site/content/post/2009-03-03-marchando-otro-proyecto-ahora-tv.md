@@ -4,7 +4,7 @@ title: 'Marchando otro proyecto: ahora TV'
 date: 2009-03-03T21:50:13+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1615
+guid: https://cortell.net/blog/?p=1615
 permalink: /2009/03/03/marchando-otro-proyecto-ahora-tv/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -17,4 +17,4 @@ Hoy una productora de TV me ha propuesto hacer un programa "alternativo". Como t
 
 Que nadie pregunte por el piloto. No creo que nada de esto vea la luz en menos de un año. Pero me gustan los retos. Os mantendré informados.
 
-Mientras tanto, si la gala de los Goya no os llena, y la TV os da asco (ya sea TDT, Digital+, Ono, Imagenio...) os recomiendo que sigáis esta genial iniciativa: <a title="http://www.riotcinema.com/" href="http://www.riotcinema.com/" target="_blank">EL COSMONAUTA</a> (prometo contaros algo más dentro de unos días) ¡Suerte chicos!
+Mientras tanto, si la gala de los Goya no os llena, y la TV os da asco (ya sea TDT, Digital+, Ono, Imagenio...) os recomiendo que sigáis esta genial iniciativa: <a title="https://www.riotcinema.com/" href="https://www.riotcinema.com/" target="_blank">EL COSMONAUTA</a> (prometo contaros algo más dentro de unos días) ¡Suerte chicos!

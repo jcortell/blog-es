@@ -4,7 +4,7 @@ title: Wardriving desde Barcelona
 date: 2007-01-22T14:08:41+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/01/22/wardriving-desde-barcelona/
+guid: https://www.cortell.net/2007/01/22/wardriving-desde-barcelona/
 permalink: /2007/01/22/wardriving-desde-barcelona/
 categories:
   - Geek Fun

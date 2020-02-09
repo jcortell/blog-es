@@ -4,7 +4,7 @@ title: 4 días en Asunción (Paraguay)
 date: 2016-11-27T15:35:59+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5965
+guid: https://blog.cortell.net/es/?p=5965
 permalink: /2016/11/27/4-dias-en-asuncion-paraguay/
 categories:
   - General

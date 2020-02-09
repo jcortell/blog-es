@@ -4,7 +4,7 @@ title: -¿Existen los programadores de videojuegos?
 date: 2006-08-31T08:06:16+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2006/08/31/%c2%bfexisten-los-programadores-de-videojuegos/'
+guid: 'https://www.cortell.net/2006/08/31/%c2%bfexisten-los-programadores-de-videojuegos/'
 permalink: /2006/08/31/existen-los-programadores-de-videojuegos/
 categories:
   - General

@@ -4,7 +4,7 @@ title: 'Acentos corregidos... pero no los anteriores'
 date: 2008-03-25T11:23:50+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/03/25/acentos-corregidos-pero-no-los-anteriores/
+guid: https://www.cortell.net/2008/03/25/acentos-corregidos-pero-no-los-anteriores/
 permalink: /2008/03/25/acentos-corregidos-pero-no-los-anteriores/
 categories:
   - Personal

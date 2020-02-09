@@ -4,7 +4,7 @@ title: Tu propio sitio de encuentros
 date: 2008-01-29T11:34:41+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/01/29/tu-propio-sitio-de-encuentros/
+guid: https://www.cortell.net/2008/01/29/tu-propio-sitio-de-encuentros/
 permalink: /2008/01/29/tu-propio-sitio-de-encuentros/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -14,7 +14,7 @@ categories:
   - Otras cosas
   - Technology
 ---
-Subrealista, pero existe. <a target="_blank" title="easyflirt-partners.biz" href="http://easyflirt-partners.biz/">Esta gente</a> te lo pone fácil.
+Subrealista, pero existe. <a target="_blank" title="easyflirt-partners.biz" href="https://easyflirt-partners.biz/">Esta gente</a> te lo pone fácil.
 
 La verdad es que, aunque parece un sector saturadí­simo, auqnue sea como experimento sociológico, estoy seguro que existen muchos sitios de encuentros que se podrí­an crear (por idiomas para practicar, para no ir solo al cine/cena, para profesionales que viajan y quieren aprovechar para tirar una cana al aire después de la reunión con un desconocido que también está de paso, por alturas, por profesiones para hacer una red social bien "estrecha", etc).
 

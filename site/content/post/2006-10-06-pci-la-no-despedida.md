@@ -4,7 +4,7 @@ title: 'PC&amp;I: la NO despedida'
 date: 2006-10-06T08:48:44+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/10/06/pci-la-no-despedida/
+guid: https://www.cortell.net/2006/10/06/pci-la-no-despedida/
 permalink: /2006/10/06/pci-la-no-despedida/
 categories:
   - 'Artí­culos escritos para la revista PC&amp;I'

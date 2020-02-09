@@ -4,7 +4,7 @@ title: '&quot;Suidad&quot; intro en español'
 date: 2005-12-24T00:50:41+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/12/24/suidad-intro-en-espanol/
+guid: https://www.cortell.net/2005/12/24/suidad-intro-en-espanol/
 permalink: /2005/12/24/suidad-intro-en-espanol/
 categories:
   - General
@@ -15,6 +15,6 @@ En cuestión de horas desde que publiqué el original en inglés ya tení­a una
 
 El poder de la red. Y de la libertad de la obra. Me encanta.
 
-[Aquí­ la tenéis](http://www.cortell.net/suidad/introduccion/).
+[Aquí­ la tenéis](https://www.cortell.net/suidad/introduccion/).
 
 Por cierto: a partir de ahora poned la traducción en los comentarios de la versión original, y la posteo tras la revisión de la comunidad.

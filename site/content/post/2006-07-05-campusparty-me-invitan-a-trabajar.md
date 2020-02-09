@@ -4,7 +4,7 @@ title: 'CampusParty: me &quot;invitan&quot; a trabajar'
 date: 2006-07-05T16:48:41+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/07/05/campusparty-me-invitan-a-trabajar/
+guid: https://www.cortell.net/2006/07/05/campusparty-me-invitan-a-trabajar/
 permalink: /2006/07/05/campusparty-me-invitan-a-trabajar/
 categories:
   - General

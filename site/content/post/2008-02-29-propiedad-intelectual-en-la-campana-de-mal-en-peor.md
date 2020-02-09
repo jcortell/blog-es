@@ -4,7 +4,7 @@ title: '&quot;Propiedad Intelectual&quot; en la campaña: de mal en peor'
 date: 2008-02-29T12:37:05+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/02/29/propiedad-intelectual-en-la-campana-de-mal-en-peor/
+guid: https://www.cortell.net/2008/02/29/propiedad-intelectual-en-la-campana-de-mal-en-peor/
 permalink: /2008/02/29/propiedad-intelectual-en-la-campana-de-mal-en-peor/
 categories:
   - CiberDerechos
@@ -46,6 +46,6 @@ No se dejen embaucar con los estupendos titulares de "Rajoy promete acabar con e
 
 â€¢ Asumir las funciones y dotar de una **autoridad única a la Comisión Antipiraterí­a**, cuya **ineficacia** se comprueba y aumenta dí­a a dí­a, con verdadero **daño especialmente para nuestras industrias culturales** y muy singularmente para los **creadores más jóvenes**.
   
-[Este mensaje está sacado LITERALMENTE del discurso de SGAE, manipulador y lleno de mentiras como por ejemplo su <a target="_blank" title="http://www.copia-privada-si.com/" href="http://www.copia-privada-si.com/">sitio</a> propagandí­stico en favor del canon; o sea: más mano dura, más policí­a, y menos derechos]
+[Este mensaje está sacado LITERALMENTE del discurso de SGAE, manipulador y lleno de mentiras como por ejemplo su <a target="_blank" title="https://www.copia-privada-si.com/" href="https://www.copia-privada-si.com/">sitio</a> propagandí­stico en favor del canon; o sea: más mano dura, más policí­a, y menos derechos]
 
 Miedo me da el PSOE y su servidumbre a los focos mediáticos y el lobby de los "artistas". Pero PANICO me da el PP con esta dialéctica. Ustedes elijan, que yo no lo haré.

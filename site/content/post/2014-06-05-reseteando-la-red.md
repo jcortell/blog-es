@@ -4,7 +4,7 @@ title: Reseteando la red
 date: 2014-06-05T14:02:23+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5200
+guid: https://blog.cortell.net/es/?p=5200
 permalink: /2014/06/05/reseteando-la-red/
 categories:
   - ¿Por qué no? ¿Utopías?

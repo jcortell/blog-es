@@ -4,7 +4,7 @@ title: Un buen día en Londres
 date: 2015-11-19T10:31:20+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5674
+guid: https://blog.cortell.net/es/?p=5674
 permalink: /2015/11/19/un-buen-dia-en-londres/
 categories:
   - Arte

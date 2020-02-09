@@ -4,7 +4,7 @@ title: -¿Hasta dónde llegarí­as por el eyecandy?
 date: 2007-09-28T12:11:25+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2007/09/28/%c2%bfhasta-donde-llegarias-por-el-eyecandy/'
+guid: 'https://www.cortell.net/2007/09/28/%c2%bfhasta-donde-llegarias-por-el-eyecandy/'
 permalink: /2007/09/28/hasta-donde-llegarias-por-el-eyecandy/
 categories:
   - CiberDerechos
@@ -13,7 +13,7 @@ categories:
   - Hacking
   - Technology
 ---
-El que me conoce sabe que me pierde el _eyecandy_. Pero <a target="_blank" title="Gedmaheaux" href="http://gedmaheux.wordpress.com/2007/09/08/iphone-dithers-images/">lo que algunos son capaces de hacer</a> para conseguir, por ejemplo, que sus imágenes de fondo de escritorio en el iPhone se vean un poquito mejor es verdaderamente espectacular (copio de su post):
+El que me conoce sabe que me pierde el _eyecandy_. Pero <a target="_blank" title="Gedmaheaux" href="https://gedmaheux.wordpress.com/2007/09/08/iphone-dithers-images/">lo que algunos son capaces de hacer</a> para conseguir, por ejemplo, que sus imágenes de fondo de escritorio en el iPhone se vean un poquito mejor es verdaderamente espectacular (copio de su post):
 
 =============================
 

@@ -4,7 +4,7 @@ title: Luch in office cafeteria terrace
 date: 2012-03-15T15:59:08+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3914
+guid: https://cortell.net/blog/?p=3914
 permalink: /2012/03/15/luch-in-office-cafeteria-terrace/
 wpsd_autopost:
   - "1"

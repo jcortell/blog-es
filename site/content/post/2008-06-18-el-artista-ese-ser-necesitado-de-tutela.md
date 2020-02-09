@@ -4,7 +4,7 @@ title: 'El &quot;artista&quot;: ese ser necesitado de tutela'
 date: 2008-06-18T09:51:52+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1246
+guid: https://www.cortell.net/?p=1246
 permalink: /2008/06/18/el-artista-ese-ser-necesitado-de-tutela/
 categories:
   - CiberDerechos

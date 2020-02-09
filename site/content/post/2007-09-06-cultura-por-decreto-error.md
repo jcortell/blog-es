@@ -4,7 +4,7 @@ title: -¿Cultura por decreto? ERROR
 date: 2007-09-06T12:56:41+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2007/09/06/%c2%bfcultura-por-decreto-error/'
+guid: 'https://www.cortell.net/2007/09/06/%c2%bfcultura-por-decreto-error/'
 permalink: /2007/09/06/cultura-por-decreto-error/
 categories:
   - General

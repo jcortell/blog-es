@@ -4,7 +4,7 @@ title: La conveniencia (o no) de una marca ) S (
 date: 2006-01-20T14:55:29+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/01/20/la-conveniencia-o-no-de-una-marca-s/
+guid: https://www.cortell.net/2006/01/20/la-conveniencia-o-no-de-una-marca-s/
 permalink: /2006/01/20/la-conveniencia-o-no-de-una-marca-s/
 categories:
   - CiberDerechos

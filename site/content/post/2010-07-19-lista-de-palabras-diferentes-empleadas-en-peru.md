@@ -4,7 +4,7 @@ title: Lista de palabras diferentes empleadas en Perú
 date: 2010-07-19T18:10:03+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2537
+guid: https://cortell.net/blog/?p=2537
 permalink: /2010/07/19/lista-de-palabras-diferentes-empleadas-en-peru/
 categories:
   - General

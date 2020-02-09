@@ -4,7 +4,7 @@ title: 'Nietzsche: cultura = culpa, ergo cristianismo y copyright'
 date: 2010-11-14T11:44:17+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2699
+guid: https://cortell.net/blog/?p=2699
 permalink: /2010/11/14/nietzsche-cultura-culpa-ergo-cristianismo-y-copyright/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -13,7 +13,7 @@ categories:
   - General
   - Sociedad y polí­tica
 ---
-Tal y como comenta en Nietzsche en "<a title="http://www.amazon.com/Philosophy-Nietzsche-Friedrich/dp/B000MPRDM6/ref=sr_1_1?ie=UTF8&qid=1289725873&sr=8-1" href="http://www.amazon.com/Philosophy-Nietzsche-Friedrich/dp/B000MPRDM6/ref=sr_1_1?ie=UTF8&qid=1289725873&sr=8-1" target="_blank">The Philosophy of Nietzsche</a>" (compendio de 5 de sus obras publicado en 1927 por Ed. Modern Library, NY, pp. 668-712), la civilización contemporánea se siente en deuda con sus antepasados. La acumulación de cultura nos genera un sentimiento de deuda, que aumenta con nuevas generaciones. Así que a mayor acumulación de civilización, mayor acumulación de culpa.
+Tal y como comenta en Nietzsche en "<a title="https://www.amazon.com/Philosophy-Nietzsche-Friedrich/dp/B000MPRDM6/ref=sr_1_1?ie=UTF8&qid=1289725873&sr=8-1" href="https://www.amazon.com/Philosophy-Nietzsche-Friedrich/dp/B000MPRDM6/ref=sr_1_1?ie=UTF8&qid=1289725873&sr=8-1" target="_blank">The Philosophy of Nietzsche</a>" (compendio de 5 de sus obras publicado en 1927 por Ed. Modern Library, NY, pp. 668-712), la civilización contemporánea se siente en deuda con sus antepasados. La acumulación de cultura nos genera un sentimiento de deuda, que aumenta con nuevas generaciones. Así que a mayor acumulación de civilización, mayor acumulación de culpa.
 
 Por supuesto artificios como el cristianismo o el copyright juegan con esa culpa, con esa deuda, para establecer su reinado de represión, manipulación y exigencia de retribución, en modo de "ofrendas" (royalties, cánones, rezos, plegarias, sacrificios, comportamientos mediados...) y establecimiento de sus intermediarios "oficiales" (Iglesia como la Católica Apostólica Romana, o Sociedades de Gestión como SGAE), sus mediadores e intérpretes de la sagrada doctrina de la inalcanzable redención de la culpa.
 

@@ -4,7 +4,7 @@ title: 'Alaska Cruise Day 5: Skagway'
 date: 2013-06-20T17:59:05+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4762
+guid: https://cortell.net/blog/?p=4762
 permalink: /2013/06/20/alaska-cruise-day-5-skagway/
 categories:
   - General

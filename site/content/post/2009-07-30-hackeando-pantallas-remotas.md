@@ -4,7 +4,7 @@ title: Hackeando pantallas remotas
 date: 2009-07-30T08:37:40+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2077
+guid: https://cortell.net/blog/?p=2077
 permalink: /2009/07/30/hackeando-pantallas-remotas/
 categories:
   - Geek Fun

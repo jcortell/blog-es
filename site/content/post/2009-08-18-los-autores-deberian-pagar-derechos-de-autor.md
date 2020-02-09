@@ -4,7 +4,7 @@ title: Los autores deberían PAGAR derechos de autor a público y ubicaciones
 date: 2009-08-18T08:28:47+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2112
+guid: https://cortell.net/blog/?p=2112
 permalink: /2009/08/18/los-autores-deberian-pagar-derechos-de-autor/
 categories:
   - Arte

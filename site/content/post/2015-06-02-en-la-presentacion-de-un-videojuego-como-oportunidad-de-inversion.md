@@ -4,7 +4,7 @@ title: En la presentación de un videojuego como oportunidad de inversión
 date: 2015-06-02T20:49:36+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5494
+guid: https://blog.cortell.net/es/?p=5494
 permalink: /2015/06/02/en-la-presentacion-de-un-videojuego-como-oportunidad-de-inversion/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -17,7 +17,7 @@ categories:
   - Technology
   - Videogames
 ---
-El lunes asistí a la presentación de <a href="http://www.projectmstudio.com/franchise.php" target="_blank">Project M</a>, un nuevo videojuego como oportunidad de inversión, en Google Campus, Londres.
+El lunes asistí a la presentación de <a href="https://www.projectmstudio.com/franchise.php" target="_blank">Project M</a>, un nuevo videojuego como oportunidad de inversión, en Google Campus, Londres.
 
 [<img class=" aligncenter" src="https://c1.staticflickr.com/9/8848/17732393093_4498867e73_n.jpg" alt="IMG_20150601_183112" width="320" height="240" />](https://www.flickr.com/photos/jcortell/17732393093 "IMG_20150601_183112 by Jorge Cortell, on Flickr")
 

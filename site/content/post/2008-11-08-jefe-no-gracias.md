@@ -4,7 +4,7 @@ title: ¿Jefe? No, gracias
 date: 2008-11-08T14:39:04+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1370
+guid: https://www.cortell.net/?p=1370
 permalink: /2008/11/08/jefe-no-gracias/
 categories:
   - General

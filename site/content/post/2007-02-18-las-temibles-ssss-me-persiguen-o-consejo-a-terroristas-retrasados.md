@@ -4,7 +4,7 @@ title: 'Las temibles SSSS me persiguen o &quot;consejo a terroristas retrasados&
 date: 2007-02-18T09:49:01+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/02/18/las-temibles-ssss-me-persiguen-o-consejo-a-terroristas-retrasados/
+guid: https://www.cortell.net/2007/02/18/las-temibles-ssss-me-persiguen-o-consejo-a-terroristas-retrasados/
 permalink: /2007/02/18/las-temibles-ssss-me-persiguen-o-consejo-a-terroristas-retrasados/
 categories:
   - CiberDerechos
@@ -14,11 +14,11 @@ categories:
   - Privacidad
   - Sociedad y polí­tica
 ---
-Ya hace tiempo descubrí­ que si en la tarjeta de embarque de un vuelo en EEUU pone <a target="_blank" title="SSSS" href="http://neuroning.com/articles/2006/02/14/airport-security-jokes">SSSS</a>... ponte a temblar, porque te van a comprobar hasta la marca de canzoncillos. -¿No se dan cuenta de que es absurdo avisar de antemano?
+Ya hace tiempo descubrí­ que si en la tarjeta de embarque de un vuelo en EEUU pone <a target="_blank" title="SSSS" href="https://neuroning.com/articles/2006/02/14/airport-security-jokes">SSSS</a>... ponte a temblar, porque te van a comprobar hasta la marca de canzoncillos. -¿No se dan cuenta de que es absurdo avisar de antemano?
   
-![SSSS](http://farm1.static.flickr.com/154/393758155_c38eee6aef.jpg?v=1171783305 "SSSS")
+![SSSS](https://farm1.static.flickr.com/154/393758155_c38eee6aef.jpg?v=1171783305 "SSSS")
 
-Y ya hace tiempo también que me pregunto por qué las <a title="SS" target="_blank" href="http://en.wikipedia.org/wiki/Ss">SSSS</a> me persiguen.
+Y ya hace tiempo también que me pregunto por qué las <a title="SS" target="_blank" href="https://en.wikipedia.org/wiki/Ss">SSSS</a> me persiguen.
 
 Dicen que es aleatorio. Pero yo digo que **UNA MIERDA**. Cada vuelo que cojo en EEUU me marcan como "el elejido", y me invitan a una reunión muy especial con un normalmente poco amable agente de la falsa seguridad.
 

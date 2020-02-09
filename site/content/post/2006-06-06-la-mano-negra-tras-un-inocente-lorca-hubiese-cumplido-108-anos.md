@@ -4,7 +4,7 @@ title: 'La mano negra tras un inocente &quot;Lorca hubiese cumplido 108 años&qu
 date: 2006-06-06T08:11:22+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/06/06/la-mano-negra-tras-un-inocente-lorca-hubiese-cumplido-108-anos/
+guid: https://www.cortell.net/2006/06/06/la-mano-negra-tras-un-inocente-lorca-hubiese-cumplido-108-anos/
 permalink: /2006/06/06/la-mano-negra-tras-un-inocente-lorca-hubiese-cumplido-108-anos/
 categories:
   - CiberDerechos
@@ -16,7 +16,7 @@ categories:
 ---
 Esta mañana, en las noticias de TVE, han dado una _inocente_ noticia cultural: la representación cantada de unos textos de Federico Garcí­a Lorca, como conmemoración de... (y aquí­ viene el veneno de la noticia) que hubiese cumplido 108 años de no haber muerto. No decí­a "que murió hace 70 años" no.
   
-La noticia no dejarí­a de ser calificada como de "redacción tosca", de no ser por un comentario que el viernes pasado hizo <a target="_blank" title="Sr. Saez" href="http://www.cortell.net/2006/06/06/su-senoria-reconoce-que-son-marionetas/">el Sr. Saez en su clase</a>: dijo que **hací­a unos dí­as los herederos de Federico Garcí­a Lorca fueron a verle con la petición de que la reforma de la ley de "propiedad intelectual" tuviese en cuenta al computar el perí­odo de restricción del copyright, las circunstancias de la muerte del autor, porque claro, de no haber sido fusilado, Lorca hubiese vivido más** (y claro, con la ley como está este año se quedarán sin poder chupar del bote, porque los textos de Lorca pasan al dominio público).
+La noticia no dejarí­a de ser calificada como de "redacción tosca", de no ser por un comentario que el viernes pasado hizo <a target="_blank" title="Sr. Saez" href="https://www.cortell.net/2006/06/06/su-senoria-reconoce-que-son-marionetas/">el Sr. Saez en su clase</a>: dijo que **hací­a unos dí­as los herederos de Federico Garcí­a Lorca fueron a verle con la petición de que la reforma de la ley de "propiedad intelectual" tuviese en cuenta al computar el perí­odo de restricción del copyright, las circunstancias de la muerte del autor, porque claro, de no haber sido fusilado, Lorca hubiese vivido más** (y claro, con la ley como está este año se quedarán sin poder chupar del bote, porque los textos de Lorca pasan al dominio público).
   
 **-¡Manda huevos!**
 

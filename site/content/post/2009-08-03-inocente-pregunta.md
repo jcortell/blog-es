@@ -4,7 +4,7 @@ title: Inocente pregunta
 date: 2009-08-03T09:33:47+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2088
+guid: https://cortell.net/blog/?p=2088
 permalink: /2009/08/03/inocente-pregunta/
 categories:
   - Filosofí­a

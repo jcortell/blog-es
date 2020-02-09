@@ -4,7 +4,7 @@ title: Un ejemplo bueno y uno malo de EEUU
 date: 2005-11-03T10:14:31+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/11/03/un-ejemplo-bueno-y-uno-malo-de-eeuu/
+guid: https://www.cortell.net/2005/11/03/un-ejemplo-bueno-y-uno-malo-de-eeuu/
 permalink: /2005/11/03/un-ejemplo-bueno-y-uno-malo-de-eeuu/
 categories:
   - General
@@ -22,11 +22,11 @@ Bueno, al grano.
 
 Hoy, dos temas a comentar de EEUU, uno bueno y uno malo.
 
-Por una parte **las [cárceles secretas](http://www.20minutos.es/noticia/61474/0/SEGURIDAD/PRISIONES/CIA/) que mantienen por todo el mundo con el beneplácito de paí­ses supuestamente democráticos, supuestamente respetuosos con la legalidad internacional. Como dicen ellos "BS"**.
+Por una parte **las [cárceles secretas](https://www.20minutos.es/noticia/61474/0/SEGURIDAD/PRISIONES/CIA/) que mantienen por todo el mundo con el beneplácito de paí­ses supuestamente democráticos, supuestamente respetuosos con la legalidad internacional. Como dicen ellos "BS"**.
 
-Ya en el [ensayo](http://www.cortell.net/2005/10/26/harvard-midterm-paper-govt-e-1045/) que escribí­ para el MidTerm paper de Harvard expresé mi opinión respecto a la guerra sucia y a las implicaciones que se derivan de su uso. Muy peligroso. Muy negativo. Muy desaconsejable.
+Ya en el [ensayo](https://www.cortell.net/2005/10/26/harvard-midterm-paper-govt-e-1045/) que escribí­ para el MidTerm paper de Harvard expresé mi opinión respecto a la guerra sucia y a las implicaciones que se derivan de su uso. Muy peligroso. Muy negativo. Muy desaconsejable.
 
-Por el lado positivo, **un [estupendo blog](http://www.becker-posner-blog.com/) que comparten [Gary S. Becker](http://home.uchicago.edu/~gbecker/) (premio Nobel de economí­a, profesor de economí­a y sociologí­a de la Universidad de Chicago, senior fellow de la Hoover Institution de la Universidad de Stanford, y Research Associate -ERC de la National Opinion Research, además de colaborador de Business Week) y [Richard A. Posner](http://home.uchicago.edu/~rposner/) (Juez del US Seventh Circuit Court of Appeals y profesor de la facultad de derecho de la Universidad de Chicago)**.
+Por el lado positivo, **un [estupendo blog](https://www.becker-posner-blog.com/) que comparten [Gary S. Becker](https://home.uchicago.edu/~gbecker/) (premio Nobel de economí­a, profesor de economí­a y sociologí­a de la Universidad de Chicago, senior fellow de la Hoover Institution de la Universidad de Stanford, y Research Associate -ERC de la National Opinion Research, además de colaborador de Business Week) y [Richard A. Posner](https://home.uchicago.edu/~rposner/) (Juez del US Seventh Circuit Court of Appeals y profesor de la facultad de derecho de la Universidad de Chicago)**.
 
 En este blog cada semana escogen un tema y cada uno opina. Muy muy interesante (aunque a veces uno no esté de acuerdo con lo que dicen, da gusto ver la profundidad de muchos de sus planteamientos).
 

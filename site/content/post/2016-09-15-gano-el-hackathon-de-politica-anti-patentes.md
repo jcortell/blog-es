@@ -4,7 +4,7 @@ title: Gano el hackathon de política anti-patentes
 date: 2016-09-15T02:59:38+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5888
+guid: https://blog.cortell.net/es/?p=5888
 permalink: /2016/09/15/gano-el-hackathon-de-politica-anti-patentes/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -21,7 +21,7 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-[<img class="aligncenter " src="http://mindthebridge.com/wp-content/uploads/2016/08/hackathon-policy-sec2sv.png" alt="" width="573" height="281" />](http://mindthebridge.com/keep-calm-hack)
+[<img class="aligncenter " src="https://mindthebridge.com/wp-content/uploads/2016/08/hackathon-policy-sec2sv.png" alt="" width="573" height="281" />](https://mindthebridge.com/keep-calm-hack)
 
 El 13 de septiembre, <span>Mind the Bridge</span> organizó un hackathon de política patrocinado por Dell en el Centro de Innovación de MTB en San Francisco. El <span>Dell PolicyHack™</span> reunió a empresarios y expertos EE. UU./EU para resolver problemas de política. El objetivo era intercambiar ideas de manera productiva y proporcionar ideas que puede inspirar y servir como base para desarrollar e implementar políticas de pleno derecho.
 

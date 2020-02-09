@@ -4,7 +4,7 @@ title: La pobreza que ven mis ojos
 date: 2009-02-23T01:05:20+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1593
+guid: https://cortell.net/blog/?p=1593
 permalink: /2009/02/23/la-pobreza-que-ven-mis-ojos/
 categories:
   - ¿Por qué no? ¿Utopías?

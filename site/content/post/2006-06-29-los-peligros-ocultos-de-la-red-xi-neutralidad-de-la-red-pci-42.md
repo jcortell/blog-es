@@ -4,7 +4,7 @@ title: 'Los peligros ocultos de la Red XI: Neutralidad de la Red (PC&amp;I 42)'
 date: 2006-06-29T06:56:18+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/06/29/los-peligros-ocultos-de-la-red-xi-neutralidad-de-la-red-pci-42/
+guid: https://www.cortell.net/2006/06/29/los-peligros-ocultos-de-la-red-xi-neutralidad-de-la-red-pci-42/
 permalink: /2006/06/29/los-peligros-ocultos-de-la-red-xi-neutralidad-de-la-red-pci-42/
 categories:
   - 'Artí­culos escritos para la revista PC&amp;I'
@@ -40,4 +40,4 @@ El New York Times, tituló un editorial sobre este tema "La libertad de muchos e
 
 No permitamos que el beneficio a corto plazo de unas pocas empresas ponga en peligro el futuro de uno de los más maravillosos avances que ha conseguido el ser humano. -¿Cómo? A parte del poder que tenemos como votantes, y como consumidores, no recordemos de que al juego de "como es mí­o cobro por ello lo que quiera" podemos jugar todos. -¿Qué tal cobrarles por permitirles usar "nuestros" datos para facturarnos? -¿Qué tal cobrarles por permitirles el acceso a "nuestros" blogs, emails, etc? En la guerra todos pierden.
 
-[<img border="0" alt="tira es.comp.os.linux" src="http://tira.escomposlinux.org/ecol-239.png" />](http://tira.escomposlinux.org)
+[<img border="0" alt="tira es.comp.os.linux" src="https://tira.escomposlinux.org/ecol-239.png" />](https://tira.escomposlinux.org)

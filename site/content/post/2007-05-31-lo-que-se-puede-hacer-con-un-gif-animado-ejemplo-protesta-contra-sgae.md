@@ -4,7 +4,7 @@ title: 'Lo que se puede hacer con un GIF animado (ejemplo: protesta contra SGAE)
 date: 2007-05-31T10:44:41+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/05/31/lo-que-se-puede-hacer-con-un-gif-animado-ejemplo-protesta-contra-sgae/
+guid: https://www.cortell.net/2007/05/31/lo-que-se-puede-hacer-con-un-gif-animado-ejemplo-protesta-contra-sgae/
 permalink: /2007/05/31/lo-que-se-puede-hacer-con-un-gif-animado-ejemplo-protesta-contra-sgae/
 categories:
   - CiberDerechos
@@ -24,4 +24,4 @@ _Chapeau_.
 
 Pasen, vean y disfruten.
 
-<a target="_blank" title="Animación Anti-SGAE" href="http://www.gamerachan.org/gamera01/imatges/1180550273-monkey-sgae.gif"><img alt="Animación anti-SGAE" title="Animación anti-SGAE" src="http://www.gamerachan.org/gamera01/imatges/1180550273-monkey-sgae.gif" /></a>
+<a target="_blank" title="Animación Anti-SGAE" href="https://www.gamerachan.org/gamera01/imatges/1180550273-monkey-sgae.gif"><img alt="Animación anti-SGAE" title="Animación anti-SGAE" src="https://www.gamerachan.org/gamera01/imatges/1180550273-monkey-sgae.gif" /></a>

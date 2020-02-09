@@ -4,7 +4,7 @@ title: Mi charla en el Circumvention Tech Festival, 4 de marzo
 date: 2015-04-18T23:17:29+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5413
+guid: https://blog.cortell.net/es/?p=5413
 permalink: /2015/04/18/mi-charla-en-el-circumvention-tech-festival-4-de-marzo/
 categories:
   - CiberDerechos
@@ -19,7 +19,7 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-Este invierno pasado me reuní con Sandy y James de Open ITP en Nueva York, y Pepe de Valencia. Estaban organizando el  <a title="http://www.circumventionfestival.es/" href="http://www.circumventionfestival.es/" target="_blank">Circumvention Tech Festival </a> que se celebró en Las Naves, Valencia (España) del 1-6 marzo.
+Este invierno pasado me reuní con Sandy y James de Open ITP en Nueva York, y Pepe de Valencia. Estaban organizando el  <a title="https://www.circumventionfestival.es/" href="https://www.circumventionfestival.es/" target="_blank">Circumvention Tech Festival </a> que se celebró en Las Naves, Valencia (España) del 1-6 marzo.
 
 Me invitaron a dar una charla, que finalmente fue programada para el 4 de marzo a las 15:00. La titulé "Cuando  _privacidad_ no significa lo mismo para ti que para mí". La idea es que se generara un debate, exponer los puntos de vista de otras personas, en lugar de ser un discurso unidireccional.
 

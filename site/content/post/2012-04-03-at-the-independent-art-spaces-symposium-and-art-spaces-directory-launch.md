@@ -4,7 +4,7 @@ title: At the Independent Art Spaces Symposium and Art Spaces Directory Launch
 date: 2012-04-03T14:40:10+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3990
+guid: https://cortell.net/blog/?p=3990
 permalink: /2012/04/03/at-the-independent-art-spaces-symposium-and-art-spaces-directory-launch/
 wpsd_autopost:
   - "1"
@@ -15,7 +15,7 @@ categories:
   - Personal
   - Placeres de la vida
 ---
-El domingo fui al <a title="http://www.newmuseum.org/events/636" href="http://www.newmuseum.org/events/636" target="_blank">Simposio de Espacios de Arte Independientes y lanzamiento del Directorio de Espacios de Arte</a> en el New Museum.
+El domingo fui al <a title="https://www.newmuseum.org/events/636" href="https://www.newmuseum.org/events/636" target="_blank">Simposio de Espacios de Arte Independientes y lanzamiento del Directorio de Espacios de Arte</a> en el New Museum.
 
 <img class="aligncenter" title="event picture" src="https://lh5.googleusercontent.com/-aV1oi20wY74/T3iD_xbRIZI/AAAAAAAABBo/wz_UOWu9jWs/w500-h375-k/20120331_121544.jpg" alt="" width="500" height="375" />
 

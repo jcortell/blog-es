@@ -4,7 +4,7 @@ title: 'En la playa... estilo canadiense'
 date: 2014-02-15T17:58:26+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=5111
+guid: https://cortell.net/blog/?p=5111
 permalink: /2014/02/15/going-to-the-beach-canadian-style/
 categories:
   - General

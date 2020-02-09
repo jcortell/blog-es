@@ -4,7 +4,7 @@ title: Audiotweets
 date: 2011-08-26T09:00:48+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3243
+guid: https://cortell.net/blog/?p=3243
 permalink: /2011/08/26/audiotweets/
 wpsd_autopost:
   - "1"
@@ -21,5 +21,5 @@ Así como no entiendo los Tweets (ni la compulsiva necesidad de difundir constan
 
 Aquí hay dos formas de hacerlo:
 
-  * [Chirbit](http://www.chirbit.com/)
-  * [AudioTweet](http://www.audiotweet.co.nr/)
+  * [Chirbit](https://www.chirbit.com/)
+  * [AudioTweet](https://www.audiotweet.co.nr/)

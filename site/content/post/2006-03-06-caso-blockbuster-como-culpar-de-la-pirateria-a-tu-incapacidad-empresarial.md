@@ -4,7 +4,7 @@ title: 'Caso Blockbuster: cómo culpar a la piraterí­a por tu incapacidad empr
 date: 2006-03-06T11:46:32+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/03/06/caso-blockbuster-como-culpar-de-la-pirateria-a-tu-incapacidad-empresarial/
+guid: https://www.cortell.net/2006/03/06/caso-blockbuster-como-culpar-de-la-pirateria-a-tu-incapacidad-empresarial/
 permalink: /2006/03/06/caso-blockbuster-como-culpar-de-la-pirateria-a-tu-incapacidad-empresarial/
 categories:
   - CiberDerechos
@@ -17,7 +17,7 @@ categories:
 ---
 Un lector de mi blog, bajo el cachondo pseudónimo de Teddy Bautista, me escribe sobre el caso Blockbuster. Es tan correcto y conciso, que lo "copiopego" (primero la noticia y luego el análisis y comentario):
 
-http://www.americaeconomica.com/numeros4/359/noticias/blblockbusterlu.htm
+https://www.americaeconomica.com/numeros4/359/noticias/blblockbusterlu.htm
 
 _Blockbuster cierra todas sus tiendas en España</p> 
 

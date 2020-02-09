@@ -4,7 +4,7 @@ title: 'Si esperan que la empresa privada financie el I+D...'
 date: 2007-05-10T16:42:18+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/05/10/si-esperan-que-la-empresa-privada-financie-el-id/
+guid: https://www.cortell.net/2007/05/10/si-esperan-que-la-empresa-privada-financie-el-id/
 permalink: /2007/05/10/si-esperan-que-la-empresa-privada-financie-el-id/
 categories:
   - General

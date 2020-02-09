@@ -4,7 +4,7 @@ title: 'Alaska Cruise Day 7: Hubbard Glacier'
 date: 2013-06-20T18:24:22+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4767
+guid: https://cortell.net/blog/?p=4767
 permalink: /2013/06/20/alaska-cruise-day-7-hubbard-glacier/
 categories:
   - General
@@ -24,6 +24,6 @@ Hacía mucho frío, pero a medida que navegamos más y más cerca del borde del 
 
 Estábamos muy cerca del glaciar, pero el capitán decidió no acercarse más para evitar "shooters", que son trozos de hielo que caen en el agua, y “salen disparados” hacia arriba de nuevo, los cuales podría fácilmente atravesar el casco de la nave. Nadie quiere protagonizar Titanic II.
 
-Después del almuerzo, Stephanie (<a title="http://stephanieserinotravelblog.blogspot.com" href="http://stephanieserinotravelblog.blogspot.com" target="_blank">blog</a>, <a title="http://www.stephaniestravels.com" href="http://www.stephaniestravels.com" target="_blank">web site</a>, <a title="https://twitter.com/Cruise_Curator" href="https://twitter.com/Cruise_Curator" target="_blank">twitter</a>) organizó una visita a la cocina del barco, para el deleite de los pocos pasajeros que tuvieron la oportunidad de unirse a nosotros. Durante el recorrido, el chef ejecutivo Guido Scarpellini y su asistente Jerry García explicaron a fondo el proceso mediante el cual ellos, y los otros 65 chefs a bordo, se las arreglan para preparar una amplia variedad de platos, incluyendo acomodar muchas "peticiones especiales", mientras que logran una consistencia y perfección que es difícil de encontrar, incluso en pequeños restaurantes.
+Después del almuerzo, Stephanie (<a title="https://stephanieserinotravelblog.blogspot.com" href="https://stephanieserinotravelblog.blogspot.com" target="_blank">blog</a>, <a title="https://www.stephaniestravels.com" href="https://www.stephaniestravels.com" target="_blank">web site</a>, <a title="https://twitter.com/Cruise_Curator" href="https://twitter.com/Cruise_Curator" target="_blank">twitter</a>) organizó una visita a la cocina del barco, para el deleite de los pocos pasajeros que tuvieron la oportunidad de unirse a nosotros. Durante el recorrido, el chef ejecutivo Guido Scarpellini y su asistente Jerry García explicaron a fondo el proceso mediante el cual ellos, y los otros 65 chefs a bordo, se las arreglan para preparar una amplia variedad de platos, incluyendo acomodar muchas "peticiones especiales", mientras que logran una consistencia y perfección que es difícil de encontrar, incluso en pequeños restaurantes.
 
 Una botella de champán Jacquart y una película de JL Godard nos estaba en nuestra habitación, para despedirnos de un maravilloso crucero por Alaska.

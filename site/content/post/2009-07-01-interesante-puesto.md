@@ -4,7 +4,7 @@ title: Interesante puesto
 date: 2009-07-01T11:12:58+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1993
+guid: https://cortell.net/blog/?p=1993
 permalink: /2009/07/01/interesante-puesto/
 categories:
   - ¿Por qué no? ¿Utopías?

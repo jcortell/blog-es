@@ -4,14 +4,14 @@ title: La remuneración del creador (artí­culo Zemos 98)
 date: 2005-09-22T11:58:56+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/09/22/la-remuneracion-del-creador-articulo-zemos-98/
+guid: https://www.cortell.net/2005/09/22/la-remuneracion-del-creador-articulo-zemos-98/
 permalink: /2005/09/22/la-remuneracion-del-creador-articulo-zemos-98/
 categories:
   - CiberDerechos
   - Copyfight
   - General
 ---
-Este artí­culo lo escribí­ hace meses para el libro (disponible online [aquí­](http://www.zemos98.org/festivales/zemos987/pack/creacioneinteligenciacolectiva.pdf), y muy recomendable si no fuese porque en él hay un artí­culo mí­o ;-)) que ha publicado [Zemos98](http://www.zemos98.org) "Creación e Inteligencia Colectiva" (del ciclo de [conferencias](http://www.zemos98.org/spip/article.php3?id_article=84) con el mismo nombre).
+Este artí­culo lo escribí­ hace meses para el libro (disponible online [aquí­](https://www.zemos98.org/festivales/zemos987/pack/creacioneinteligenciacolectiva.pdf), y muy recomendable si no fuese porque en él hay un artí­culo mí­o ;-)) que ha publicado [Zemos98](https://www.zemos98.org) "Creación e Inteligencia Colectiva" (del ciclo de [conferencias](https://www.zemos98.org/spip/article.php3?id_article=84) con el mismo nombre).
 
 He esperado a que estuviese publicado para colgarlo aquí­. Ahora, meses después, hay cosas que añadirí­a, pero voy a dejarlo en su formato original, y las modificaciones las podréis ver en mi próximo libro.
 

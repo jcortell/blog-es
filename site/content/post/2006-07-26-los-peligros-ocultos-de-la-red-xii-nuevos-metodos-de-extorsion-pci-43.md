@@ -4,7 +4,7 @@ title: 'Los peligros ocultos de la Red XII: Nuevos métodos de extorsión (PC&am
 date: 2006-07-26T12:11:07+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/07/26/los-peligros-ocultos-de-la-red-xii-nuevos-metodos-de-extorsion-pci-43/
+guid: https://www.cortell.net/2006/07/26/los-peligros-ocultos-de-la-red-xii-nuevos-metodos-de-extorsion-pci-43/
 permalink: /2006/07/26/los-peligros-ocultos-de-la-red-xii-nuevos-metodos-de-extorsion-pci-43/
 categories:
   - 'Artí­culos escritos para la revista PC&amp;I'
@@ -42,7 +42,7 @@ Esto es tan abusivo y salvaje como un médico que se dedicase a infectar ví­ct
 
 Otro ejemplo de prácticas que de tan negativas y alejadas de la lógica tendrí­an que estar prohibidas es el de Telefónica.
 
-<a target="_blank" title="carta en alta" href="http://static.flickr.com/67/205672785_f51745b9d6_o.jpg"><img alt="carta telefónica" title="carta telefónica" src="http://static.flickr.com/67/205672785_f51745b9d6_m.jpg" /></a>
+<a target="_blank" title="carta en alta" href="https://static.flickr.com/67/205672785_f51745b9d6_o.jpg"><img alt="carta telefónica" title="carta telefónica" src="https://static.flickr.com/67/205672785_f51745b9d6_m.jpg" /></a>
 
 Una persona muy cercana a mí­, cliente de Telefónica ADSL, recibió hace unos dí­as un mensaje de correo electrónico explicándole que se habí­an recibido quejas de otros usuarios al haber recibido correo no solicitado que provení­a de su conexión IP.
 
@@ -54,6 +54,6 @@ Al indagar sobre el tema he descubierto que se trata de una campaña masiva, y q
 
 Si las empresas tecnológicas empiezan a tomar el camino de la anacrónicas y beligerantes discográficas, productoras y editoriales, entonces se están equivocando y mucho. Las amenazas, las presiones, las denuncias, los juicios, y en general el juego sucio no son precisamente el mejor modo de satisfacer al cliente. Y si una empresa o industria llega a tener la dimensión (a base de concentración y/o manipulación del libre mercado) suficiente como para poder permitirse tales atropellos, no me cabe la menor duda de que muestra sí­ntomas de agotamiento, y está en proceso de extinción.
 
-PD: Por si alguien sufre la desgracia de emplear Windows en un Dell, <a target="_blank" title="Desinstalar MyWay" href="http://www.pchell.com/support/mywebsearch.shtml">aquí­</a> tiene la información de cómo desinstalar My Way
+PD: Por si alguien sufre la desgracia de emplear Windows en un Dell, <a target="_blank" title="Desinstalar MyWay" href="https://www.pchell.com/support/mywebsearch.shtml">aquí­</a> tiene la información de cómo desinstalar My Way
 
 PD2: -¿Será por cosas como esta que hoy en dí­a el 25% de las ventas de Dell son con equipos preinstalados y/o migrados a Linux?

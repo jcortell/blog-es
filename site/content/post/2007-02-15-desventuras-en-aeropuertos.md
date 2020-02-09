@@ -4,7 +4,7 @@ title: Desventuras en aeropuertos
 date: 2007-02-15T09:00:37+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/02/15/desventuras-en-aeropuertos/
+guid: https://www.cortell.net/2007/02/15/desventuras-en-aeropuertos/
 permalink: /2007/02/15/desventuras-en-aeropuertos/
 categories:
   - General
@@ -26,6 +26,6 @@ Pero también sale con retraso. Y al llegar a Las Vegas, no ha conexión a San D
 
 Eso sí­, la cola para cojer el taxi, es increí­ble:
 
-![Cola Taxi Las Vegas](http://farm1.static.flickr.com/138/393758208_c574ebc255.jpg?v=0 "Cola Taxi Las Vegas")
+![Cola Taxi Las Vegas](https://farm1.static.flickr.com/138/393758208_c574ebc255.jpg?v=0 "Cola Taxi Las Vegas")
 
 Mis amigos dicen, -¡cómo mola tanto viajar! Yo digo -¡cómo mola estar en casa! Y al final, como siempre, el término medio es lo mejor.

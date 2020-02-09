@@ -4,7 +4,7 @@ title: Juicio / Trial
 date: 2007-01-10T19:22:20+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/01/10/juicio-trial/
+guid: https://www.cortell.net/2007/01/10/juicio-trial/
 permalink: /2007/01/10/juicio-trial/
 categories:
   - CiberDerechos

@@ -4,7 +4,7 @@ title: Traumas que provocan ronquidos y otras complejidades sistémicas
 date: 2011-01-14T10:40:32+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2864
+guid: https://cortell.net/blog/?p=2864
 permalink: /2011/01/14/traumas-que-provocan-ronquidos-y-otras-complejidades-sistemicas/
 categories:
   - Filosofí­a

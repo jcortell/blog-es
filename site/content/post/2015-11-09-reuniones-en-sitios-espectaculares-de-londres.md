@@ -4,7 +4,7 @@ title: Reuniones en sitios espectaculares de Londres
 date: 2015-11-09T13:26:42+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5654
+guid: https://blog.cortell.net/es/?p=5654
 permalink: /2015/11/09/reuniones-en-sitios-espectaculares-de-londres/
 categories:
   - General

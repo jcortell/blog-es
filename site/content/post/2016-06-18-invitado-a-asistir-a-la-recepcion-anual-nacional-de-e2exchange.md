@@ -4,7 +4,7 @@ title: Invitado a asistir a la recepción anual nacional de E2Exchange
 date: 2016-06-18T14:10:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5812
+guid: https://blog.cortell.net/es/?p=5812
 permalink: /2016/06/18/invitado-a-asistir-a-la-recepcion-anual-nacional-de-e2exchange/
 categories:
   - General

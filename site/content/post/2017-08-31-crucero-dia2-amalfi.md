@@ -34,7 +34,7 @@ Después de nuestro baño, partimos hacia nuestro próxima escala (Giardini Naxo
 
 Las velocidades de Internet en un crucero nunca son veloces, pero esta fue la más lenta que he sufrido. ¡Incluso podía oír el módem de 56k haciendo sus graciosos ruiditos de *negociación de conexión* en mi cabeza!
 
-![Net speeds](http://res.cloudinary.com/jcortell/image/upload/v1504701023/CruiseNetSpeed_2017-09-01_19-01-16_p6dlbo.png) 
+![Net speeds](https://res.cloudinary.com/jcortell/image/upload/v1504701023/CruiseNetSpeed_2017-09-01_19-01-16_p6dlbo.png) 
 
 Terminamos el día con otra deliciosa cena y viendo la película 'Stranger than fiction'.
 

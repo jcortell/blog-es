@@ -4,7 +4,7 @@ title: 'Farmacéuticas: curar a ricos, mientras dejan morir a pobres'
 date: 2006-05-22T01:58:27+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/05/22/farmaceuticas-curar-a-ricos-mientras-dejan-morir-a-pobres/
+guid: https://www.cortell.net/2006/05/22/farmaceuticas-curar-a-ricos-mientras-dejan-morir-a-pobres/
 permalink: /2006/05/22/farmaceuticas-curar-a-ricos-mientras-dejan-morir-a-pobres/
 categories:
   - General

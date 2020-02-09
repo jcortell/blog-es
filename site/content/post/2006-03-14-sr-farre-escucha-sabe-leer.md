@@ -4,7 +4,7 @@ title: Sr. Farré, -¿escucha? -¿sabe leer?
 date: 2006-03-14T14:47:27+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2006/03/14/sr-farre-%c2%bfescucha-%c2%bfsabe-leer/'
+guid: 'https://www.cortell.net/2006/03/14/sr-farre-%c2%bfescucha-%c2%bfsabe-leer/'
 permalink: /2006/03/14/sr-farre-escucha-sabe-leer/
 categories:
   - CiberDerechos
@@ -40,11 +40,11 @@ Concepto falaz que reitera y puntualiza en esta frase: "_Los intermediarios exis
 
 Como último disparate, y quizá uno de los máximos exponentes de la barbaridad torticera del discurso manipulador de este paí­s, reproduzco una de sus más famosas frases (tanto que la propia Menestra de Cultura, la Sra. Calvo, plagió poco después de modo literal en una rueda de prensa): "_lo creado por alguien â€œtiene un valorâ€ y â€œno puede ser libre y gratuitamente utilizado por cualquiera_â€. Como comenta David Bravo: "_Es decir, lo que no cuesta dinero y lo que puede ser usado por todo el mundo sin restricciones no tiene valor. El aire, por ejemplo, no tiene valor. â€œEs de necios confundir valor y precioâ€ decí­a Antonio Machado._"
 
-Pues bien, como no parece haberse enterado de que existe internet, lo móviles, los videojuegos, y otros muchos "mercados" "alternativos" para la música, "copio y pego" la noticia que me enví­a mi amigo [Alf](http://www.faq-mac.com):
+Pues bien, como no parece haberse enterado de que existe internet, lo móviles, los videojuegos, y otros muchos "mercados" "alternativos" para la música, "copio y pego" la noticia que me enví­a mi amigo [Alf](https://www.faq-mac.com):
 
 ===============
 
-Estaba preparando la selección diaria (más o menos) de la [web](http://www.soundtracktunes.com) que mantengo sobre iTunes, y el grupo que habí­a elegido esta vez era de los "cañeros" -y además tiene el disco a un precio realmente interesante, 5,94 euros (algo que también tiene trascendencia por lo que te contaré a continuación).
+Estaba preparando la selección diaria (más o menos) de la [web](https://www.soundtracktunes.com) que mantengo sobre iTunes, y el grupo que habí­a elegido esta vez era de los "cañeros" -y además tiene el disco a un precio realmente interesante, 5,94 euros (algo que también tiene trascendencia por lo que te contaré a continuación).
 
 Como siempre, he ido a hacer una reseña biográfica del grupo, para dar algo más que simplemente una recomendación, y me he encontrado con esto, que te pego traducido:
 
@@ -52,9 +52,9 @@ Por debajo del radar de todo el mundo, **dEAf PEdESTRIANS** han estado infectand
 
 Pasaron la mayor parte del año 2003 como la banda sin discográfica más solicitada (Most Requested Unsigned Band) en AOL/Spinner Internet Radio. Y entonces, después de pasar 2004 dando conciertos y grabando, dEAf PEdESTRIANS fueron descubiertos por iTunes. En Abril de 2005, dEAf PEdESTRIANS debutaron en la página principal de iTunes como Descarga gratuita/Sencillo de la semana, con su primer single, "15 Beers Ago". Al principio del proyecto, las propias predicciones de iTunes era alcanzar las 100.000 descargas. **dEAf PEdESTRIANS ya han llegado a las 200.000 y siguen. Por descontado, "gratis" es muy atractivo... esa cifra puede entenderse como que son un montón de miserables o tal vez se trata de gente que pudo hacerse una idea de lo buenos que son los dEAf PEdS... y -¡alrededor de 20.000 de esas descargas se han transformado en dinero ingresado en el banco de gente que HA PAGADO!**
 
-Como no quiero que te columpies por una mala traducción mí­a, el [original](http://www.deafpeds.com/band.html) está en la [web del grupo](http://www.deafpeds.com).
+Como no quiero que te columpies por una mala traducción mí­a, el [original](https://www.deafpeds.com/band.html) está en la [web del grupo](https://www.deafpeds.com).
 
-Y [aquí­](http://www.faq-mac.com/bitacoras/itunes/?p=220) la revisión del grupo en soundtracktunes.com.
+Y [aquí­](https://www.faq-mac.com/bitacoras/itunes/?p=220) la revisión del grupo en soundtracktunes.com.
 
 Ya sé que es lluvia sobre mojado, pero aquí­ se vé, además, el influjo de las nuevas formas de comercializar la música, a través de las webs tipo MySpace, las radios por internet, e incluso la propia iTunes.
 

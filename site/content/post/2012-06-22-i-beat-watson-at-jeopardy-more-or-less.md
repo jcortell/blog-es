@@ -4,7 +4,7 @@ title: I beat Watson at Jeopardy (more or less)
 date: 2012-06-22T18:19:02+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4207
+guid: https://cortell.net/blog/?p=4207
 permalink: /2012/06/22/i-beat-watson-at-jeopardy-more-or-less/
 wpsd_autopost:
   - "1"
@@ -21,7 +21,7 @@ categories:
   - Technology
   - Technolust
 ---
-Como mencionaba en mi post anterior, en el Centro de Innovación de Chicago tienen un quiosco interactivo <a title="http://www-03.ibm.com/innovation/us/watson/index.html" href="http://www-03.ibm.com/innovation/us/watson/index.html" target="_blank">Watson</a> (más info <a title="http://en.wikipedia.org/wiki/Watson_(computer)" href="http://en.wikipedia.org/wiki/Watson_(computer)" target="_blank">aquí</a>) con el que jugar al Jeopardy. En caso de que hayas estado viviendo en una cueva desde hace meses, Watson <a title="http://www.youtube.com/watch?v=YLR1byL0U8M" href="http://www.youtube.com/watch?v=YLR1byL0U8M" target="_blank">ganó</a> a varios campeones de Jeopardy en directo en la TV, el <a title="http://www.nytimes.com/2011/02/17/science/17jeopardy-watson.html?pagewanted=all" href="http://www.nytimes.com/2011/02/17/science/17jeopardy-watson.html?pagewanted=all" target="_blank">significado</a> de lo cual no puede ser sobreestimado.
+Como mencionaba en mi post anterior, en el Centro de Innovación de Chicago tienen un quiosco interactivo <a title="https://www-03.ibm.com/innovation/us/watson/index.html" href="https://www-03.ibm.com/innovation/us/watson/index.html" target="_blank">Watson</a> (más info <a title="https://en.wikipedia.org/wiki/Watson_(computer)" href="https://en.wikipedia.org/wiki/Watson_(computer)" target="_blank">aquí</a>) con el que jugar al Jeopardy. En caso de que hayas estado viviendo en una cueva desde hace meses, Watson <a title="https://www.youtube.com/watch?v=YLR1byL0U8M" href="https://www.youtube.com/watch?v=YLR1byL0U8M" target="_blank">ganó</a> a varios campeones de Jeopardy en directo en la TV, el <a title="https://www.nytimes.com/2011/02/17/science/17jeopardy-watson.html?pagewanted=all" href="https://www.nytimes.com/2011/02/17/science/17jeopardy-watson.html?pagewanted=all" target="_blank">significado</a> de lo cual no puede ser sobreestimado.
 
 <p style="text-align: center">
   [mudslide:picasa,0,111219615350942087056,5755877454796859297]

@@ -4,7 +4,7 @@ title: 'La historia se repite: cinismo en la ocupación de Bagdad'
 date: 2010-07-10T18:53:10+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2506
+guid: https://cortell.net/blog/?p=2506
 permalink: /2010/07/10/la-historia-se-repite-cinismo-en-la-ocupacion-de-bagdad/
 categories:
   - General
@@ -13,7 +13,7 @@ categories:
 ---
 La siguiente proclamación de la """liberación""" de Bagdad podría parecer perfectamente redactada por el Pentágono, como una pantomima más de relaciones públicas de cara a CNN. Pero resulta que no.
 
-Ojeando unos documentos de una biblioteca online, en la sección de documentación histórica de la Primera Guerra Mundial, <a title="Proclamación de Lt. Gen. Sir Stanley Maude" href="http://wwi.lib.byu.edu/index.php/The_Proclamation_of_Baghdad" target="_self">encuentro la siguiente curiosísima proclamación</a> (perdón por el "ladrillo", y en inglés, pero es necesario leerlo entero para podérselo creer) encuentro esta increíble proclamación, cínica donde los haya, del Teniente General Sir Stanley Maude a los habitantes de Bagdad, poco después de la ocupación de la ciudad por parte de tropas inglesas:
+Ojeando unos documentos de una biblioteca online, en la sección de documentación histórica de la Primera Guerra Mundial, <a title="Proclamación de Lt. Gen. Sir Stanley Maude" href="https://wwi.lib.byu.edu/index.php/The_Proclamation_of_Baghdad" target="_self">encuentro la siguiente curiosísima proclamación</a> (perdón por el "ladrillo", y en inglés, pero es necesario leerlo entero para podérselo creer) encuentro esta increíble proclamación, cínica donde los haya, del Teniente General Sir Stanley Maude a los habitantes de Bagdad, poco después de la ocupación de la ciudad por parte de tropas inglesas:
 
 <div id="_mcePaste">
   To the People of Baghdad Vilayet: In the name of my King, and in the name of the peoples over whom he rules, I address you as follow:-

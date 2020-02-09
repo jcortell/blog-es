@@ -4,7 +4,7 @@ title: Medallas al mérito
 date: 2007-09-10T16:48:37+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/09/10/medallas-al-merito/
+guid: https://www.cortell.net/2007/09/10/medallas-al-merito/
 permalink: /2007/09/10/medallas-al-merito/
 categories:
   - General

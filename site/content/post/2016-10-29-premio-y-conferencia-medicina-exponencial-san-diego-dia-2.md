@@ -4,7 +4,7 @@ title: Premio y Conferencia Medicina Exponencial San Diego día 2
 date: 2016-10-29T14:45:37+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5921
+guid: https://blog.cortell.net/es/?p=5921
 permalink: /2016/10/29/premio-y-conferencia-medicina-exponencial-san-diego-dia-2/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -69,6 +69,6 @@ El Futuro del Cáncer
   
 La otra cosa interesante que ocurrió el segundo día es que recibí un premio: el Premio de Impacto en Medicina de Precisión lanzado por la Iniciativa por la Medicina de Precisión de la Casa Blanca y otorgado por el Estado de California, presentado por Elizabeth Baca, MD MPA, de la Oficina del Gobernador de California.
 
-Esta noticia fue [publicada a toda página por el suplemento Innovadores del diario El Mundo](http://www.elmundo.es/economia/2016/10/11/57fca34946163f49248b4621.html).
+Esta noticia fue [publicada a toda página por el suplemento Innovadores del diario El Mundo](https://www.elmundo.es/economia/2016/10/11/57fca34946163f49248b4621.html).
   
 <a title="IMG_20161009_133001" href="https://www.flickr.com/photos/jcortell/29955146380/in/album-72157674861020016/" data-flickr-embed="true"><img class="aligncenter" src="https://c5.staticflickr.com/6/5336/29955146380_98d59c8b07.jpg" alt="IMG_20161009_133001" width="500" height="281" /></a>

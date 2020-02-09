@@ -4,7 +4,7 @@ title: SGAE ordena falsificar informes
 date: 2006-05-26T02:15:06+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/05/26/sgae-ordena-falsificar-informes/
+guid: https://www.cortell.net/2006/05/26/sgae-ordena-falsificar-informes/
 permalink: /2006/05/26/sgae-ordena-falsificar-informes/
 categories:
   - CiberDerechos
@@ -13,7 +13,7 @@ categories:
   - Noticias
   - Rants
 ---
-<a title="noticia sgae informes falsos barrapunto" target="_blank" href="http://barrapunto.com/article.pl?sid=06/05/25/2020202">Esta noticia</a> publicada ayer en Barrapunto (que me enví­a chicoyeli) es tan interesante que la cito textualmente:
+<a title="noticia sgae informes falsos barrapunto" target="_blank" href="https://barrapunto.com/article.pl?sid=06/05/25/2020202">Esta noticia</a> publicada ayer en Barrapunto (que me enví­a chicoyeli) es tan interesante que la cito textualmente:
 
 ==================
   
@@ -23,11 +23,11 @@ editado por Candyman el Jueves, 25 de Mayo 2006, a las 22:14h
   
 desde el dept. an-ass-of-you-and-me.
 
-tail nos cuenta: _-«Leo en La Voz de Galicia que un juez del juzgado de lo mercantil número 2 de Pontevedra exime a una cafeterí­a de Vilagarcí­a de Arousa del pago de los derechos de autor que exigí­a la SGAE. El titular de La Voz de Galicia es <a title="Titular La Voz de Galicia" target="_blank" href="http://www.lavozdegalicia.es/ed_arousa/noticia.jsp?CAT=113&TEXTO=4800280">La campaña de la SGAE en Vilagarcí­a se estrella en el juzgado de lo mercantil</a>. Lo que más me llamó la atención de la noticia es lo siguiente: <a title="Inspectora SGAE falsifica informes" target="_blank" href="http://www.lavozdegalicia.es/ed_arousa/noticia.jsp?CAT=113&TEXTO=4800281">Una inspectora testificó que sus propios superiores le habí­an ordenado falsear su informe</a>. La trabajadora, que ya no presta sus servicios para la SGAE, fue citada por la propia acusación para reforzar el informe que presentaba como prueba, y que ella misma habí­a realizado. En un -«contundente testimonio-», la inspectora desmintió la tesis de la demanda.-»_ Sigue en el texto ampliado de la noticia.
+tail nos cuenta: _-«Leo en La Voz de Galicia que un juez del juzgado de lo mercantil número 2 de Pontevedra exime a una cafeterí­a de Vilagarcí­a de Arousa del pago de los derechos de autor que exigí­a la SGAE. El titular de La Voz de Galicia es <a title="Titular La Voz de Galicia" target="_blank" href="https://www.lavozdegalicia.es/ed_arousa/noticia.jsp?CAT=113&TEXTO=4800280">La campaña de la SGAE en Vilagarcí­a se estrella en el juzgado de lo mercantil</a>. Lo que más me llamó la atención de la noticia es lo siguiente: <a title="Inspectora SGAE falsifica informes" target="_blank" href="https://www.lavozdegalicia.es/ed_arousa/noticia.jsp?CAT=113&TEXTO=4800281">Una inspectora testificó que sus propios superiores le habí­an ordenado falsear su informe</a>. La trabajadora, que ya no presta sus servicios para la SGAE, fue citada por la propia acusación para reforzar el informe que presentaba como prueba, y que ella misma habí­a realizado. En un -«contundente testimonio-», la inspectora desmintió la tesis de la demanda.-»_ Sigue en el texto ampliado de la noticia.
 
 > _-«Así­, sostuvo que, efectivamente, habí­a visitado el local. Su percepción fue que se trataba de una cafeterí­a con dos televisores, -«sin que existiese cabina musical, ni altavoces, ni karaoke alguno-». -«Puesta de manifiesto tal eventualidad a quien actuaba como superiora en la jerarquí­a de la SGAE, la testigo afirmó que aquélla le dio la orden terminante de que hiciera constar en el acta que habí­a karaoke-», recoge textualmente la sentencia. Ante este hecho, el razonamiento del magistrado es inmediato: -«Se comprende que el resto de pruebas se nublen con dudas-».-»_
 
-_El artí­culo se completa con una <a title="Entrevista abogado Antonio Garcí­a" target="_blank" href="http://www.lavozdegalicia.es/ed_arousa/noticia.jsp?CAT=113&TEXTO=4800282">entrevista al abogado Antonio Garcí­a</a>, que es quien ha ganado este juicio desmontando las presunciones en falso de la SGAE.
+_El artí­culo se completa con una <a title="Entrevista abogado Antonio Garcí­a" target="_blank" href="https://www.lavozdegalicia.es/ed_arousa/noticia.jsp?CAT=113&TEXTO=4800282">entrevista al abogado Antonio Garcí­a</a>, que es quien ha ganado este juicio desmontando las presunciones en falso de la SGAE.
 
 =================
 

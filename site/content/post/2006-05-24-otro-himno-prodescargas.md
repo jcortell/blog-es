@@ -4,7 +4,7 @@ title: Otro himno prodescargas
 date: 2006-05-24T00:16:52+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/05/24/otro-himno-prodescargas/
+guid: https://www.cortell.net/2006/05/24/otro-himno-prodescargas/
 permalink: /2006/05/24/otro-himno-prodescargas/
 categories:
   - CiberDerechos
@@ -13,7 +13,7 @@ categories:
   - Noticias
   - Technology
 ---
-Blashser nos comenta que en <a target="_blank" title="MC Lars en Barrapunto" href="http://barrapunto.com/article.pl?sid=06/05/19/1032235">Barrapunto</a> (y en David Bravo) han enlazado este nuevo (y van muchos) himno pro-descargas, esta vez de <a title="MC Lars" target="_blank" href="http://www.purevolume.com/mclars">MC Lars</a>, de su disco <a title="The Graduate" target="_blank" href="http://thepiratebay.org/details.php?id=3457220">The Graduate</a>. El ví­deo (que está muy bien) lo tenéis <a target="_blank" title="Ví­deo MC Lars" href="http://youtube.com/watch?v=jN_OkhHNpak&search=download%20this%20song">aquí­</a>. La letra la tenéis <a title="Download this song lyrics" target="_blank" href="http://www.moron.nl/lyrics.php?id=86710&artist=MC%20Lars">aquí­</a> en inglés, y esta es la traducción de mi amigo candyman:
+Blashser nos comenta que en <a target="_blank" title="MC Lars en Barrapunto" href="https://barrapunto.com/article.pl?sid=06/05/19/1032235">Barrapunto</a> (y en David Bravo) han enlazado este nuevo (y van muchos) himno pro-descargas, esta vez de <a title="MC Lars" target="_blank" href="https://www.purevolume.com/mclars">MC Lars</a>, de su disco <a title="The Graduate" target="_blank" href="https://thepiratebay.org/details.php?id=3457220">The Graduate</a>. El ví­deo (que está muy bien) lo tenéis <a target="_blank" title="Ví­deo MC Lars" href="https://youtube.com/watch?v=jN_OkhHNpak&search=download%20this%20song">aquí­</a>. La letra la tenéis <a title="Download this song lyrics" target="_blank" href="https://www.moron.nl/lyrics.php?id=86710&artist=MC%20Lars">aquí­</a> en inglés, y esta es la traducción de mi amigo candyman:
 
 _Download This Song_ (Descarga esta canción) MC Lars
 

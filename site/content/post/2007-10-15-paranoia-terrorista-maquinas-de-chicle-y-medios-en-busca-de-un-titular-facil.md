@@ -4,7 +4,7 @@ title: Paranoia terrorista, máquinas de chicle y medios en busca de un titular 
 date: 2007-10-15T15:56:23+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/10/15/paranoia-terrorista-maquinas-de-chicle-y-medios-en-busca-de-un-titular-facil/
+guid: https://www.cortell.net/2007/10/15/paranoia-terrorista-maquinas-de-chicle-y-medios-en-busca-de-un-titular-facil/
 permalink: /2007/10/15/paranoia-terrorista-maquinas-de-chicle-y-medios-en-busca-de-un-titular-facil/
 categories:
   - General

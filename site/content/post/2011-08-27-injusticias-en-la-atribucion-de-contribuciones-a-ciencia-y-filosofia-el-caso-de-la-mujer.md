@@ -4,7 +4,7 @@ title: 'Injusticias en la atribución de contribuciones a ciencia y filosofía: 
 date: 2011-08-27T17:41:31+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3454
+guid: https://cortell.net/blog/?p=3454
 permalink: /2011/08/27/injusticias-en-la-atribucion-de-contribuciones-a-ciencia-y-filosofia-el-caso-de-la-mujer/
 wpsd_autopost:
   - "1"
@@ -16,7 +16,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-Todos conocemos alguna de las múltiples historias en las injusticias ocurridas a la hora de atribuir contribuciones a la ciencia y la filosofía. En la película <a title="http://www.filmaffinity.com/es/film566095.html" href="http://www.filmaffinity.com/es/film566095.html" target="_blank">Ágora</a>, Amenábar nos habla de Hypatia de Alejandría, relatándonos en el camino cómo la teoría heliocéntrica surgió mucho antes de Copérnico (Aristarco de Samos, relatado por Arquímedes de Siracusa, tal y como reconoció el mismo Copérnico). Pero hay muchos muchos más, algunos de los ejemplos más relevantes:
+Todos conocemos alguna de las múltiples historias en las injusticias ocurridas a la hora de atribuir contribuciones a la ciencia y la filosofía. En la película <a title="https://www.filmaffinity.com/es/film566095.html" href="https://www.filmaffinity.com/es/film566095.html" target="_blank">Ágora</a>, Amenábar nos habla de Hypatia de Alejandría, relatándonos en el camino cómo la teoría heliocéntrica surgió mucho antes de Copérnico (Aristarco de Samos, relatado por Arquímedes de Siracusa, tal y como reconoció el mismo Copérnico). Pero hay muchos muchos más, algunos de los ejemplos más relevantes:
 
   * La Teoría Especial de la Relatividad atribuída a A. Einstein fue formulada y publicada primero por J. H. Poincaré (basado en el trabajo de Lorentz, FitzGerald, Voigt...).
   * El primer vuelo en avión no lo realizaron los hermanos Wright, sino R. Pearse.
@@ -34,6 +34,6 @@ Pero hay otro aspecto de esta sucesión de injusticias que se tiende a subestima
 
 Si los errores históricos, plagios y abusos de atribución han ocurrido (ocurren y ocurrirán), en el caso de la mujer esto ha sido todavía más grave, pues históricamente han gozado de una visibilidad mínima o inexistente a los ojos de cronistas e historiadores. Relegadas a la figura de pareja o madre, son prácticamente inexistentes los casos en los que la figura femenina ha sido tenida en cuenta en su verdadera función creadora.
 
-Ana me envía este <a title="http://pijamasurf.com/2011/08/el-lado-femenino-del-descubrimiento-del-adn/" href="http://pijamasurf.com/2011/08/el-lado-femenino-del-descubrimiento-del-adn/" target="_blank">artículo</a> donde se mencionan las aportaciones de mujeres como Jenny von Westphalen ("El manifiesto comunista"), y O. Crick y R. Franklin (estructura y captación del ADN). Habrá miles de descubrimientos importantes realizados por mujeres, de los que sólo <a title="http://www.women-inventors.com/" href="http://www.women-inventors.com/" target="_blank">conocemos</a> unos pocos, y por desgracia la gran mayoría quedarán silenciados por una historia sesgada, redactada por una sociedad machista.
+Ana me envía este <a title="https://pijamasurf.com/2011/08/el-lado-femenino-del-descubrimiento-del-adn/" href="https://pijamasurf.com/2011/08/el-lado-femenino-del-descubrimiento-del-adn/" target="_blank">artículo</a> donde se mencionan las aportaciones de mujeres como Jenny von Westphalen ("El manifiesto comunista"), y O. Crick y R. Franklin (estructura y captación del ADN). Habrá miles de descubrimientos importantes realizados por mujeres, de los que sólo <a title="https://www.women-inventors.com/" href="https://www.women-inventors.com/" target="_blank">conocemos</a> unos pocos, y por desgracia la gran mayoría quedarán silenciados por una historia sesgada, redactada por una sociedad machista.
 
 Lo único que ahora podemos hacer es intentar destapar esa mentira, intentar evitar que siga ocurriendo, y decir: gracias, mujer.

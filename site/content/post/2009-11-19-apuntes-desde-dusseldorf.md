@@ -4,7 +4,7 @@ title: Apuntes desde Düsseldorf
 date: 2009-11-19T22:03:48+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2336
+guid: https://cortell.net/blog/?p=2336
 permalink: /2009/11/19/apuntes-desde-dusseldorf/
 categories:
   - General

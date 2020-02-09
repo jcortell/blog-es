@@ -4,7 +4,7 @@ title: Invitados a la recepción para miembros del MoMA “The Tomorrow Now…�
 date: 2014-12-13T17:03:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5380
+guid: https://blog.cortell.net/es/?p=5380
 permalink: /2014/12/13/invitados-a-la-recepcion-para-miembros-del-moma-the-tomorrow-now/
 categories:
   - Arte
@@ -14,11 +14,11 @@ categories:
   - Personal
   - Placeres de la vida
 ---
-El miércoles mi esposa y yo fuimos invitados a la recepción para miembros del MoMA "<a title="http://www.moma.org/visit/calendar/exhibitions/1498" href="http://www.moma.org/visit/calendar/exhibitions/1498" target="_blank">The Forever Now: Contemporary Painting in an Atemporal World</a>", que se inaugura oficialmente mañana para el público en general.
+El miércoles mi esposa y yo fuimos invitados a la recepción para miembros del MoMA "<a title="https://www.moma.org/visit/calendar/exhibitions/1498" href="https://www.moma.org/visit/calendar/exhibitions/1498" target="_blank">The Forever Now: Contemporary Painting in an Atemporal World</a>", que se inaugura oficialmente mañana para el público en general.
 
 Obviamente la lluvia no impidió a las hordas de la alta sociedad acudir a MoMA y reunirse alrededor de una de los tres barras libres. Pero eso fue genial porque nos dio, y a unas cuantas otras parejas del tipo "primera cita de How About We", la oportunidad de visitar algunas de las galerías sin tener que usar los codos.
 
-Ambos disfrutamos "<a title=" http://www.moma.org/visit/calendar/exhibitions/1498 " href=" http://www.moma.org/visit/calendar/exhibitions/1498 " target="_blank"> Fotografías modernas de la Colección Thomas Walther, 1909-1949 </a> ", y vimos "<a title="http://www.moma.org/visit/calendar/exhibitions/1534" href="http://www.moma.org/visit/calendar/exhibitions/1534 " target=" _ blank ">Nicholas Nixon: Cuarenta años de las Hermanas Brown</a>" a la salida. Pero sin duda la estrella fue "<a title="http://www.moma.org/visit/calendar/exhibitions/1498" href="http://www.moma.org/visit/calendar/exhibitions/1498" target="_blank">The Forever Now: Contemporary Painting in an Atemporal World</a>".
+Ambos disfrutamos "<a title=" https://www.moma.org/visit/calendar/exhibitions/1498 " href=" https://www.moma.org/visit/calendar/exhibitions/1498 " target="_blank"> Fotografías modernas de la Colección Thomas Walther, 1909-1949 </a> ", y vimos "<a title="https://www.moma.org/visit/calendar/exhibitions/1534" href="https://www.moma.org/visit/calendar/exhibitions/1534 " target=" _ blank ">Nicholas Nixon: Cuarenta años de las Hermanas Brown</a>" a la salida. Pero sin duda la estrella fue "<a title="https://www.moma.org/visit/calendar/exhibitions/1498" href="https://www.moma.org/visit/calendar/exhibitions/1498" target="_blank">The Forever Now: Contemporary Painting in an Atemporal World</a>".
 
 Necesito un post largo para comentar esa exposición. Definitivamente me causó algunos sentimientos encontrados, desde "me sacan la lengua, lo entiendo" a "esto es increíble" aunque, más a menudo, "¡tienen que estar de broma!".
 

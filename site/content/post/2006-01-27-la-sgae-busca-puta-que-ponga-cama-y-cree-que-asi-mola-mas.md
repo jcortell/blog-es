@@ -4,7 +4,7 @@ title: La SGAE busca puta que ponga cama (y cree que así­ mola más)
 date: 2006-01-27T13:01:34+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/01/27/la-sgae-busca-puta-que-ponga-cama-y-cree-que-asi-mola-mas/
+guid: https://www.cortell.net/2006/01/27/la-sgae-busca-puta-que-ponga-cama-y-cree-que-asi-mola-mas/
 permalink: /2006/01/27/la-sgae-busca-puta-que-ponga-cama-y-cree-que-asi-mola-mas/
 categories:
   - CiberDerechos
@@ -12,7 +12,7 @@ categories:
   - General
   - Rants
 ---
-No tiene desperdicio. [Reproduzco](http://www.sgae.es/contenido/cont.inm?instanceId=1364&tipoId=38&selectedMenu=29) literalmente porque es increí­ble:
+No tiene desperdicio. [Reproduzco](https://www.sgae.es/contenido/cont.inm?instanceId=1364&tipoId=38&selectedMenu=29) literalmente porque es increí­ble:
 
 _La SGAE aceptará como socios a quienes distribuyan promocionalmente su música en Internet
   

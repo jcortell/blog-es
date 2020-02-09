@@ -4,7 +4,7 @@ title: Cómo y por qué no volver a comprar un disco
 date: 2006-03-24T15:31:33+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/03/24/como-y-por-que-no-volver-a-comprar-un-disco/
+guid: https://www.cortell.net/2006/03/24/como-y-por-que-no-volver-a-comprar-un-disco/
 permalink: /2006/03/24/como-y-por-que-no-volver-a-comprar-un-disco/
 categories:
   - CiberDerechos
@@ -12,7 +12,7 @@ categories:
   - General
   - Sociedad y polí­tica
 ---
-Desde que empecé [esta página recopilatoria de obres libres y/o gratis](http://www.cortell.net/regala-libertad-obras-libres-yo-gratis/) (hace unos dí­as) llevo enlazados (y perdón si me quedo corto, pero he perdido la cuenta) más de:
+Desde que empecé [esta página recopilatoria de obres libres y/o gratis](https://www.cortell.net/regala-libertad-obras-libres-yo-gratis/) (hace unos dí­as) llevo enlazados (y perdón si me quedo corto, pero he perdido la cuenta) más de:
 
 **– 10 millones de canciones
   
@@ -36,4 +36,4 @@ Propongo lo siguiente: **"consume" cultura gratuí­ta. No te la acabarás en to
   
 5) El precio sea lo suficientemente económico como para que no te merezca la pena buscarlo/descargarlo/copiarlo/pagar canon
 
-**Si no crees que eso sea posible, [escucha estos millones de canciones, lee estos miles de libros](http://www.cortell.net/regala-libertad-obras-libres-yo-gratis/), habla con sus autores, y luego me lo cuentas.**
+**Si no crees que eso sea posible, [escucha estos millones de canciones, lee estos miles de libros](https://www.cortell.net/regala-libertad-obras-libres-yo-gratis/), habla con sus autores, y luego me lo cuentas.**

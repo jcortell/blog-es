@@ -4,7 +4,7 @@ title: Lágrima en el mármol
 date: 2011-02-25T10:54:16+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2944
+guid: https://cortell.net/blog/?p=2944
 permalink: /2011/02/25/lagrima-en-el-marmol/
 categories:
   - General

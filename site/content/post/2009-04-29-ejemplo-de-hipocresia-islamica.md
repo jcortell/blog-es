@@ -4,7 +4,7 @@ title: Ejemplo de hipocresía Islámica
 date: 2009-04-29T09:17:36+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1842
+guid: https://cortell.net/blog/?p=1842
 permalink: /2009/04/29/ejemplo-de-hipocresia-islamica/
 categories:
   - General
@@ -12,7 +12,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-Según la <a title="http://news.bbc.co.uk/2/hi/middle_east/7350165.stm" href="http://news.bbc.co.uk/2/hi/middle_east/7350165.stm" target="_blank">BBC</a>, el jefe de policía de Teherán (Irán), el General Reza Zarei, ha sido detenido por la brigada anti-vicio en un burdel de la ciudad cuando estaba con seis prostitutas desnudas.
+Según la <a title="https://news.bbc.co.uk/2/hi/middle_east/7350165.stm" href="https://news.bbc.co.uk/2/hi/middle_east/7350165.stm" target="_blank">BBC</a>, el jefe de policía de Teherán (Irán), el General Reza Zarei, ha sido detenido por la brigada anti-vicio en un burdel de la ciudad cuando estaba con seis prostitutas desnudas.
 
 Recordemos que en Irán la prostitución está prohibida (aunque es muy común) y si cogen a una prostituta reincidente (3 veces) la condenan a muerte. Incluso está penado el disfrutar del sexo fuera del matrimonio, o bailar hombres y mujeres juntos en fiestas caseras.
 

@@ -4,7 +4,7 @@ title: Anxiety quantifiers
 date: 2011-12-25T02:40:25+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3701
+guid: https://cortell.net/blog/?p=3701
 permalink: /2011/12/25/anxiety-quantifiers/
 wpsd_autopost:
   - "1"

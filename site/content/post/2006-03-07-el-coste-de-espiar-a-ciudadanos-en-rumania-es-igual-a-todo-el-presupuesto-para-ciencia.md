@@ -4,7 +4,7 @@ title: El coste de espiar a ciudadanos en Rumania es igual a todo el presupuesto
 date: 2006-03-07T15:39:20+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/03/07/el-coste-de-espiar-a-ciudadanos-en-rumania-es-igual-a-todo-el-presupuesto-para-ciencia/
+guid: https://www.cortell.net/2006/03/07/el-coste-de-espiar-a-ciudadanos-en-rumania-es-igual-a-todo-el-presupuesto-para-ciencia/
 permalink: /2006/03/07/el-coste-de-espiar-a-ciudadanos-en-rumania-es-igual-a-todo-el-presupuesto-para-ciencia/
 categories:
   - CiberDerechos
@@ -31,13 +31,13 @@ euros/ hora (intercepción y transcripción).
 
 Todo esto se ha destapado por las escuchas realizadas a Dinu Patriciu, propietario de Rompetrol, quien ha denunciado que el Servicio Secreto Rumano lleva grabando sus conversaciones desde hace años, pese a que no tiene ninguna investigación abierta
 
-Más [info](http://www.adevarulonline.ro/arhiva/2006/Februarie/1343/174646.html) en el periódico local Adevarul.
+Más [info](https://www.adevarulonline.ro/arhiva/2006/Februarie/1343/174646.html) en el periódico local Adevarul.
   
-Y en [otro](http://www.ziua.ro/display.php?id=193913&data=2006-02-16) sitio rumano ([y 2](http://www.ziua.ro/display.php?id=194466&data=2006-02-24)).
+Y en [otro](https://www.ziua.ro/display.php?id=193913&data=2006-02-16) sitio rumano ([y 2](https://www.ziua.ro/display.php?id=194466&data=2006-02-24)).
 
 En Italia, el Ministro de Justicia Roberto Castelli estima que se efectuaron unas 100.000 escuchas en 004, con un coste aprox de 300.00 millones de euro (Italia tiene el "record" de escuchas por habitante: 172 por cada 100.000 habitantes).
 
-Caso de Italia [según](http://www.edri.org/edrigram/number3.4/wiretap) EDRI.
+Caso de Italia [según](https://www.edri.org/edrigram/number3.4/wiretap) EDRI.
 
 Por contraste el Comisionado de Comunicaciones del Reino Unido habla de 1.983 intercepciones en 2003 sobre una población de 59,5 millones,
   

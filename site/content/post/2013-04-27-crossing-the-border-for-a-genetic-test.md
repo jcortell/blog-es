@@ -4,7 +4,7 @@ title: Crossing the border for a genetic test
 date: 2013-04-27T13:57:52+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4678
+guid: https://cortell.net/blog/?p=4678
 permalink: /2013/04/27/crossing-the-border-for-a-genetic-test/
 wpsd_autopost:
   - "1"
@@ -25,7 +25,7 @@ Así que unos días más tarde, los kits llegaron, con instrucciones muy detalla
 
 [mudslide:picasa,0,111219615350942087056,5867117073119704769]
 
-Pero para ser prudente, que lo soy, me decidí a investigar en línea, de fuentes confiables, toda la situación jurídica de la toma de muestras genéticas y envío desde Nueva York. Ambos, una abogada <a title="http://www.legalgenealogist.com/blog/2012/12/23/ny-and-md-limits-on-23andme/" href="http://www.legalgenealogist.com/blog/2012/12/23/ny-and-md-limits-on-23andme/" target="_blank">genealogista</a>, y un par de <a title="http://silberzahnjones.com/2011/04/20/moores-law-steam-engines-and-genetic-technology/" href="http://silberzahnjones.com/2011/04/20/moores-law-steam-engines-and-genetic-technology/" target="_blank">profesores</a>, han escrito entradas al respecto en sus blogs con suficiente detalle e información para hacer que reconsiderara mi actitud de "qué-más-da".
+Pero para ser prudente, que lo soy, me decidí a investigar en línea, de fuentes confiables, toda la situación jurídica de la toma de muestras genéticas y envío desde Nueva York. Ambos, una abogada <a title="https://www.legalgenealogist.com/blog/2012/12/23/ny-and-md-limits-on-23andme/" href="https://www.legalgenealogist.com/blog/2012/12/23/ny-and-md-limits-on-23andme/" target="_blank">genealogista</a>, y un par de <a title="https://silberzahnjones.com/2011/04/20/moores-law-steam-engines-and-genetic-technology/" href="https://silberzahnjones.com/2011/04/20/moores-law-steam-engines-and-genetic-technology/" target="_blank">profesores</a>, han escrito entradas al respecto en sus blogs con suficiente detalle e información para hacer que reconsiderara mi actitud de "qué-más-da".
 
 ¿Cual era mi única salida? Cruzar la frontera para producir y enviar las muestras. Y eso es lo que hice. Tomé el tren en la estación Grand Central hasta Nueva Jersey, entregué la caja a FedEx, y regresé. Una hora más tarde había logrado mi misión tanto de conseguir lo que quería como de no infringir la ley. Molesto y absurdo. Pero es la ley.
 

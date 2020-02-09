@@ -4,7 +4,7 @@ title: 'P2P: de enemigo a socio en unos dí­as'
 date: 2006-01-31T20:00:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/01/31/p2p-de-enemigo-a-socio-en-unos-dias/
+guid: https://www.cortell.net/2006/01/31/p2p-de-enemigo-a-socio-en-unos-dias/
 permalink: /2006/01/31/p2p-de-enemigo-a-socio-en-unos-dias/
 categories:
   - CiberDerechos
@@ -22,7 +22,7 @@ Creo que de igorantes tienen un rato, pues no entienden que el verdadero poder d
 
 No me dan pena, pero sí­ me preocupa que con una mano amenacen, pongan juicios, y presionen a polí­ticos y medios, restringiendo nuestros derechos y alimentando a intermediarios parásitos como las suciedades de gestión, y con la otra jueguen a hacer experimentos con la tecnologí­a (que si salen bien los harán "guay" y si salen mal "ya decí­amos que la red es un nido de piratas").
 
-En fin. Deberí­an leerse el [Cluetrain Manifesto](http://www.microsiervos.com/archivo/libros/the-cluetrain-manifesto.html), o inlcuso el [Hacker Manifesto](http://cybercrimes.net/Property/Hacking/Hacker%20Manifesto/HackerManifesto.html) para empezar.
+En fin. Deberí­an leerse el [Cluetrain Manifesto](https://www.microsiervos.com/archivo/libros/the-cluetrain-manifesto.html), o inlcuso el [Hacker Manifesto](https://cybercrimes.net/Property/Hacking/Hacker%20Manifesto/HackerManifesto.html) para empezar.
 
 [...]
    

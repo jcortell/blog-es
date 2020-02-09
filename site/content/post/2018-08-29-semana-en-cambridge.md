@@ -20,7 +20,7 @@ Un tanto por vacaciones con los niños y un tanto por trabajo, pasamos una seman
 
 El objetivo principal una reunión de trabajo con el Director del [Grupo de Computación de Alto Rendimiento ](https://www.hpc.cam.ac.uk/compbio/) de bioinformática en la Universidad de Cambridge, para alcanzar un acuerdo de colaboración entre ellos y mi empresa, Kanteron Systems.
 
-Una vez realizada la reunión, en el [Cambridge Blue](http://cambridge.pub/the-blue/), y alcanzado el acuerdo, pasé el resto de la semana tratando de hacer felices a los peques pese al miserable clima de Cambridge.
+Una vez realizada la reunión, en el [Cambridge Blue](https://cambridge.pub/the-blue/), y alcanzado el acuerdo, pasé el resto de la semana tratando de hacer felices a los peques pese al miserable clima de Cambridge.
 
 Fuimos a montar a caballo, y a un complejo de cría de pura razas, [The National Stud](https://www.nationalstud.co.uk/), uno de los más grandes del mundo. Pero entre la lluvia y las bajísimas temperaturas, lo que más disfrutamos fue estar en casa (nos hospedamos en casa de un amigo) jugando a scrabble... y luchando contra la gripe.
 

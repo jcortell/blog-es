@@ -4,7 +4,7 @@ title: Mi instalación de arte no comisionada en el Museo de Arte Contemporáneo
 date: 2016-12-23T10:50:24+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5988
+guid: https://blog.cortell.net/es/?p=5988
 permalink: /2016/12/23/mi-instalacion-de-arte-no-comisionada-en-el-museo-de-arte-contemporaneo-de-santiago-de-chile/
 categories:
   - Arte

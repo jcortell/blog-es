@@ -4,7 +4,7 @@ title: Estados alterados de la mente (y cuerpo)
 date: 2008-06-17T18:54:55+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1245
+guid: https://www.cortell.net/?p=1245
 permalink: /2008/06/17/estados-alterados-de-la-mente-y-cuerpo/
 categories:
   - ¿Por qué no? ¿Utopías?

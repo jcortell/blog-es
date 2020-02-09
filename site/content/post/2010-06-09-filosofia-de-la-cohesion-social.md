@@ -4,7 +4,7 @@ title: Filosofía de la cohesión social
 date: 2010-06-09T16:28:43+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2475
+guid: https://cortell.net/blog/?p=2475
 permalink: /2010/06/09/filosofia-de-la-cohesion-social/
 categories:
   - Filosofí­a

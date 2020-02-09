@@ -4,7 +4,7 @@ title: 'El peor cuelgue informático: por tipografías'
 date: 2008-10-28T16:14:18+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1356
+guid: https://www.cortell.net/?p=1356
 permalink: /2008/10/28/el-peor-cuelgue-informatico-por-tipografias/
 categories:
   - Geek Fun
@@ -17,4 +17,4 @@ En Mac OSX hace años me dio un cuegue con kernel panic que me costó todo un d�
 
 Hoy me ha vuelto a suceder, pero como la experiencia es un grado, lo he pillado a tiempo. Eso sí, JJ me ha sugerido que haga una captura de pantalla porque era de lo más extraño: Este es el aspecto que tiene un Mac (documento de Pages) cuando se corrompe la tipografía de sistema (chungo).
 
-<img src="http://farm4.static.flickr.com/3151/2980792679_705987d2b9.jpg" alt="captura de pantalla" width="500" height="315" />
+<img src="https://farm4.static.flickr.com/3151/2980792679_705987d2b9.jpg" alt="captura de pantalla" width="500" height="315" />

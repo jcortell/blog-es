@@ -4,7 +4,7 @@ title: Absurda intransigencia de Católicos recalcitrantes
 date: 2008-03-12T12:44:06+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/03/12/absurda-intransigencia-de-catolicos-recalcitrantes/
+guid: https://www.cortell.net/2008/03/12/absurda-intransigencia-de-catolicos-recalcitrantes/
 permalink: /2008/03/12/absurda-intransigencia-de-catolicos-recalcitrantes/
 categories:
   - Filosofí­a
@@ -16,11 +16,11 @@ Si ya de por sí­ las religiones organizadas son una burla, y la prepotencia y 
 
 Desde la negación de los descubrimientos cientí­ficos más básicos (la circulación de la sangre, la rotación y traslación de la Tierra, etc) hasta la Santa Inquisición, la Iglesia Católico Apostólico Romana (no hay más que ver la primera parte del documental Zeitgeist o estudiar Comparativa de Religiones para darse cuenta del absurdo engaño que representa) ha dado más muestras de intransigencia que sus fieles de fe.
 
-<a target="_blank" title="Diario Alto Aragón" href="http://www.diariodelaltoaragon.es/noticias/detalle.php?id=271895">Hoy se denuncia</a> un nuevo ejemplo, que aunque no es nuevo, sí­ es ofensivo y significativo donde los haya: para la Santa Comunión (ese canibalismo figurado en el que se exhorta a los fieles a comer el cuerpo de su lí­der, y beber su sangre) la Iglesia niega la posibilidad de emplear una hostia a base de maí­z, en vez de trigo, sin glúten para los creyentes celí­acos (que no toleran el glúten). Es más, Ratizinger Z, actual _capo di capi_ de la Iglesia, es quien en un documento de 1995 justificó dicha medida discriminatoria y fundamentalista.
+<a target="_blank" title="Diario Alto Aragón" href="https://www.diariodelaltoaragon.es/noticias/detalle.php?id=271895">Hoy se denuncia</a> un nuevo ejemplo, que aunque no es nuevo, sí­ es ofensivo y significativo donde los haya: para la Santa Comunión (ese canibalismo figurado en el que se exhorta a los fieles a comer el cuerpo de su lí­der, y beber su sangre) la Iglesia niega la posibilidad de emplear una hostia a base de maí­z, en vez de trigo, sin glúten para los creyentes celí­acos (que no toleran el glúten). Es más, Ratizinger Z, actual _capo di capi_ de la Iglesia, es quien en un documento de 1995 justificó dicha medida discriminatoria y fundamentalista.
 
 No sólo es absurdo por su intento de convertir lo que es un rito alegórico en un procedimiento rigurosamente inalterable. Además, en su desesperado intento por no perder un sólo socio/acólito/manipulado [póngase aquí­ lo que se quiera], la alternativa que ofrece la Iglesia es que en vez de comulgar con hostia, se haga con vino.
 
-Esto no sólo es ilegal en la mayorí­a de paí­ses (suministrar bebidas alcohólicas a menores de edad), sino que además se corre el riesgo de contagio de enfermedades (y, ya se sabe, los curas...) si <a target="_blank" title="noticia 20 minutos" href="http://www.20minutos.es/noticia/123051/0/comunion/saltarse/celiaca/">sólo se emplea un cáliz</a> (algo que parece más importante que los deseos de los familiares o la ley).
+Esto no sólo es ilegal en la mayorí­a de paí­ses (suministrar bebidas alcohólicas a menores de edad), sino que además se corre el riesgo de contagio de enfermedades (y, ya se sabe, los curas...) si <a target="_blank" title="noticia 20 minutos" href="https://www.20minutos.es/noticia/123051/0/comunion/saltarse/celiaca/">sólo se emplea un cáliz</a> (algo que parece más importante que los deseos de los familiares o la ley).
 
 Pero todo sea por la fe, hermanos y hermanas.
 

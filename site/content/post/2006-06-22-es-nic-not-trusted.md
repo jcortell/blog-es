@@ -4,7 +4,7 @@ title: 'Es-NIC: not trusted'
 date: 2006-06-22T06:58:21+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/06/22/es-nic-not-trusted/
+guid: https://www.cortell.net/2006/06/22/es-nic-not-trusted/
 permalink: /2006/06/22/es-nic-not-trusted/
 categories:
   - General
@@ -14,4 +14,4 @@ categories:
 ---
 Lo dice Camino al analizar el certificado de Es-NIC: no es de fiar 😉
 
-![Es-NIC not trusted](http://static.flickr.com/76/171145307_acdd52cf11.jpg?v=0 "Es-NIC not trusted")
+![Es-NIC not trusted](https://static.flickr.com/76/171145307_acdd52cf11.jpg?v=0 "Es-NIC not trusted")

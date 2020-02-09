@@ -4,7 +4,7 @@ title: Concierto de OléFunk y Chambao
 date: 2009-08-14T10:40:38+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2109
+guid: https://cortell.net/blog/?p=2109
 permalink: /2009/08/14/concierto-de-olefunk-y-chambao/
 categories:
   - Arte
@@ -14,13 +14,13 @@ categories:
 ---
 Ayer estaba en Sevilla, hoy toca Zaragoza, pero anoche coincidió que estaba en Málaga y me invitaron (muchas gracias) al concierto, en el auditorio municipal, de Chambao.
 
-<img class="aligncenter" title="Chambao en Málaga" src="http://farm3.static.flickr.com/2589/3819414375_c95840f748.jpg" alt="" width="500" height="375" />
+<img class="aligncenter" title="Chambao en Málaga" src="https://farm3.static.flickr.com/2589/3819414375_c95840f748.jpg" alt="" width="500" height="375" />
 
 No es mi estilo del todo, aunque no estaba mal. Muy en su línea del sur (andaluz, indio, árabe, místico...). Me gustó que "La Mari" invitase a todo tipo de "artistas invitados" a bailar, rapear, _Diyeiar_, tocar... pero al final era demasiado amalgama.
 
-Lo más interesante fueron los "teloneros": <a title="http://www.olefunk.com/" href="http://www.olefunk.com/" target="_blank">OléFunk</a>.
+Lo más interesante fueron los "teloneros": <a title="https://www.olefunk.com/" href="https://www.olefunk.com/" target="_blank">OléFunk</a>.
 
-<img class="aligncenter" title="OleFunk en Málaga" src="http://farm4.static.flickr.com/3418/3819414305_e7cce49c18.jpg" alt="" width="500" height="375" />
+<img class="aligncenter" title="OleFunk en Málaga" src="https://farm4.static.flickr.com/3418/3819414305_e7cce49c18.jpg" alt="" width="500" height="375" />
 
 Esta gente se lo curra pero mucho: proyectaron su web/red social en el lateral del auditorio, emitieron vídeo del concierto en directo (que luego emplearán en el vídeoclip)...
 

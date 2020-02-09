@@ -4,7 +4,7 @@ title: -¿Pensar puede infringir patentes? Caso Metabolites
 date: 2006-05-11T02:13:59+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2006/05/11/%c2%bfpensar-puede-infringir-patentes-caso-metabolites/'
+guid: 'https://www.cortell.net/2006/05/11/%c2%bfpensar-puede-infringir-patentes-caso-metabolites/'
 permalink: /2006/05/11/pensar-puede-infringir-patentes-caso-metabolites/
 categories:
   - Copyfight
@@ -14,9 +14,9 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-El año pasado se inició un juicio sobre patentes cuyas repercusiones pueden ser espectacularmente espeluznantes. Tanto es así­ que en la <a title="List of top 10 patent cases" target="_blank" href="http://ip-updates.blogspot.com/2005/11/wegner-updates-his-top-ten-supreme.html">lista de los diez casos de patentes más importantes</a>, el profesor Wegner pone a este el primero.
+El año pasado se inició un juicio sobre patentes cuyas repercusiones pueden ser espectacularmente espeluznantes. Tanto es así­ que en la <a title="List of top 10 patent cases" target="_blank" href="https://ip-updates.blogspot.com/2005/11/wegner-updates-his-top-ten-supreme.html">lista de los diez casos de patentes más importantes</a>, el profesor Wegner pone a este el primero.
 
-Michael Crichton escribió recientemente un <a target="_blank" title="Crichton Patents" href="http://www.nytimes.com/2006/03/19/opinion/19crichton.html">excelente editorial</a> en el _New York Times_ hablando (e ironizando) sobre el tema. En Managing Intellectual Property tienen un <a title="MIP" target="_blank" href="http://www.managingip.com/default.asp?page=9&PubID=198&SID=596229&ISS=20855">artí­culo</a> (bastante tendente a la postura pro-patente) que explica con más detalle el caso.
+Michael Crichton escribió recientemente un <a target="_blank" title="Crichton Patents" href="https://www.nytimes.com/2006/03/19/opinion/19crichton.html">excelente editorial</a> en el _New York Times_ hablando (e ironizando) sobre el tema. En Managing Intellectual Property tienen un <a title="MIP" target="_blank" href="https://www.managingip.com/default.asp?page=9&PubID=198&SID=596229&ISS=20855">artí­culo</a> (bastante tendente a la postura pro-patente) que explica con más detalle el caso.
 
 Para resumir, el tema a debate es que la empresa Metabolite dice tener la patente sobre la **relación** que existe entre niveles elevados de homocisteina y la deficiencia de B-12, y por lo tanto piden royalties a los médicos que hacen un análisis de homocisteina para ver si el paciente necesita vitaminas.
 

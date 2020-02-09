@@ -4,7 +4,7 @@ title: Pedazo de brecha digital
 date: 2005-12-12T19:14:52+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/12/12/pedazo-de-brecha-digital/
+guid: https://www.cortell.net/2005/12/12/pedazo-de-brecha-digital/
 permalink: /2005/12/12/pedazo-de-brecha-digital/
 categories:
   - General
@@ -21,4 +21,4 @@ Creemos que todo es digital, y que todo el mundo está en red, pero...
 
 "Un inesperado 16% de los encuestados vieron en Domótica un término relacionado con la fecundación in-vitro"
 
-Fuente: http://www.e-life2005.com/
+Fuente: https://www.e-life2005.com/

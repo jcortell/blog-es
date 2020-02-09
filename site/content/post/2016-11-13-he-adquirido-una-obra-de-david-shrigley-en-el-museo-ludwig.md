@@ -4,7 +4,7 @@ title: He adquirido una obra de David Shrigley en el Museo Ludwig
 date: 2016-11-13T16:18:07+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5953
+guid: https://blog.cortell.net/es/?p=5953
 permalink: /2016/11/13/he-adquirido-una-obra-de-david-shrigley-en-el-museo-ludwig/
 categories:
   - Arte

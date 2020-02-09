@@ -4,7 +4,7 @@ title: ¿Inteligencia artificial o Libertad artificial?
 date: 2009-08-02T20:36:42+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2086
+guid: https://cortell.net/blog/?p=2086
 permalink: /2009/08/02/inteligencia-artificial-o-libertad-artificial/
 categories:
   - Filosofí­a

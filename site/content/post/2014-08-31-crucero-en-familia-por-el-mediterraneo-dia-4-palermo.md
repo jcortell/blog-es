@@ -4,7 +4,7 @@ title: 'Crucero en familia por el Mediterráneo, día 4: Palermo'
 date: 2014-08-31T16:10:32+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5238
+guid: https://blog.cortell.net/es/?p=5238
 permalink: /2014/08/31/crucero-en-familia-por-el-mediterraneo-dia-4-palermo/
 categories:
   - General

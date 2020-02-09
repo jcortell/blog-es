@@ -4,7 +4,7 @@ title: 'Tokyo día 4: triángulo de arte de Roppongi y TV Asahi'
 date: 2014-09-12T20:46:57+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5285
+guid: https://blog.cortell.net/es/?p=5285
 permalink: /2014/09/12/tokyo-dia-4-triangulo-de-arte-de-roppongi-y-tv-asahi/
 categories:
   - Arte
@@ -44,7 +44,7 @@ En el atrio, entre el centro comercial y TV Asashi estaban celebrando la Semana
 
 De vuelta al hotel, recogí mi equipaje para ir al aeropuerto, pero me di cuenta de que con todo ese arte, no había tomado desayuno, la comida más importante para mí. Así que fui a la esquina a comprar un Donburi y Sashimi por ¥ 500. Delicioso.
 
-Lleno de energía, pero triste por tener la impresión de que había mucho, mucho <a title="http://artspacetokyo.com/artmaps" href="http://artspacetokyo.com/artmaps" target="_blank">más</a> para ser disfrutado y descubierto, me fui hacia el aeropuerto, en el tren directo de línea KS con un pensamiento en mente. La próxima vez no voy a venir solo. Japón es demasiado impresionante como para disfrutarlo solo, y tiene que ser increíble compartirlo con un ser querido. Hay demasiadas cosas que me quedan para ver y hacer en Tokio: Koenji y Shimokitazawa, ZenyaRen "parque temático de comida", Museo Ghibli, Museo Hara, Museo Watari, SCAI la Casa de Baños, el Monte Takao, Torre de Tokio, Gotokuji ...; y muchos que quería repetir: Nakano Broadway, Omotesando, Meijingu-mae st, un Daiso, Cando, Donki, o Seria, Kiddyland ...
+Lleno de energía, pero triste por tener la impresión de que había mucho, mucho <a title="https://artspacetokyo.com/artmaps" href="https://artspacetokyo.com/artmaps" target="_blank">más</a> para ser disfrutado y descubierto, me fui hacia el aeropuerto, en el tren directo de línea KS con un pensamiento en mente. La próxima vez no voy a venir solo. Japón es demasiado impresionante como para disfrutarlo solo, y tiene que ser increíble compartirlo con un ser querido. Hay demasiadas cosas que me quedan para ver y hacer en Tokio: Koenji y Shimokitazawa, ZenyaRen "parque temático de comida", Museo Ghibli, Museo Hara, Museo Watari, SCAI la Casa de Baños, el Monte Takao, Torre de Tokio, Gotokuji ...; y muchos que quería repetir: Nakano Broadway, Omotesando, Meijingu-mae st, un Daiso, Cando, Donki, o Seria, Kiddyland ...
 
 Incluso la escena de restaurantes es impresionante: Tokio tiene 14 restaurantes de tres estrellas Michelin – la ciudad que más tiene en el mundo.
 

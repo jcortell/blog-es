@@ -14,15 +14,15 @@ metaAlignment: center
 coverMeta: out
 ---
 
-El miércoles pasado viajé a Orlando (EE. UU.) para asistir al congreso de [American Society of Human Genetics 2017](http://www.ashg.org/2017meeting/).
+El miércoles pasado viajé a Orlando (EE. UU.) para asistir al congreso de [American Society of Human Genetics 2017](https://www.ashg.org/2017meeting/).
 
 <!--more-->
 
-![ASHG 2017 Logo](http://www.ashg.org/2017meeting/images/template/ASHG-2017-logo-blk.png) 
+![ASHG 2017 Logo](https://www.ashg.org/2017meeting/images/template/ASHG-2017-logo-blk.png) 
 
 Como estoy pasando unos meses en Canadá, volar a los Estados Unidos continentales es mucho más fácil y más corto que volar desde Europa. Pero aun así, desde donde vivo hasta Orlando hay más de 1200 millas (casi 2000 km), así que para hacer el viaje en el día, tuve que salir de mi casa a las 5 a.m., cruzar el puente de la Paz hacia Estados Unidos, subir a un avión en Búfalo, aterrizar en Orlando, y tomar un Uber al Centro de Convenciones del Condado de Orange.
 
-Una vez en le evento lo primero que hice, antes de acudir a mis reuniones de trabajo, fue leerme los [casi 3000 posters científicos](http://www.ashg.org/2017meeting/listing/PosterSessions.shtml):
+Una vez en le evento lo primero que hice, antes de acudir a mis reuniones de trabajo, fue leerme los [casi 3000 posters científicos](https://www.ashg.org/2017meeting/listing/PosterSessions.shtml):
 
 ![posters](https://farm5.staticflickr.com/4479/37798747471_a4f7e860b8_k.jpg) 
 

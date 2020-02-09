@@ -4,7 +4,7 @@ title: Hablando con Prof. Church sobre machine learning aplicado a investigació
 date: 2016-07-01T13:22:59+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5836
+guid: https://blog.cortell.net/es/?p=5836
 permalink: /2016/07/01/hablando-con-prof-church-sobre-machine-learning-aplicado-a-investigacion-genomica/
 categories:
   - ¿Por qué no? ¿Utopías?

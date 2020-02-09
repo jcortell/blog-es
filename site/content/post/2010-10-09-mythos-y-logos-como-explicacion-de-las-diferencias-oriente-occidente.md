@@ -4,7 +4,7 @@ title: Mythos y logos como explicación de las diferencias Oriente-Occidente
 date: 2010-10-09T12:44:51+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2632
+guid: https://cortell.net/blog/?p=2632
 permalink: /2010/10/09/mythos-y-logos-como-explicacion-de-las-diferencias-oriente-occidente/
 categories:
   - Filosofí­a
@@ -13,7 +13,7 @@ categories:
   - Psicología
   - Sociedad y polí­tica
 ---
-Hay una interesantísima conferencia impartida en 2009 en <a title="ted.com" href="http://www.ted.com" target="_blank">TED</a> titulada "East vs. West – the myths that mystify" a cargo de Devdutt Pattanaik en la que este sociólogo autodidacta (médico de profesión) indio propone una lectura muy interesante de los elementos que están en la base de la diferencia Este-Oeste.
+Hay una interesantísima conferencia impartida en 2009 en <a title="ted.com" href="https://www.ted.com" target="_blank">TED</a> titulada "East vs. West – the myths that mystify" a cargo de Devdutt Pattanaik en la que este sociólogo autodidacta (médico de profesión) indio propone una lectura muy interesante de los elementos que están en la base de la diferencia Este-Oeste.
 
 Todos los que hemos trabajado con o para indios, chinos, japoneses, coreanos, indonesios, o malayos sabemos que pese a que son muy diferentes entre ellos, existe un nexo común "Asiático" que diferencia muy mucho a "nosotros" (entre comillas por mi falta de identificación y filiación) de "ellos" (entre comillas porque no me gustan las diferencias, distinciones y confrontaciones que suele conllevar el "nosotros y ellos").
 

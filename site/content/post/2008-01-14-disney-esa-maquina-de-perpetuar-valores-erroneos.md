@@ -4,7 +4,7 @@ title: 'Disney: esa máquina de perpetuar valores erróneos'
 date: 2008-01-14T15:32:20+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/01/14/disney-esa-maquina-de-perpetuar-valores-erroneos/
+guid: https://www.cortell.net/2008/01/14/disney-esa-maquina-de-perpetuar-valores-erroneos/
 permalink: /2008/01/14/disney-esa-maquina-de-perpetuar-valores-erroneos/
 categories:
   - ¿Por qué no? ¿Utopías?

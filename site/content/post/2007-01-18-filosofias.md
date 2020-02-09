@@ -4,7 +4,7 @@ title: Filosofí­as
 date: 2007-01-18T12:01:13+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/01/18/filosofias/
+guid: https://www.cortell.net/2007/01/18/filosofias/
 permalink: /2007/01/18/filosofias/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -18,6 +18,6 @@ Al término de mi conferencia en la HOPE6, me reuní­ con un grupo de hackers i
 
 En mi caso, como suele ser habitual, escuché y apunté. Luego investigué. Y ahora agradezco. -¡Gracias zuzu!
 
-Aquí­ tenéis algunos enlaces que os servirán de inicio: <a title="BenjaminTucker" target="_blank" href="http://en.wikipedia.org/wiki/Benjamin_Tucker">Tucker</a>, <a title="Agorism" target="_blank" href="http://en.wikipedia.org/wiki/Agorism">Agorism</a>, <a title="Stephan Kinsella" target="_blank" href="http://www.stephankinsella.com/ip/">Kinsella</a>. Estos, junto con los que ya mencioné en <a target="_blank" title="PCI44" href="http://www.cortell.net/2006/08/30/netocracia-meritocracia-todo-menos-democracia-pci-44-ultimo/">este artí­culo</a> (a los que llegué gracias a otro maestro: David de Ugarte), os darán un buen montón de lectura y sobretodo ideas sobre las que pensar este verano.
+Aquí­ tenéis algunos enlaces que os servirán de inicio: <a title="BenjaminTucker" target="_blank" href="https://en.wikipedia.org/wiki/Benjamin_Tucker">Tucker</a>, <a title="Agorism" target="_blank" href="https://en.wikipedia.org/wiki/Agorism">Agorism</a>, <a title="Stephan Kinsella" target="_blank" href="https://www.stephankinsella.com/ip/">Kinsella</a>. Estos, junto con los que ya mencioné en <a target="_blank" title="PCI44" href="https://www.cortell.net/2006/08/30/netocracia-meritocracia-todo-menos-democracia-pci-44-ultimo/">este artí­culo</a> (a los que llegué gracias a otro maestro: David de Ugarte), os darán un buen montón de lectura y sobretodo ideas sobre las que pensar este verano.
 
 **Atención: no apto para mentes rí­gidas ni para aquellos que prefieran la pastilla azul.**

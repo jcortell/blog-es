@@ -4,7 +4,7 @@ title: Días locos de abril en Londres
 date: 2015-04-23T22:03:37+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5428
+guid: https://blog.cortell.net/es/?p=5428
 permalink: /2015/04/23/dias-locos-de-abril-en-londres/
 categories:
   - General
@@ -32,6 +32,6 @@ Todo esto no habría sido posible si no fuera porque Ted, de London & Partners, 
 
 &nbsp;
 
-Por lo menos disfrutamos mucho el hotel. Nos alojamos en el fabuloso<a href="http://www.doylecollection.com/hotels/the-kensington-hotel" target="_blank">Kensington Hotel</a>.
+Por lo menos disfrutamos mucho el hotel. Nos alojamos en el fabuloso<a href="https://www.doylecollection.com/hotels/the-kensington-hotel" target="_blank">Kensington Hotel</a>.
 
 Estábamos tan cansados y teníamos tan poco tiempo, que tuvimos que declinar una invitación a la exposición Alexander McQueen _Savage Beauty_ en el Victoria and Albert Museum, y el cóctel de recepción. ¡Ni siquiera tuvimos tiempo de asistir a la premiere de _Blade Runner The Final Cut_!

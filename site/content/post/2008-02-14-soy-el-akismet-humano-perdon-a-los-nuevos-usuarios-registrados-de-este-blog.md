@@ -4,7 +4,7 @@ title: Soy el Akismet humano (perdón a los nuevos usuarios registrados de este 
 date: 2008-02-14T10:55:33+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/02/14/soy-el-akismet-humano-perdon-a-los-nuevos-usuarios-registrados-de-este-blog/
+guid: https://www.cortell.net/2008/02/14/soy-el-akismet-humano-perdon-a-los-nuevos-usuarios-registrados-de-este-blog/
 permalink: /2008/02/14/soy-el-akismet-humano-perdon-a-los-nuevos-usuarios-registrados-de-este-blog/
 categories:
   - CiberDerechos
@@ -12,7 +12,7 @@ categories:
   - Personal
   - Technology
 ---
-Desde hace unos dí­as mi clave API de WordPress es rechazada sistemáticamente por el sistema antispam <a title="http://akismet.com/" target="_blank" href="http://akismet.com/">Akismet</a>. He probado de todo: usar la clave de otro, generar una clave nueva, analizar logs, mirar en foros...
+Desde hace unos dí­as mi clave API de WordPress es rechazada sistemáticamente por el sistema antispam <a title="https://akismet.com/" target="_blank" href="https://akismet.com/">Akismet</a>. He probado de todo: usar la clave de otro, generar una clave nueva, analizar logs, mirar en foros...
 
 No es que se acabe el mundo, pero desde que no funciona, todos los comentarios (excepto de usuarios registrados que ya hayan publicado un comentario anteriormente) pasan a la cola de moderación. Los "legí­timos" y el spam. Eso significa una media de 2000 al dí­a para moderar, de los cuales sólo 1 de cada mil aproximadamente son válidos.
 

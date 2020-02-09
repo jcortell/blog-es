@@ -4,7 +4,7 @@ title: 'I‘m the man and the boy'
 date: 2012-10-03T22:30:52+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4323
+guid: https://cortell.net/blog/?p=4323
 permalink: /2012/10/03/im-the-man-and-the-boy/
 wpsd_autopost:
   - "1"

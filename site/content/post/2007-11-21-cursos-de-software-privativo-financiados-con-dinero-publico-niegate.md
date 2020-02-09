@@ -4,7 +4,7 @@ title: Cursos de software privativo financiados con dinero público -¡niégate!
 date: 2007-11-21T17:08:58+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2007/11/21/cursos-de-software-privativo-financiados-con-dinero-publico-%c2%a1niegate/'
+guid: 'https://www.cortell.net/2007/11/21/cursos-de-software-privativo-financiados-con-dinero-publico-%c2%a1niegate/'
 permalink: /2007/11/21/cursos-de-software-privativo-financiados-con-dinero-publico-niegate/
 categories:
   - CiberDerechos

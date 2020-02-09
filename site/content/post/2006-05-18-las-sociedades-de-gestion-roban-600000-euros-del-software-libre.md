@@ -4,7 +4,7 @@ title: Las Sociedades de Gestión ROBAN 600.000 euros del software libre
 date: 2006-05-18T10:18:18+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/05/18/las-sociedades-de-gestion-roban-600000-euros-del-software-libre/
+guid: https://www.cortell.net/2006/05/18/las-sociedades-de-gestion-roban-600000-euros-del-software-libre/
 permalink: /2006/05/18/las-sociedades-de-gestion-roban-600000-euros-del-software-libre/
 categories:
   - CiberDerechos
@@ -16,7 +16,7 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-Según esta <a target="_blank" title="nota prensa Hispalinux" href="http://www.hispalinux.es/node/592">nota de prensa</a> de Hipalinux (cito una parte):
+Según esta <a target="_blank" title="nota prensa Hispalinux" href="https://www.hispalinux.es/node/592">nota de prensa</a> de Hipalinux (cito una parte):
 
 > _-¿Qué razón puede haber para que un músico cobre por cada una de los millones de descargas de GNU/Linex, Guadalinex, Molinux, Max, Catix...y los miles de programas libres que estan en Internet? -¿acaso lo que aporta un músico a la sociedad es más valioso que lo que hace un cientí­fico, un docente, un ingeniero, cualquier profesional o la propia Administración Pública? -¿a caso una canción es más útil que los programas de ordenador que hacen funcionar nuestro sistema productivo?
   

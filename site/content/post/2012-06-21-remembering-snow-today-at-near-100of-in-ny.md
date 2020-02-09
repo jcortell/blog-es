@@ -4,7 +4,7 @@ title: Remembering snow today at near 100ºF in NY
 date: 2012-06-21T12:36:12+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4189
+guid: https://cortell.net/blog/?p=4189
 permalink: /2012/06/21/remembering-snow-today-at-near-100of-in-ny/
 wpsd_autopost:
   - "1"

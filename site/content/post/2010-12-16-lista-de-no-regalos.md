@@ -4,7 +4,7 @@ title: Lista de no-regalos
 date: 2010-12-16T13:03:55+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2779
+guid: https://cortell.net/blog/?p=2779
 permalink: /2010/12/16/lista-de-no-regalos/
 categories:
   - ¿Por qué no? ¿Utopías?

@@ -4,7 +4,7 @@ title: 'Santiago Segura y su &quot;coleguita&quot; forma de equivocarse: propong
 date: 2005-11-04T09:19:50+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/11/04/santiago-segura-y-su-coleguita-forma-de-equivocarse-propongo-soluciones/
+guid: https://www.cortell.net/2005/11/04/santiago-segura-y-su-coleguita-forma-de-equivocarse-propongo-soluciones/
 permalink: /2005/11/04/santiago-segura-y-su-coleguita-forma-de-equivocarse-propongo-soluciones/
 categories:
   - CiberDerechos
@@ -35,6 +35,6 @@ Santiago Segura aduce varios argumentos:
 
 [Actualización.- otras cosas "curiosas" de esta iniciativa son: mezcla de P2P y Top Manta, y que después del sermón va un _maquing of_ (cosa que me parece estupenda y loable, pero que no pude comprobar porque el enlace que pongo más abajo de Jose Ignacio Hita se limita a la intervención de Santiago Segura)]
 
-Por último comentar que para el que quiera ver el dichoso ví­deo, Jose Ignacio Hita me ha enviado un [enlace](http://www.youtube.com/watch.php?v=PWlpfrKe5Kc) en el que se puede ver (**junto con otros ví­deos que no tienen desperdicio, algunos con humor burdo y simple pero muy graciosos, no os lo perdáis**). Gracias Jose Ignacio. [Nota.- enlace corregido]
+Por último comentar que para el que quiera ver el dichoso ví­deo, Jose Ignacio Hita me ha enviado un [enlace](https://www.youtube.com/watch.php?v=PWlpfrKe5Kc) en el que se puede ver (**junto con otros ví­deos que no tienen desperdicio, algunos con humor burdo y simple pero muy graciosos, no os lo perdáis**). Gracias Jose Ignacio. [Nota.- enlace corregido]
 
 TODOS SOMOS CREADORES (y algunos, con pocos medios hacen maravillas).

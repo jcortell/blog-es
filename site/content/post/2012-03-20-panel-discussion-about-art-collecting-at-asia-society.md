@@ -4,7 +4,7 @@ title: Panel discussion about art collecting at Asia Society
 date: 2012-03-20T22:48:55+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3936
+guid: https://cortell.net/blog/?p=3936
 permalink: /2012/03/20/panel-discussion-about-art-collecting-at-asia-society/
 wpsd_autopost:
   - "1"
@@ -16,7 +16,7 @@ categories:
   - Placeres de la vida
   - Sociedad y polí­tica
 ---
-El domingo por la mañana fui a la Asia Society para asistir a la <a title="http://asiasociety.org/new-york/events/future-past-collecting-ancient-art-21st-century" href="http://asiasociety.org/new-york/events/future-past-collecting-ancient-art-21st-century" target="_blank">mesa redonda</a> titulada: "El futuro del pasado_ – Coleccionar arte antiguo en el siglo 21_" presentado por el <a title="https://en.wikipedia.org/wiki/American_Council_for_Cultural_Policy" href="https://en.wikipedia.org/wiki/American_Council_for_Cultural_Policy" target="_blank">American Committee for Cultural Policy</a> junto con <a title="http://www.asiaweekny.com/" href="http://www.asiaweekny.com/" target="_blank">Asia Week</a>. 
+El domingo por la mañana fui a la Asia Society para asistir a la <a title="https://asiasociety.org/new-york/events/future-past-collecting-ancient-art-21st-century" href="https://asiasociety.org/new-york/events/future-past-collecting-ancient-art-21st-century" target="_blank">mesa redonda</a> titulada: "El futuro del pasado_ – Coleccionar arte antiguo en el siglo 21_" presentado por el <a title="https://en.wikipedia.org/wiki/American_Council_for_Cultural_Policy" href="https://en.wikipedia.org/wiki/American_Council_for_Cultural_Policy" target="_blank">American Committee for Cultural Policy</a> junto con <a title="https://www.asiaweekny.com/" href="https://www.asiaweekny.com/" target="_blank">Asia Week</a>. 
 
 Los miembros de la mesa redonda eran:
 
@@ -34,13 +34,13 @@ El auditorium estaba a tope (y más), por un motivo: ¡era una charla excelente!
 
 Aunque las dos horas merecen mención, sumarizo algunos de los puntos de interés particular:
 
-– La Sra. Fitz Gibbons abrió la discusión <a title="http://www.fitzgibbonlaw.com/art-and-cultural-property-issues" href="http://www.fitzgibbonlaw.com/art-and-cultural-property-issues" target="_blank">introduciendo</a> una (aparentemente absurda y amenazante) propuesta legislativa.
+– La Sra. Fitz Gibbons abrió la discusión <a title="https://www.fitzgibbonlaw.com/art-and-cultural-property-issues" href="https://www.fitzgibbonlaw.com/art-and-cultural-property-issues" target="_blank">introduciendo</a> una (aparentemente absurda y amenazante) propuesta legislativa.
 
 – El Sr. Houghton presentó los resultados de un estudio sobre antigüedades romanas de más de $1.000, de las cuales entre 67.000 y 120.000 quedarían fuera del mercado (coleccionismo, museos, etc) si esta nueva legislación se aplica (nos pidió que imaginásemos el efecto en otras obras, como Pre-Colombinas, Asiáticas, etc).
 
-– El Sr. Gitter propuso la <a title="http://www.bunka.go.jp/english/index.html" href="http://www.bunka.go.jp/english/index.html" target="_blank">Japanese Agency for Cultural Affairs</a> como modelo (aunque no perfecto) a estudiar y seguir.
+– El Sr. Gitter propuso la <a title="https://www.bunka.go.jp/english/index.html" href="https://www.bunka.go.jp/english/index.html" target="_blank">Japanese Agency for Cultural Affairs</a> como modelo (aunque no perfecto) a estudiar y seguir.
 
-– El Sr. Wilson teme una "caza de brujas" si los museos y coleccionistas son vistos por las generaciones más jóvenes como "apropiadores" de objetos históricos y culturales, y habló de "WikiLoot" un <a title="http://chasingaphrodite.com/2012/03/12/introducing-wikiloot-your-chance-to-fight-the-illicit-antiquities-trade/" href="http://chasingaphrodite.com/2012/03/12/introducing-wikiloot-your-chance-to-fight-the-illicit-antiquities-trade/" target="_blank">proyecto</a> que ya <a title="http://newschallenge.tumblr.com/post/19180035869/wikiloot-crowd-sourcing-an-analysis-of-the-black" href="http://newschallenge.tumblr.com/post/19180035869/wikiloot-crowd-sourcing-an-analysis-of-the-black" target="_blank">está en marcha</a>, que podría convertirse en una pesadilla de justicieros si se sale de madre.
+– El Sr. Wilson teme una "caza de brujas" si los museos y coleccionistas son vistos por las generaciones más jóvenes como "apropiadores" de objetos históricos y culturales, y habló de "WikiLoot" un <a title="https://chasingaphrodite.com/2012/03/12/introducing-wikiloot-your-chance-to-fight-the-illicit-antiquities-trade/" href="https://chasingaphrodite.com/2012/03/12/introducing-wikiloot-your-chance-to-fight-the-illicit-antiquities-trade/" target="_blank">proyecto</a> que ya <a title="https://newschallenge.tumblr.com/post/19180035869/wikiloot-crowd-sourcing-an-analysis-of-the-black" href="https://newschallenge.tumblr.com/post/19180035869/wikiloot-crowd-sourcing-an-analysis-of-the-black" target="_blank">está en marcha</a>, que podría convertirse en una pesadilla de justicieros si se sale de madre.
 
 – El Sr. Ahuja nos recordó el impacto emocional de la posesión y control de obras de arte.
 
@@ -50,4 +50,4 @@ Aunque las dos horas merecen mención, sumarizo algunos de los puntos de interé
 
 – El Sr. Raby culminó con propuestas constructivas: divulgar un modelo de mercado, reciprocidad, y administración (más que propiedad).
 
-Una mesa redonda verdaderamente sensacional, inspirador y constructiva... ¡¡gracias!! (Como extra: el folleto que me encontré a la salida sobre la <a title="http://icom.museum/what-we-do/programmes/fighting-illicit-traffic/red-list.html" href="http://icom.museum/what-we-do/programmes/fighting-illicit-traffic/red-list.html" target="_blank">Red List</a>).
+Una mesa redonda verdaderamente sensacional, inspirador y constructiva... ¡¡gracias!! (Como extra: el folleto que me encontré a la salida sobre la <a title="https://icom.museum/what-we-do/programmes/fighting-illicit-traffic/red-list.html" href="https://icom.museum/what-we-do/programmes/fighting-illicit-traffic/red-list.html" target="_blank">Red List</a>).

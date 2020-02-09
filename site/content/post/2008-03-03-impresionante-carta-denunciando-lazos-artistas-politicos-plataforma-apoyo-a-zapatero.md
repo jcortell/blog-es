@@ -4,7 +4,7 @@ title: 'Impresionante carta denunciando lazos &quot;artistas-polí­ticos&quot; 
 date: 2008-03-03T18:33:43+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/03/03/impresionante-carta-denunciando-lazos-artistas-politicos-plataforma-apoyo-a-zapatero/
+guid: https://www.cortell.net/2008/03/03/impresionante-carta-denunciando-lazos-artistas-politicos-plataforma-apoyo-a-zapatero/
 permalink: /2008/03/03/impresionante-carta-denunciando-lazos-artistas-politicos-plataforma-apoyo-a-zapatero/
 categories:
   - CiberDerechos

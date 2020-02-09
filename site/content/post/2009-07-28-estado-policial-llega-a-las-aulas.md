@@ -4,7 +4,7 @@ title: Estado policial llega a las aulas
 date: 2009-07-28T11:42:36+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2071
+guid: https://cortell.net/blog/?p=2071
 permalink: /2009/07/28/estado-policial-llega-a-las-aulas/
 categories:
   - General
@@ -17,5 +17,5 @@ Llamadme alarmista. No sé si será por haber visto "La ola" anoche (que compens
 Si los profesores no saben conseguir respeto, mantener el orden, y educar con disciplina sin recurrir a guardias de seguridad o a la policía, es que algo falla en el sistema educativo, en los alumnos, y en la sociedad en general. El aparato represor del estado ni está ni debe estar para eso. La judicatura no se debe saturar con tales memeces. Estos son los primeros avisos. La primera fiebre, las primeras toses. O cambiamos TODO el sistema, y deprisa, o nos lamentaremos cuando se venga a bajo.
 
 <p style="text-align: center">
-  <img class="aligncenter" title="informe policial pag. 1" src="http://i.cdn.turner.com/trutv/thesmokinggun.com/graphics/art4/0217092samsung1.gif" alt="" width="525" height="683" /><img class="aligncenter" title="informe policial pag. 2" src="http://i.cdn.turner.com/trutv/thesmokinggun.com/graphics/art4/0217092samsung2.gif" alt="" width="525" height="683" />
+  <img class="aligncenter" title="informe policial pag. 1" src="https://i.cdn.turner.com/trutv/thesmokinggun.com/graphics/art4/0217092samsung1.gif" alt="" width="525" height="683" /><img class="aligncenter" title="informe policial pag. 2" src="https://i.cdn.turner.com/trutv/thesmokinggun.com/graphics/art4/0217092samsung2.gif" alt="" width="525" height="683" />
 </p>

@@ -4,7 +4,7 @@ title: 'No eres paranóico si de verdad te persiguen (PC&amp;I 24)'
 date: 2004-11-27T10:50:23+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2004/11/27/no-eres-paranoico-si-de-verdad-te-persiguen-pci-24/
+guid: https://www.cortell.net/2004/11/27/no-eres-paranoico-si-de-verdad-te-persiguen-pci-24/
 permalink: /2004/11/27/no-eres-paranoico-si-de-verdad-te-persiguen-pci-24/
 categories:
   - 'Artí­culos escritos para la revista PC&amp;I'
@@ -27,4 +27,4 @@ Y por si yo no os he asustado bastante, os recomiendo una sesión triple de cine
   
 "Aquellos que están dispuestos a cambiar libertad por seguridad no merecen ni libertad ni seguridad" Benjamin Franklin. Esperemos que la lucha se decante por los derechos civiles y la libertad, y no por el control militar/policial/gubernamental.
 
-[<img src="http://tira.escomposlinux.org/ecol-190.png" alt="tira es.comp.os.linux" border="0" />](http://tira.escomposlinux.org/ecol-190.png)
+[<img src="https://tira.escomposlinux.org/ecol-190.png" alt="tira es.comp.os.linux" border="0" />](https://tira.escomposlinux.org/ecol-190.png)

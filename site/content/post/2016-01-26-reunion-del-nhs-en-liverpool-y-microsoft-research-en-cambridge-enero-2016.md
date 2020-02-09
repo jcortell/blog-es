@@ -4,7 +4,7 @@ title: Reunión del NHS en Liverpool y Microsoft Research en Cambridge enero 201
 date: 2016-01-26T13:26:48+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5708
+guid: https://blog.cortell.net/es/?p=5708
 permalink: /2016/01/26/reunion-del-nhs-en-liverpool-y-microsoft-research-en-cambridge-enero-2016/
 categories:
   - General

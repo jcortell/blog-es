@@ -4,7 +4,7 @@ title: 'No me pidas que sea sincero... porque lo seré'
 date: 2011-09-29T10:17:24+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3542
+guid: https://cortell.net/blog/?p=3542
 permalink: /2011/09/29/no-me-pidas-que-sea-sincero-porque-lo-sere/
 wpsd_autopost:
   - "1"

@@ -4,7 +4,7 @@ title: Otro ejemplo (y van mil) de negocio musical alternativo
 date: 2007-02-07T19:48:13+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/02/07/otro-ejemplo-y-van-mil-de-negocio-musical-alternativo/
+guid: https://www.cortell.net/2007/02/07/otro-ejemplo-y-van-mil-de-negocio-musical-alternativo/
 permalink: /2007/02/07/otro-ejemplo-y-van-mil-de-negocio-musical-alternativo/
 categories:
   - CiberDerechos
@@ -18,6 +18,6 @@ Katitza comenta en la lista de CPSR (eliminio los refentes especí­ficos a Per�
 
 **Esta banda ha utilizado distintos mecanismos de redes sociales para difundir su música**: Desde del.icio.us, redes p2p como bitTTorrent, Jamendo, Myspace, Youtube, Hi5 hasta liberar su música bajo una licencia Creative Commons Atribución, No Comercial, Compartir por Igual, herramientas de la web 2.0 que todo artista deberí­a conocer.
 
-<a target="_blank" title="Concierto" href="http://www.txitua.org/index.php/concierto-blog-musica/">Disfrútenlo</a>
+<a target="_blank" title="Concierto" href="https://www.txitua.org/index.php/concierto-blog-musica/">Disfrútenlo</a>
 
-<a target="_blank" title="blog" href="http://www.txitua.org/index.php/concierto-blog-musica/">Referencias</a>
+<a target="_blank" title="blog" href="https://www.txitua.org/index.php/concierto-blog-musica/">Referencias</a>

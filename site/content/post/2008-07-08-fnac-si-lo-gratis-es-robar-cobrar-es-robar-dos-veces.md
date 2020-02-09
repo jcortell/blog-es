@@ -4,7 +4,7 @@ title: 'FNAC: Si lo gratis es robar, cobrar es robar dos veces'
 date: 2008-07-08T06:51:28+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1264
+guid: https://www.cortell.net/?p=1264
 permalink: /2008/07/08/fnac-si-lo-gratis-es-robar-cobrar-es-robar-dos-veces/
 categories:
   - CiberDerechos
@@ -15,7 +15,7 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-Como me recuerda Luis (sobre esto ya quería haber posteado hace un par de semanas, pero se me pasó) en el boletín de la FNAC dicen que si compras 3 productos de música te regalan un libro llamado: "La gratuidad es el robo" de Denis Olivennes [leed [prólogo](http://multimedia.fnac.es/00ver/dia_musica/prologo_semprun.pdf "PDF") y alucinad]. Este payo no es otro que es el "autor intelectual" del crimen de ley sobre la que he hablado en el <a title="modelo francés" href="http://www.cortell.net/2008/07/08/el-modelo-frances-el-peor-de-ambos-mundos-el-que-queremos-copiar/" target="_blank">post anterior</a> (y que cazurros como somos en España, queremos copiar), y ex-director de la propia FNAC. Más info [aquí](http://obm.corcoles.net/20080618/fnac-y-propaganda/ "post").
+Como me recuerda Luis (sobre esto ya quería haber posteado hace un par de semanas, pero se me pasó) en el boletín de la FNAC dicen que si compras 3 productos de música te regalan un libro llamado: "La gratuidad es el robo" de Denis Olivennes [leed [prólogo](https://multimedia.fnac.es/00ver/dia_musica/prologo_semprun.pdf "PDF") y alucinad]. Este payo no es otro que es el "autor intelectual" del crimen de ley sobre la que he hablado en el <a title="modelo francés" href="https://www.cortell.net/2008/07/08/el-modelo-frances-el-peor-de-ambos-mundos-el-que-queremos-copiar/" target="_blank">post anterior</a> (y que cazurros como somos en España, queremos copiar), y ex-director de la propia FNAC. Más info [aquí](https://obm.corcoles.net/20080618/fnac-y-propaganda/ "post").
 
 Y yo me pregunto: si permiten leer el prólogo GRATIS, si permiten ojear las revistas en la FNAC GRATIS, si permiten escuchar la música en la tienda GRATIS... ¿no es eso robar? ¿O como promociona ventas eso no cuenta?
 

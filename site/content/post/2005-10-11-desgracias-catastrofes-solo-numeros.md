@@ -4,7 +4,7 @@ title: Desgracias, catástrofes -¿sólo números?
 date: 2005-10-11T08:48:13+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2005/10/11/desgracias-catastrofes-%c2%bfsolo-numeros/'
+guid: 'https://www.cortell.net/2005/10/11/desgracias-catastrofes-%c2%bfsolo-numeros/'
 permalink: /2005/10/11/desgracias-catastrofes-solo-numeros/
 categories:
   - General
@@ -14,7 +14,7 @@ categories:
 ---
 Terremotos, inundaciones, huracanes, incenios... las catástrofes (más o menos naturales) son una desgracia, algo terrible, duro, triste, y que nos deberí­a mover a todos a la compasión y a la solidaridad. Pero no admiten mucho comentario, pues la muerte es parte fundamental de la vida (tal y como la entendemos los humanos).
 
-Ahora bien, el tratamiento informativo desigual por parte de los medios de comunicación de masas (que son al fin y al cabo los que generan y manipulan los estados de opinión) de catástrofes como la de Nueva Orleans o la de [Pakistán](http://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id=17060), es bochornoso. No acepto la excusa de que desde EEUU llegaban más documentos (visuales y sonoros) y por lo tanto era más fácil otorgarle espacio de programación. Mentira y gorda. Además, es el trabajo de los medios el obtener esos documentos cuando no los hay o escasean.
+Ahora bien, el tratamiento informativo desigual por parte de los medios de comunicación de masas (que son al fin y al cabo los que generan y manipulan los estados de opinión) de catástrofes como la de Nueva Orleans o la de [Pakistán](https://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id=17060), es bochornoso. No acepto la excusa de que desde EEUU llegaban más documentos (visuales y sonoros) y por lo tanto era más fácil otorgarle espacio de programación. Mentira y gorda. Además, es el trabajo de los medios el obtener esos documentos cuando no los hay o escasean.
 
 Esto es lo que me ha enviado TheVirusOfLife, un lector, al respecto, y como me parece bastante acertado lo reproduzco con su permiso:
 

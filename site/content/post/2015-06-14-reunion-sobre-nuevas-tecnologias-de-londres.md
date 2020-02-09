@@ -4,7 +4,7 @@ title: Reunión sobre Nuevas Tecnologías de Londres
 date: 2015-06-14T16:59:26+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5516
+guid: https://blog.cortell.net/es/?p=5516
 permalink: /2015/06/14/reunion-sobre-nuevas-tecnologias-de-londres/
 categories:
   - General

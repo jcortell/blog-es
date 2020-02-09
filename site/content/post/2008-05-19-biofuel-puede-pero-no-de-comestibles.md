@@ -4,7 +4,7 @@ title: BioFuel? Puede, pero NO de COMESTIBLES
 date: 2008-05-19T09:18:00+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1216
+guid: https://www.cortell.net/?p=1216
 permalink: /2008/05/19/biofuel-puede-pero-no-de-comestibles/
 categories:
   - General

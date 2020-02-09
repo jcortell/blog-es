@@ -18,13 +18,13 @@ Del 25 al 29 de marzo "tuvimos que" acompañar a unos amigos que visitaban Ibiza
 
 <!--more-->
 
-Nuestros amigos Megan Roberts, compositora y artista de nuevos medios, y Raymond Ghirardo, escultor y artista de nuevos medios, [ambos](http://www.roberts-ghirardo.net) profesores de arte retirados de Ithaca College, se fueron de Valencia después de [visitar Fallas](https://bloges.cortell.net/2018/03/fallas-con-amigos/) con nosotros. Pasaron unos días en Alicante y luego nos pidieron que nos reuniéramos con ellos durante casi una semana en Ibiza. ¡¡Menudo sacrificio!!
+Nuestros amigos Megan Roberts, compositora y artista de nuevos medios, y Raymond Ghirardo, escultor y artista de nuevos medios, [ambos](https://www.roberts-ghirardo.net) profesores de arte retirados de Ithaca College, se fueron de Valencia después de [visitar Fallas](https://bloges.cortell.net/2018/03/fallas-con-amigos/) con nosotros. Pasaron unos días en Alicante y luego nos pidieron que nos reuniéramos con ellos durante casi una semana en Ibiza. ¡¡Menudo sacrificio!!
 
 Por supuesto, Ibiza es mi lugar favorito en el mundo, junto con Japón. Así que disfruté muchísimo.
 
 Después de recogerlos en Alicante, fuimos a El Portet, en Moraira, para tomar un almuerzo, y luego subimos al Ferry de Denia a Ibiza.
 
-Nos alojamos en el fabuloso [Hotel Sir Joan](http://www.sirhotels.com/joan), al lado de Pacha. Ya que llevamos mi coche con el ferry, viajamos por toda la isla. Después de la visita obligada a Dalt Vila, comimos en lugares excelentes, desde bares de tapas a cabañas de playa a restaurantes de la Guía Michelin, como:
+Nos alojamos en el fabuloso [Hotel Sir Joan](https://www.sirhotels.com/joan), al lado de Pacha. Ya que llevamos mi coche con el ferry, viajamos por toda la isla. Después de la visita obligada a Dalt Vila, comimos en lugares excelentes, desde bares de tapas a cabañas de playa a restaurantes de la Guía Michelin, como:
 
 - El Zaguan
 - Mar A Vila (increíbles pinchos)

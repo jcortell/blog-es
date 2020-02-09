@@ -4,7 +4,7 @@ title: Sumergido en verde
 date: 2010-11-23T10:05:47+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2732
+guid: https://cortell.net/blog/?p=2732
 permalink: /2010/11/23/sumergido-en-verde/
 categories:
   - General

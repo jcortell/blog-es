@@ -4,7 +4,7 @@ title: Re-diseñando un interfaz de la NASA
 date: 2016-07-10T14:31:54+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5850
+guid: https://blog.cortell.net/es/?p=5850
 permalink: /2016/07/10/re-disenando-un-interfaz-de-la-nasa/
 categories:
   - Ciencias

@@ -4,11 +4,11 @@ title: 'Jorge Cortell apoya (y explica) la nueva campaña ‘antipiraterí­a‘
 date: 2005-12-22T09:16:04+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/12/22/jorge-cortell-apoya-y-explica-la-nueva-campana-antipirateria-del-ministerio-de-cultura-defiende-tu-cultura/
+guid: https://www.cortell.net/2005/12/22/jorge-cortell-apoya-y-explica-la-nueva-campana-antipirateria-del-ministerio-de-cultura-defiende-tu-cultura/
 permalink: /2005/12/22/jorge-cortell-apoya-y-explica-la-nueva-campana-antipirateria-del-ministerio-de-cultura-defiende-tu-cultura/
 enclosure:
   - |
-    http://www.alexbeltran.com/anuncio/Newspot.mov
+    https://www.alexbeltran.com/anuncio/Newspot.mov
     4176568
     video/quicktime
 categories:
@@ -20,7 +20,7 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-Según [relata](http://www.elmundo.es/navegante/2005/12/15/esociedad/1134651388.html) Carlos del Amo (Agencia EFE) en El Mundo _‘Defiende tu cultura‘ es el tí­tulo de la nueva campaña del Ministerio de Cultura contra la ‘piraterí­a‘. La ministra Carmen Calvo la ha presentado con la "idea de defender la cultura y la diversidad cultural" y concienciar a los ciudadanos de los malos de la ‘piraterí­a‘. "Una sociedad vale lo que valen sus ideas; si dejamos que nos la roben, -¿qué nos queda?" es una de las frases clave de esta campaña publicitaria._
+Según [relata](https://www.elmundo.es/navegante/2005/12/15/esociedad/1134651388.html) Carlos del Amo (Agencia EFE) en El Mundo _‘Defiende tu cultura‘ es el tí­tulo de la nueva campaña del Ministerio de Cultura contra la ‘piraterí­a‘. La ministra Carmen Calvo la ha presentado con la "idea de defender la cultura y la diversidad cultural" y concienciar a los ciudadanos de los malos de la ‘piraterí­a‘. "Una sociedad vale lo que valen sus ideas; si dejamos que nos la roben, -¿qué nos queda?" es una de las frases clave de esta campaña publicitaria._
 
 No podrí­a estar más de acuerdo. Por fin el Ministerio se pone de nuestro lado y denuncia a los que nos roban la cultura (las discográficas, multinacionales, editoriales, productoras, y suciedades de gestión) y nos privan de la diversidad cultural (2 multinacionales controlan el 85% de la música que se distribuye en el mundo).
 
@@ -38,4 +38,4 @@ Aunque, bien pensado -¿alguien cree que esa campaña, concentrada en esas fecha
 
 Pues yo lo tengo muy claro: A DESCARGAR, ahora que aun tienes derecho. Mañana ya llorarás cuando te quiten el acceso libre a la cultura (por el cual se supone que la Constitución Española hace velar al Gobierno). Pero este año, regala cultura: descarga, copia, comparte, y regala. (Y si te atreves, crea y comparte: verás que satisfacción).
 
-[Actualización: este es el dichoso [anuncio](http://www.alexbeltran.com/anuncio/Newspot.mov), versión TV, con un pequeño añadido de puntualización al final]
+[Actualización: este es el dichoso [anuncio](https://www.alexbeltran.com/anuncio/Newspot.mov), versión TV, con un pequeño añadido de puntualización al final]

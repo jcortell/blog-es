@@ -4,7 +4,7 @@ title: 'Hacer bueno lo que hay, por malo que sea: alquiler o propiedad de vivien
 date: 2007-09-10T17:00:12+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/09/10/hacer-bueno-lo-que-hay-por-malo-que-sea-alquiler-o-propiedad-de-vivienda/
+guid: https://www.cortell.net/2007/09/10/hacer-bueno-lo-que-hay-por-malo-que-sea-alquiler-o-propiedad-de-vivienda/
 permalink: /2007/09/10/hacer-bueno-lo-que-hay-por-malo-que-sea-alquiler-o-propiedad-de-vivienda/
 categories:
   - General
@@ -12,7 +12,7 @@ categories:
   - Otras cosas
   - Sociedad y polí­tica
 ---
--¿Por qué insisten en "<a target="_blank" title="Entrevista Carmén Chacón" href="http://www.informativos.telecinco.es/chacon/vivienda_alquiler/entrevista/dn_53697.htm">hacer bueno</a>" lo que hay, si lo que hay es malo?
+-¿Por qué insisten en "<a target="_blank" title="Entrevista Carmén Chacón" href="https://www.informativos.telecinco.es/chacon/vivienda_alquiler/entrevista/dn_53697.htm">hacer bueno</a>" lo que hay, si lo que hay es malo?
 
 El Gobierno (me da igual de qué color es, haya sido, o vaya a ser) se empeña en fomentar el alquiler. Nos quieren vender la burra de que "en otros sitios es así­", la "cultura del alquiler", etc. Pero, -¿por qué? Muy sencillo: porque la forma de que se financien los ayuntamientos es crear escasez artificial para forzar al alza el precio del suelo, y así­ mangonear directa o indirectamente.
 

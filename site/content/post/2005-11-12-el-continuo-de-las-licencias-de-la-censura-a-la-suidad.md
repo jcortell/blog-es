@@ -4,7 +4,7 @@ title: 'El continuo de las licencias: de la censura a la suidad'
 date: 2005-11-12T02:55:53+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/11/12/el-continuo-de-las-licencias-de-la-censura-a-la-suidad/
+guid: https://www.cortell.net/2005/11/12/el-continuo-de-las-licencias-de-la-censura-a-la-suidad/
 permalink: /2005/11/12/el-continuo-de-las-licencias-de-la-censura-a-la-suidad/
 categories:
   - CiberDerechos

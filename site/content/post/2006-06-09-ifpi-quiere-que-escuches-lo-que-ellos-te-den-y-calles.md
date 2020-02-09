@@ -4,7 +4,7 @@ title: IFPI quiere que escuches lo que ellos te den y calles
 date: 2006-06-09T08:32:43+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/06/09/ifpi-quiere-que-escuches-lo-que-ellos-te-den-y-calles/
+guid: https://www.cortell.net/2006/06/09/ifpi-quiere-que-escuches-lo-que-ellos-te-den-y-calles/
 permalink: /2006/06/09/ifpi-quiere-que-escuches-lo-que-ellos-te-den-y-calles/
 categories:
   - CiberDerechos
@@ -14,7 +14,7 @@ categories:
   - Rants
   - Technology
 ---
-Según <a target="_blank" title="BBC: Tiscali to close Juke Box" href="http://news.bbc.co.uk/2/hi/entertainment/5055744.stm">este artí­culo de la BBC</a>, la International Federation of the Phonographic Industry (IFPI) ha obligado al ISP Tiscali a cerrar su tienda de música online Juke Box. -¿El motivo? **Ofrecer demasiada interactividad**, como por ejemplo, hacer búsqueda por autor.
+Según <a target="_blank" title="BBC: Tiscali to close Juke Box" href="https://news.bbc.co.uk/2/hi/entertainment/5055744.stm">este artí­culo de la BBC</a>, la International Federation of the Phonographic Industry (IFPI) ha obligado al ISP Tiscali a cerrar su tienda de música online Juke Box. -¿El motivo? **Ofrecer demasiada interactividad**, como por ejemplo, hacer búsqueda por autor.
 
 En EEUU Tiscali mantiene su Juke Box abierta, y le parece bien incluso a la temible y terrible Recording Industry Association of America (RIAA). Pero en Europa no. Aquí­ tenemos que escuchar lo que nos digan. Tenemos que hacer lo que nos digan. Tenemos que tragar con lo que nos digan.
 

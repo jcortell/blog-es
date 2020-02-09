@@ -4,7 +4,7 @@ title: Hay algo que la Industria Discográfica teme más que la reducción de be
 date: 2005-10-11T09:37:49+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/10/11/hay-algo-que-la-industria-discografica-teme-mas-que-la-reduccion-de-beneficios/
+guid: https://www.cortell.net/2005/10/11/hay-algo-que-la-industria-discografica-teme-mas-que-la-reduccion-de-beneficios/
 permalink: /2005/10/11/hay-algo-que-la-industria-discografica-teme-mas-que-la-reduccion-de-beneficios/
 categories:
   - CiberDerechos
@@ -12,9 +12,9 @@ categories:
   - General
   - Rants
 ---
-Steve Jobs [denunció](http://www.20minutos.es/noticia/49397/0/Apple/musica/iTunes/) hace unos dí­as la presión por parte de la Industria Discográfica estadounidense para que la música digital sea más cara.
+Steve Jobs [denunció](https://www.20minutos.es/noticia/49397/0/Apple/musica/iTunes/) hace unos dí­as la presión por parte de la Industria Discográfica estadounidense para que la música digital sea más cara.
 
-Luego la Industria Discográfica japonesa ha [pedido](http://www.20minutos.es/noticia/55192/0/ipod/apple/mp3/) que se tase los reproductores digitales de música con una tasa que elevarí­a su coste un 5%.
+Luego la Industria Discográfica japonesa ha [pedido](https://www.20minutos.es/noticia/55192/0/ipod/apple/mp3/) que se tase los reproductores digitales de música con una tasa que elevarí­a su coste un 5%.
 
 Supongo que la Industria Discográfica española, o la voz de su amo SGAE o Promusicae, pronto presionarán al gobierno solicitando medidas similares.
 

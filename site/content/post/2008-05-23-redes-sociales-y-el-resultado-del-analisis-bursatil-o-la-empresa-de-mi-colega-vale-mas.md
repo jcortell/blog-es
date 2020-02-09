@@ -4,7 +4,7 @@ title: 'Redes sociales y el resultado del análisis bursátil (o &quot;la empres
 date: 2008-05-23T17:34:50+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1219
+guid: https://www.cortell.net/?p=1219
 permalink: /2008/05/23/redes-sociales-y-el-resultado-del-analisis-bursatil-o-la-empresa-de-mi-colega-vale-mas/
 categories:
   - General
@@ -14,4 +14,4 @@ Andrea Frazzini de la Universidad de Chicago, junto con Lauren Cohen y Christoph
 
 Por cierto, ese nexo existe y es tan fuerte tanto en universidades de élite (_Ivy-league_) como en el resto, con lo que es un fenómeno generalizado.
 
-Este es el estudio completo "Sell Side School Ties" [[PDF](http://www.hbs.edu/research/pdf/08-074.pdf){.pdf.offsite}].
+Este es el estudio completo "Sell Side School Ties" [[PDF](https://www.hbs.edu/research/pdf/08-074.pdf){.pdf.offsite}].

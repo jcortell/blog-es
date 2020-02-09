@@ -4,7 +4,7 @@ title: Hagamos como si esto no hubiese ocurrido
 date: 2016-02-05T10:41:31+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5727
+guid: https://blog.cortell.net/es/?p=5727
 permalink: /2016/02/05/hagamos-como-si-esto-no-hubiese-ocurrido/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -73,7 +73,7 @@ con la esperanza de que él estuviese ensuciando la pared con su orina,
   
 Veo la última ironía sociales:
   
-dentro de la galería de arte <a href="http://www.bloombergspace.com/artists/upcoming/tim-etchells/" target="_blank">Bloomberg Space</a>
+dentro de la galería de arte <a href="https://www.bloombergspace.com/artists/upcoming/tim-etchells/" target="_blank">Bloomberg Space</a>
   
 un letrero de neón
   

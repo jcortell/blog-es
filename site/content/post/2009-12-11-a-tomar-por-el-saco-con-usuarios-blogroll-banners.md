@@ -4,7 +4,7 @@ title: 'A tomar por el saco con usuarios, blogroll, banners...'
 date: 2009-12-11T00:34:02+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2426
+guid: https://cortell.net/blog/?p=2426
 permalink: /2009/12/11/a-tomar-por-el-saco-con-usuarios-blogroll-banners/
 categories:
   - ¿Por qué no? ¿Utopías?

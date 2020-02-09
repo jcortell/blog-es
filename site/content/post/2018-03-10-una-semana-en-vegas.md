@@ -18,7 +18,7 @@ Pasé una semana en Las Vegas participando en la feria HIMSS, como expositor y c
 
 <!--more-->
 
-Entre el 5 de marzo y el 10 de marzo estuve en Las Vegas con mi compañía, Kanteron Systems, como ([expositor] (https://exhibitionfloor.himss.org/himss2018/Public/Exhibitors.aspx?Index=K#) en la feria ([HIMSS] (http://www.himssconference.org/). También participé en ([Google] (https://www.blog.google/topics/google-cloud/google-cloud-healthcare- new-apis-clients-partners-and-security-updates /) Partner Panel:
+Entre el 5 de marzo y el 10 de marzo estuve en Las Vegas con mi compañía, Kanteron Systems, como ([expositor] (https://exhibitionfloor.himss.org/himss2018/Public/Exhibitors.aspx?Index=K#) en la feria ([HIMSS] (https://www.himssconference.org/). También participé en ([Google] (https://www.blog.google/topics/google-cloud/google-cloud-healthcare- new-apis-clients-partners-and-security-updates /) Partner Panel:
 https://www.linkedin.com/feed/update/urn:li:activity:6377275573068271616
 
 También hubo un montón de fiestas, recepciones, cócteles y reuniones sociales similares..

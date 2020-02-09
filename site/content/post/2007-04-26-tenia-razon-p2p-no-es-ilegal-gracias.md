@@ -4,7 +4,7 @@ title: 'Tení­a razón: P2P no es ilegal (penal). Gracias.'
 date: 2007-04-26T21:05:05+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/04/26/tenia-razon-p2p-no-es-ilegal-gracias/
+guid: https://www.cortell.net/2007/04/26/tenia-razon-p2p-no-es-ilegal-gracias/
 permalink: /2007/04/26/tenia-razon-p2p-no-es-ilegal-gracias/
 categories:
   - CiberDerechos
@@ -16,7 +16,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-Victor me avisa que mi idolatrado <a title="Artí­culo original" target="_blank" href="http://www.bufetalmeida.com/191/la-enmienda-numero-13.html">Bufet Almeida publica lo siguiente</a>. Copio y pego:
+Victor me avisa que mi idolatrado <a title="Artí­culo original" target="_blank" href="https://www.bufetalmeida.com/191/la-enmienda-numero-13.html">Bufet Almeida publica lo siguiente</a>. Copio y pego:
 
 ==================
   
@@ -30,9 +30,9 @@ La Directiva establece finalmente en su artí­culo 3 que los Estados miembros v
 
 La nueva Directiva impone en la práctica a los estados miembros la obligación de adaptar sus legislaciones a lo dispuesto en la misma. Se sitúa así­ en el punto de mira penal a los portales P2P que sin contar con la autorización de los titulares de derechos de autor **obtengan beneficios comerciales**. Ello no obstante, y **en virtud de la enmienda número 13**, **el artí­culo 2 de la Directiva excluye la punibilidad de los actos efectuados por usuarios privados con fines personales y no lucrativos**.
 
-<a title="Propuesta" target="_blank" href="http://eur-lex.europa.eu/LexUriServ/site/es/com/2005/com2005_0276es01.pdf">Propuesta de Directiva</a>
+<a title="Propuesta" target="_blank" href="https://eur-lex.europa.eu/LexUriServ/site/es/com/2005/com2005_0276es01.pdf">Propuesta de Directiva</a>
 
-<a title="Enmiendas" target="_blank" href="http://www.europarl.europa.eu/sides/getDoc.do?Type=REPORT&Reference=A6-2007-0073&language=ES">Enmiendas aprobadas en la votación final</a>
+<a title="Enmiendas" target="_blank" href="https://www.europarl.europa.eu/sides/getDoc.do?Type=REPORT&Reference=A6-2007-0073&language=ES">Enmiendas aprobadas en la votación final</a>
 
 ==================
 

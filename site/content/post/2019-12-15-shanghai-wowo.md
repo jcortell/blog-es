@@ -24,7 +24,7 @@ Me alojé en el [Renaissance Shanghai Yu Garden Hotel](https://www.marriott.com/
 
 El Jardín Yuyuan (豫園, o Jardín de la Felicidad) se construyó por primera vez en 1559 durante la dinastía Ming, y es un extenso jardín chino ubicado junto al Templo del Dios de la Ciudad en el noreste de la Ciudad Vieja de Shanghai en Huangpu Qu. Abarca el Centro Comercial Turístico Yuyuan, la Casa de Té Huxinting y el Bazar Yu Garden. Echa un vistazo a las fotos. Es asombroso.
 
-Después de eso, y de camino al evento, me detuve en el [Museo de Arte Rockbund (RAM)](http://www.rockbundartmuseum.org/en/). Visité una exposición flojilla [Hugo Boss Asia Art 2019](http://www.rockbundartmuseum.org/en/exhibition/overview/166crsn). Pero el arte siempre vale la pena, por lo que no me quejaré.
+Después de eso, y de camino al evento, me detuve en el [Museo de Arte Rockbund (RAM)](https://www.rockbundartmuseum.org/en/). Visité una exposición flojilla [Hugo Boss Asia Art 2019](https://www.rockbundartmuseum.org/en/exhibition/overview/166crsn). Pero el arte siempre vale la pena, por lo que no me quejaré.
 
 El evento al que fui invitado, el evento de Innovación de Protección WoWo-Fosun, se celebró en el Hyatt en el Bund Shanghai. Después del evento, me dirigí a la sala de té para tomar un té de negocios con un socio finlandés.
 

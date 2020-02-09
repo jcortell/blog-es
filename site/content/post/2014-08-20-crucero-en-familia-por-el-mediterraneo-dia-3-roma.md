@@ -4,7 +4,7 @@ title: 'Crucero en familia por el Mediterráneo, día 3: Roma'
 date: 2014-08-20T13:41:42+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5233
+guid: https://blog.cortell.net/es/?p=5233
 permalink: /2014/08/20/crucero-en-familia-por-el-mediterraneo-dia-3-roma/
 categories:
   - General

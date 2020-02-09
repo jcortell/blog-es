@@ -18,7 +18,7 @@ Para asistir a una reunión del Grupo de Expertos en *Venture Philanthropy* e In
 
 <!--more-->
 
-El día 1 fue bastante aburrido: ir a la Comisión de la UE, asistir a una reunión, hacer propuestas legislativas y reglamentarias, cenar deliciosas clóchinas con patatas fritas en [Aux Armes de Bruxelles](http://www.auxarmesdebruxelles.com/en/), e ir al hotel. Por cierto, tengo que recordar no quedarme otra vez en ese [hotel](https://www.nh-hotels.com/hotel/nh-brussels-carrefour-de-l-europe) de nuevo. Si bien la ubicación es excelente, la wifi es insufrible y lenta.
+El día 1 fue bastante aburrido: ir a la Comisión de la UE, asistir a una reunión, hacer propuestas legislativas y reglamentarias, cenar deliciosas clóchinas con patatas fritas en [Aux Armes de Bruxelles](https://www.auxarmesdebruxelles.com/en/), e ir al hotel. Por cierto, tengo que recordar no quedarme otra vez en ese [hotel](https://www.nh-hotels.com/hotel/nh-brussels-carrefour-de-l-europe) de nuevo. Si bien la ubicación es excelente, la wifi es insufrible y lenta.
 
 El día 2, por otro lado, fue mucho más divertido. Al ser mi "día libre", decidí ir a ver varias exposiciones.
 
@@ -40,4 +40,4 @@ En Bozar hay tantos eventos a la vez que no trataré de enumerar todo lo que vi,
 
 Con esa sobredosis de arte, diseño e ideas increíbles, fui a la tienda y terminé comprando tres libros. Sé que me prometí solo comprar versiones digitales y usar mi lector de libros electrónicos, pero ...
 
-En el camino de regreso al hotel, y antes de la cena en [Chez Léon](http://www.chezleon.be/en/), me detuve en Neuhaus [Neuhaus](https://www.neuhauschocolates.com/en /), y compré mi tributo de chocolate para que me dejen regresar a casa :D
+En el camino de regreso al hotel, y antes de la cena en [Chez Léon](https://www.chezleon.be/en/), me detuve en Neuhaus [Neuhaus](https://www.neuhauschocolates.com/en /), y compré mi tributo de chocolate para que me dejen regresar a casa :D

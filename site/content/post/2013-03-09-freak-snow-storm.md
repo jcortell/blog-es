@@ -4,7 +4,7 @@ title: Freak snow storm
 date: 2013-03-09T22:28:20+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4614
+guid: https://cortell.net/blog/?p=4614
 permalink: /2013/03/09/freak-snow-storm/
 wpsd_autopost:
   - "1"

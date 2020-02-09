@@ -4,7 +4,7 @@ title: Feed solucionado, próximos artí­culos
 date: 2005-06-07T07:00:24+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/06/07/feed-solucionado-proximos-articulos/
+guid: https://www.cortell.net/2005/06/07/feed-solucionado-proximos-articulos/
 permalink: /2005/06/07/feed-solucionado-proximos-articulos/
 categories:
   - General

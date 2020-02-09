@@ -4,7 +4,7 @@ title: 'Guisantes en camisetas: lo último en acoso judicial'
 date: 2006-02-27T14:22:05+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/02/27/guisantes-en-camisetas-lo-ultimo-en-acoso-judicial/
+guid: https://www.cortell.net/2006/02/27/guisantes-en-camisetas-lo-ultimo-en-acoso-judicial/
 permalink: /2006/02/27/guisantes-en-camisetas-lo-ultimo-en-acoso-judicial/
 categories:
   - CiberDerechos
@@ -13,7 +13,7 @@ categories:
   - Noticias
   - Rants
 ---
-Como podéis ver en [este sitio](http://www.sourpeas.org/), mi teorí­a del terrorismo judicial (el acusar y llevar a jucio a aquellos que no se pueden defender, y por lo tanto han de aceptar un "acuerdo extrajudicial" que no es más que pagar dinero a cambio de que no les llevan a juicio) en EEUU con la excusa del copyright no deja de crecer.
+Como podéis ver en [este sitio](https://www.sourpeas.org/), mi teorí­a del terrorismo judicial (el acusar y llevar a jucio a aquellos que no se pueden defender, y por lo tanto han de aceptar un "acuerdo extrajudicial" que no es más que pagar dinero a cambio de que no les llevan a juicio) en EEUU con la excusa del copyright no deja de crecer.
 
 En este caso se trata de un infame abogado de Miami (Alexander E. Barthet), quien, en nombre de su cliente (Sweet Pea Limited, Inc.) acusa con llevar a juicio a empresas e indiví­duos que se atrevan a vender cualquier prenda de ropa que lleve la inscripción "Sweet Pea", la cual está registrada para su uso en ropa por la mencionada empresa.
 

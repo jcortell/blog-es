@@ -4,7 +4,7 @@ title: '-¿Empresas como candidatos a la presidencia? JAMAS... (-¿o Hamas?)'
 date: 2007-08-07T09:03:09+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2007/08/07/%c2%bfempresas-como-candidatos-a-la-presidencia-jamas-%c2%bfo-hamas/'
+guid: 'https://www.cortell.net/2007/08/07/%c2%bfempresas-como-candidatos-a-la-presidencia-jamas-%c2%bfo-hamas/'
 permalink: /2007/08/07/empresas-como-candidatos-a-la-presidencia-jamas-o-hamas/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -12,7 +12,7 @@ categories:
   - General
   - Sociedad y polí­tica
 ---
-Eric D. Werker, un _assistant professor_ de la unidad de _Business, Government and the International Economy_ de la _Harvard Business School_, ha escrito un <a target="_blank" title="Artí­culo ne HBS" href="http://hbswk.hbs.edu/item/5730.html">artí­culo</a> proponiendo que las empresas serí­an unos candidatos ideales para presentarse a la presidencia de paí­ses corruptos.
+Eric D. Werker, un _assistant professor_ de la unidad de _Business, Government and the International Economy_ de la _Harvard Business School_, ha escrito un <a target="_blank" title="Artí­culo ne HBS" href="https://hbswk.hbs.edu/item/5730.html">artí­culo</a> proponiendo que las empresas serí­an unos candidatos ideales para presentarse a la presidencia de paí­ses corruptos.
   
 Para empezar, esa inaceptable y escandalos propuesta es en sí­ ofensiva, pues en muchos casos esas empresas que propone son las principales promotoras de la corrupción de los gobiernos. Está claro que la falta de educación del electorado, de sistemas de control, de medios de comunicación independientes, etc. hacen posible un sistema corrupto. Pero también es cierto que sin empresas corruptoras (e instituciones facilitadoras como el Banco Mundial y el Fondo Monetario Internacional) no existirí­a la corrupción a gran escala.
 

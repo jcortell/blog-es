@@ -4,7 +4,7 @@ title: 'La mafia de la &quot;propiedad intelectual&quot;: caso medicamentos'
 date: 2009-06-18T22:55:38+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1967
+guid: https://cortell.net/blog/?p=1967
 permalink: /2009/06/18/la-mafia-de-la-propiedad-intelectual-caso-medicamentos/
 categories:
   - ¿Por qué no? ¿Utopías?

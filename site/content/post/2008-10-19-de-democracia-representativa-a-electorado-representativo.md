@@ -4,7 +4,7 @@ title: De Democracia Representativa a ELECTORADO Representativo
 date: 2008-10-19T05:23:35+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1350
+guid: https://www.cortell.net/?p=1350
 permalink: /2008/10/19/de-democracia-representativa-a-electorado-representativo/
 categories:
   - Filosofí­a
@@ -14,7 +14,7 @@ categories:
 ---
 Los que no hayáis pasado los últimos meses en Marte, habréis oido hablar de Joe el Fontanero (Joe the plumber) y su papel en la campaña presidencial de EEUU.
 
-<img src="http://i2.cdn.turner.com/cnn/2008/POLITICS/10/16/joe.plumber/art.joe.wurzelbacher.gi.jpg" alt="http://i2.cdn.turner.com/cnn/2008/POLITICS/10/16/joe.plumber/art.joe.wurzelbacher.gi.jpg" width="292" height="219" />
+<img src="https://i2.cdn.turner.com/cnn/2008/POLITICS/10/16/joe.plumber/art.joe.wurzelbacher.gi.jpg" alt="https://i2.cdn.turner.com/cnn/2008/POLITICS/10/16/joe.plumber/art.joe.wurzelbacher.gi.jpg" width="292" height="219" />
 
 Pues bien, sin que se haya mencionado en los medios, y por supuesto sin él saberlo (porque así funcionan los juegos del poder, que no da explicaciones a aquellos sobre quienes ejerce dicho poder) esta nueva "figura mediática" ha marcado un hito en la Democracia occidental.
 

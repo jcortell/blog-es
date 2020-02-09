@@ -4,7 +4,7 @@ title: El Chief Data Officer de la Casa Blanca me asegura que la Casa Blanca apo
 date: 2016-03-08T13:02:36+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5743
+guid: https://blog.cortell.net/es/?p=5743
 permalink: /2016/03/08/el-chief-data-officer-de-la-casa-blanca-me-asegura-que-la-casa-blanca-apoya-el-cifrado-fuerte-y-se-opone-a-las-puertas-traseras/
 categories:
   - Uncategorized

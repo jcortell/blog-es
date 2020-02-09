@@ -4,7 +4,7 @@ title: La ocultación de bugs por ví­a de la amenaza judicial
 date: 2005-09-20T08:07:16+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=121
+guid: https://www.cortell.net/?p=121
 permalink: /2005/09/20/la-ocultacion-de-bugs-por-via-de-la-amenaza-judicial/
 categories:
   - CiberDerechos
@@ -13,9 +13,9 @@ categories:
   - Noticias
   - Rants
 ---
-Leo en el [blog](http://www.merodeando.com/blog/archivos/2005/09/06-yahoo-espana-exige-por-escrito-la-retirada-de-un-p.php) de Merodeando que Yahoo ha exigido la retirada de cierta información de un blog por contener una explicación de un bug (referente a descargas de ví­deos).
+Leo en el [blog](https://www.merodeando.com/blog/archivos/2005/09/06-yahoo-espana-exige-por-escrito-la-retirada-de-un-p.php) de Merodeando que Yahoo ha exigido la retirada de cierta información de un blog por contener una explicación de un bug (referente a descargas de ví­deos).
 
-Independientemente de lo absurdo de la exigencia de Yahoo (a nivel técnico [the Way Back Machine](http://www.waybackmachine.org/) con su caché de Internet que puede mostrarte páginas antiguas aunque hayan sido retiradas, y a nivel legal, pese a no ser abogado, no creo que tengan base jurí­dica para exigir dicha retirada; otra cosa es la "extorsión judicial" de "o haces lo que te pido, o te llevo a juicio, que como dice la maldición gitana, tengas juicios y los ganes").
+Independientemente de lo absurdo de la exigencia de Yahoo (a nivel técnico [the Way Back Machine](https://www.waybackmachine.org/) con su caché de Internet que puede mostrarte páginas antiguas aunque hayan sido retiradas, y a nivel legal, pese a no ser abogado, no creo que tengan base jurí­dica para exigir dicha retirada; otra cosa es la "extorsión judicial" de "o haces lo que te pido, o te llevo a juicio, que como dice la maldición gitana, tengas juicios y los ganes").
 
 Al hacer esto lo único que han hecho es darle más publicidad, por lo tanto mayor difusión. Pero no voy a meterme con la actuación de Yahoo (ya lo hacen en otros blogs, y es una noticia vieja... además Yahoo al hacer esto se descalifica ella solita). Lo que quisiera destacar es esa maldita tendencia sobre la que llevo hablando en varios artí­culos y conferencias de la "percepción de seguridad a través de la ocultación".
 

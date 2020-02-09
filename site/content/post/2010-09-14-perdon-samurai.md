@@ -4,7 +4,7 @@ title: Perdón Samurai
 date: 2010-09-14T10:02:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2625
+guid: https://cortell.net/blog/?p=2625
 permalink: /2010/09/14/perdon-samurai/
 categories:
   - Filosofí­a
@@ -13,7 +13,7 @@ categories:
   - Personal
   - Psicología
 ---
-Según el <a title="http://www.hyoho.com/Hagakure1.html" href="http://www.hyoho.com/Hagakure1.html" target="_blank">Hagakure</a> (de Yamamoto Tsunetomo, siglo XVIII):
+Según el <a title="https://www.hyoho.com/Hagakure1.html" href="https://www.hyoho.com/Hagakure1.html" target="_blank">Hagakure</a> (de Yamamoto Tsunetomo, siglo XVIII):
 
 > <div id="_mcePaste">
 >   In the eyes of mercy, no one should have hateful thoughts. Feel pity for the man who is even more at fault. The area and size of mercy is limitless. It is because mercy is so profound and expansive that the holy men of Tang, India and Japan are still respected to this day.

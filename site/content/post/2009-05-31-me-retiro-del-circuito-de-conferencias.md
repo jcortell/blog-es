@@ -4,7 +4,7 @@ title: Me retiro del circuito de conferenciantes
 date: 2009-05-31T01:14:41+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1938
+guid: https://cortell.net/blog/?p=1938
 permalink: /2009/05/31/me-retiro-del-circuito-de-conferencias/
 categories:
   - CiberDerechos
@@ -31,7 +31,7 @@ Hola Fernando,
 > </div>
 
 <div>
-  En los últimos años han surgido multitid de activistas en torno a este tema y por suerte ya no es algo minoritario. Hay mucha gente muy capaz de transmitir el mensaje, y de aportar nuevos enfoques e ideas. Os recomiendo (aunque por supuesto hay muchos otros) que contactéis con uno de los más veteranos y destacados conferenciantes en estos temas, <a title="http://www.filmica.com/david_bravo/" href="http://www.filmica.com/david_bravo/" target="_blank">David Bravo</a>, quien muy probablemente estará encantado de colaborar con vosotros, y seguro que os da información más útil e interesante de lo que yo hubiera podido. 
+  En los últimos años han surgido multitid de activistas en torno a este tema y por suerte ya no es algo minoritario. Hay mucha gente muy capaz de transmitir el mensaje, y de aportar nuevos enfoques e ideas. Os recomiendo (aunque por supuesto hay muchos otros) que contactéis con uno de los más veteranos y destacados conferenciantes en estos temas, <a title="https://www.filmica.com/david_bravo/" href="https://www.filmica.com/david_bravo/" target="_blank">David Bravo</a>, quien muy probablemente estará encantado de colaborar con vosotros, y seguro que os da información más útil e interesante de lo que yo hubiera podido. 
 </div>
 
 <div>

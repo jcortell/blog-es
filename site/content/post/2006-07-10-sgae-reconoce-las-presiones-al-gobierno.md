@@ -4,7 +4,7 @@ title: SGAE reconoce las presiones al gobierno
 date: 2006-07-10T08:03:52+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/07/10/sgae-reconoce-las-presiones-al-gobierno/
+guid: https://www.cortell.net/2006/07/10/sgae-reconoce-las-presiones-al-gobierno/
 permalink: /2006/07/10/sgae-reconoce-las-presiones-al-gobierno/
 categories:
   - CiberDerechos

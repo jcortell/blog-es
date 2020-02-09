@@ -4,7 +4,7 @@ title: Preguntas de humor, respuestas serias
 date: 2007-07-26T12:19:04+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/07/26/preguntas-de-humor-respuestas-serias/
+guid: https://www.cortell.net/2007/07/26/preguntas-de-humor-respuestas-serias/
 permalink: /2007/07/26/preguntas-de-humor-respuestas-serias/
 categories:
   - Geek Fun
@@ -12,11 +12,11 @@ categories:
   - Humor y curiosidades
   - Otras cosas
 ---
-En agujeronegro.com he visto esta página posteada por dogger, y titulada "<a target="_blank" title="Agujeronegro Dudas Cientí­ficas" href="http://www.agujero.com/modules.php?name=News&file=article&sid=776">Algunas dudas cientí­ficas...</a>" (para que luego digan que los "piratas" sólo copian ;-), y claro, no he podido resistir la tentación.
+En agujeronegro.com he visto esta página posteada por dogger, y titulada "<a target="_blank" title="Agujeronegro Dudas Cientí­ficas" href="https://www.agujero.com/modules.php?name=News&file=article&sid=776">Algunas dudas cientí­ficas...</a>" (para que luego digan que los "piratas" sólo copian ;-), y claro, no he podido resistir la tentación.
 
 Aunque en principio son preguntas con humor, muchas (que no todas) tienen explicación y respuesta lógica o cientí­fica. Intentaré dar mi respuesta más lógica y razonada (excepto que encuentre una razón más cientí­fica, en cuyo caso pondré el enlace). Veamos una por una:
 
-  * -¿<a title="respuesta" target="_blank" href="http://es.answers.yahoo.com/question/index?qid=20060818063116AAoRSUx">Por qué el sol aclara el pelo, y sin embargo oscurece la piel</a>?
+  * -¿<a title="respuesta" target="_blank" href="https://es.answers.yahoo.com/question/index?qid=20060818063116AAoRSUx">Por qué el sol aclara el pelo, y sin embargo oscurece la piel</a>?
   * -¿Por qué las mujeres no se pueden pintar las pestañas con la boca cerrada?: asumo que porque al concentrarse, el ser humano (no sólo las mujeres) relajan determinados músculos mientras tensan otros (según la actividad).
   * -¿Por qué nunca se ha visto en los titulares de un periódico: "Adivino gana la loterí­a"? Porque no hay adivinos. Fácil.
   * -¿Por qué el zumo de limón está hecho con sabor artificial y el lavavajillas está hecho con limones naturales? -¿Por cuestiones de caducidad en caso del zumo, y por razones económicas en caso del lavavajillas? Ni idea.
@@ -34,12 +34,12 @@ Aunque en principio son preguntas con humor, muchas (que no todas) tienen explic
   * -¿Por qué las mujeres con las curvas más aerodinámicas son las que más resistencia ofrecen? 😀 _No comment_.
   * El mundo es redondo y lo llamamos planeta, -¿si fuera plano lo llamarí­amos redondeta? En realidad "planeta" viene del griego Ï€Î»Î±Î½á½µÏ„Î· y significa "errante".
   * -¿Por qué cuando en el coche no vemos algo apagamos la radio? Porque para concentrarse cualquier _input_ innecesario interfiere, y como para "ver" no necesitas "oir"...
-  * Si un abogado enloquece, -¿pierde el juicio? 😀 Peor es que <a title="caso madres lesbianas" target="_blank" href="http://www.abc.es/20070724/nacional-nacional/bermejo-considera-margen-constitucion_200707241528.html">un juez enloquezca</a>.
+  * Si un abogado enloquece, -¿pierde el juicio? 😀 Peor es que <a title="caso madres lesbianas" target="_blank" href="https://www.abc.es/20070724/nacional-nacional/bermejo-considera-margen-constitucion_200707241528.html">un juez enloquezca</a>.
   * -¿Disfrutan tanto los infantes de la infancia como los adultos del adulterio? Infante (menor de 7 años, a parte d edeterminados aprientes del rey) e infancia sí­ están etimológicamente relacionados, pero adulto y adulterio no.
   * -¿Qué tiempo verbal es "no haber pasado"? -¿Preservativo imperfecto? De hecho, si no me equivoco, Infinitivo Perfecto.
   * Cuando una mujer está encinta... -¿está también en compact? 😀 La verdad es que cuando una mujer está en cinta, tiene poco de compact 😉
   * -¿Qué cuentan las ovejas para poder dormir? Nuestra inteligencia es menor de lo que nosotros mismos queremos admitir y esto se demuestra con el hecho de que todaví­a no sabemos con certeza si las ovejas saben contar (cantidad, sucesión, agrupación, temporalidad, etc) o no.
   * -¿Dónde está la otra mitad de Oriente Medio? En el Lejano Oriente.
   * -¿Por qué cuando llueve levantamos los hombros? -¿Acaso nos mojamos menos? Sí­, la zona del cuello que es muy sensible. Y además evitamos que el agua nos entre por la camisa.
-  * -¿<a title="Respuesta en Yahoo" target="_blank" href="http://es.answers.yahoo.com/question/index?qid=20061017225256AAqMynK">Por qué las magdalenas se ponen duras y las galletas blandas</a>?
-  * Y por último... -¿Por qué para apagar Windows hay que ir al botón de Inicio? Muy sencillo, porque lo ha diseñado <a title="Hacen el ridí­culo" target="_blank" href="http://www.cortell.net/hacen-el-ridiculo-microsoft/">Micro$oft</a>.
+  * -¿<a title="Respuesta en Yahoo" target="_blank" href="https://es.answers.yahoo.com/question/index?qid=20061017225256AAqMynK">Por qué las magdalenas se ponen duras y las galletas blandas</a>?
+  * Y por último... -¿Por qué para apagar Windows hay que ir al botón de Inicio? Muy sencillo, porque lo ha diseñado <a title="Hacen el ridí­culo" target="_blank" href="https://www.cortell.net/hacen-el-ridiculo-microsoft/">Micro$oft</a>.

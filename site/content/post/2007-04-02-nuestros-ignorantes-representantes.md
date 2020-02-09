@@ -4,14 +4,14 @@ title: '-¿Nuestros? IGNORANTES &quot;representantes&quot;'
 date: 2007-04-02T19:21:42+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2007/04/02/%c2%bfnuestros-ignorantes-representantes/'
+guid: 'https://www.cortell.net/2007/04/02/%c2%bfnuestros-ignorantes-representantes/'
 permalink: /2007/04/02/nuestros-ignorantes-representantes/
 categories:
   - Filosofí­a
   - General
   - Sociedad y polí­tica
 ---
-Gracias a Rita llego a <a title="post del Teleoperador" target="_blank" href="http://elteleoperador.blogspot.com/2007/03/correos-y-disfrutad.html">este post</a> del interesante Teleoperador en el que se puede ver un interesante intercambio epistolar entre Fernando Domí­nguez Vicente (secretario de la Dirección Provincial de Educación de la Delegación Territorial de Zamora de la Junta de Castilla y León, que fue suplente en la lista del PP al Senado por Zamora) y El Manifestómetro.
+Gracias a Rita llego a <a title="post del Teleoperador" target="_blank" href="https://elteleoperador.blogspot.com/2007/03/correos-y-disfrutad.html">este post</a> del interesante Teleoperador en el que se puede ver un interesante intercambio epistolar entre Fernando Domí­nguez Vicente (secretario de la Dirección Provincial de Educación de la Delegación Territorial de Zamora de la Junta de Castilla y León, que fue suplente en la lista del PP al Senado por Zamora) y El Manifestómetro.
 
 Lo interesante no es sólo el contenido de los mensajes. Realmente lo que es preocupante es la moraleja: -¿quién elige a los respresentantes como tales? -¿qué proceso siguen? -¿se confeccionan las listas por meritocracia, a dedo, por lameculismo...? -¿qué forma tenemos de verificarlo?
 

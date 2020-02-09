@@ -18,7 +18,7 @@ Durante los últimos dos meses hemos estado viviendo en Vancouver, ayudando a mi
 
 <!--more-->
 
-Disfrutamos muchos aspectos de la ciudad, desde la abundancia de restaurantes asiáticos (como [Kita no Donburi](https://kita-no-donburi.com/) o [New Town Bakery & Restaurant](http: //www.newtownbakery.ca/)) y supermercados (como [T&T](https://www.tntsupermarket.com/)), a lo muy amables que son los canadienses en general. También [disfrutamos el MOA](https://blog.cortell.net/2020/01/moa-vancouver/) mucho. Pero si hay algo que definitivamente NO disfrutamos fue el clima. Siempre nublado, tan nublado que el cielo es solo una pantalla gris. Y mojado. Llueve todo el tiempo. Lo bueno es que casi nunca nieva.
+Disfrutamos muchos aspectos de la ciudad, desde la abundancia de restaurantes asiáticos (como [Kita no Donburi](https://kita-no-donburi.com/) o [New Town Bakery & Restaurant](https: //www.newtownbakery.ca/)) y supermercados (como [T&T](https://www.tntsupermarket.com/)), a lo muy amables que son los canadienses en general. También [disfrutamos el MOA](https://blog.cortell.net/2020/01/moa-vancouver/) mucho. Pero si hay algo que definitivamente NO disfrutamos fue el clima. Siempre nublado, tan nublado que el cielo es solo una pantalla gris. Y mojado. Llueve todo el tiempo. Lo bueno es que casi nunca nieva.
 
 Se podría pensar que en dos meses hubiéramos tenido la oportunidad de explorar realmente la ciudad y sus alrededores. Pero la verdad es que, con todo el traslado, el papeleo y el trabajo, apenas tuvimos tiempo de visitar algo. En cualquier caso, la ciudad es bonita, así que aquí hay algunas [fotos](https://photos.app.goo.gl/Svqt54qBTd6ie9GY9).
 

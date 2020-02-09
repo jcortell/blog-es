@@ -4,7 +4,7 @@ title: '&quot;All White Party&quot; at the New Museum'
 date: 2012-07-30T10:14:41+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4248
+guid: https://cortell.net/blog/?p=4248
 permalink: /2012/07/30/all-white-party-at-the-new-museum/
 wpsd_autopost:
   - "1"

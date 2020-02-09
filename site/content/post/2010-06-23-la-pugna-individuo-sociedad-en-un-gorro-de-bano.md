@@ -4,7 +4,7 @@ title: La pugna indivíduo-sociedad en un gorro de baño
 date: 2010-06-23T12:50:32+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2494
+guid: https://cortell.net/blog/?p=2494
 permalink: /2010/06/23/la-pugna-individuo-sociedad-en-un-gorro-de-bano/
 categories:
   - ¿Por qué no? ¿Utopías?

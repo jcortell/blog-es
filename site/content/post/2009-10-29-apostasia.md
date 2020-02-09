@@ -4,7 +4,7 @@ title: Apostasía
 date: 2009-10-29T23:59:32+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2275
+guid: https://cortell.net/blog/?p=2275
 permalink: /2009/10/29/apostasia/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -16,7 +16,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-De la excelente web (que además aboga por el uso del software libre) <a title="http://www.apostasia.es" href="http://www.apostasia.es" target="_blank">apostasia.es</a>: **La apostasía es el procedimiento por el cual se abandona la pertenencia a la Iglesia Católica** después de haber entrado a formar parte de ella mediante el bautismo.
+De la excelente web (que además aboga por el uso del software libre) <a title="https://www.apostasia.es" href="https://www.apostasia.es" target="_blank">apostasia.es</a>: **La apostasía es el procedimiento por el cual se abandona la pertenencia a la Iglesia Católica** después de haber entrado a formar parte de ella mediante el bautismo.
 
 La declaración de apostasía es el único medio que la Iglesia Católica, en principio, reconoce para que una persona bautizada deje de pertenecer a ella de forma voluntaria, ya que el apartarse de la práctica religiosa en ausencia de una manifestación formal de abandono de la Iglesia no comporta para la Iglesia ninguna situación especial.
 
@@ -24,4 +24,4 @@ Sin embargo, viene siendo una práctica habitual por parte de la Iglesia Católi
 
 **Yo ya he iniciado el proceso**. Me negué a comulgar, porque con 7 añitos ya era un ateo en un colegio de curas, pero del bautismo no me libré... supongo que porque no entendían el porqué de mis lloros. Si hubiese tenido un ejemplar de "Por qué no soy Cristiano" de Bertrand Russell que lanzarle a la cabeza a todos los allí presentes, cómplices por omisión de un atropello contra una libertad constitucional, y promulgadores por inacción de una barbaridad anacrónica (que no por meramente simbólica carece de significado, que para eso están los símbolos)...
   
-**¿Y tú?** No formes parte de la estadística de zombies que hincha los números (y por lo tanto los ingresos por parte del Estado) de la Iglesia Católica Apostólica Romana en España. **<a title="http://www.apostasia.es/es/info.php#como" href="http://www.apostasia.es/es/info.php#como" target="_blank">Haz algo. Actúa</a>.**
+**¿Y tú?** No formes parte de la estadística de zombies que hincha los números (y por lo tanto los ingresos por parte del Estado) de la Iglesia Católica Apostólica Romana en España. **<a title="https://www.apostasia.es/es/info.php#como" href="https://www.apostasia.es/es/info.php#como" target="_blank">Haz algo. Actúa</a>.**

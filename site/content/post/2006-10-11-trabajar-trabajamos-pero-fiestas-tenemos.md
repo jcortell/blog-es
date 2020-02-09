@@ -4,7 +4,7 @@ title: 'Trabajar trabajamos, pero fiestas tenemos...'
 date: 2006-10-11T08:15:55+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/10/11/trabajar-trabajamos-pero-fiestas-tenemos/
+guid: https://www.cortell.net/2006/10/11/trabajar-trabajamos-pero-fiestas-tenemos/
 permalink: /2006/10/11/trabajar-trabajamos-pero-fiestas-tenemos/
 categories:
   - General

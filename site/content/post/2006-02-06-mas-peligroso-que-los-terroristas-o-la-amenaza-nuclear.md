@@ -4,7 +4,7 @@ title: 'Más peligroso que los terroristas o la amenaza nuclear...'
 date: 2006-02-06T11:34:01+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/02/06/mas-peligroso-que-los-terroristas-o-la-amenaza-nuclear/
+guid: https://www.cortell.net/2006/02/06/mas-peligroso-que-los-terroristas-o-la-amenaza-nuclear/
 permalink: /2006/02/06/mas-peligroso-que-los-terroristas-o-la-amenaza-nuclear/
 categories:
   - General
@@ -12,7 +12,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-Increí­ble pero cierto: -¿qué puede ser tan peligroso que haga que EEUU, Irán, y Cuba se unan en la ONU? Parece ser, según [leo](http://www.elpais.es/articulo/elpporint/20060206elpepisoc_1/Tes/sociedad/EE/UU/Iran/Cuba/unen/rechazar/ONU/mayor/grupo/gay/mundo) en El Paí­s, que -¡LOS HOMOSEXUALES!
+Increí­ble pero cierto: -¿qué puede ser tan peligroso que haga que EEUU, Irán, y Cuba se unan en la ONU? Parece ser, según [leo](https://www.elpais.es/articulo/elpporint/20060206elpepisoc_1/Tes/sociedad/EE/UU/Iran/Cuba/unen/rechazar/ONU/mayor/grupo/gay/mundo) en El Paí­s, que -¡LOS HOMOSEXUALES!
 
 Se llaman entre ellos terroristas, invasores, amenaza, etc... pero de 19 paí­ses que votaron el nombramiento de la Asociación Internacional de Lesbianas y Gays (ILGA) como miembro del Consejo Económico y Social (Ecosoc) de la ONU (junto con otras 2100 ONGs), EEUU, Irán y Cuba, junto a Camerún, China, Pakistán, Rusia y Zimbabue votaron que no, Chile, Francia, Alemania, Perú y Rumania que sí­, y se abstuvieron Colombia, Turquí­a y la India. No asistió Costa de Marfil.
 

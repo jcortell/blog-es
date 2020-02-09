@@ -4,7 +4,7 @@ title: Novedades (¡sí, la música está viva!) musicales
 date: 2008-12-08T22:37:54+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1409
+guid: https://www.cortell.net/?p=1409
 permalink: /2008/12/08/novedades-si-la-musica-esta-viva-musicales/
 categories:
   - CiberDerechos
@@ -22,4 +22,4 @@ La cantinela de "las viejas glorias consagradas aun funcionamos por inercia, per
 
 Lo que ha cambiado es la posibilidad de que alguien de otro país te contrate para una gira sin que ni siquiera tengas discográfica, o que saques un disco al mercado sin pasar por la caja de los mencionados chupópteros. Por eso ahora el panorama musical está más vivo que nunca, y por eso que hay más competencia es más duro "forrarse" (ni que hubiese sido fácil antes).
 
-<a title="Vetusta Morla" href="http://es.wikipedia.org/wiki/Vetusta_Morla" target="_blank">Ejemplos</a> de panorama vivo los hay todos los días por todas partes, desde las salas de conciertos hasta Siglo XXI de Radio3, pasando por supuesto por la red. Un par de ejemplos más de operas primas: el <a title="http://www.laorfebreriasonica.blogspot.com/" href="http://www.laorfebreriasonica.blogspot.com/" target="_blank">blog</a> de La Orfebrería Sónica de Tipoaparente y sus amigos, que apunta maneras (no es precisamente <a title="http://playgroundmag.net/" href="http://playgroundmag.net/" target="_blank">PlayGround</a>, pero a veces "más" no es "mejor", el tiempo dirá), y un clásico instantáneo: _Los Mares de China_ de <a title="http://www.efeeme.com/opinion/opinion_ficha.aspx?ids=2&ID=3097" href="http://www.efeeme.com/opinion/opinion_ficha.aspx?ids=2&ID=3097" target="_blank">Zenet</a> (que me descubre Juan, gracias).
+<a title="Vetusta Morla" href="https://es.wikipedia.org/wiki/Vetusta_Morla" target="_blank">Ejemplos</a> de panorama vivo los hay todos los días por todas partes, desde las salas de conciertos hasta Siglo XXI de Radio3, pasando por supuesto por la red. Un par de ejemplos más de operas primas: el <a title="https://www.laorfebreriasonica.blogspot.com/" href="https://www.laorfebreriasonica.blogspot.com/" target="_blank">blog</a> de La Orfebrería Sónica de Tipoaparente y sus amigos, que apunta maneras (no es precisamente <a title="https://playgroundmag.net/" href="https://playgroundmag.net/" target="_blank">PlayGround</a>, pero a veces "más" no es "mejor", el tiempo dirá), y un clásico instantáneo: _Los Mares de China_ de <a title="https://www.efeeme.com/opinion/opinion_ficha.aspx?ids=2&ID=3097" href="https://www.efeeme.com/opinion/opinion_ficha.aspx?ids=2&ID=3097" target="_blank">Zenet</a> (que me descubre Juan, gracias).

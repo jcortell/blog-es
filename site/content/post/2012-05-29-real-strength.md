@@ -4,7 +4,7 @@ title: Real strength
 date: 2012-05-29T17:39:42+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4165
+guid: https://cortell.net/blog/?p=4165
 permalink: /2012/05/29/real-strength/
 wpsd_autopost:
   - "1"

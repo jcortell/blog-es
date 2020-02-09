@@ -4,7 +4,7 @@ title: Filantropí­a venenosa con ánimo de lucro
 date: 2005-12-20T08:07:38+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/12/20/filantropia-venenosa-con-animo-de-lucro/
+guid: https://www.cortell.net/2005/12/20/filantropia-venenosa-con-animo-de-lucro/
 permalink: /2005/12/20/filantropia-venenosa-con-animo-de-lucro/
 categories:
   - General
@@ -13,13 +13,13 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-En un artí­culo titulado "Tarnished Philanthropy: China Questions Recent Medical Supply Shipments from U.S." del 15 de diciembre, 2005, Yingling Liu (del World Watch Institute) [enumera](http://www.worldwatch.org/features/chinawatch/stories/20051215-1) varios casos de donaciones filantrópicas de material médico desde EEUU a China donde la mayorí­a de este material estaba caducado (incluso desde 1990), manchado de sangre, usado, roto, etc.
+En un artí­culo titulado "Tarnished Philanthropy: China Questions Recent Medical Supply Shipments from U.S." del 15 de diciembre, 2005, Yingling Liu (del World Watch Institute) [enumera](https://www.worldwatch.org/features/chinawatch/stories/20051215-1) varios casos de donaciones filantrópicas de material médico desde EEUU a China donde la mayorí­a de este material estaba caducado (incluso desde 1990), manchado de sangre, usado, roto, etc.
 
-LDS Philanthropies, de la iglesia mormona, donó US $4 millones en material médico que llegó a China el 7 de noviembre. [Según](http://finance.anhuinews.com/system/2005/12/06/001401748.shtml) la Xinhua News Agency, inspectores de aduanas encontraron que las 926 cajas incluí­an 47 cajas de material médico caducado, 60 cajas sin fecha de caducidad, 2 cajas de material usado, 2 cajas de detergente caducado, 87 cajas de material para niños usado, y 41 juegos de rehabilitación usados â€”o sea 239 cajas de material no utilizable.
+LDS Philanthropies, de la iglesia mormona, donó US $4 millones en material médico que llegó a China el 7 de noviembre. [Según](https://finance.anhuinews.com/system/2005/12/06/001401748.shtml) la Xinhua News Agency, inspectores de aduanas encontraron que las 926 cajas incluí­an 47 cajas de material médico caducado, 60 cajas sin fecha de caducidad, 2 cajas de material usado, 2 cajas de detergente caducado, 87 cajas de material para niños usado, y 41 juegos de rehabilitación usados â€”o sea 239 cajas de material no utilizable.
 
-En otros tres enví­os se encontró ropa de cama manchada de sangre, rota y sucia. Se supone que el enví­o estaba destinado para montar clí­nicas y horfanatos. Pero [según](http://news.sohu.com/20051213/n240948776.shtml) Beijing News, al detectarse todo esto, se envió de vuelta.
+En otros tres enví­os se encontró ropa de cama manchada de sangre, rota y sucia. Se supone que el enví­o estaba destinado para montar clí­nicas y horfanatos. Pero [según](https://news.sohu.com/20051213/n240948776.shtml) Beijing News, al detectarse todo esto, se envió de vuelta.
 
-Algo similar sucedió con la Chinese Agape Foundation, de Peachtree City, Georgia. De una donación de $30,000 de material médico a la Charity Federation de Wuhan City, [según](http://finance.sina.com.cn/g/20051121/07152133560.shtml) Market News, conteniendo 138,647 artí­culos, la mayorí­a estaban caducados o usados.
+Algo similar sucedió con la Chinese Agape Foundation, de Peachtree City, Georgia. De una donación de $30,000 de material médico a la Charity Federation de Wuhan City, [según](https://finance.sina.com.cn/g/20051121/07152133560.shtml) Market News, conteniendo 138,647 artí­culos, la mayorí­a estaban caducados o usados.
 
 De hecho las jeringuillas contení­an fluí­dos extraños y los desinfectantes se habí­an mezclado con otros artí­culos, muchas sillas de ruedas no funcionaban, y todo ello iba empaquetado en cajas viejas de Coca Cola o Kentucky Fried Chicken, sucias y malolientes.
   
@@ -27,7 +27,7 @@ Expertos de la Wuhan Medical University, comentaron a Market News que más parec
 
 Ron Brown, director de la Chinese Agape Foundation, Inc., comentó a China Watch que todo esto se habí­a hecho público porque habí­an reducido sus pagos de comisiones ilegales a miembros del Partido chinos. También reconoció que ya se habí­an hecho dos enví­os anteriores de material usado a la provincia de Hunan en 2004.
 
-Según el [informe](http://www.aafrc.org/gusa/GUSA05_Press_Release.pdf) (PDF) anual 2005 de la Fundación Giving USA en 2004 EEUU donó $250 mil millones, y que el 70-80% de los americanos contribuyen a, por lo menos, una organización benéfica.
+Según el [informe](https://www.aafrc.org/gusa/GUSA05_Press_Release.pdf) (PDF) anual 2005 de la Fundación Giving USA en 2004 EEUU donó $250 mil millones, y que el 70-80% de los americanos contribuyen a, por lo menos, una organización benéfica.
   
 Pero el artí­culo de China Watch se queda aquí­.
 

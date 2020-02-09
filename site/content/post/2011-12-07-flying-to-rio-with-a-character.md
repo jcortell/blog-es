@@ -4,7 +4,7 @@ title: Flying to Rio with a character
 date: 2011-12-07T10:02:18+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3675
+guid: https://cortell.net/blog/?p=3675
 permalink: /2011/12/07/flying-to-rio-with-a-character/
 wpsd_autopost:
   - "1"

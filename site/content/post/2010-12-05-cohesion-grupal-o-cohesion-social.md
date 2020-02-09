@@ -4,7 +4,7 @@ title: ¿Cohesión grupal o cohesión social?
 date: 2010-12-05T15:45:22+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2769
+guid: https://cortell.net/blog/?p=2769
 permalink: /2010/12/05/cohesion-grupal-o-cohesion-social/
 categories:
   - General

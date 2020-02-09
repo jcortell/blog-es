@@ -4,7 +4,7 @@ title: Apuntes desde Munich
 date: 2009-10-21T23:51:46+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2261
+guid: https://cortell.net/blog/?p=2261
 permalink: /2009/10/21/apuntes-desde-munich/
 categories:
   - General

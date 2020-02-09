@@ -4,7 +4,7 @@ title: This IS cold -23ºF in New York right now with ice inside the window
 date: 2014-01-07T16:51:07+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=5055
+guid: https://cortell.net/blog/?p=5055
 permalink: /2014/01/07/this-is-cold-23of-in-new-york-right-now-with-ice-inside-the-window/
 categories:
   - General
@@ -16,7 +16,7 @@ categories:
 ---
 <blockquote class="twitter-tweet" lang="en">
   <p>
-    Esto es frío y lo demás son tonterías. -31ºC (wind chill). En mi ventana doble acristalada hay hielo ¡por dentro! <a href="http://t.co/QbStyA4rUA">pic.twitter.com/QbStyA4rUA</a>
+    Esto es frío y lo demás son tonterías. -31ºC (wind chill). En mi ventana doble acristalada hay hielo ¡por dentro! <a href="https://t.co/QbStyA4rUA">pic.twitter.com/QbStyA4rUA</a>
   </p>
   
   <p>

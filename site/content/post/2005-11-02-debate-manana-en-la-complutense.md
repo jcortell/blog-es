@@ -4,7 +4,7 @@ title: Debate mañana en la Complutense
 date: 2005-11-02T16:52:13+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/11/02/debate-manana-en-la-complutense/
+guid: https://www.cortell.net/2005/11/02/debate-manana-en-la-complutense/
 permalink: /2005/11/02/debate-manana-en-la-complutense/
 categories:
   - CiberDerechos

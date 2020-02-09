@@ -4,7 +4,7 @@ title: British Library
 date: 2015-11-13T20:47:52+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5663
+guid: https://blog.cortell.net/es/?p=5663
 permalink: /2015/11/13/british-library/
 categories:
   - Arte

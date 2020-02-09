@@ -4,7 +4,7 @@ title: 'Música: -¿dónde está el VALOR?'
 date: 2007-04-11T09:33:06+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2007/04/11/musica-%c2%bfdonde-esta-el-valor/'
+guid: 'https://www.cortell.net/2007/04/11/musica-%c2%bfdonde-esta-el-valor/'
 permalink: /2007/04/11/musica-donde-esta-el-valor/
 categories:
   - CiberDerechos
@@ -13,11 +13,11 @@ categories:
   - Noticias
   - Sociedad y polí­tica
 ---
-Más de cien años de modelo de negocio protegido por el subdesarrollo tecnológico y las leyes monopolí­sticas del -© han hecho que la industria discográfica en vez de aprender a adaptarse (caracterí­stica intrí­nseca y fundamental de los seres inteligentes) hayan decidido emplear tácticas policiales y judiciales, incriminatorias y persecutorias, en vez de rendirse a la evidencia (Apple ha vendido 100 millones de reproductores iPod, <a target="_blank" title="iPod salva la vida a un soldado" href="http://www.applesfera.com/2007/04/09-ipod-salva-la-vida-de-un-soldado">el que sirve hasta para salvar vidas</a>, en cinco años y <a target="_blank" title="venta música online 2005" href="http://www.20minutos.es/noticia/83538/0/musica/itunes/pirateria/">la venta de música online se triplicó en 2005 generando 1.100 millones de dólares de beneficio</a>) y adaptarse.
+Más de cien años de modelo de negocio protegido por el subdesarrollo tecnológico y las leyes monopolí­sticas del -© han hecho que la industria discográfica en vez de aprender a adaptarse (caracterí­stica intrí­nseca y fundamental de los seres inteligentes) hayan decidido emplear tácticas policiales y judiciales, incriminatorias y persecutorias, en vez de rendirse a la evidencia (Apple ha vendido 100 millones de reproductores iPod, <a target="_blank" title="iPod salva la vida a un soldado" href="https://www.applesfera.com/2007/04/09-ipod-salva-la-vida-de-un-soldado">el que sirve hasta para salvar vidas</a>, en cinco años y <a target="_blank" title="venta música online 2005" href="https://www.20minutos.es/noticia/83538/0/musica/itunes/pirateria/">la venta de música online se triplicó en 2005 generando 1.100 millones de dólares de beneficio</a>) y adaptarse.
 
 Pero hay una pregunta de fondo que deberí­an/deberí­amos hacernos: -¿dónde está el VALOR de la MúSICA? (no "el precio del CD").
 
-El <a target="_blank" title="Washington Post" href="http://www.washingtonpost.com/wp-dyn/content/article/2007/04/04/AR2007040401721.html">experimento organizado por el Washington Post</a> en el que el virtuoso violinista Joshua Bell interpreta preciosas obras en el metro, es muy revelador en este sentido.
+El <a target="_blank" title="Washington Post" href="https://www.washingtonpost.com/wp-dyn/content/article/2007/04/04/AR2007040401721.html">experimento organizado por el Washington Post</a> en el que el virtuoso violinista Joshua Bell interpreta preciosas obras en el metro, es muy revelador en este sentido.
 
 El Sr. Bell actua en los mejores auditorios del mundo, en los que cobra mí­nimo 100 dólares por entrada. Sin embargo, interpretando en la parada del metro, durante aproximadamente la duración de un concierto, recaudó 32 dólares.
   

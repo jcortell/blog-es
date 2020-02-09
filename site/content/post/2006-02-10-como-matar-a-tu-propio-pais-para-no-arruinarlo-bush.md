@@ -4,7 +4,7 @@ title: 'Cómo matar a tu propio paí­s para no arruinarlo: Bush'
 date: 2006-02-10T10:21:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/02/10/como-matar-a-tu-propio-pais-para-no-arruinarlo-bush/
+guid: https://www.cortell.net/2006/02/10/como-matar-a-tu-propio-pais-para-no-arruinarlo-bush/
 permalink: /2006/02/10/como-matar-a-tu-propio-pais-para-no-arruinarlo-bush/
 categories:
   - General

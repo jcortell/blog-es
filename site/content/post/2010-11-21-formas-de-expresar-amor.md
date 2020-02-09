@@ -4,7 +4,7 @@ title: Formas de expresar amor
 date: 2010-11-21T10:54:13+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2722
+guid: https://cortell.net/blog/?p=2722
 permalink: /2010/11/21/formas-de-expresar-amor/
 categories:
   - General
@@ -13,7 +13,7 @@ categories:
   - Placeres de la vida
   - Psicología
 ---
-<img class="aligncenter" title="Tsaheylu Na'vi" src="http://4.bp.blogspot.com/__xGjiCQDRws/S1POuLIWUsI/AAAAAAAAA0U/I-Ze_lh3LtU/s200/The_Na__vi_Connection_by_shii.jpg" alt="" width="200" height="150" />
+<img class="aligncenter" title="Tsaheylu Na'vi" src="https://4.bp.blogspot.com/__xGjiCQDRws/S1POuLIWUsI/AAAAAAAAA0U/I-Ze_lh3LtU/s200/The_Na__vi_Connection_by_shii.jpg" alt="" width="200" height="150" />
 
 Hay muchos tipos de amor: de pareja, romántico, platónico, paterno/materno-filial, comunitario, espiritual..., pero parece ser que las formas de expresarlo son menos (aunque no por ello limitadas ni poco variadas).
 

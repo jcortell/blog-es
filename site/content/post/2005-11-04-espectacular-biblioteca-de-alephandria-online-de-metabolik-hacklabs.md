@@ -4,7 +4,7 @@ title: 'Espectacular &quot;Biblioteca de Alephandrí­a&quot; online de Metaboli
 date: 2005-11-04T09:15:57+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/11/04/espectacular-biblioteca-de-alephandria-online-de-metabolik-hacklabs/
+guid: https://www.cortell.net/2005/11/04/espectacular-biblioteca-de-alephandria-online-de-metabolik-hacklabs/
 permalink: /2005/11/04/espectacular-biblioteca-de-alephandria-online-de-metabolik-hacklabs/
 categories:
   - CiberDerechos
@@ -14,9 +14,9 @@ categories:
   - Privacidad
   - Technology
 ---
-Este enlace pasa directo a mis favoritos: http://metabolik.hacklabs.org/alephandria/
+Este enlace pasa directo a mis favoritos: https://metabolik.hacklabs.org/alephandria/
 
-Este es el í­ndice de la [biblioteca online](http://metabolik.hacklabs.org/alephandria/) "Archivo Copyleft Hacktivista v1.0":
+Este es el í­ndice de la [biblioteca online](https://metabolik.hacklabs.org/alephandria/) "Archivo Copyleft Hacktivista v1.0":
 
 _índice
   

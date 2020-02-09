@@ -4,7 +4,7 @@ title: Navidad familiar en Nueva York
 date: 2015-01-22T18:07:58+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5389
+guid: https://blog.cortell.net/es/?p=5389
 permalink: /2015/01/22/navidad-familiar-en-nueva-york/
 categories:
   - General

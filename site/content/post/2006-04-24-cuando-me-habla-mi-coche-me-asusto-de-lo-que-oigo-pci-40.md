@@ -4,7 +4,7 @@ title: 'Cuando me habla mi coche me asusto de lo que oigo (PC&amp;I 40)'
 date: 2006-04-24T13:45:42+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=442
+guid: https://www.cortell.net/?p=442
 permalink: /2006/04/24/cuando-me-habla-mi-coche-me-asusto-de-lo-que-oigo-pci-40/
 categories:
   - 'Artí­culos escritos para la revista PC&amp;I'
@@ -36,4 +36,4 @@ Grandes asuntos del futuro (como la inteligencia artificial, la definición de "
 
 De lo contrario algo mucho más peligroso puede ocurrir: que la tecnologí­a deje atrás a las leyes, el mercado y la sociedad, y como suele ocurrir (como por ejemplo con los ultraortodoxos fundamentalistas y extremistas defensores del copyright), el mercado se alí­e (o presione, o compre) a los polí­ticos para que las leyes perjudiquen a la sociedad y a la tecnologí­a, aunque eso, a la larga, acabe estrangulando al propio mercado.
 
-[<img src="http://tira.escomposlinux.org/ecol-232.png" alt="tira es.comp.os.linux" border="0" />](http://tira.escomposlinux.org)
+[<img src="https://tira.escomposlinux.org/ecol-232.png" alt="tira es.comp.os.linux" border="0" />](https://tira.escomposlinux.org)

@@ -22,7 +22,7 @@ El MoA es conocido por sus exhibiciones de artes y culturas de todo el mundo, en
 
 Además de su increíble colección permanente, también tienen una nueva exposición colectiva temporal llamada "Jugando con fuego: cerámica de lo extraordinario", con 11 artistas con sede en Columbia Británica que han creado una serie de impresionantes obras de cerámica. Particularmente me encantaron las obras de [Brendan Tang](https://www.brendantang.com/).
 
-Por cierto, tienen un sitio web realmente agradable, con montones de documentación y un excelente [catálogo en línea](http://collection-online.moa.ubc.ca/home) de casi 50,000 obras digitalizadas, todo bajo licencia Creative Commons. ¡Gracias!
+Por cierto, tienen un sitio web realmente agradable, con montones de documentación y un excelente [catálogo en línea](https://collection-online.moa.ubc.ca/home) de casi 50,000 obras digitalizadas, todo bajo licencia Creative Commons. ¡Gracias!
 
 Y, al menos, en la parte inferior de su sitio web, mencionan:
 

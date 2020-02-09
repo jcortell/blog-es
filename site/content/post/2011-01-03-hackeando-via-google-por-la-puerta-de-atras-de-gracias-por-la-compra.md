@@ -4,7 +4,7 @@ title: 'Hackeando via Google por la puerta de atrás de &quot;gracias por la com
 date: 2011-01-03T12:06:14+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2839
+guid: https://cortell.net/blog/?p=2839
 permalink: /2011/01/03/hackeando-via-google-por-la-puerta-de-atras-de-gracias-por-la-compra/
 categories:
   - CiberDerechos

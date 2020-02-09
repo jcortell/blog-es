@@ -4,7 +4,7 @@ title: Ponente invitado en evento de KPMG UK
 date: 2016-06-10T16:48:11+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5809
+guid: https://blog.cortell.net/es/?p=5809
 permalink: /2016/06/10/ponente-invitado-en-evento-de-kpmg-uk/
 categories:
   - General

@@ -4,7 +4,7 @@ title: 'Museo Británico y Fortnum & Mason'
 date: 2015-10-17T22:54:38+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5622
+guid: https://blog.cortell.net/es/?p=5622
 permalink: /2015/10/17/museo-britanico-y-fortnum-mason/
 categories:
   - General

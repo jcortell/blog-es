@@ -4,7 +4,7 @@ title: Bruselas planea ataque a privacidad y P2P
 date: 2008-08-21T10:59:59+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1285
+guid: https://www.cortell.net/?p=1285
 permalink: /2008/08/21/bruselas-planea-ataque-a-privacidad-y-p2p/
 categories:
   - CiberDerechos

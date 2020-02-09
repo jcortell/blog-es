@@ -4,7 +4,7 @@ title: Cuando el sistema falla
 date: 2005-10-07T10:37:11+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/10/07/cuando-el-sistema-falla/
+guid: https://www.cortell.net/2005/10/07/cuando-el-sistema-falla/
 permalink: /2005/10/07/cuando-el-sistema-falla/
 categories:
   - General
@@ -12,13 +12,13 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-Según [este](http://servicios.lasprovincias.es/valencia/pg051006/prensa/noticias/Sucesos/200510/06/VAL-SUC-170.html) artí­culo:
+Según [este](https://servicios.lasprovincias.es/valencia/pg051006/prensa/noticias/Sucesos/200510/06/VAL-SUC-170.html) artí­culo:
 
 "Un retraso judicial deja impunes a los 14 jóvenes acusados de incendios y destrozos en Valencia en 2001. Los delitos que se les imputan han prescrito al paralizarse el proceso por la demora en la adjudicación de una sala."
 
 Todos cometemos errores. Pero el sistema no debe hacerlo. Y si lo hace la reacción debe ser fulgurante. -¿Responsabilidades? -¿Reforma? ... Me temo que no. Corporativismo y burocracia se unirán, como siempre, para que este insulto a la justicia quede impune. -¿Cuántas veces han pasado cosas así­, incluso con terroristas? Algo falla. El sistema falla.
 
--¿Y que hay de las [vallas de Ceuta y Melilla](http://www.levante-emv.es/secciones/noticia.jsp?pIdNoticia=141155&pIdSeccion=6&pNumEjemplar=2935&)?
+-¿Y que hay de las [vallas de Ceuta y Melilla](https://www.levante-emv.es/secciones/noticia.jsp?pIdNoticia=141155&pIdSeccion=6&pNumEjemplar=2935&)?
 
 No haré un análisis polí­tico, pero una cosa está muy clara:
 
@@ -30,7 +30,7 @@ Hay gente en las calles que se muere de hambre, frí­o y enfermedades pese a qu
 
 Muy a menudo se recuerda en los medios que los españoles hace poco también éramos inmigrantes, pero no nos recuerdan que cumplí­amos la ley, que no entrábamos por la fuerza a ningún sitio, y que inmigrábamos a lugares donde nos ofrecí­an contratos de trabajo con los papeles en regla. Si queremos que estos pobres inmigrantes tengan un futuro mejor, en vez de mantas y sopitas de la cruz roja, y muchas palabras bonitas de la gente de buenos sentimientos, tendremos que crear puestos de trabajo e infraestructuras para ellos. Y si no podemos (porque no somos capaces de hacerlo ni para el 9% de nuestra población activa) entonces tendremos que ayudar a sus paí­ses a hacerlo. Pero eso requiere valor y fuerza, y ni tenemos nosotros ni nuestros dirigentes, y ese es el segundo problema.
 
-– Por otra parte tenemos a unos polí­ticos, organismos internacionales, e incluso a una población de paí­ses desarrollados absolutamente des-sensibilizada con los problemas del mal llamado "tercer mundo" (como si todos no compartiésemos el mismo mundo, y de hecho como si los del "primer mundo" no nos aprovechásemos constantemente de los del los otros "mundos" y estuviésemos [acabando](http://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id=17047) con EL mundo).
+– Por otra parte tenemos a unos polí­ticos, organismos internacionales, e incluso a una población de paí­ses desarrollados absolutamente des-sensibilizada con los problemas del mal llamado "tercer mundo" (como si todos no compartiésemos el mismo mundo, y de hecho como si los del "primer mundo" no nos aprovechásemos constantemente de los del los otros "mundos" y estuviésemos [acabando](https://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id=17047) con EL mundo).
 
 > No tenemos narices de denunciar los gobiernos corruptos de esos paí­ses, generalmente dictaduras autocráticas o teocráticas, dirigidos por reyezuelos o militares, que lo único que saben es oprimir y saquear constantemente.
 

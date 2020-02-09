@@ -4,7 +4,7 @@ title: 007 Skyfall at MoMA
 date: 2012-11-08T21:27:15+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4436
+guid: https://cortell.net/blog/?p=4436
 permalink: /2012/11/08/007-skyfall-at-moma/
 wpsd_autopost:
   - "1"
@@ -19,13 +19,13 @@ categories:
 ---
 Aunque no sea obvio, esoty pasando unas cuantas semanas duras por motivos varios. Así que alguien que me conoce muy bien me dijo que no debería ser tan estúpido y debería divertirme. ¡Pues vale!
 
-<p title="http://www.007.com/moma-salutes-bond/">
-  Como parte de su <a title="http://www.007.com/moma-salutes-bond/" href="http://www.007.com/moma-salutes-bond/" target="_blank">Celebración del 50 aniversario de James Bond</a>, el MoMA de Nueva York ha estado mostrando algunas de las películas de 007 de su colección (la mayor de ningún museo dle mundo). Así que ayer me invitaron, y por supuesto yo invité a Stephanie, al pre-estreno de la última película de James Bond: "<a title="http://www.imdb.com/title/tt1074638/" href="http://www.imdb.com/title/tt1074638/" target="_blank">007 Skyfall</a>".
+<p title="https://www.007.com/moma-salutes-bond/">
+  Como parte de su <a title="https://www.007.com/moma-salutes-bond/" href="https://www.007.com/moma-salutes-bond/" target="_blank">Celebración del 50 aniversario de James Bond</a>, el MoMA de Nueva York ha estado mostrando algunas de las películas de 007 de su colección (la mayor de ningún museo dle mundo). Así que ayer me invitaron, y por supuesto yo invité a Stephanie, al pre-estreno de la última película de James Bond: "<a title="https://www.imdb.com/title/tt1074638/" href="https://www.imdb.com/title/tt1074638/" target="_blank">007 Skyfall</a>".
 </p>
 
 Adivina quién sale en la peli (vale, todo el mundo lo sabía menos yo ¿y?) ¡Javier Bardem!
 
-<img class="aligncenter" title="Bardem" src="http://www.wallpapermania.eu/images/lthumbs/2012-09/3416_James-Bond-Agent-007-Skyfall.jpg" alt="" width="413" height="258" />
+<img class="aligncenter" title="Bardem" src="https://www.wallpapermania.eu/images/lthumbs/2012-09/3416_James-Bond-Agent-007-Skyfall.jpg" alt="" width="413" height="258" />
 
 ¿Qué tal la peli?
 

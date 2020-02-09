@@ -4,7 +4,7 @@ title: Electrónica traidora
 date: 2011-04-22T10:57:51+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3081
+guid: https://cortell.net/blog/?p=3081
 permalink: /2011/04/22/electronica-traidora/
 wpsd_autopost:
   - "1"
@@ -22,7 +22,7 @@ Hace años que en alguna conferencia hablaba de cómo grandes fabricantes nortea
 
 De todo esto había información más que de sobra en la red. Y lo gracioso es que pese a que es muy fácil de comprobar (con un destornillador, una lupa, y mucha paciencia), seguí catalogándose como "conspiranoia".
 
-Pero leo en [The Economist de 9-15 de abril 2011](http://www.economist.com/node/18527456) que los "kill switches" y "back doors" que el FBI emplea para localizar secuestradores, el Pentágono emplea para matar "combatientes enemigos", y la NSA... ni preguntes, se están empleando tanto desde los conflictos de oriente medio que empiezan a ser conocidos, y eso no les interesa. ¡Incluso lo tienen preparado para [acabar con internet](http://www.economist.com/node/18112043?story_id=18112043&fsrc=rss)!
+Pero leo en [The Economist de 9-15 de abril 2011](https://www.economist.com/node/18527456) que los "kill switches" y "back doors" que el FBI emplea para localizar secuestradores, el Pentágono emplea para matar "combatientes enemigos", y la NSA... ni preguntes, se están empleando tanto desde los conflictos de oriente medio que empiezan a ser conocidos, y eso no les interesa. ¡Incluso lo tienen preparado para [acabar con internet](https://www.economist.com/node/18112043?story_id=18112043&fsrc=rss)!
 
 ¿Por qué ha aumentado su uso y por lo tanto su visibilidad?
 

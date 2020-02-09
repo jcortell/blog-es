@@ -4,7 +4,7 @@ title: La ensalada César, el 4 de julio y la Propiedad Intelectual
 date: 2006-07-04T18:46:02+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/07/04/la-ensalada-cesar-el-4-de-julio-y-la-propiedad-intelectual/
+guid: https://www.cortell.net/2006/07/04/la-ensalada-cesar-el-4-de-julio-y-la-propiedad-intelectual/
 permalink: /2006/07/04/la-ensalada-cesar-el-4-de-julio-y-la-propiedad-intelectual/
 categories:
   - CiberDerechos

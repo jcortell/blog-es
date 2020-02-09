@@ -4,7 +4,7 @@ title: Energí­as renovables y el IPC
 date: 2007-11-15T12:32:36+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/11/15/energias-renovables-y-el-ipc/
+guid: https://www.cortell.net/2007/11/15/energias-renovables-y-el-ipc/
 permalink: /2007/11/15/energias-renovables-y-el-ipc/
 categories:
   - General
@@ -14,6 +14,6 @@ Todos hemos leí­do (y sufrido) el incremento del IPC. La mayorí­a de los ele
 
 Hay que tener cuidado con lo que se elige como energí­a **renovable**.
 
-Según el <a target="_blank" title="http://www.worldwatch.org/" href="http://www.worldwatch.org/">WorldWatch Institute</a>, "_More than $50 billion was invested in renewable energy worldwide in 2006, and China is expected to invest over $10 billion in new renewables capacity in 2007, second only to Germany_."
+Según el <a target="_blank" title="https://www.worldwatch.org/" href="https://www.worldwatch.org/">WorldWatch Institute</a>, "_More than $50 billion was invested in renewable energy worldwide in 2006, and China is expected to invest over $10 billion in new renewables capacity in 2007, second only to Germany_."
 
 -¿No serí­a mejor dedicar todos esos esfuerzos (y enorme gasto a nivel mundial) en I+D para conseguir que la energí­a solar (en cualquiera de sus modalidades) tenga una eficiencia y coste de producción que le pueda permitir convertise en LA energí­a para TODO? Limpia, segura, inagotable...

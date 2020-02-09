@@ -4,7 +4,7 @@ title: Obsolescencia programada y acumulación
 date: 2011-01-21T10:03:42+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2871
+guid: https://cortell.net/blog/?p=2871
 permalink: /2011/01/21/obsolescencia-programada-y-acumulacion/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -15,7 +15,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-<a title="http://www.rtve.es/television/documentales/comprar-tirar-comprar/directo/" href="http://www.rtve.es/television/documentales/comprar-tirar-comprar/directo/" target="_blank">Impresionante documental sobre la obsolescencia programada</a> (gracias Ana).
+<a title="https://www.rtve.es/television/documentales/comprar-tirar-comprar/directo/" href="https://www.rtve.es/television/documentales/comprar-tirar-comprar/directo/" target="_blank">Impresionante documental sobre la obsolescencia programada</a> (gracias Ana).
 
 ¿Cuánto de lo que deseamos no nos es necesario?
 

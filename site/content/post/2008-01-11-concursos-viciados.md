@@ -4,7 +4,7 @@ title: Concursos viciados
 date: 2008-01-11T12:20:14+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/01/11/concursos-viciados/
+guid: https://www.cortell.net/2008/01/11/concursos-viciados/
 permalink: /2008/01/11/concursos-viciados/
 categories:
   - CiberDerechos

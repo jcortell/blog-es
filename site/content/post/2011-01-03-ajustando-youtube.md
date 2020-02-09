@@ -4,7 +4,7 @@ title: Ajustando YouTube
 date: 2011-01-03T15:48:20+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2845
+guid: https://cortell.net/blog/?p=2845
 permalink: /2011/01/03/ajustando-youtube/
 categories:
   - Geek Fun

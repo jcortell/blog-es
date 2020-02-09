@@ -4,7 +4,7 @@ title: Me he enfrentado a un terrorista en un tren alemán
 date: 2015-11-19T12:34:29+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5680
+guid: https://blog.cortell.net/es/?p=5680
 permalink: /2015/11/19/me-he-enfrentado-a-un-terrorista-en-un-tren-aleman/
 categories:
   - ¿Por qué no? ¿Utopías?

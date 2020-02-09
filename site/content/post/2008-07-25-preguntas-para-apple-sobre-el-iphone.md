@@ -4,7 +4,7 @@ title: Preguntas para Apple sobre el iPhone
 date: 2008-07-25T07:16:47+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1276
+guid: https://www.cortell.net/?p=1276
 permalink: /2008/07/25/preguntas-para-apple-sobre-el-iphone/
 categories:
   - CiberDerechos
@@ -14,7 +14,7 @@ categories:
   - Rants
   - Technology
 ---
-Los chicos de DefectiveByDesign han preparado una <a title="http://www.defectivebydesign.org/apple-challenge" href="http://www.defectivebydesign.org/apple-challenge" target="_blank">acción activista</a> para llamar la atención sobre las restricciones del teléfono de Apple. Básicamente consistes en montón de visitas al Genius Bar de las Apple Store, en las que preguntarán lo siguiente:
+Los chicos de DefectiveByDesign han preparado una <a title="https://www.defectivebydesign.org/apple-challenge" href="https://www.defectivebydesign.org/apple-challenge" target="_blank">acción activista</a> para llamar la atención sobre las restricciones del teléfono de Apple. Básicamente consistes en montón de visitas al Genius Bar de las Apple Store, en las que preguntarán lo siguiente:
 
 "I‘m from the DRM elimination crew at DefectiveByDesign.org — I‘d like to ask you a few questions about the defects Apple has designed into the iPhone 3G."
 

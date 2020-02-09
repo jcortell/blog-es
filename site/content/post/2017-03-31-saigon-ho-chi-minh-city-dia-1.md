@@ -4,7 +4,7 @@ title: 'Saigon – Ho Chi Minh City Día 1'
 date: 2017-03-31T20:54:58+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=6047
+guid: https://blog.cortell.net/es/?p=6047
 permalink: /2017/03/31/saigon-ho-chi-minh-city-dia-1/
 categories:
   - General

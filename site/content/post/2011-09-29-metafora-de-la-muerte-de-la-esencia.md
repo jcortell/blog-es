@@ -4,7 +4,7 @@ title: Metáfora de la muerte de la esencia
 date: 2011-09-29T19:05:06+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3546
+guid: https://cortell.net/blog/?p=3546
 permalink: /2011/09/29/metafora-de-la-muerte-de-la-esencia/
 wpsd_autopost:
   - "1"
@@ -13,9 +13,9 @@ categories:
   - General
   - Psicología
 ---
-En instructables encontramos este detallado <a title="http://www.instructables.com/id/Rubber-Origami/" href="http://www.instructables.com/id/Rubber-Origami/" target="_blank">proceso</a> de cómo convertir origami en un objeto plastificado.
+En instructables encontramos este detallado <a title="https://www.instructables.com/id/Rubber-Origami/" href="https://www.instructables.com/id/Rubber-Origami/" target="_blank">proceso</a> de cómo convertir origami en un objeto plastificado.
 
-<img class="aligncenter" title="origami plastificado" src="http://www.instructables.com/image/FHE3281F1A4Y11C/Rubber-Origami.jpg" alt="" width="560" height="420" />
+<img class="aligncenter" title="origami plastificado" src="https://www.instructables.com/image/FHE3281F1A4Y11C/Rubber-Origami.jpg" alt="" width="560" height="420" />
 
 Citando a J. Conrad: "_The horror, the horror_".
 

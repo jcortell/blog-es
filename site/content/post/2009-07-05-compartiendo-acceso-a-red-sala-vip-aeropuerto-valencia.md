@@ -4,7 +4,7 @@ title: Compartiendo acceso a red sala VIP aeropuerto Valencia
 date: 2009-07-05T11:50:26+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2008
+guid: https://cortell.net/blog/?p=2008
 permalink: /2009/07/05/compartiendo-acceso-a-red-sala-vip-aeropuerto-valencia/
 categories:
   - ¿Por qué no? ¿Utopías?

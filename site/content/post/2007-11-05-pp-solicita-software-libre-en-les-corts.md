@@ -4,7 +4,7 @@ title: PP solicita software libre en Les Corts
 date: 2007-11-05T18:09:27+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/11/05/pp-solicita-software-libre-en-les-corts/
+guid: https://www.cortell.net/2007/11/05/pp-solicita-software-libre-en-les-corts/
 permalink: /2007/11/05/pp-solicita-software-libre-en-les-corts/
 categories:
   - CiberDerechos
@@ -14,7 +14,7 @@ categories:
   - Noticias
   - Technology
 ---
-En la lista de Hispalinux alguien enlazó esta <a target="_blank" title="Noticia en Panorama Actual" href="http://www.panorama-actual.es/noticias/not240123.htm">noticia</a>:
+En la lista de Hispalinux alguien enlazó esta <a target="_blank" title="Noticia en Panorama Actual" href="https://www.panorama-actual.es/noticias/not240123.htm">noticia</a>:
 
 El PP solicita la implantación del software libre en Les Corts
   

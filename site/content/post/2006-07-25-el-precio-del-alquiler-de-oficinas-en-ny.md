@@ -4,7 +4,7 @@ title: El precio del alquiler de oficinas en NY
 date: 2006-07-25T16:14:32+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/07/25/el-precio-del-alquiler-de-oficinas-en-ny/
+guid: https://www.cortell.net/2006/07/25/el-precio-del-alquiler-de-oficinas-en-ny/
 permalink: /2006/07/25/el-precio-del-alquiler-de-oficinas-en-ny/
 categories:
   - General

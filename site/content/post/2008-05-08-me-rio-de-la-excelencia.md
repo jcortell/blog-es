@@ -4,7 +4,7 @@ title: Me río de la excelencia
 date: 2008-05-08T13:02:36+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1209
+guid: https://www.cortell.net/?p=1209
 permalink: /2008/05/08/me-rio-de-la-excelencia/
 categories:
   - General

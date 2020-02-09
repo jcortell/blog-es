@@ -4,12 +4,12 @@ date: "2018-07-25T18:54:24+02:00"
 draft: false
 title: "Regreso a Emacs"
 tags: ["personal", "tecnología"]
-image: "http://res.cloudinary.com/jcortell/image/upload/v1532528969/Personal/emacs.png"
+image: "https://res.cloudinary.com/jcortell/image/upload/v1532528969/Personal/emacs.png"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: right
-thumbnailImage: http://res.cloudinary.com/jcortell/image/upload/v1532528969/Personal/emacs.png
-coverImage: http://res.cloudinary.com/jcortell/image/upload/v1532528969/Personal/emacs.png
+thumbnailImage: https://res.cloudinary.com/jcortell/image/upload/v1532528969/Personal/emacs.png
+coverImage: https://res.cloudinary.com/jcortell/image/upload/v1532528969/Personal/emacs.png
 metaAlignment: center
 coverMeta: out
 ---

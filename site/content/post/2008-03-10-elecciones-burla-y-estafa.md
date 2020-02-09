@@ -4,7 +4,7 @@ title: 'Elecciones: burla y estafa'
 date: 2008-03-10T12:12:53+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/03/10/elecciones-burla-y-estafa/
+guid: https://www.cortell.net/2008/03/10/elecciones-burla-y-estafa/
 permalink: /2008/03/10/elecciones-burla-y-estafa/
 categories:
   - General

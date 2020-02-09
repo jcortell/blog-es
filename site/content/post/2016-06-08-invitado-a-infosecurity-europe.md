@@ -4,7 +4,7 @@ title: Invitado a InfoSecurity Europe
 date: 2016-06-08T15:35:52+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5807
+guid: https://blog.cortell.net/es/?p=5807
 permalink: /2016/06/08/invitado-a-infosecurity-europe/
 categories:
   - Geek Fun
@@ -15,7 +15,7 @@ categories:
   - Placeres de la vida
   - Technology
 ---
-Hoy me han invitado a asistir a [InfoSecurity Europe](http://www.infosecurityeurope.com/), la feria de Seguridad Informática más grande de Europa.
+Hoy me han invitado a asistir a [InfoSecurity Europe](https://www.infosecurityeurope.com/), la feria de Seguridad Informática más grande de Europa.
 
 Como siempre, ha sido interesante tener la oportunidad de ponerme al día con este campo que evoluciona tan rápido, y una gran oportunidad para saludar a viejos amigos.
 

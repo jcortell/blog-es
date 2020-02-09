@@ -4,7 +4,7 @@ title: 'Los peligros ocultos de la Red X: Voto electrónico manipulado (PC&amp;I
 date: 2006-02-24T12:55:38+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=319
+guid: https://www.cortell.net/?p=319
 permalink: /2006/02/24/los-peligros-ocultos-de-la-red-x-voto-electronico-manipulado/
 categories:
   - 'Artí­culos escritos para la revista PC&amp;I'
@@ -34,4 +34,4 @@ El informe del Observatorio Voto Electrónico votobit.org (vinculado a la Univer
 
 -¿Ignorancia? -¿vacua operación de imagen? Esperemos que sea eso, y que el ridí­culo lo hagan sólo Indra y el Gobierno al calificar la experiencia de "satisfactoria" "éxito" y "un avance". De lo contrario los ciudadanos al no interesarnos por el tema, y obligar a los responsables a dimitir, a establecer controles y auditorí­as independientes, a seguir las recomendaciones internacionales en la materia... y sobretodo a emplear sistemas libres, podemos encontrarnos de repente con un robo de elecciones espectacular (y digital). Como en EEUU.
 
-[<img src="http://tira.escomposlinux.org/ecol-231.png" alt="tira es.comp.os.linux" border="0" />](http://tira.escomposlinux.org)
+[<img src="https://tira.escomposlinux.org/ecol-231.png" alt="tira es.comp.os.linux" border="0" />](https://tira.escomposlinux.org)

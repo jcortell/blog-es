@@ -4,7 +4,7 @@ title: Juego sucio en los colegios informáticos
 date: 2006-05-23T23:53:44+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/05/23/juego-sucio-en-los-colegios-informaticos/
+guid: https://www.cortell.net/2006/05/23/juego-sucio-en-los-colegios-informaticos/
 permalink: /2006/05/23/juego-sucio-en-los-colegios-informaticos/
 categories:
   - CiberDerechos
@@ -20,10 +20,10 @@ _Parece ser que alguien de la directiva de ALI (Asociación de Ingenieros e Inge
 
 El caso es que, cuando se publicó la nota de prensa de la RITSI (Sectorial de estudiantes de alumnos de informática) de Valencia (en noviembre de 2005), haciendo un seguimiento de la difusión, **en la web del Colegio de Ing. Informáticos de Andalucí­a habí­an suprimido totalmente la parte referente a patentes de software**, por supuesto nada al respecto de la nota de prensa. En ningún momento se dice que se esté citando ni nada, así­ que imagina que hay algo sucio por ahí­.
 
-Puedes ver la nota "retocada" <a target="_blank" title="Nota retocada" href="http://www.cpiia.org/index.php?option=com_content&task=view&id=19&Itemid=2">aquí­</a>.
+Puedes ver la nota "retocada" <a target="_blank" title="Nota retocada" href="https://www.cpiia.org/index.php?option=com_content&task=view&id=19&Itemid=2">aquí­</a>.
 
-Y la original <a target="_blank" title="nota original" href="http://www.ritsi.org/index.php?option=com_docman&task=doc_download&gid=17&Itemid=34">aquí­</a>.
+Y la original <a target="_blank" title="nota original" href="https://www.ritsi.org/index.php?option=com_docman&task=doc_download&gid=17&Itemid=34">aquí­</a>.
 
-Junto con la <a target="_blank" title="Nota tras el rechazo" href="http://www.ritsi.org/index.php?option=com_docman&task=doc_download&gid=9&Itemid=34">nota de prensa</a> tras el rechazo a la directiva europea de patentes.
+Junto con la <a target="_blank" title="Nota tras el rechazo" href="https://www.ritsi.org/index.php?option=com_docman&task=doc_download&gid=9&Itemid=34">nota de prensa</a> tras el rechazo a la directiva europea de patentes.
 
 Lo mejor de todo es que su portal va con Joomla (software libre)...</em>

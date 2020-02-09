@@ -4,7 +4,7 @@ title: 'Vaya mierda de...'
 date: 2010-11-10T10:44:22+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2691
+guid: https://cortell.net/blog/?p=2691
 permalink: /2010/11/10/vaya-mierda-de/
 categories:
   - General
@@ -22,4 +22,4 @@ Pero seamos justos y correctos.
 
 • "El partido" tampoco es una mierda. La clave en este caso son las **expectativas**. Uno va al estadio pensando que va a ocurrir tal o cual cosa. Pero luego, por estrategias, por el desarrollo del juego, o porque el balón no bota bien, no fluye el ritmo como a uno le gustaría. Pues eso es no entender el juego y su naturaleza. Eso es buscar un espectáculo donde no hubo (y quizá nunca debiera haber) espectáculo.
 
-Ahora que cada cual haga su lectura. Pero cuidado con el lenguaje, que nos condiciona hasta el punto de modificar nuestras preferencias, según <a title="http://cesartomelopez.blogspot.com/2010/11/el-idioma-en-que-hablamos-puede-influir.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ExperientiaDocet+%28Experientia+docet%29" href="http://cesartomelopez.blogspot.com/2010/11/el-idioma-en-que-hablamos-puede-influir.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ExperientiaDocet+%28Experientia+docet%29" target="_blank">este estudio</a> (gracias Ana).
+Ahora que cada cual haga su lectura. Pero cuidado con el lenguaje, que nos condiciona hasta el punto de modificar nuestras preferencias, según <a title="https://cesartomelopez.blogspot.com/2010/11/el-idioma-en-que-hablamos-puede-influir.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ExperientiaDocet+%28Experientia+docet%29" href="https://cesartomelopez.blogspot.com/2010/11/el-idioma-en-que-hablamos-puede-influir.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ExperientiaDocet+%28Experientia+docet%29" target="_blank">este estudio</a> (gracias Ana).

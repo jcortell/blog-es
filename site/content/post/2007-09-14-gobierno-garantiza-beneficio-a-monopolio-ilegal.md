@@ -4,7 +4,7 @@ title: 'Gobierno garantiza beneficio a monopolio &quot;ilegal&quot;'
 date: 2007-09-14T12:43:19+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/09/14/gobierno-garantiza-beneficio-a-monopolio-ilegal/
+guid: https://www.cortell.net/2007/09/14/gobierno-garantiza-beneficio-a-monopolio-ilegal/
 permalink: /2007/09/14/gobierno-garantiza-beneficio-a-monopolio-ilegal/
 categories:
   - CiberDerechos
@@ -16,7 +16,7 @@ categories:
 ---
 Numerosas son las sentencias en contra de las Suciedades de Gestión Colectiva (y en particular SGAE) tanto en tribunales locales, como nacionales y europeos. Por no hablar de los juicios en marcha y las investigaciones abiertas. Estas investigaciones, demandas y juicios van desde Manipulación de Precios, hasta Prácticas Contra la Competencia, pasando por Monopolio y un largo etc. (si quieres más info, Google es tu amigo).
 
-Pues bien, ahora el Gobierno (a través del Ministerio de Cultura) <a target="_blank" title="Noticia cadena Ser" href="http://www.cadenaser.com/cultura/articulo/gobierno-garantizara-cobro-75-millones/csrcsrpor/20070913csrcsrcul_1/Tes">ha decidido</a> **GARANTIZAR el ingreso de 75 millones de euros** a dichas Suciedades de Gestión "En el caso de que las ventas de aparatos y soportes electrónicos no permitieran esos ingresos, el Gobierno se comprometerí­a a buscar un sistema de compensación, un sistema que podrí­a suponer la subida de las tarifas que gravan la venta de esos equipos."
+Pues bien, ahora el Gobierno (a través del Ministerio de Cultura) <a target="_blank" title="Noticia cadena Ser" href="https://www.cadenaser.com/cultura/articulo/gobierno-garantizara-cobro-75-millones/csrcsrpor/20070913csrcsrcul_1/Tes">ha decidido</a> **GARANTIZAR el ingreso de 75 millones de euros** a dichas Suciedades de Gestión "En el caso de que las ventas de aparatos y soportes electrónicos no permitieran esos ingresos, el Gobierno se comprometerí­a a buscar un sistema de compensación, un sistema que podrí­a suponer la subida de las tarifas que gravan la venta de esos equipos."
 
 Veamos, -¿alguien garantiza a un chef (creador culinario) unos ingresos mí­nimos en su restaurante? -¿alguien garantiza a un blogger (creador literario, estilo -¿epistolar en prosa?)-  unas visitas mí­nimas a su web? -¿alguien garantiza a un diseñador gráfico (creador plástico) unos ingresos mí­nimos por su diseño? Por no hablar de que nadie garantiza resultados de explotación a los trabajadores y empresarios "no-creadores" (sic).
 

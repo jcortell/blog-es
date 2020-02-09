@@ -4,7 +4,7 @@ title: 'Pensándolo bien, gracias por &quot;descalificarme&quot;'
 date: 2005-05-23T04:18:02+00:00
 author: Jorge Cortell
 layout: post
-guid: http://64.246.54.67/cortell.net/?p=5
+guid: https://64.246.54.67/cortell.net/?p=5
 permalink: /2005/05/23/pensandolo-bien-gracias-por-descalificarme/
 categories:
   - CiberDerechos

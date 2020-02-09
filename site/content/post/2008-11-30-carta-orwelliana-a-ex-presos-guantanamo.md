@@ -4,7 +4,7 @@ title: Carta Orwelliana a ex-presos Guantánamo
 date: 2008-11-30T20:47:13+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1397
+guid: https://www.cortell.net/?p=1397
 permalink: /2008/11/30/carta-orwelliana-a-ex-presos-guantanamo/
 categories:
   - General

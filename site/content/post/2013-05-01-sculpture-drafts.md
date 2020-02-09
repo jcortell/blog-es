@@ -4,7 +4,7 @@ title: Sculpture drafts
 date: 2013-05-01T19:10:15+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4681
+guid: https://cortell.net/blog/?p=4681
 permalink: /2013/05/01/sculpture-drafts/
 categories:
   - Arte

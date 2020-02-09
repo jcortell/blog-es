@@ -4,7 +4,7 @@ title: SGAE (EMPRESA) busca cobradores
 date: 2006-04-28T13:40:28+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/04/28/sgae-empresa-busca-cobradores/
+guid: https://www.cortell.net/2006/04/28/sgae-empresa-busca-cobradores/
 permalink: /2006/04/28/sgae-empresa-busca-cobradores/
 categories:
   - CiberDerechos
@@ -13,7 +13,7 @@ categories:
   - Noticias
   - Rants
 ---
-Nos avisa apemit: según su [anuncio](http://www.infojobs.net/visualizar_oferta.ij/of_codigo=534845123242505726040328304402) en InfoJobs, la SGAâ‚¬ busca cobradores.
+Nos avisa apemit: según su [anuncio](https://www.infojobs.net/visualizar_oferta.ij/of_codigo=534845123242505726040328304402) en InfoJobs, la SGAâ‚¬ busca cobradores.
 
 **Empresa** de Gestión de Derechos, necesita persona para el **otorgamiento** de Licencias y **Control** de **Mercado**.
 

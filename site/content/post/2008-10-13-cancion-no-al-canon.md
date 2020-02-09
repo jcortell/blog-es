@@ -4,11 +4,11 @@ title: Canción No Al Canon
 date: 2008-10-13T06:29:31+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1340
+guid: https://www.cortell.net/?p=1340
 permalink: /2008/10/13/cancion-no-al-canon/
 enclosure:
   - |
-    http://www.archive.org/download/NoAlCanon_28/NAC.mp3
+    https://www.archive.org/download/NoAlCanon_28/NAC.mp3
     2567154
     audio/mpeg
 categories:
@@ -24,7 +24,7 @@ Lanzamiento de la canción del Otoño
   
 –> NO AL CANON!!!
   
-<a title="http://noalcanon.tk" href="http://noalcanon.tk" target="_blank">http://noalcanon.tk</a>
+<a title="https://noalcanon.tk" href="https://noalcanon.tk" target="_blank">https://noalcanon.tk</a>
   
 by Isaac Hacksimov Band
 
@@ -40,21 +40,21 @@ Hemos utilizado software libre para todo el proceso de producción y queremos qu
 
 Descargatela
   
-<a title="http://patiomaravillas.net/noalcanon/audio" href="http://patiomaravillas.net/noalcanon/audio" target="_blank">http://patiomaravillas.net/noalcanon/audio</a>
+<a title="https://patiomaravillas.net/noalcanon/audio" href="https://patiomaravillas.net/noalcanon/audio" target="_blank">https://patiomaravillas.net/noalcanon/audio</a>
   
-<a title="http://www.archive.org/download/NoAlCanon_28/NAC.mp3" href="http://www.archive.org/download/NoAlCanon_28/NAC.mp3" target="_blank">http://www.archive.org/download/NoAlCanon_28/NAC.mp3</a>
+<a title="https://www.archive.org/download/NoAlCanon_28/NAC.mp3" href="https://www.archive.org/download/NoAlCanon_28/NAC.mp3" target="_blank">https://www.archive.org/download/NoAlCanon_28/NAC.mp3</a>
   
-<a title="http://www.archive.org/download/NoAlCanon_28/NoAlCanon_28_vbr_mp3.zip" href="http://www.archive.org/download/NoAlCanon_28/NoAlCanon_28_vbr_mp3.zip" target="_blank">http://www.archive.org/download/NoAlCanon_28/NoAlCanon_28_vbr_mp3.zip</a>
+<a title="https://www.archive.org/download/NoAlCanon_28/NoAlCanon_28_vbr_mp3.zip" href="https://www.archive.org/download/NoAlCanon_28/NoAlCanon_28_vbr_mp3.zip" target="_blank">https://www.archive.org/download/NoAlCanon_28/NoAlCanon_28_vbr_mp3.zip</a>
 
 Descárgate el politono
   
-<a title="http://patiomaravillas.net/noalcanon/politono" href="http://patiomaravillas.net/noalcanon/politono" target="_blank">http://patiomaravillas.net/noalcanon/politono</a>
+<a title="https://patiomaravillas.net/noalcanon/politono" href="https://patiomaravillas.net/noalcanon/politono" target="_blank">https://patiomaravillas.net/noalcanon/politono</a>
   
-<a title="http://www.archive.org/download/NAC_Politono_2/NAC_Politono_2_vbr_mp3.zip" href="http://www.archive.org/download/NAC_Politono_2/NAC_Politono_2_vbr_mp3.zip" target="_blank">http://www.archive.org/download/NAC_Politono_2/NAC_Politono_2_vbr_mp3.zip</a>
+<a title="https://www.archive.org/download/NAC_Politono_2/NAC_Politono_2_vbr_mp3.zip" href="https://www.archive.org/download/NAC_Politono_2/NAC_Politono_2_vbr_mp3.zip" target="_blank">https://www.archive.org/download/NAC_Politono_2/NAC_Politono_2_vbr_mp3.zip</a>
 
 Making off
   
-<a title="http://es.youtube.com/watch?v=VKylUt_Mzyw" href="http://es.youtube.com/watch?v=VKylUt_Mzyw" target="_blank">http://es.youtube.com/watch?v=VKylUt_Mzyw</a>
+<a title="https://es.youtube.com/watch?v=VKylUt_Mzyw" href="https://es.youtube.com/watch?v=VKylUt_Mzyw" target="_blank">https://es.youtube.com/watch?v=VKylUt_Mzyw</a>
 
 Esta es la historia:
 

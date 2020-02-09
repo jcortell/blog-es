@@ -4,7 +4,7 @@ title: 'Documental zeitgeist: IMPRESIONANTE'
 date: 2008-02-28T11:41:05+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/02/28/documental-zeitgeist-impresionante/
+guid: https://www.cortell.net/2008/02/28/documental-zeitgeist-impresionante/
 permalink: /2008/02/28/documental-zeitgeist-impresionante/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -32,6 +32,6 @@ Aviso: al acabar te entrarán ganas de quemar la bastilla. Y puede que haya que 
 
 Aviso2: Ni se os ocurra mostrarlo a mentes débiles o niños pequeños. Es realmente muy muy fuerte.
 
-<a title="http://zeitgeistmovie.com/" target="_blank" href="http://zeitgeistmovie.com/">http://zeitgeistmovie.com/</a>
+<a title="https://zeitgeistmovie.com/" target="_blank" href="https://zeitgeistmovie.com/">https://zeitgeistmovie.com/</a>
   
-<a title="http://zeitgeistmovie.com/zdayevents.htm" target="_blank" href="http://zeitgeistmovie.com/zdayevents.htm">http://zeitgeistmovie.com/zdayevents.htm</a>
+<a title="https://zeitgeistmovie.com/zdayevents.htm" target="_blank" href="https://zeitgeistmovie.com/zdayevents.htm">https://zeitgeistmovie.com/zdayevents.htm</a>

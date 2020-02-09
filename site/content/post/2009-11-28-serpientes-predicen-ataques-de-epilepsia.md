@@ -4,7 +4,7 @@ title: Serpientes predicen ataques de epilepsia
 date: 2009-11-28T00:42:24+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2363
+guid: https://cortell.net/blog/?p=2363
 permalink: /2009/11/28/serpientes-predicen-ataques-de-epilepsia/
 categories:
   - ¿Por qué no? ¿Utopías?

@@ -4,7 +4,7 @@ title: Agencia de Promesas Electorales
 date: 2008-03-06T17:34:42+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/03/06/agencia-de-promesas-electorales/
+guid: https://www.cortell.net/2008/03/06/agencia-de-promesas-electorales/
 permalink: /2008/03/06/agencia-de-promesas-electorales/
 categories:
   - ¿Por qué no? ¿Utopías?

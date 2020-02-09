@@ -4,7 +4,7 @@ title: Interludio David Bravo (con DRM) en disco Tote King
 date: 2006-05-16T02:42:50+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/05/16/interludio-david-bravo-con-drm-en-disco-tote-king/
+guid: https://www.cortell.net/2006/05/16/interludio-david-bravo-con-drm-en-disco-tote-king/
 permalink: /2006/05/16/interludio-david-bravo-con-drm-en-disco-tote-king/
 categories:
   - CiberDerechos

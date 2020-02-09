@@ -4,7 +4,7 @@ title: 'HTO: un proyecto de hiperlectura'
 date: 2014-12-08T17:07:17+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5373
+guid: https://blog.cortell.net/es/?p=5373
 permalink: /2014/12/08/hto-un-proyecto-de-hiperlectura/
 categories:
   - Arte
@@ -20,7 +20,7 @@ Ibán M.G. y Ben Martin han lanzado un proyecto literario que rompe los límites
 
 Dejemos la crítica literaria a parte. Todavía no he leído la novela, y en realidad, es lo que menos me importa para este post.
 
-[HTO. Hostile Takeover](http://www.htonovel.cc/) es una saga literaria de acción y ciencia ficción. En la actualidad ya se puede <a title="https://www.htonovel.cc/comprar" href="https://www.htonovel.cc/comprar" target="_blank">comprar la primera novela de la saga, "El legado de Henry Bobson"</a> por 3.95€, en formato libro electrónico con una modalidad de lectura que han llamado [hiperlectura](http://www.htonovel.cc/hiperlectura) y bajo licencia creative commons. Además se pueden [leer de forma gratuita](http://www.htonovel.cc/el-legado-de-henry-bobson/indice) los primeros siete capítulos de la novela desde un novedoso lector online de novelas que han desarrollado. También han creado una [enciclopedia online](http://htonovel.cc/HTOpedia) para clarificar conceptos, personajes, tramas y el futuro del proyecto.
+[HTO. Hostile Takeover](https://www.htonovel.cc/) es una saga literaria de acción y ciencia ficción. En la actualidad ya se puede <a title="https://www.htonovel.cc/comprar" href="https://www.htonovel.cc/comprar" target="_blank">comprar la primera novela de la saga, "El legado de Henry Bobson"</a> por 3.95€, en formato libro electrónico con una modalidad de lectura que han llamado [hiperlectura](https://www.htonovel.cc/hiperlectura) y bajo licencia creative commons. Además se pueden [leer de forma gratuita](https://www.htonovel.cc/el-legado-de-henry-bobson/indice) los primeros siete capítulos de la novela desde un novedoso lector online de novelas que han desarrollado. También han creado una [enciclopedia online](https://htonovel.cc/HTOpedia) para clarificar conceptos, personajes, tramas y el futuro del proyecto.
 
 Por si esto fuera poco, una vez uno compra el libro puede descargar la novela en varios formatos, sin DRM, 4 veces, e incluso te piden "por favor, compártela con tus amigos usando nuestro sistema PRO piratería y tus redes sociales".
 

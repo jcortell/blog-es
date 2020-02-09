@@ -4,7 +4,7 @@ title: 'I am requested to take a link down and... Streisand effect!'
 date: 2013-07-29T01:31:15+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4842
+guid: https://cortell.net/blog/?p=4842
 permalink: /2013/07/29/i-am-requested-to-take-a-link-down-and-streisand-effect/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -26,13 +26,13 @@ Señor Cortell:
 
 > En la actualidad me estoy querellando en los Juzgados de Barcelona contra Greg Prévôt, autor de una página difamatoria atentatoria contra mi honor, cuyo enlace aparece en la que usted administra, en la siguiente dirección:
 > 
-> <a title="http://cortell.net/blog/es/2006/03/lo-que-con-dinero-publico-se-financia-no-puede-ni-debe-ser-patentado-ni-estar-restringido-a-copyright/" href="http://cortell.net/blog/es/2006/03/lo-que-con-dinero-publico-se-financia-no-puede-ni-debe-ser-patentado-ni-estar-restringido-a-copyright/" target="_blank">http://cortell.net/blog/es/2006/03/lo-que-con-dinero-publico-se-financia-no-puede-ni-debe-ser-patentado-ni-estar-restringido-a-copyright/</a>
+> <a title="https://cortell.net/blog/es/2006/03/lo-que-con-dinero-publico-se-financia-no-puede-ni-debe-ser-patentado-ni-estar-restringido-a-copyright/" href="https://cortell.net/blog/es/2006/03/lo-que-con-dinero-publico-se-financia-no-puede-ni-debe-ser-patentado-ni-estar-restringido-a-copyright/" target="_blank">https://cortell.net/blog/es/2006/03/lo-que-con-dinero-publico-se-financia-no-puede-ni-debe-ser-patentado-ni-estar-restringido-a-copyright/</a>
 > 
 > Presupongo su buena fe y entiendo que el comentario con el enlace a la página infamante ha escapado hasta la fecha a su supervisión como editor y moderador. Sin embargo, dado el contenido flagrantemente delictivo de la web enlazada, usted está obligado a no difundirlo desde que alcanza conocimiento del mismo, puesto que de lo contrario incumpliría el deber de diligencia mínima exigible a todo prestador de servicios en internet y sería penalmente imputable como colaborador necesario de Greg Prévôt.
 > 
 > El contenido de la página objeto de la querella, temporalmente suspendida por su autor para evitar su incriminación, puede consultarse todavía mediante la función "en caché" de Google:
 > 
-> http://webcache.googleusercontent. com/search?q=cache:ivHIoHvPdhsJ:esuntroll.blogspot.com.es/2005/06/daniel-vicente-carrillo-irichc-viccahr.html+&cd=5&hl=es&ct=clnk&gl=es
+> https://webcache.googleusercontent. com/search?q=cache:ivHIoHvPdhsJ:esuntroll.blogspot.com.es/2005/06/daniel-vicente-carrillo-irichc-viccahr.html+&cd=5&hl=es&ct=clnk&gl=es
 > 
 > En mi poder obra igualmente escritura pública acreditativa de este extremo.
 > 
@@ -68,7 +68,7 @@ Señor Cortell:
 > 
 > En mi caso, mi firme resolución a defender la presunción de inocencia, a evitar la censura, a luchar contra leyes abusivas y los que con ellas abusan, y a no dejarme amedrentar por desconocidos, pues no aporta usted prueba ninguna de su identidad, sobretodo al escribir desde un email como <a title="mailto:irichc23@hotmail.com" href="mailto:irichc23@hotmail.com" target="_blank">irichc23@hotmail.com</a>
 > 
-> Pese a nuestras profundas diferencias de opinión personal, permítame darle un consejo de alguien que ha pasado por difamaciones y disputas cibernéticas con mafias implacables: déjelo estar. De lo contrario, ¿conoce el "<a title="http://es.wikipedia.org/wiki/Efecto_Streisand" href="http://es.wikipedia.org/wiki/Efecto_Streisand" target="_blank">Efecto Streisand</a>?", pues eso.
+> Pese a nuestras profundas diferencias de opinión personal, permítame darle un consejo de alguien que ha pasado por difamaciones y disputas cibernéticas con mafias implacables: déjelo estar. De lo contrario, ¿conoce el "<a title="https://es.wikipedia.org/wiki/Efecto_Streisand" href="https://es.wikipedia.org/wiki/Efecto_Streisand" target="_blank">Efecto Streisand</a>?", pues eso.
 > 
 > Un último comentario: no deseo recibir más comunicaciones suyas. Espero que como conocedor de las leyes de telecomunicaciones comprenda lo que esto significa.
 > 

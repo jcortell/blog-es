@@ -4,7 +4,7 @@ title: -¿Futuro maravilloso?
 date: 2005-06-24T14:58:05+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2005/06/24/%c2%bffuturo-maravilloso/'
+guid: 'https://www.cortell.net/2005/06/24/%c2%bffuturo-maravilloso/'
 permalink: /2005/06/24/futuro-maravilloso/
 categories:
   - CiberDerechos
@@ -12,11 +12,11 @@ categories:
   - General
   - Otras cosas
 ---
-Imaginemos un futuro (dentro de unos 4 meses, más o menos según Google) donde las [traducciones](http://blog.outer-court.com/archive/2005-05-22-n83.html) automáticas sean excelentes (nunca serán perfectas, pero si sea alcanza lo que quiere Google serí­a increí­ble). Añadamos el auricular inalámbrico que ya se ha desarrollado que conectado via via bluetooth, y con capacidades de sintetización y reconocimiento de voz, nos permita hablar en un idioma y que se nos oiga en otro.
+Imaginemos un futuro (dentro de unos 4 meses, más o menos según Google) donde las [traducciones](https://blog.outer-court.com/archive/2005-05-22-n83.html) automáticas sean excelentes (nunca serán perfectas, pero si sea alcanza lo que quiere Google serí­a increí­ble). Añadamos el auricular inalámbrico que ya se ha desarrollado que conectado via via bluetooth, y con capacidades de sintetización y reconocimiento de voz, nos permita hablar en un idioma y que se nos oiga en otro.
 
-Además, imaginemos un futuro donde podamos buscar no sólo documentos de texto, e imágenes, sino [ví­deos](http://google.blognewschannel.com/index.php/archives/2005/01/24/google-video-search-is-here/) (ya sé que el enlace lleva al servicio de Google que es muy básico pues busca sólo en el Close Captioning; pero he perdido el enlace al desarrollo de IBM: si alguien lo encuentra, que me lo enví­e).
+Además, imaginemos un futuro donde podamos buscar no sólo documentos de texto, e imágenes, sino [ví­deos](https://google.blognewschannel.com/index.php/archives/2005/01/24/google-video-search-is-here/) (ya sé que el enlace lleva al servicio de Google que es muy básico pues busca sólo en el Close Captioning; pero he perdido el enlace al desarrollo de IBM: si alguien lo encuentra, que me lo enví­e).
 
-Un futuro donde la Biblioteca de Alejandrí­a ya no sea una [utopí­a](http://print.google.com/googleprint/library.html), y los investigadores [encuentren](http://scholar.google.com/) los artí­culos e información que buscan de un modo sencillo.
+Un futuro donde la Biblioteca de Alejandrí­a ya no sea una [utopí­a](https://print.google.com/googleprint/library.html), y los investigadores [encuentren](https://scholar.google.com/) los artí­culos e información que buscan de un modo sencillo.
 
 [Nota: los enlaces a Google son como muestra de lo que "podrí­a ser", no de lo que "es" o "deberí­a ser"].
 

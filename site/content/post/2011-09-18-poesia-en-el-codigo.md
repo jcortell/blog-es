@@ -4,7 +4,7 @@ title: Poesía en el código
 date: 2011-09-18T10:09:47+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3514
+guid: https://cortell.net/blog/?p=3514
 permalink: /2011/09/18/poesia-en-el-codigo/
 wpsd_autopost:
   - "1"
@@ -32,7 +32,7 @@ o bien
 
 <pre>rm -rf /</pre>
 
-o la bomba de <a title="http://www.p0es1s.net/en/projects/jaromil.html" href="http://www.p0es1s.net/en/projects/jaromil.html" target="_blank">Jaromil</a>, pura poesía (con espacios extra añadidos para evitar cambiar la configuración por defecto de WP para la autodetección de smilies :-):
+o la bomba de <a title="https://www.p0es1s.net/en/projects/jaromil.html" href="https://www.p0es1s.net/en/projects/jaromil.html" target="_blank">Jaromil</a>, pura poesía (con espacios extra añadidos para evitar cambiar la configuración por defecto de WP para la autodetección de smilies :-):
 
 <pre>: ( ) {  : | : &  } ; :</pre>
 

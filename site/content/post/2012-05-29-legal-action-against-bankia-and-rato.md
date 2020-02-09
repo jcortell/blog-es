@@ -4,7 +4,7 @@ title: Legal action against Bankia and Rato
 date: 2012-05-29T17:11:50+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4157
+guid: https://cortell.net/blog/?p=4157
 permalink: /2012/05/29/legal-action-against-bankia-and-rato/
 wpsd_autopost:
   - "1"
@@ -21,10 +21,10 @@ La iniciativa ciudadana #15MpaRato está preparando una demanda para enjuiciar R
 Hoy han lanzado un llamamiento a los pequeños accionistas de Bankia para que se personen como denunciantes anónimos para poder así presentar la querella.
 
 Aquí puedes ver el comunicado:  
-<http://15mparato.wordpress.com/2012/05/29/accionesparato/>
+<https://15mparato.wordpress.com/2012/05/29/accionesparato/>
 
 Aquí la web:  
-<http://15mparato.wordpress.com/2012/05/29/accionesparato/>
+<https://15mparato.wordpress.com/2012/05/29/accionesparato/>
 
 Aquí el twitter:  
 @15MpaRato

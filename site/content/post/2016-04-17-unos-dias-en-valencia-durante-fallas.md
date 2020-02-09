@@ -4,7 +4,7 @@ title: Unos días en Valencia durante Fallas
 date: 2016-04-17T15:07:21+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5756
+guid: https://blog.cortell.net/es/?p=5756
 permalink: /2016/04/17/unos-dias-en-valencia-durante-fallas/
 categories:
   - General

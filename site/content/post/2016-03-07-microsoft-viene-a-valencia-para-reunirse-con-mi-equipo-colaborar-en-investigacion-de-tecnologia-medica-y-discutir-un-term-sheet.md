@@ -4,7 +4,7 @@ title: Microsoft viene a Valencia para reunirse con mi equipo, colaborar en inve
 date: 2016-03-07T08:45:48+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5738
+guid: https://blog.cortell.net/es/?p=5738
 permalink: /2016/03/07/microsoft-viene-a-valencia-para-reunirse-con-mi-equipo-colaborar-en-investigacion-de-tecnologia-medica-y-discutir-un-term-sheet/
 categories:
   - Geek Fun

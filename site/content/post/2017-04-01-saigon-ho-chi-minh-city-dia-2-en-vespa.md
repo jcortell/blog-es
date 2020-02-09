@@ -9,7 +9,7 @@ categories:
   - Personal
   - Placeres de la vida
 ---
-Al día siguiente, miércoles 15 de marzo, todavía en Saigón, decidimos "visitar Saigón como un vietnamita", y tomamos un <a href="http://vespaadventures.com" target="_blank">tour de Saigón en Vespa</a>:
+Al día siguiente, miércoles 15 de marzo, todavía en Saigón, decidimos "visitar Saigón como un vietnamita", y tomamos un <a href="https://vespaadventures.com" target="_blank">tour de Saigón en Vespa</a>:
 
 La primera parada fue el Club de los Amantes de los Pájaros en el Parque Tao Dan, donde un grupo de propietarios de aves traen sus elaboradas jaulas de bambú al parque por la mañana y las cuelgan en ganchos para que los pájaros canten. Hay incluso un pequeño mercado de insectos cerca, para comprarle a los pájaros "golosinas frescas".
 

@@ -4,7 +4,7 @@ title: Llamada verídica a soporte técnico
 date: 2009-07-13T10:22:03+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2037
+guid: https://cortell.net/blog/?p=2037
 permalink: /2009/07/13/llamada-veridica-a-soporte-tecnico/
 categories:
   - Geek Fun

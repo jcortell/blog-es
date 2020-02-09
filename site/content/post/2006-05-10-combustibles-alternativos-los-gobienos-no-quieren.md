@@ -4,7 +4,7 @@ title: 'Combustibles alternativos: los gobienos no quieren'
 date: 2006-05-10T02:08:27+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/05/10/combustibles-alternativos-los-gobienos-no-quieren/
+guid: https://www.cortell.net/2006/05/10/combustibles-alternativos-los-gobienos-no-quieren/
 permalink: /2006/05/10/combustibles-alternativos-los-gobienos-no-quieren/
 categories:
   - General
@@ -15,7 +15,7 @@ Mucho se queja EEUU y la UE de la dependencia que tenemos del crudo proveniente 
 
 Bla, bla, bla.
 
-Si no lo hacen es porque no quieren. En este [artí­culo](http://www.worldwatch.org/pubs/sow/2006/toc/4) de World Watch Institute se habla de las ventajas de los biocombustibles, pero lo interesante es el análisis histórico:
+Si no lo hacen es porque no quieren. En este [artí­culo](https://www.worldwatch.org/pubs/sow/2006/toc/4) de World Watch Institute se habla de las ventajas de los biocombustibles, pero lo interesante es el análisis histórico:
 
 Brasil decidió en los años 70 hacer un esfuerzo por apoyar los biocombustibles. En los años 80 se llegó a cuotas de más del 90% de automóviles nuevos vendidos que funcionaban con biocombustibles. En los 90 esa cuota cayó a menos del 1% por el abaratamiento del crudo. Pero con la introducción en el mercado de vehí­culos que admiten cualquier combustible (o mezcla), y el reciente aumento del precio del crudo, esa cuota ha superado el 50% de nuevo.
 
@@ -25,7 +25,7 @@ Lo más interesante es que **Brasil ha ahorrado 10 veces lo invertido hasta el m
 
 Son un ejemplo y una demostración de que si se quiere, se puede, y es interesante a TODOS los niveles.
 
-En España sabemos que esto es el futuro (en la bolsa hay empresas cuya cotización se ha disparado por anunciar que invierten en Etanol). Yo mismo tengo un buen amigo que ha fundado una empresa (<a target="_blank" title="Calantia" href="http://www.calantia.com">Calantia</a>) de BioTech orientada a cultivos energéticos (-¡un abrazo y suerte Pablo!).
+En España sabemos que esto es el futuro (en la bolsa hay empresas cuya cotización se ha disparado por anunciar que invierten en Etanol). Yo mismo tengo un buen amigo que ha fundado una empresa (<a target="_blank" title="Calantia" href="https://www.calantia.com">Calantia</a>) de BioTech orientada a cultivos energéticos (-¡un abrazo y suerte Pablo!).
 
 Sin embargo, -¿qué hace el Gobierno? NADA. Y si anuncian algún plan será con la boca pequeña. Porque los polí­ticos europeos y americanos sólo piensan en el corto plazo (la legislatura, 4 años). No en el bien común. -¿Cómo van a implantar un sistema de incentivos e inversiones del cual no verán el resultado hasta dentro de unos años, cuando otro esté en el poder y _se cuelge la medalla_? De eso nada Lucas.
 

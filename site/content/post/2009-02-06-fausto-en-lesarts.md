@@ -4,7 +4,7 @@ title: Fausto en LesArts
 date: 2009-02-06T11:06:23+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1519
+guid: https://cortell.net/blog/?p=1519
 permalink: /2009/02/06/fausto-en-lesarts/
 categories:
   - General
@@ -23,13 +23,13 @@ Por buscar algún pequeño fallo, minúsculo, se podría decir que la caracteriz
 
  <figure style="width: 350px" class="wp-caption alignnone">
 
-[<img class=" " title="Palau de les Arts de Valencia" src="http://farm3.static.flickr.com/2223/2364805044_de1697163a.jpg?v=0" alt="Palau de les Arts de Valencia" width="350" height="253" />](http://www.flickr.com/photos/8359402@N05/2364805044)<figcaption class="wp-caption-text">Palau de les Arts de Valencia</figcaption></figure> 
+[<img class=" " title="Palau de les Arts de Valencia" src="https://farm3.static.flickr.com/2223/2364805044_de1697163a.jpg?v=0" alt="Palau de les Arts de Valencia" width="350" height="253" />](https://www.flickr.com/photos/8359402@N05/2364805044)<figcaption class="wp-caption-text">Palau de les Arts de Valencia</figcaption></figure> 
 
-En cuanto al marco, el <a title="http://www.lesarts.com/" href="http://www.lesarts.com/" target="_blank">Palacio de las Artes Reina Sofía de Valencia</a>, muy digno sin ser excepcional, pero necesita un inhibidor de señal para que el provinciano público (aunque buena parte se notaban turistas y/o foráneos, con mucho menos _networking_ de entreacto que en el Palau de la Música) no contamine una obra tan bella con sus patéticos tonos (cabe la primera, "un descuido imperdonable", pero las segunda, tercera y cuarta vez son dignas de pena de alejamiento a cualquier representación artística).
+En cuanto al marco, el <a title="https://www.lesarts.com/" href="https://www.lesarts.com/" target="_blank">Palacio de las Artes Reina Sofía de Valencia</a>, muy digno sin ser excepcional, pero necesita un inhibidor de señal para que el provinciano público (aunque buena parte se notaban turistas y/o foráneos, con mucho menos _networking_ de entreacto que en el Palau de la Música) no contamine una obra tan bella con sus patéticos tonos (cabe la primera, "un descuido imperdonable", pero las segunda, tercera y cuarta vez son dignas de pena de alejamiento a cualquier representación artística).
 
  <figure style="width: 413px" class="wp-caption alignnone">
 
-[<img class=" " title="Interior del Palau de Les Arts de Valencia" src="http://agaudi.files.wordpress.com/2008/07/palau-de-les-arts-valencia_1.jpg" alt="Interior del Palau de Les Arts de Valencia" width="413" height="289" />](http://www.yeeeeee.com/2008/07/25/theatre-interiors-from-around-the-world-24-pics/)<figcaption class="wp-caption-text">Interior del Palau de Les Arts de Valencia</figcaption></figure> 
+[<img class=" " title="Interior del Palau de Les Arts de Valencia" src="https://agaudi.files.wordpress.com/2008/07/palau-de-les-arts-valencia_1.jpg" alt="Interior del Palau de Les Arts de Valencia" width="413" height="289" />](https://www.yeeeeee.com/2008/07/25/theatre-interiors-from-around-the-world-24-pics/)<figcaption class="wp-caption-text">Interior del Palau de Les Arts de Valencia</figcaption></figure> 
 
  
 

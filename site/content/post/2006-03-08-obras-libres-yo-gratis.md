@@ -4,7 +4,7 @@ title: Obras Libres y/o Gratis
 date: 2006-03-08T15:38:02+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/03/08/obras-libres-yo-gratis/
+guid: https://www.cortell.net/2006/03/08/obras-libres-yo-gratis/
 permalink: /2006/03/08/obras-libres-yo-gratis/
 categories:
   - CiberDerechos
@@ -13,9 +13,9 @@ categories:
   - Free Software
   - General
 ---
-Lo que en principio iba a ser un post, lo he convertido en una [página](http://www.cortell.net/regala-libertad-obras-libres-yo-gratis/) para poder actualizarla y que esté siempre en la "portada".
+Lo que en principio iba a ser un post, lo he convertido en una [página](https://www.cortell.net/regala-libertad-obras-libres-yo-gratis/) para poder actualizarla y que esté siempre en la "portada".
 
-[-¿No sabes qué regalarle a la novia el dí­a de vuestro aniversario? -¿no sabes qué regalarle a tu hijo el dí­a de su cumpleaños? -¿te aburren los canales de TV de siempre? -¿te parece repetitiva y obsoleta la fórmula POP del bum-bum-bum?... -¡aquí­ tienes unas cuantas ideas para empezar!](http://www.cortell.net/regala-libertad-obras-libres-yo-gratis/) (se admiten sugerencias para ir añadiendo a esta lista).
+[-¿No sabes qué regalarle a la novia el dí­a de vuestro aniversario? -¿no sabes qué regalarle a tu hijo el dí­a de su cumpleaños? -¿te aburren los canales de TV de siempre? -¿te parece repetitiva y obsoleta la fórmula POP del bum-bum-bum?... -¡aquí­ tienes unas cuantas ideas para empezar!](https://www.cortell.net/regala-libertad-obras-libres-yo-gratis/) (se admiten sugerencias para ir añadiendo a esta lista).
 
 Con este listado no pretendo hacer un "wiki" más de recopilaciones de obras libres de los muchos que hay por la red. Lo que pretendo es que sea un punto de referencia rápido y práctico al que acudir cuando uno:
 
@@ -45,4 +45,4 @@ Algo puede ser gratis y libre (sí­ señor Farré, lo crea usted o no, le invit
 
 Tened en cuenta las licencias que acomapañan a la mayorí­a de las obras. Hay diferencia entre Creative Commons by, sa, nd, nc, etc. Hay obras en Dominio Público. Hay obras con todo tipo de licencias. Por favor entended las diferencias y sobretodo respetad la voluntad del autor / artista (no todos comprenden estas diferencias, y por supuesto no todos piensan igual).
 
-Lo dicho, iré actualizando esta [lista](http://www.cortell.net/regala-libertad-obras-libres-yo-gratis/), se admiten sugerencias.
+Lo dicho, iré actualizando esta [lista](https://www.cortell.net/regala-libertad-obras-libres-yo-gratis/), se admiten sugerencias.

@@ -4,14 +4,14 @@ title: 'Este mes en las noticias...'
 date: 2006-04-26T11:26:46+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/04/26/este-mes-en-las-noticias/
+guid: https://www.cortell.net/2006/04/26/este-mes-en-las-noticias/
 permalink: /2006/04/26/este-mes-en-las-noticias/
 categories:
   - General
   - Noticias
   - Sociedad y polí­tica
 ---
-Pascual Serrano hace una estupenda recopilación de noticias en [esta página](http://www.rebelion.org/noticia.php?id=30458) (de rebelion.org), y no he podido evitar copiaros alguna de mis favoritas aquí­.
+Pascual Serrano hace una estupenda recopilación de noticias en [esta página](https://www.rebelion.org/noticia.php?id=30458) (de rebelion.org), y no he podido evitar copiaros alguna de mis favoritas aquí­.
 
 **Venta de tabaco**
   

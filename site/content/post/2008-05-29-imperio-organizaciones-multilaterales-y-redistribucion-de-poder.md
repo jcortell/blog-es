@@ -4,7 +4,7 @@ title: 'Imperio, organizaciones &quot;multilaterales&quot;, y redistribución de
 date: 2008-05-29T04:53:34+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1229
+guid: https://www.cortell.net/?p=1229
 permalink: /2008/05/29/imperio-organizaciones-multilaterales-y-redistribucion-de-poder/
 categories:
   - General

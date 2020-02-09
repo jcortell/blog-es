@@ -4,7 +4,7 @@ title: Agradable fin de semana en Nueva York con mis suegros
 date: 2014-11-02T15:54:13+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5318
+guid: https://blog.cortell.net/es/?p=5318
 permalink: /2014/11/02/agradable-fin-de-semana-en-nueva-york-con-mis-suegros/
 categories:
   - General

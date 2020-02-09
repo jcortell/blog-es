@@ -4,7 +4,7 @@ title: Quick trip to Panama
 date: 2012-10-10T13:50:14+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4354
+guid: https://cortell.net/blog/?p=4354
 permalink: /2012/10/10/quick-trip-to-panama/
 wpsd_autopost:
   - "1"

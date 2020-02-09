@@ -4,7 +4,7 @@ title: Actualizado sin dolor
 date: 2010-07-10T12:28:36+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2501
+guid: https://cortell.net/blog/?p=2501
 permalink: /2010/07/10/actualizado-sin-dolor/
 categories:
   - Free Software

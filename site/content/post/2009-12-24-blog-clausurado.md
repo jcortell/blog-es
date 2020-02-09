@@ -4,7 +4,7 @@ title: Blog clausurado
 date: 2009-12-24T00:48:33+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2439
+guid: https://cortell.net/blog/?p=2439
 permalink: /2009/12/24/blog-clausurado/
 categories:
   - ¿Por qué no? ¿Utopías?

@@ -4,7 +4,7 @@ title: Nota para n00bs
 date: 2007-03-06T12:04:29+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/03/06/nota-para-n00bs/
+guid: https://www.cortell.net/2007/03/06/nota-para-n00bs/
 permalink: /2007/03/06/nota-para-n00bs/
 categories:
   - General

@@ -4,7 +4,7 @@ title: 'Mientras estamos offline de vacaciones piensa en esto...'
 date: 2005-08-02T11:40:16+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/08/02/mientras-estamos-offline-de-vacaciones-piensa-esto/
+guid: https://www.cortell.net/2005/08/02/mientras-estamos-offline-de-vacaciones-piensa-esto/
 permalink: /2005/08/02/mientras-estamos-offline-de-vacaciones-piensa-esto/
 categories:
   - General
@@ -45,6 +45,6 @@ Lo dicen los datos oficiales del Informe sobre Desarrollo Humano de las Naciones
 
 Duro -¿eh?
   
-Si no lo llegas a entender, quizá mapas como [este](http://blog.ctrlbreak.co.uk/archives/000194.html), que muestran el mundo con los paí­ses redimensionados acorde a la pobreza existente en ellos, te ayuden a comprenderlo.
+Si no lo llegas a entender, quizá mapas como [este](https://blog.ctrlbreak.co.uk/archives/000194.html), que muestran el mundo con los paí­ses redimensionados acorde a la pobreza existente en ellos, te ayuden a comprenderlo.
 
 Por mi parte hace tiempo que vivo en una constante lucha interna entre mi opulente realidad más próxima (por suerte), y las necesidades y sufrimientos de buena parte del mundo. Sólo se me ocurre luchar contra eso haciendo lo que se me da bien y me gusta: concienciar, comunicar. La palabra puede tener mucha fuerza, pero como a veces se queda corta, un donativo a tal ONG, o una ayuda a tal proyecto sirven como una fugaz dosis de endorfina a mi maltrecha "alma" (ya condenada desde hace mucho tiempo, lo cual por suerte no me preocupa porque el infierno lo visité hace tiempo y parte de mí­ se quedó allí­).

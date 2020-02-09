@@ -4,7 +4,7 @@ title: De proceso a rito
 date: 2010-08-18T20:09:10+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2599
+guid: https://cortell.net/blog/?p=2599
 permalink: /2010/08/18/de-proceso-a-rito/
 categories:
   - ¿Por qué no? ¿Utopías?

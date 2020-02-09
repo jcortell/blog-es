@@ -4,7 +4,7 @@ title: Relato Geek Pretty
 date: 2006-02-23T14:57:54+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/02/23/relato-geek-pretty/
+guid: https://www.cortell.net/2006/02/23/relato-geek-pretty/
 permalink: /2006/02/23/relato-geek-pretty/
 categories:
   - General

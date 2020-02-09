@@ -4,7 +4,7 @@ title: SGAE no da cuentas ni a las otras Suciedades de Gestión
 date: 2006-04-20T08:21:08+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/04/20/sgae-no-da-cuentas-ni-a-las-otras-suciedades-de-gestion/
+guid: https://www.cortell.net/2006/04/20/sgae-no-da-cuentas-ni-a-las-otras-suciedades-de-gestion/
 permalink: /2006/04/20/sgae-no-da-cuentas-ni-a-las-otras-suciedades-de-gestion/
 categories:
   - CiberDerechos

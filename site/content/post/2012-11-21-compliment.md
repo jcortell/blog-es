@@ -4,7 +4,7 @@ title: Compliment
 date: 2012-11-21T19:18:55+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4459
+guid: https://cortell.net/blog/?p=4459
 permalink: /2012/11/21/compliment/
 wpsd_autopost:
   - "1"

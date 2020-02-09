@@ -4,7 +4,7 @@ title: Las aguas vuelven a su cauce
 date: 2005-05-25T07:44:20+00:00
 author: Jorge Cortell
 layout: post
-guid: http://64.246.54.67/cortell.net/2005/06/03/las-aguas-vuelven-a-su-cauce/
+guid: https://64.246.54.67/cortell.net/2005/06/03/las-aguas-vuelven-a-su-cauce/
 permalink: /2005/05/25/las-aguas-vuelven-a-su-cauce/
 categories:
   - Personal
@@ -21,7 +21,7 @@ Podemos debatir sobre su nivel de excelencia académica (de hecho hasta que estu
 
 2) La tormenta "Troll" de Barrapunto (y otros sitios que se hicieron eco).
 
-Se veí­a venir por comentarios de Chari Ferrer, de un amigo "topo" que tengo en la SGAE, del [director de Noticiasdot](http://www.mail-archive.com/admpub@www.softcatala.net/msg00593.html), etc, mucho antes de que pasase todo esto que me tení­an ganas.
+Se veí­a venir por comentarios de Chari Ferrer, de un amigo "topo" que tengo en la SGAE, del [director de Noticiasdot](https://www.mail-archive.com/admpub@www.softcatala.net/msg00593.html), etc, mucho antes de que pasase todo esto que me tení­an ganas.
 
 Lo que no me podí­a imaginar es que las crí­ticas más duras surgieran de gente que hasta el momento hací­a "causa común conmigo" en muchos temas, y que no parecí­a tener nada en contra de mí­.
 
@@ -37,7 +37,7 @@ Publico aquí­ algunos de sus más recientes comentarios con la esperanza de pa
   
 ————–
   
-http://atalaya.blogalia.com//historias/30034
+https://atalaya.blogalia.com//historias/30034
 
 2005-05-24 19:00 He borrado una historia, y todos los comentarios, donde hablaba de la universidad de Brantridge, que apuntaba indirectamente a Jorge Cortell y, también indirectamente, poní­a en duda su credibilidad.
   

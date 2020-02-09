@@ -4,7 +4,7 @@ title: Sentencia en Alicante y mi postura frente al Top Manta
 date: 2005-10-28T07:53:46+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/10/28/sentencia-en-alicante-y-mi-postura-frente-al-top-manta/
+guid: https://www.cortell.net/2005/10/28/sentencia-en-alicante-y-mi-postura-frente-al-top-manta/
 permalink: /2005/10/28/sentencia-en-alicante-y-mi-postura-frente-al-top-manta/
 categories:
   - CiberDerechos
@@ -12,7 +12,7 @@ categories:
   - General
   - Noticias
 ---
-[El diario 20 Minutos](http://www.20minutos.es/) (que, por cierto, cada dí­a me gutas más -¡enhorabuena por un excelente trabajo y una excelente filosofí­a anticopyright que está demostrando ser económicamente muy rentable!) [relata](http://www.20minutos.es/noticia/60468/0/sentencia/top/manta/) la sentencia de un juez de Alicante en relación a un caso de "Top Manta".
+[El diario 20 Minutos](https://www.20minutos.es/) (que, por cierto, cada dí­a me gutas más -¡enhorabuena por un excelente trabajo y una excelente filosofí­a anticopyright que está demostrando ser económicamente muy rentable!) [relata](https://www.20minutos.es/noticia/60468/0/sentencia/top/manta/) la sentencia de un juez de Alicante en relación a un caso de "Top Manta".
 
 La sentencia está plagada de sabidurí­a. Esa sabidurí­a serena y exenta de ideologí­a que deberí­a regir cada una de las sentencias que salen de la boca de un juez. Por desgracia a menudo no es así­, pero en este caso sí­.
 
@@ -34,7 +34,7 @@ Ahora bien, una vez dicho esto, analicemos el Top Manta por encima.
 
 Es una actividad delictiva. En eso estamos de acuerdo hasta Pedro Farré y yo 😉 . Pero el porqué es otro cantar. Para mí­ el delito está en la competencia desleal, la evasión de impuestos, la falta de licencia de venta ambulante, la falta de alta en la Seguridad Social, etc, et, etc. O sea, un delito económico derivado de una actividad comercial llevada a cabo al margen de la ley. Eso NO está bien, porque afecta al comercio y a la economí­a. **En este aspecto mi rechazo más firme y decidido contra el Top Manta, y mi llamamiento para que NADIE compre en el Top Manta. Ya sabéis lo que pienso si queréis acceder a mucha cultura a bajo coste: -¡Copiad como posesos! -¡Viva las redes P2P! Pero NO al Top Manta.**
 
-En las redes P2P participáis de la distribución, os da acceso a la misma, y por lo tanto os permite distribuir obras, promocionarlas, e incluso difundir vuestras propias creaciones. [CREAD](http://www.cortell.net/2005/03/27/atrevete-a-crear-es-muy-facil-pci-27/).
+En las redes P2P participáis de la distribución, os da acceso a la misma, y por lo tanto os permite distribuir obras, promocionarlas, e incluso difundir vuestras propias creaciones. [CREAD](https://www.cortell.net/2005/03/27/atrevete-a-crear-es-muy-facil-pci-27/).
 
 El que **el Top Manta** ayude a "regular" la "oferta y la demanda" de los "productos culturales", como hay quien sostiene, es algo sobre lo que habrí­a que hablar largo y tendido. Básicamente mi respuesta: **es un sí­ntoma resultante de una posición dominante de un oligopolio de distribución mantenida sobre unas prebendas artificiales (el dañino monopolio exclusivista y restrictivo de la distribución de dichos "productos culturales"), y lógica reacción a la descarada manipulación del mercado por parte de estos intermediarios. Pero no por ello está justificado ni debe defenderse.**
 

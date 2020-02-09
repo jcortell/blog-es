@@ -4,7 +4,7 @@ title: Sientes esto, eres aquello
 date: 2010-12-26T18:34:50+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2816
+guid: https://cortell.net/blog/?p=2816
 permalink: /2010/12/26/sientes-esto-eres-aquello/
 categories:
   - General

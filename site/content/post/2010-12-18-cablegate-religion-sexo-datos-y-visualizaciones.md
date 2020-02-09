@@ -4,7 +4,7 @@ title: 'CableGate, religión, sexo... datos y visualizaciones'
 date: 2010-12-18T11:33:59+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2790
+guid: https://cortell.net/blog/?p=2790
 permalink: /2010/12/18/cablegate-religion-sexo-datos-y-visualizaciones/
 categories:
   - General
@@ -18,19 +18,19 @@ categories:
 </div>
 
 <div>
-  <img class="aligncenter" src="http://2.bp.blogspot.com/_DlJyFTh4bjU/TPLMc59-3hI/AAAAAAAAJpQ/6IC_9Y1A4bM/s400/Wikileaks%2Bdocuments.jpg" alt="mapa" width="400" height="249" />
+  <img class="aligncenter" src="https://2.bp.blogspot.com/_DlJyFTh4bjU/TPLMc59-3hI/AAAAAAAAJpQ/6IC_9Y1A4bM/s400/Wikileaks%2Bdocuments.jpg" alt="mapa" width="400" height="249" />
 </div>
 
 <div id="_mcePaste">
-  Aquí tenéis un mapa (<a title="http://zerogeography.blogspot.com/2010/11/map-of-wikileaks-us-embassy-cables.html" href="http://zerogeography.blogspot.com/2010/11/map-of-wikileaks-us-embassy-cables.html" target="_blank">fuente</a>) de dónde han salido esas comunicaciones, y el impresionante <a title="http://www.google.com/fusiontables/DataSource?dsrcid=317391" href="http://www.google.com/fusiontables/DataSource?dsrcid=317391" target="_blank">listado</a> que ha recopilado The Guardian para obtenerlo. <a title="http://www.floatingsheep.org/2010/12/map-of-wikileaks-list-of-facilities.html" href="http://www.floatingsheep.org/2010/12/map-of-wikileaks-list-of-facilities.html" target="_blank">Aquí</a> otro de los “establecimientos vitales para la seguridad de EEUU”.
+  Aquí tenéis un mapa (<a title="https://zerogeography.blogspot.com/2010/11/map-of-wikileaks-us-embassy-cables.html" href="https://zerogeography.blogspot.com/2010/11/map-of-wikileaks-us-embassy-cables.html" target="_blank">fuente</a>) de dónde han salido esas comunicaciones, y el impresionante <a title="https://www.google.com/fusiontables/DataSource?dsrcid=317391" href="https://www.google.com/fusiontables/DataSource?dsrcid=317391" target="_blank">listado</a> que ha recopilado The Guardian para obtenerlo. <a title="https://www.floatingsheep.org/2010/12/map-of-wikileaks-list-of-facilities.html" href="https://www.floatingsheep.org/2010/12/map-of-wikileaks-list-of-facilities.html" target="_blank">Aquí</a> otro de los “establecimientos vitales para la seguridad de EEUU”.
 </div>
 
 <div id="_mcePaste">
-  De nuevo, gracias a <a title="http://mirror.wikileaks.info/" href="http://mirror.wikileaks.info/" target="_blank">WikiLeaks</a>.
+  De nuevo, gracias a <a title="https://mirror.wikileaks.info/" href="https://mirror.wikileaks.info/" target="_blank">WikiLeaks</a>.
 </div>
 
 <div>
-  Por otro lado, los chicos de FloatingSheep han hecho un interesante primer <a title="http://www.floatingsheep.org/2010/01/googles-geographies-of-religion.html" href="http://www.floatingsheep.org/2010/01/googles-geographies-of-religion.html" target="_blank">estudio</a> (contienen errores de metodología, en los que están trabajando) para visualizar en un mapa las principales religiones del mundo.
+  Por otro lado, los chicos de FloatingSheep han hecho un interesante primer <a title="https://www.floatingsheep.org/2010/01/googles-geographies-of-religion.html" href="https://www.floatingsheep.org/2010/01/googles-geographies-of-religion.html" target="_blank">estudio</a> (contienen errores de metodología, en los que están trabajando) para visualizar en un mapa las principales religiones del mundo.
 </div>
 
 <div id="_mcePaste">

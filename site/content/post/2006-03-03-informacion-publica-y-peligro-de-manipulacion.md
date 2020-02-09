@@ -4,7 +4,7 @@ title: Información pública y peligro de manipulación
 date: 2006-03-03T10:45:52+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/03/03/informacion-publica-y-peligro-de-manipulacion/
+guid: https://www.cortell.net/2006/03/03/informacion-publica-y-peligro-de-manipulacion/
 permalink: /2006/03/03/informacion-publica-y-peligro-de-manipulacion/
 categories:
   - CiberDerechos
@@ -23,4 +23,4 @@ Pero la posibilidad de que dicha información sea manipulada (grotesca y humorí
 
 Lo que hay que evitar a toda costa es que incidentes de este tipo lleven al ocultismo y opacidad de información pública. -¿Controles y seguridad? Sí­ -¿Restricciones y ocultación? No.
 
-![detención del Pato Donald](http://www.thesmokinggun.com/graphics/art3/0224061monroe1.jpg)
+![detención del Pato Donald](https://www.thesmokinggun.com/graphics/art3/0224061monroe1.jpg)

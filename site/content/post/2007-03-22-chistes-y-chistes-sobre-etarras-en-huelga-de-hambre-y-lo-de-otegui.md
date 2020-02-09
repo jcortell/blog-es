@@ -4,7 +4,7 @@ title: 'Chistes y chistes sobre etarras en huelga de hambre (y lo de Otegui...)'
 date: 2007-03-22T18:58:57+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/03/22/chistes-y-chistes-sobre-etarras-en-huelga-de-hambre-y-lo-de-otegui/
+guid: https://www.cortell.net/2007/03/22/chistes-y-chistes-sobre-etarras-en-huelga-de-hambre-y-lo-de-otegui/
 permalink: /2007/03/22/chistes-y-chistes-sobre-etarras-en-huelga-de-hambre-y-lo-de-otegui/
 categories:
   - Filosofí­a
@@ -24,7 +24,7 @@ Por un lado tenemos los chistes gráficos que circulan por internet sobre la hue
 
 Principalmente los hay de dos tipos: están los del fotomontaje (que si la imagen del famélico preso en el hospital es un montaje, y l aorijinal es él tirándose en un tobogán acuático, como ha publicado La Frikipedia; que si el Dr. House le visita y dice que es un truco por esto y por aquello, etc). No me parece de buen gusto, aunque sea porque es un paciente en un hospital, por mucho que él haya accedido a que se difundan. Además, le hacen el juego a sus intereses. Y poner en duda una foto en base a pequeños argumentos, es ridí­culo, cuando hay argumentos de más peso, que son a los que se refieren los del otro tipo, como la tira publicada por El Diario de Navarra:
 
-<a target="_blank" title="Diario de Navarra" href="http://www.diariodenavarra.com/edicionimpresa/indice.asp?seccion=humor&dia=20070126"><img title="Tira del Diario de Navarra" alt="Tira del Diario de Navarra" src="http://photos1.blogger.com/x/blogger/22/1406/400/548143/house.jpg" /></a>
+<a target="_blank" title="Diario de Navarra" href="https://www.diariodenavarra.com/edicionimpresa/indice.asp?seccion=humor&dia=20070126"><img title="Tira del Diario de Navarra" alt="Tira del Diario de Navarra" src="https://photos1.blogger.com/x/blogger/22/1406/400/548143/house.jpg" /></a>
 
 "Al pan pan, y a las putas putas", como decí­a un amigo mí­o.
 

@@ -4,7 +4,7 @@ title: 'Tiendas Apple: la producción suplanta el consumo'
 date: 2010-07-25T02:00:48+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2547
+guid: https://cortell.net/blog/?p=2547
 permalink: /2010/07/25/tiendas-apple-la-produccion-suplanta-el-consumo/
 categories:
   - General

@@ -4,7 +4,7 @@ title: Sí­ habrá conferencia en la UPV el 2 de mayo
 date: 2006-04-29T13:54:10+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/04/29/si-habra-conferencia-en-la-upv-el-2-de-mayo/
+guid: https://www.cortell.net/2006/04/29/si-habra-conferencia-en-la-upv-el-2-de-mayo/
 permalink: /2006/04/29/si-habra-conferencia-en-la-upv-el-2-de-mayo/
 categories:
   - CiberDerechos
@@ -15,13 +15,13 @@ categories:
   - Noticias
   - Privacidad
 ---
-[Actualización 2: [aquí­ está disponible el ví­deo](http://www.archive.org/details/ConferenciaJorgeCortellUPVMayo2006) -falta parte del principio y parte del final- gracias a Daniel de faltantornillos]
+[Actualización 2: [aquí­ está disponible el ví­deo](https://www.archive.org/details/ConferenciaJorgeCortellUPVMayo2006) -falta parte del principio y parte del final- gracias a Daniel de faltantornillos]
 
-[Actualización: <a href="http://www51.megaupload.com/files/47c1c4240de7915b5f23ace9ba8fe4e9/UPV06.pdf" rel="nofollow">aquí­</a> está disponible la presentación en PDF. Si el enlace directo no va, emplead <a href="http://www.megaupload.com/?d=6BXWI5FA" rel="nofollow">este indirecto</a> y cerrad la ventana de publicidad que bloquea el acceso al enlace]
+[Actualización: <a href="https://www51.megaupload.com/files/47c1c4240de7915b5f23ace9ba8fe4e9/UPV06.pdf" rel="nofollow">aquí­</a> está disponible la presentación en PDF. Si el enlace directo no va, emplead <a href="https://www.megaupload.com/?d=6BXWI5FA" rel="nofollow">este indirecto</a> y cerrad la ventana de publicidad que bloquea el acceso al enlace]
 
-[Primero me <s>invitan</s> piden que confirme fecha y horario para dar una conferencia](http://www.cortell.net/2006/02/28/conferencia-en-la-upv-un-ano-despues-del-intento-de-censura/).
+[Primero me <s>invitan</s> piden que confirme fecha y horario para dar una conferencia](https://www.cortell.net/2006/02/28/conferencia-en-la-upv-un-ano-despues-del-intento-de-censura/).
 
-[Luego deciden no autorizarla](http://www.cortell.net/2006/04/08/la-universidad-politecnica-cancela-mi-conferencia-%c2%a1de-nuevo/).
+[Luego deciden no autorizarla](https://www.cortell.net/2006/04/08/la-universidad-politecnica-cancela-mi-conferencia-%c2%a1de-nuevo/).
 
 Ahora un grupo de alumnos reserva la **Sala de Proyectos de la Casa del Alumno** y me piden que imparta la conferencia.
 

@@ -4,7 +4,7 @@ title: Responsabilidades del administrador público
 date: 2011-08-12T12:16:54+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3387
+guid: https://cortell.net/blog/?p=3387
 permalink: /2011/08/12/responsabilidades-del-administrador-publico/
 wpsd_autopost:
   - "1"
@@ -15,7 +15,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-<a title="http://saludable.infobae.com/japon-reconocio-que-enfermo-a-su-poblacion-de-hepatitis-b/" href="http://saludable.infobae.com/japon-reconocio-que-enfermo-a-su-poblacion-de-hepatitis-b/" target="_blank">Esta noticia</a> que me envía Ana sobre la responsabilidad del gobierno japonés en un contagio masivo de hepatitis, lleva automáticamente a la reflexión sobre la responsabilidad del administrador público.
+<a title="https://saludable.infobae.com/japon-reconocio-que-enfermo-a-su-poblacion-de-hepatitis-b/" href="https://saludable.infobae.com/japon-reconocio-que-enfermo-a-su-poblacion-de-hepatitis-b/" target="_blank">Esta noticia</a> que me envía Ana sobre la responsabilidad del gobierno japonés en un contagio masivo de hepatitis, lleva automáticamente a la reflexión sobre la responsabilidad del administrador público.
 
 > El gobierno nipón asumió su responsabilidad en los contagios de esta enfermedad que se produjeron entre 1948 y 1988, durante la campaña de vacunación. Deberá pagar millones de dólares en indemnizaciones, y para ello subirá los impuestos
 

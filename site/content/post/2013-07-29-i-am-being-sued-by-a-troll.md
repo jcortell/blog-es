@@ -4,7 +4,7 @@ title: I am being sued by a troll
 date: 2013-07-29T10:28:20+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4850
+guid: https://cortell.net/blog/?p=4850
 permalink: /2013/07/29/i-am-being-sued-by-a-troll/
 categories:
   - CiberDerechos
@@ -17,7 +17,7 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-**Horas después del <a title="http://cortell.net/blog/es/2013/07/i-am-requested-to-take-a-link-down-and-streisand-effect/" href="http://cortell.net/blog/es/2013/07/i-am-requested-to-take-a-link-down-and-streisand-effect/" target="_blank">primer email</a>, recibo este segundo con una amenaza:**
+**Horas después del <a title="https://cortell.net/blog/es/2013/07/i-am-requested-to-take-a-link-down-and-streisand-effect/" href="https://cortell.net/blog/es/2013/07/i-am-requested-to-take-a-link-down-and-streisand-effect/" target="_blank">primer email</a>, recibo este segundo con una amenaza:**
 
 > Señor Cortell:
 > 

@@ -4,7 +4,7 @@ title: Microsoft Future Decoded 2016
 date: 2016-11-07T20:36:17+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5934
+guid: https://blog.cortell.net/es/?p=5934
 permalink: /2016/11/07/microsoft-future-decoded-2016/
 categories:
   - Geek Fun

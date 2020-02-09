@@ -4,7 +4,7 @@ title: London Global Art Fair 2015
 date: 2015-05-22T20:28:49+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5470
+guid: https://blog.cortell.net/es/?p=5470
 permalink: /2015/05/22/london-global-art-fair-2015/
 categories:
   - Arte
@@ -13,7 +13,7 @@ categories:
   - Personal
   - Placeres de la vida
 ---
-Ayer fue invitado a la <a href="http://www.artfairslondon.com/" target="_blank">London Global Art Fair 2015</a>, que se lleva a cabo del 21 al 23 de mayo en Olimpia (Kensington), Londres.
+Ayer fue invitado a la <a href="https://www.artfairslondon.com/" target="_blank">London Global Art Fair 2015</a>, que se lleva a cabo del 21 al 23 de mayo en Olimpia (Kensington), Londres.
 
 Con 150 galerías de 40 países que exhiben obras de más de 500 artistas, desde 25 años (Nicole Wong y Vivien Zhang) a 93 (SH Raza) de 63 países de todo el mundo, con paredes que podrían darle la vuelta más de 13 veces alrededor del Royal Albert Hall, London Global Art Fair es tanto un mercado, como una celebración de la creatividad, el arte y la cultura.
 
@@ -38,7 +38,7 @@ Fue una charla muy ilustrativa y animada, que planteó algunos puntos interesant
 
 – A las 14:00: La mesa redonda “**En algún momento, la Libertad de Expresión Define el Arte**" presidida por Kathleen Soriano, con Bonnie Greer, Helene Lundbye Petersen y Mimsy.
 
-Kathleen <a href="http://www.independent.co.uk/arts-entertainment/art/news/public-debate-warns-of-selfcensorship-in-the-arts-10112075.html" target="_blank">citó</a> a Michael Attenborough, diciendo que desde que dejó su puesto como director artístico del Teatro Almeida hace dos años, "algo está empezando a introducirse en [las instituciones de arte] que no puedo describir mejor que como autocensura". "Hay un temor creciente en torno al acceso a las subvenciones”, dijo. "La gente está admitiendo en privado que les preocupa que autocensuran lo que están haciendo. Esto es catastrófico".
+Kathleen <a href="https://www.independent.co.uk/arts-entertainment/art/news/public-debate-warns-of-selfcensorship-in-the-arts-10112075.html" target="_blank">citó</a> a Michael Attenborough, diciendo que desde que dejó su puesto como director artístico del Teatro Almeida hace dos años, "algo está empezando a introducirse en [las instituciones de arte] que no puedo describir mejor que como autocensura". "Hay un temor creciente en torno al acceso a las subvenciones”, dijo. "La gente está admitiendo en privado que les preocupa que autocensuran lo que están haciendo. Esto es catastrófico".
 
 > Bonnie dijo explícitamente, y repitió “las instituciones culturales son una mafia", y ofreció un dato sorprendente: TODAS las exposiciones individuales en las grandes instituciones culturales de los EE.UU. el año pasado salieron de (están representados por) sólo 5 representantes.
 

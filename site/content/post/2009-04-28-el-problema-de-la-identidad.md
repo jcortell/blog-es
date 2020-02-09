@@ -4,14 +4,14 @@ title: El problema de la identidad
 date: 2009-04-28T11:42:46+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1832
+guid: https://cortell.net/blog/?p=1832
 permalink: /2009/04/28/el-problema-de-la-identidad/
 categories:
   - Filosofí­a
   - General
   - Otras cosas
 ---
-Tras culminar el beve pero interesantísimo libro de John Perry "<a title="http://www.hackettpublishing.com/detail.php?_d=p0OlTgfM9GJ8TInAxOw1g9x14%2FCy%2FhQ%2FFFzMKM4vtMA%3D" href="http://www.hackettpublishing.com/detail.php?_d=p0OlTgfM9GJ8TInAxOw1g9x14%2FCy%2FhQ%2FFFzMKM4vtMA%3D" target="_blank">A Dialogue on Personal Identity and Immortality</a>", he tenido la sensación de que el autor, en la más tradicional costumbre académica, se queda corto al no aportar su propia visión, su alternativa. No me ha sido suficiente el elegante y ameno repaso a las principales teorías de la identidad que efectúa disfrazado de dramático diálogo. Así que, ayudado por una, interesante como siempre, conversación con mi chica (estudiante de Filosofía, entre otras muchas cosas), he llevado el concepto mucho más allá, terminando en derroteros inesperados (lo cual constituye uno de los principales placeres del debate y la tertulia).
+Tras culminar el beve pero interesantísimo libro de John Perry "<a title="https://www.hackettpublishing.com/detail.php?_d=p0OlTgfM9GJ8TInAxOw1g9x14%2FCy%2FhQ%2FFFzMKM4vtMA%3D" href="https://www.hackettpublishing.com/detail.php?_d=p0OlTgfM9GJ8TInAxOw1g9x14%2FCy%2FhQ%2FFFzMKM4vtMA%3D" target="_blank">A Dialogue on Personal Identity and Immortality</a>", he tenido la sensación de que el autor, en la más tradicional costumbre académica, se queda corto al no aportar su propia visión, su alternativa. No me ha sido suficiente el elegante y ameno repaso a las principales teorías de la identidad que efectúa disfrazado de dramático diálogo. Así que, ayudado por una, interesante como siempre, conversación con mi chica (estudiante de Filosofía, entre otras muchas cosas), he llevado el concepto mucho más allá, terminando en derroteros inesperados (lo cual constituye uno de los principales placeres del debate y la tertulia).
 
 Para empezar, **el concepto de identidad**. Como ya dijo Thomas Reid en _Essays on the Intellectual Powers of Man_ (1785) Ensayo III, Cap. IV: "“La convicción que cada hombre tiene de su identidad, tan atrás como se lo permite la memoria, no necesita ayuda de la filosofía para reforzarse; y no hay filosofía que la pueda debilitar, sin producir primero algún grado de locura.” [traducción propia]
 
@@ -25,7 +25,7 @@ Por último parecen estar los **reduccionistas**, como Locke, Shoemaker, o Parf
 
 Introduciendo una serie de paradojas (basadas en supuestos como la clonación, la amnesia, etc), todos estos enfoques quedan descartados, o debilitados hasta el punto de no parecer muy válidos. Y aquí termina el libro, con la muerte de Gretchen.
 
-Quizá influenciado por acabar de ver "<a title="http://www.filmaffinity.com/es/film192468.html" href="http://www.filmaffinity.com/es/film192468.html" target="_blank">Un Budha</a>", estar leyendo "Mente y Cerebro Zen", y mi pasión por las filosofías orientales, me planteo la pregunta desde otro punto de vista: descartando la limitadora visión de la linearidad, nos queda la duda del **continuismo**.
+Quizá influenciado por acabar de ver "<a title="https://www.filmaffinity.com/es/film192468.html" href="https://www.filmaffinity.com/es/film192468.html" target="_blank">Un Budha</a>", estar leyendo "Mente y Cerebro Zen", y mi pasión por las filosofías orientales, me planteo la pregunta desde otro punto de vista: descartando la limitadora visión de la linearidad, nos queda la duda del **continuismo**.
 
 El continuismo no tiene por qué ser reduccionista. ¿Y si la conexión es a nivel de especie, de planeta, de energía...?
 

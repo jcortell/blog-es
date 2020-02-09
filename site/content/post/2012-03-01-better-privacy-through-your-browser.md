@@ -4,7 +4,7 @@ title: Better privacy through your browser
 date: 2012-03-01T17:28:40+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3885
+guid: https://cortell.net/blog/?p=3885
 permalink: /2012/03/01/better-privacy-through-your-browser/
 wpsd_autopost:
   - "1"

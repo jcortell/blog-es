@@ -4,7 +4,7 @@ title: September gone
 date: 2012-10-09T00:49:31+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4342
+guid: https://cortell.net/blog/?p=4342
 permalink: /2012/10/09/september-gone/
 wpsd_autopost:
   - "1"
@@ -18,7 +18,7 @@ categories:
   Parece que no puedo mantenerme al día. Demasiadas cosas están ocurriendo a mi alrededor, a todos los niveles. Así que mis posts de "he hecho esto y aquello" se van a reducir a la mínima expresión.
 </p>
 
-El 5 de septiembre fui <a title="http://cortell.net/blog/2012/09/round-table-at-nycba-about-campaign-reform/" href="http://cortell.net/blog/2012/09/round-table-at-nycba-about-campaign-reform/" target="_blank">este</a> evento del que ya he hablado.
+El 5 de septiembre fui <a title="https://cortell.net/blog/2012/09/round-table-at-nycba-about-campaign-reform/" href="https://cortell.net/blog/2012/09/round-table-at-nycba-about-campaign-reform/" target="_blank">este</a> evento del que ya he hablado.
 
 El 7 de septiembre me invitaron a la premiere del documental sobre Gerhard Richter en el New Museum. Fue muy revelador y triste ver cómo el crítico/historiador de Richter le propuso una interpretación de uno de sus cuadros con la que Richter no parecía estar de acuerdo, pero tras unos minutos de conversación "aceptó". Las ruedas del sistema girarán… y te aplastarán como te pillen debajo.
 
@@ -57,7 +57,7 @@ El 7 de septiembre me invitaron a la premiere del documental sobre Gerhard Richt
 </p>
 
 <p style="text-align: left">
-  El 23 fui a ver la <a title="http://cortell.net/blog/2012/09/searching-for-sugar-man/" href="http://cortell.net/blog/2012/09/searching-for-sugar-man/" target="_blank">película</a> "Buscando a Sugar Man".
+  El 23 fui a ver la <a title="https://cortell.net/blog/2012/09/searching-for-sugar-man/" href="https://cortell.net/blog/2012/09/searching-for-sugar-man/" target="_blank">película</a> "Buscando a Sugar Man".
 </p>
 
 <p style="text-align: left">

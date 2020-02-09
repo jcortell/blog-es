@@ -4,7 +4,7 @@ title: La arbitrariedad de impuestos absurdos
 date: 2011-06-26T12:36:19+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3267
+guid: https://cortell.net/blog/?p=3267
 permalink: /2011/06/26/la-arbitrariedad-de-impuestos-absurdos/
 wpsd_autopost:
   - "1"

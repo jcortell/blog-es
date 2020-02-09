@@ -4,7 +4,7 @@ title: Avisos estúpidos
 date: 2007-09-24T11:33:21+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/09/24/avisos-estupidos/
+guid: https://www.cortell.net/2007/09/24/avisos-estupidos/
 permalink: /2007/09/24/avisos-estupidos/
 categories:
   - General
@@ -15,5 +15,5 @@ Tengo un amigo que dice que nos estamos haciendo tontos, de tanto "Aviso" norma 
 No obstante, el mejor es este 😉 :
 
 <div style="text-align: center">
-  <img title="Lion-human encounters warning" alt="Lion-human encounters warning" src="http://elsmar.com/pdf_files/Mozambique%20Lion%20Warning%20Sign.jpeg" />
+  <img title="Lion-human encounters warning" alt="Lion-human encounters warning" src="https://elsmar.com/pdf_files/Mozambique%20Lion%20Warning%20Sign.jpeg" />
 </div>

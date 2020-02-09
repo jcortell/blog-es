@@ -4,7 +4,7 @@ title: Certificación de software libre para determinados usos
 date: 2005-12-04T22:03:31+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/12/04/certificacion-de-software-libre-para-determinados-usos/
+guid: https://www.cortell.net/2005/12/04/certificacion-de-software-libre-para-determinados-usos/
 permalink: /2005/12/04/certificacion-de-software-libre-para-determinados-usos/
 categories:
   - General

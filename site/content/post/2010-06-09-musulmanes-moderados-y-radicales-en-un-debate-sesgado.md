@@ -4,7 +4,7 @@ title: Musulmanes moderados y radicales en un debate sesgado
 date: 2010-06-09T18:14:56+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2477
+guid: https://cortell.net/blog/?p=2477
 permalink: /2010/06/09/musulmanes-moderados-y-radicales-en-un-debate-sesgado/
 categories:
   - General

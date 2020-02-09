@@ -4,7 +4,7 @@ title: SGAE apoya sospechosa maniobra para instalar escuela de música extranjer
 date: 2008-03-05T11:10:39+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/03/05/sgae-apoya-sospechosa-maniobra-para-instalar-escuela-de-musica-extranjera-en-vez-de-nacional/
+guid: https://www.cortell.net/2008/03/05/sgae-apoya-sospechosa-maniobra-para-instalar-escuela-de-musica-extranjera-en-vez-de-nacional/
 permalink: /2008/03/05/sgae-apoya-sospechosa-maniobra-para-instalar-escuela-de-musica-extranjera-en-vez-de-nacional/
 categories:
   - CiberDerechos
@@ -12,7 +12,7 @@ categories:
   - General
   - Noticias
 ---
-En <a target="_blank" title="mi post" href="http://www.cortell.net/2008/03/03/sociedades-de-gestion-de-derechos-de-autor-la-cosa-nostra/">un post anterior</a> (en el que copio-pego parte de una estupenda carta), se hace referencia a <a target="_blank" title="Berklee" href="http://www.tallerdemusics.com/web/00-principal/propuesta_iniciativa_sgae-berklee_cas.php">este nuevo escándalo de la SGAE</a>.
+En <a target="_blank" title="mi post" href="https://www.cortell.net/2008/03/03/sociedades-de-gestion-de-derechos-de-autor-la-cosa-nostra/">un post anterior</a> (en el que copio-pego parte de una estupenda carta), se hace referencia a <a target="_blank" title="Berklee" href="https://www.tallerdemusics.com/web/00-principal/propuesta_iniciativa_sgae-berklee_cas.php">este nuevo escándalo de la SGAE</a>.
 
 Por cierto, en la última frase de la carta de Santiago Auserón en contra de esta maniobra dice (las negrillas son mí­as):
 

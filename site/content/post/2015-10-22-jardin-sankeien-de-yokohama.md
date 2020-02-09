@@ -4,7 +4,7 @@ title: Jardín Sankeien de Yokohama
 date: 2015-10-22T15:16:46+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5639
+guid: https://blog.cortell.net/es/?p=5639
 permalink: /2015/10/22/jardin-sankeien-de-yokohama/
 categories:
   - General

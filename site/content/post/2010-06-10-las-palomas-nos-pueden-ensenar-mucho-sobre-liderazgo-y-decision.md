@@ -4,7 +4,7 @@ title: Las palomas nos pueden enseñar mucho sobre liderazgo y decisión
 date: 2010-06-10T08:46:22+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2479
+guid: https://cortell.net/blog/?p=2479
 permalink: /2010/06/10/las-palomas-nos-pueden-ensenar-mucho-sobre-liderazgo-y-decision/
 categories:
   - General

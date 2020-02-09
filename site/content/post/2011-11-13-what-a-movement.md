@@ -4,7 +4,7 @@ title: What a movement!
 date: 2011-11-13T10:48:21+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3644
+guid: https://cortell.net/blog/?p=3644
 permalink: /2011/11/13/what-a-movement/
 wpsd_autopost:
   - "1"
@@ -19,7 +19,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-Primero lo primero: gracias a quien pensó que me interesaría unirme a <a title="https://lists.riseup.net/www/info/mca" href="https://lists.riseup.net/www/info/mca" target="_blank">MCA</a> a través de <a title="http://riseup.net" href="http://riseup.net" target="_blank">RiseUp</a>, PERO...
+Primero lo primero: gracias a quien pensó que me interesaría unirme a <a title="https://lists.riseup.net/www/info/mca" href="https://lists.riseup.net/www/info/mca" target="_blank">MCA</a> a través de <a title="https://riseup.net" href="https://riseup.net" target="_blank">RiseUp</a>, PERO...
 
   * No me subscribas a una lista son mi consentimiento
   * No lo hagas sin siquiera decirme quién eres

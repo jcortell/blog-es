@@ -4,7 +4,7 @@ title: Inversión parental, porcentual por especies
 date: 2011-01-03T10:04:05+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2837
+guid: https://cortell.net/blog/?p=2837
 permalink: /2011/01/03/inversion-parental-porcentual-por-especies/
 categories:
   - Filosofí­a
@@ -14,7 +14,7 @@ categories:
 ---
 La inversión parental es cualquier esfuerzo que hacen los progenitores para favorecer a las crías. Esto en sí conlleva una serie de consecuencias en cuanto a comportamientos y asimetrías sexuales. Además es la base de teorías de biología evolutiva como la del "gen egoísta" (cómo, por ejemplo, la cola del pavo real macho aumenta sus probabilidades de procreación, pero también incrementa el peligro que corre al ser mayor riesgo para los depredadores... y es el sobrevivir a ese mayor riesgo lo que mejora sus probabilidades de reproducción, con lo que podemos decir que el "gen" pone en peligro al "indivíduo" para su propio beneficio).
 
-Pero hay algo que me intriga: no todas las <a title="http://www.bbc.co.uk/nature/adaptations/Parental_investment" href="http://www.bbc.co.uk/nature/adaptations/Parental_investment" target="_blank">especies</a> hacen una inversión parental (muchas crías nacen autosuficientes, o se deja a la selección natural y la suerte las que sobrevivirán su período de aprendizaje y adaptación). Y las que lo hacen, no lo hacen por mucho tiempo. Sin embargo, los homínidos sí invierten mucho en sus crías. Y si hablamos de los humanos, es sorprendente (en porcentaje sobre su longevidad) la brutal inversión.
+Pero hay algo que me intriga: no todas las <a title="https://www.bbc.co.uk/nature/adaptations/Parental_investment" href="https://www.bbc.co.uk/nature/adaptations/Parental_investment" target="_blank">especies</a> hacen una inversión parental (muchas crías nacen autosuficientes, o se deja a la selección natural y la suerte las que sobrevivirán su período de aprendizaje y adaptación). Y las que lo hacen, no lo hacen por mucho tiempo. Sin embargo, los homínidos sí invierten mucho en sus crías. Y si hablamos de los humanos, es sorprendente (en porcentaje sobre su longevidad) la brutal inversión.
 
 Esto es debido a que al convertirnos en bípedos, el desarrollo fetal se vio afectado. Además, el gran tamaño de nuestro cráneo/cerebro, aunque para poder nacer no está soldado y por lo tanto es un poco flexible, hace que nazcamos "demasiado pronto" ("¡te parecen pocos 9 meses!" dirán las embarazadas). Por ello el período de cuidado inicial de las crías es largo en comparación con otras especies.
 

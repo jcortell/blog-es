@@ -4,7 +4,7 @@ title: La Comisión Europea en contra del Canon indiscriminado
 date: 2007-09-26T17:33:16+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/09/26/la-comision-europea-en-contra-del-canon-indiscriminado/
+guid: https://www.cortell.net/2007/09/26/la-comision-europea-en-contra-del-canon-indiscriminado/
 permalink: /2007/09/26/la-comision-europea-en-contra-del-canon-indiscriminado/
 categories:
   - CiberDerechos
@@ -40,14 +40,14 @@ La Comisión considera asimismo que los EQUIPOS UTILIZADOS CON FINES COMERCIALES
 
 Como no podí­a ser de otra manera, la Comisión Europea considera que el canon digital aplicado indiscriminadamente, sobre todo tipo de soportes digitales, e independientemente del uso final que se le vaya a dar, es un abuso fuera de toda norma legal, que además supone un grave retraso para la Sociedad de la Información.
 
-<a target="_blank" title="http://www.internautas.org/html/4493.html" href="http://www.internautas.org/html/4493.html">http://www.internautas.org/html/4493.html</a>
+<a target="_blank" title="https://www.internautas.org/html/4493.html" href="https://www.internautas.org/html/4493.html">https://www.internautas.org/html/4493.html</a>
 
 Pregunta escrita de Raí¼l Romeva i Rueda eurodiputado de Iniciativa per Catalunya Verds a la Comisión
 
 Respuesta del Sr. McCreevy en nombre de la Comisión
 
-<a target="_blank" title="http://www.europarl.europa.eu/sides/getAllAnswers.do?reference=E-2007-2864&language=ES" href="http://www.europarl.europa.eu/sides/getAllAnswers.do?reference=E-2007-2864&language=ES">http://www.europarl.europa.eu/sides/getAllAnswers.do?reference=E-2007-2864&language=ES</a>
+<a target="_blank" title="https://www.europarl.europa.eu/sides/getAllAnswers.do?reference=E-2007-2864&language=ES" href="https://www.europarl.europa.eu/sides/getAllAnswers.do?reference=E-2007-2864&language=ES">https://www.europarl.europa.eu/sides/getAllAnswers.do?reference=E-2007-2864&language=ES</a>
 
 YA HAY 1.353.000 FIRMAS CONTRA EL CANON. Tu firma cuenta.
 
-<a target="_blank" title="http://www.todoscontraelcanon.es/index2.php?body=suscribe_entidades" href="http://www.todoscontraelcanon.es/index2.php?body=suscribe_entidades">http://www.todoscontraelcanon.es/index2.php?body=suscribe_entidades</a>
+<a target="_blank" title="https://www.todoscontraelcanon.es/index2.php?body=suscribe_entidades" href="https://www.todoscontraelcanon.es/index2.php?body=suscribe_entidades">https://www.todoscontraelcanon.es/index2.php?body=suscribe_entidades</a>

@@ -4,7 +4,7 @@ title: 'Mantras corporativos: repitelos y se convertirán en verdad'
 date: 2009-07-23T19:36:14+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2057
+guid: https://cortell.net/blog/?p=2057
 permalink: /2009/07/23/mantras-corporativos-repitelos-y-se-convertiran-en-verdad/
 categories:
   - CiberDerechos
@@ -16,7 +16,7 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-La Sra. Garaña, nueva presidenta de Microsoft España (no te echaremos de menos, Rosa... ¿o visto lo visto sí?) ha sido <a title="http://www.elpais.com/articulo/semana/Todos/estamos/hacer/negocio/incluyendo/Google/elpepueconeg/20090719elpneglse_4/Tes" href="http://www.elpais.com/articulo/semana/Todos/estamos/hacer/negocio/incluyendo/Google/elpepueconeg/20090719elpneglse_4/Tes" target="_blank">entrevistada</a> por El País (¿casualidad que el Gobierno está intentando hacernos tragar con un acuerdo bajo mano con Microsoft y El País la entreviste?).
+La Sra. Garaña, nueva presidenta de Microsoft España (no te echaremos de menos, Rosa... ¿o visto lo visto sí?) ha sido <a title="https://www.elpais.com/articulo/semana/Todos/estamos/hacer/negocio/incluyendo/Google/elpepueconeg/20090719elpneglse_4/Tes" href="https://www.elpais.com/articulo/semana/Todos/estamos/hacer/negocio/incluyendo/Google/elpepueconeg/20090719elpneglse_4/Tes" target="_blank">entrevistada</a> por El País (¿casualidad que el Gobierno está intentando hacernos tragar con un acuerdo bajo mano con Microsoft y El País la entreviste?).
 
 La entrevista es breve, pero en DOS ocasiones se puede apreciar el efecto Mantra: si repites algo el suficiente número de veces, se convierte en realidad (o eso parece, y al fin de al cabo ¿qué es la realidad sino eso?).
 

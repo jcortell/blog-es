@@ -4,7 +4,7 @@ title: 'Principal mercado de computación cuántica: -¡casinos online!'
 date: 2007-03-26T11:18:29+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2007/03/26/principal-mercado-de-computacion-cuantica-%c2%a1casinos-online/'
+guid: 'https://www.cortell.net/2007/03/26/principal-mercado-de-computacion-cuantica-%c2%a1casinos-online/'
 permalink: /2007/03/26/principal-mercado-de-computacion-cuantica-casinos-online/
 categories:
   - General

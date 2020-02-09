@@ -4,7 +4,7 @@ title: 'RePress: fight online censorship with a WP Plug-In'
 date: 2012-01-30T17:51:48+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3808
+guid: https://cortell.net/blog/?p=3808
 permalink: /2012/01/30/repress-fight-online-censorship-with-a-wp-plug-in/
 wpsd_autopost:
   - "1"

@@ -4,7 +4,7 @@ title: Apuntes desde Caracas I
 date: 2008-11-03T02:45:25+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1361
+guid: https://www.cortell.net/?p=1361
 permalink: /2008/11/03/apuntes-desde-caracas-i/
 categories:
   - General
@@ -15,11 +15,11 @@ El viaje ha comenzado con pequeñas anécdotas sin importancia (el Consejero Del
 
 El Madrid-Caracas ha sido un vuelo sin más curiosidad que una tripulación mayor, cansada y malhumorada, y un sistema de seguimiento de vuelo que no paraba de mostrar "Invalid" sobre cada punto del mapa que sobrevolábamos (qué tranquilidad da eso).
 
-<img src="http://farm4.static.flickr.com/3028/2996938763_28e9773547.jpg" alt="Invalid en la pantalla" width="411" height="500" />
+<img src="https://farm4.static.flickr.com/3028/2996938763_28e9773547.jpg" alt="Invalid en la pantalla" width="411" height="500" />
 
 Lo más digno de mención del día ha sido el caos monumental en inmigración del aeropuerto Simón Bolivar. Las colas, interminables y desorganizadas, sin nada que las dirigiese, organizase o delimitase (ni carteles, ni cintas, ni cuerdas, ni cadenas, ni pintura en el suelo... nada). El personal sin el más mínimo interés por ayudar. Ni siquiera mostrando un ápice de preocupación. Y los pasajeros, sobretodo los del este, absolutamente incrédulos de lo que veían.
 
-<img src="http://farm4.static.flickr.com/3243/2996939135_6ba747b32f.jpg" alt="caos en aeropuerto" width="375" height="500" />
+<img src="https://farm4.static.flickr.com/3243/2996939135_6ba747b32f.jpg" alt="caos en aeropuerto" width="375" height="500" />
 
 Para colmo me ha pasado una de principiante que no voy a olvidar en mucho tiempo: sabía que el cambio del mercado negro da el doble que el cambio en el aeropuerto, aunque uno no se puede fiar de cualquiera, pues le pueden colar billetes falsos.
 
@@ -31,4 +31,4 @@ Al llegar al hotel he oído a una chica quejarse de que le habían cobrado 100 e
 
 Encima por 5 minutos no puedo nadar antes de irme a dormir (que el cuerpo es lo que me pide, pero en hora local es demasiado pronto), y la conexión a la red falla, con lo que tengo que sujetar el cable (wifi sólo en el lobby) con la mano. Mañana me vengo en el buffette de desayuno y por la tarde no perdono unos largos, que calor hace un rato, y además la piscina está climatizada. Buenas tardes/noches.
 
-<img src="http://media-cdn.tripadvisor.com/media/photo-s/01/10/3a/46/pool-area-the-best-part.jpg" alt="Piscina Eurobuilding Caracas" width="550" height="412" />
+<img src="https://media-cdn.tripadvisor.com/media/photo-s/01/10/3a/46/pool-area-the-best-part.jpg" alt="Piscina Eurobuilding Caracas" width="550" height="412" />

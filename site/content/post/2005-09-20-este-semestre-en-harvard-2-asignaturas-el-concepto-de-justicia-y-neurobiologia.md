@@ -4,7 +4,7 @@ title: 'Este semestre en Harvard 2 asignaturas: &quot;el concepto de Justicia&qu
 date: 2005-09-20T07:30:44+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=125
+guid: https://www.cortell.net/?p=125
 permalink: /2005/09/20/este-semestre-en-harvard-2-asignaturas-el-concepto-de-justicia-y-neurobiologia/
 categories:
   - Personal

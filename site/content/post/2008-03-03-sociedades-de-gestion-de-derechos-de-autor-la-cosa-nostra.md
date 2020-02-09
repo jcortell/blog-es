@@ -4,7 +4,7 @@ title: 'Sociedades de Gestión de Derechos de Autor: &quot;La Cosa Nostra&quot;'
 date: 2008-03-03T18:52:07+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/03/03/sociedades-de-gestion-de-derechos-de-autor-la-cosa-nostra/
+guid: https://www.cortell.net/2008/03/03/sociedades-de-gestion-de-derechos-de-autor-la-cosa-nostra/
 permalink: /2008/03/03/sociedades-de-gestion-de-derechos-de-autor-la-cosa-nostra/
 categories:
   - CiberDerechos

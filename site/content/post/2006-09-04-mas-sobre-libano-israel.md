@@ -4,16 +4,16 @@ title: Más sobre Lí­bano-Israel
 date: 2006-09-04T08:51:16+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/09/04/mas-sobre-libano-israel/
+guid: https://www.cortell.net/2006/09/04/mas-sobre-libano-israel/
 permalink: /2006/09/04/mas-sobre-libano-israel/
 categories:
   - General
   - Noticias
   - Sociedad y polí­tica
 ---
-Hace unos dí­as <a target="_blank" title="post sobre derrame" href="http://www.cortell.net/2006/08/31/petroleo-derramado-por-israel-en-el-libano/">hablaba</a> del derrame de petróleo causado por los israelí­es en las costas del Lí­bano como un curioso ejemplo más de las mil vertientes que esta invasión (no lo llamemos conflicto) tiene.
+Hace unos dí­as <a target="_blank" title="post sobre derrame" href="https://www.cortell.net/2006/08/31/petroleo-derramado-por-israel-en-el-libano/">hablaba</a> del derrame de petróleo causado por los israelí­es en las costas del Lí­bano como un curioso ejemplo más de las mil vertientes que esta invasión (no lo llamemos conflicto) tiene.
 
-A través de los comentarios de algunos lectores llego a <a target="_blank" title="ví­deo sobre manipulaciones de Sky News" href="http://www.youtube.com/watch?v=P1-3kavJVmY&eurl=undefined">un ví­deo</a> donde se dicen verdades como puños sobre la invasión y sobre la manipulación mediática de Sky News, <a target="_blank" title="Lí­bano antes y después" href="http://madremiamadremiaque.blogspot.com/2006/08/lebanon-2006.html">otro</a> donde se puede ver con imágenes (y la canción _Give Peace a Chance_ de fondo) el antes y el después del Lí­bano, y una serie de <a target="_blank" title="fotos DURAS (así­ es la guerra)" href="http://gdfhda.blogspot.com/2006/01/america-this-is-war.html">imágenes MUY duras</a> (de las que no ves en el telediario, pero que reflejan la cruda realidad).
+A través de los comentarios de algunos lectores llego a <a target="_blank" title="ví­deo sobre manipulaciones de Sky News" href="https://www.youtube.com/watch?v=P1-3kavJVmY&eurl=undefined">un ví­deo</a> donde se dicen verdades como puños sobre la invasión y sobre la manipulación mediática de Sky News, <a target="_blank" title="Lí­bano antes y después" href="https://madremiamadremiaque.blogspot.com/2006/08/lebanon-2006.html">otro</a> donde se puede ver con imágenes (y la canción _Give Peace a Chance_ de fondo) el antes y el después del Lí­bano, y una serie de <a target="_blank" title="fotos DURAS (así­ es la guerra)" href="https://gdfhda.blogspot.com/2006/01/america-this-is-war.html">imágenes MUY duras</a> (de las que no ves en el telediario, pero que reflejan la cruda realidad).
 
 > **La guerra es una mierda, pero una invasión lo es más. Basta ya de hipocresí­a, basta ya de miedo. Enfrentémosnos a nuestros verdaderos "enemigos" (terroristas, sociedades y culturas anacrónicas e injustas, teocracias dictatoriales, pero también polí­ticos corruptos, medios manipuladores, devastación del medioambiente, imperialismo cultural y económico, etc) de cara.**
 

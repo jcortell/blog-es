@@ -4,7 +4,7 @@ title: Admitted in a Medical Genetics postgraduate program
 date: 2013-07-22T17:19:17+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4834
+guid: https://cortell.net/blog/?p=4834
 permalink: /2013/07/22/admitted-in-a-medical-genetics-postgraduate-program/
 categories:
   - General
@@ -48,4 +48,4 @@ III. Aplicaciones Clínicas de la Genética
   * 3.12 Búsqueda de tratamientos contra las enfermedades genéticas raras
   * 3.13 Herramientas para la actualización de conocimientos en Genética Médica y en Genética Clínica
 
-El programa lo imparten <a title="http://www.uv.es/postgradogeneticamedica/profesorado.html" href="http://www.uv.es/postgradogeneticamedica/profesorado.html" target="_blank">29 excelentes profesores e investigadores</a>, y lo dirige el Prof. Dr. Manuel Pérez Alonso, Dept. de Genética, Universidad de Valencia; y el Dr. Javier García Planells, Director Científico, Instituto de Medicina Genómica.
+El programa lo imparten <a title="https://www.uv.es/postgradogeneticamedica/profesorado.html" href="https://www.uv.es/postgradogeneticamedica/profesorado.html" target="_blank">29 excelentes profesores e investigadores</a>, y lo dirige el Prof. Dr. Manuel Pérez Alonso, Dept. de Genética, Universidad de Valencia; y el Dr. Javier García Planells, Director Científico, Instituto de Medicina Genómica.

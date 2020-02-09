@@ -4,7 +4,7 @@ title: Conferencia Medicina Exponencial San Diego día 3
 date: 2016-10-29T15:01:00+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5923
+guid: https://blog.cortell.net/es/?p=5923
 permalink: /2016/10/29/conferencia-medicina-exponencial-san-diego-dia-3/
 categories:
   - ¿Por qué no? ¿Utopías?

@@ -4,7 +4,7 @@ title: Admin Pública, datos, formatos y software
 date: 2006-04-18T09:27:09+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/04/18/admin-publica-datos-formatos-y-software/
+guid: https://www.cortell.net/2006/04/18/admin-publica-datos-formatos-y-software/
 permalink: /2006/04/18/admin-publica-datos-formatos-y-software/
 categories:
   - CiberDerechos
@@ -15,19 +15,19 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-Como aquella estupenda [pelí­cula](http://www.imdb.com/title/tt0097108/) de Peter Greenaway "El cocinero, el ladrón, su mujer, y su amante", en este post se juntan cosas que parecen muchas veces pertenecer a mundos totalmente diversos: Administración Pública, datos, formatos y software.
+Como aquella estupenda [pelí­cula](https://www.imdb.com/title/tt0097108/) de Peter Greenaway "El cocinero, el ladrón, su mujer, y su amante", en este post se juntan cosas que parecen muchas veces pertenecer a mundos totalmente diversos: Administración Pública, datos, formatos y software.
 
 Hace unos dí­as me enfadó mucho que el Instituto de la Pequeña y Mediana Empresa de Valencia (IMPIVA) publicase una información de interés para una de mis empresas en "formato" EXE Sí­, una auténtica barbaridad: publicar texto e imágenes en modo ejecutable -¡como si no hubiese otra forma de hacerlo! Esta es una de esas cosas que enfadan (y mucho) a cualquiera. No hace falta haber estudiado informática para saber que se podrí­a haber publicado en montones de formatos (HTML, DOC, ODF, PDF, RTFD, etc).
 
-A punto estuve de escribir un post al respecto. A punto estuve de mandarles una queja al respecto. Pero Wine + GNULinux + las prisas hicieron que lo guardase en la recámara para mejor ocasión. Como hoy. -¿Por qué hoy? Pues porque gracias al [Libroblanco](http://www.libroblanco.com/html/index.php) del Software Libre, me entero de que la Administración Pública ha establecido el [Observatorio de Neutralidad Tecnológica](http://www.neutralidad.es/) para estos menesteres. Y visto que en el poco tiempo que llevan existiendo ya ha [listado todos estos](http://www.neutralidad.es/?cat=2) abusos/descuidos/incompetencias/trabas al ciudadano, está claro que hací­a falta. Así­ que todos a contribuir: [enviad vuestras denuncias](http://www.neutralidad.es/?page_id=7).
+A punto estuve de escribir un post al respecto. A punto estuve de mandarles una queja al respecto. Pero Wine + GNULinux + las prisas hicieron que lo guardase en la recámara para mejor ocasión. Como hoy. -¿Por qué hoy? Pues porque gracias al [Libroblanco](https://www.libroblanco.com/html/index.php) del Software Libre, me entero de que la Administración Pública ha establecido el [Observatorio de Neutralidad Tecnológica](https://www.neutralidad.es/) para estos menesteres. Y visto que en el poco tiempo que llevan existiendo ya ha [listado todos estos](https://www.neutralidad.es/?cat=2) abusos/descuidos/incompetencias/trabas al ciudadano, está claro que hací­a falta. Así­ que todos a contribuir: [enviad vuestras denuncias](https://www.neutralidad.es/?page_id=7).
 
 Pero no acaba aquí­ la relación entre la Administración Pública, los datos, los formatos y el software.
 
-En un interesante comentario (también de Libroblanco) se preguntan si la [directiva europea](http://www.libroblanco.com/document/Informe_ReutilizacionInfoSectorPublico_20050919.pdf) sobre la reutilización de datos por el sector público se aplica también al software.
+En un interesante comentario (también de Libroblanco) se preguntan si la [directiva europea](https://www.libroblanco.com/document/Informe_ReutilizacionInfoSectorPublico_20050919.pdf) sobre la reutilización de datos por el sector público se aplica también al software.
 
 Deberí­a ser así­, pues -¿no damos acaso servicio médico gratuí­to a TODOS los ciudadanos? Entonces, si lo que se paga con dinero público es para dar un servicio público, y esto es así­ en los casos donde existe un coste unitario, un desgaste, un mantenimiento... -¿por qué no hacerlo con el software pagado por todos, que una vez creado, puede ser utilizado por todos sin coste añadido?
 
-Es curioso y vergonzoso que esta Directiva Europea coincida con la propuesta [INSPIRE](http://rejectinspire.publicgeodata.org/).
+Es curioso y vergonzoso que esta Directiva Europea coincida con la propuesta [INSPIRE](https://rejectinspire.publicgeodata.org/).
 
 -¿Habrá esperanza? -¿serán los polí­ticos, como la justicia "lenta pero segura"? -¿será que al final han entrado en razón? -¿acabará todo en un montón de buenas intenciones (como cuando el Canon Digital se rechazó en el Senado, a lo que no se le hizo ni caso en el Congreso)? En cualquier caso, enhorabuena por una brisa de ilusión.
 
@@ -43,7 +43,7 @@ Dos preguntas
 
 Enlace original web del senado
   
-http://www.senado.es/legis8/publicaciones/html/textos/I0402.html
+https://www.senado.es/legis8/publicaciones/html/textos/I0402.html
 
 PRESIDENCIA DEL SENADO
   

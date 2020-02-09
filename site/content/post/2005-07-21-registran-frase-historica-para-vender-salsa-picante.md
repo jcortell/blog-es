@@ -4,7 +4,7 @@ title: Registran frase histórica para vender salsa picante
 date: 2005-07-21T08:02:20+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/07/21/registran-frase-historica-para-vender-salsa-picante/
+guid: https://www.cortell.net/2005/07/21/registran-frase-historica-para-vender-salsa-picante/
 permalink: /2005/07/21/registran-frase-historica-para-vender-salsa-picante/
 categories:
   - CiberDerechos
@@ -13,7 +13,7 @@ categories:
   - Noticias
   - Rants
 ---
-Los herederos de Huey P. Newton, el fallecido co-fundador de las Panteras Negras*, han intentado registrar (a través de su fundación, dirigida por su viuda y el ex-Pantera Negra David Hilliard) la frase "[Burn Baby Burn](http://www.thesmokinggun.com/archive/0718051burn3.html)" (y "[Revolutionary Hot Sauce](http://www.thesmokinggun.com/archive/0718051burn6.html)") para su uso comercial en la venta de salsa picante.
+Los herederos de Huey P. Newton, el fallecido co-fundador de las Panteras Negras*, han intentado registrar (a través de su fundación, dirigida por su viuda y el ex-Pantera Negra David Hilliard) la frase "[Burn Baby Burn](https://www.thesmokinggun.com/archive/0718051burn3.html)" (y "[Revolutionary Hot Sauce](https://www.thesmokinggun.com/archive/0718051burn6.html)") para su uso comercial en la venta de salsa picante.
 
 La frase "Burn Baby Burn" se empleó en los disturbios que ocurrieron en ciudades como Watts y Newark.
   
@@ -35,4 +35,4 @@ No a la "realidad consensuada". No a la alienación. No a la abstracción "por n
 
 No a quejarse y no hacer nada.
   
-Es hora de actuar. Unete a [la resistencia digital](http://www.laresistenciadigital.net).
+Es hora de actuar. Unete a [la resistencia digital](https://www.laresistenciadigital.net).

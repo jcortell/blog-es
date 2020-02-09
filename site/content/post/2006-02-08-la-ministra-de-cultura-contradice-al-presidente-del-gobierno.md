@@ -4,7 +4,7 @@ title: La Ministra de -¿Cultura? contradice al Presidente del Gobierno
 date: 2006-02-08T20:03:07+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2006/02/08/la-ministra-de-%c2%bfcultura-contradice-al-presidente-del-gobierno/'
+guid: 'https://www.cortell.net/2006/02/08/la-ministra-de-%c2%bfcultura-contradice-al-presidente-del-gobierno/'
 permalink: /2006/02/08/la-ministra-de-cultura-contradice-al-presidente-del-gobierno/
 categories:
   - CiberDerechos
@@ -17,7 +17,7 @@ Cito del discurso de investidura del Presidente de España, D. Jose Luis Rodrí�
   
 _Señorí­as, quiero decirlo claramente: **para el Gobierno de España la cultura no merece ser tratada como una mercancí­a más. La cultura no es un objeto mercantil puro que deba regirse estrictamente por las reglas de la oferta y la demanda**._.
 
-Cito de la [entrevista](http://www.cadenaser.com/edigitales/entrevista.html?encuentro=1919) que la Ministra de Cultura Carmen Calvo ha concedido a la Cadena Ser hoy mismo a las 13:38h:
+Cito de la [entrevista](https://www.cadenaser.com/edigitales/entrevista.html?encuentro=1919) que la Ministra de Cultura Carmen Calvo ha concedido a la Cadena Ser hoy mismo a las 13:38h:
 
 Pregunta de Melibea
   

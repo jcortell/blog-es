@@ -4,7 +4,7 @@ title: CBS descubre que SGAE se equivoca
 date: 2006-03-15T07:29:41+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/03/15/cbs-descubre-que-sgae-se-equivoca/
+guid: https://www.cortell.net/2006/03/15/cbs-descubre-que-sgae-se-equivoca/
 permalink: /2006/03/15/cbs-descubre-que-sgae-se-equivoca/
 categories:
   - CiberDerechos

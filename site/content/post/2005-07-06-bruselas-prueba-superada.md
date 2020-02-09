@@ -4,7 +4,7 @@ title: 'Bruselas: &quot;prueba superada&quot; ;-)'
 date: 2005-07-06T16:48:10+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/07/06/bruselas-prueba-superada/
+guid: https://www.cortell.net/2005/07/06/bruselas-prueba-superada/
 permalink: /2005/07/06/bruselas-prueba-superada/
 categories:
   - CiberDerechos

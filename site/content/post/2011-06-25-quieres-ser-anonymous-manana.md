@@ -4,7 +4,7 @@ title: ¿Quieres ser Anonymous mañana?
 date: 2011-06-25T17:34:33+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3246
+guid: https://cortell.net/blog/?p=3246
 permalink: /2011/06/25/quieres-ser-anonymous-manana/
 wpsd_autopost:
   - "1"
@@ -25,8 +25,8 @@ Algunos nos divertimos analizando (nada de Boomerang, sino Hex-Rays) el código 
 
 Ya sabes: si tienes un certificado (no el revocado por VeriSign de Realtek, sino el de JMicron), un exploit, y todo en un paquetito que se propaga via USB y que afecta los PLC de los sistemas Siemens Simatic (Step7), aunque en principio pueda controlar sólo los _AC drives_ de Vacom o Fararo Paya... ¡imagina con un poquito de ingeniería inversa y modificaciones, la de cosas que se pueden manipular!
 
-<img class="aligncenter" src="http://josepgmaynou.blogspot.es/img/anonymous2.jpg" alt="wants you!" />
+<img class="aligncenter" src="https://josepgmaynou.blogspot.es/img/anonymous2.jpg" alt="wants you!" />
 
-Pero si lo tuyo no es el código y aun así quieres echar una mano a Anonymous en su objetivo hacktivista mañana contra Movistar y Telefónica, ¿qué tal emplear (si es posible de modo coordinado) algo tan simple como [just-ping](http://www.just-ping.com/index.php)? ¡Hasta un newbie puede aportar su granito de arena a un DoS!
+Pero si lo tuyo no es el código y aun así quieres echar una mano a Anonymous en su objetivo hacktivista mañana contra Movistar y Telefónica, ¿qué tal emplear (si es posible de modo coordinado) algo tan simple como [just-ping](https://www.just-ping.com/index.php)? ¡Hasta un newbie puede aportar su granito de arena a un DoS!
 
-<img class="aligncenter" src="http://www.hackan.com.ar/WP/wp-content/uploads/2011/05/anonymous-logo-150x150.jpg" alt="logo" />
+<img class="aligncenter" src="https://www.hackan.com.ar/WP/wp-content/uploads/2011/05/anonymous-logo-150x150.jpg" alt="logo" />

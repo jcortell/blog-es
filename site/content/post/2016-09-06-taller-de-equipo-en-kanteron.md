@@ -4,7 +4,7 @@ title: Taller de Equipo en Kanteron
 date: 2016-09-06T14:05:27+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5865
+guid: https://blog.cortell.net/es/?p=5865
 permalink: /2016/09/06/taller-de-equipo-en-kanteron/
 categories:
   - Geek Fun

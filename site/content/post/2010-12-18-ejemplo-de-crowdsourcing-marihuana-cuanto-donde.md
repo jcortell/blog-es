@@ -4,7 +4,7 @@ title: 'Ejemplo de crowdsourcing. Marihuana: cuánto, dónde…'
 date: 2010-12-18T11:50:24+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2795
+guid: https://cortell.net/blog/?p=2795
 permalink: /2010/12/18/ejemplo-de-crowdsourcing-marihuana-cuanto-donde/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -17,7 +17,7 @@ categories:
   - Technology
   - Technolust
 ---
-<a title="http://www.priceofweed.com/" href="http://www.priceofweed.com/" target="_blank">http://www.priceofweed.com/</a>
+<a title="https://www.priceofweed.com/" href="https://www.priceofweed.com/" target="_blank">https://www.priceofweed.com/</a>
 
 En esta web podéis consultar el precio medio de la marihuana. Como es un ejemplo de crowdsourcing, depende de que mucha gente contribuya para que los datos sean lo más fiables posible.
 

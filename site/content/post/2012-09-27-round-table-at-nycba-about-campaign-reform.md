@@ -4,7 +4,7 @@ title: Round table at NYCBA about Campaign Reform
 date: 2012-09-27T13:46:31+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4306
+guid: https://cortell.net/blog/?p=4306
 permalink: /2012/09/27/round-table-at-nycba-about-campaign-reform/
 wpsd_autopost:
   - "1"
@@ -20,7 +20,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-El 5 de septiembre (sí, ya sé que me estoy quedando atrás en mis posts, pero ¿qué le vamos a hacer si tengo demasiado trabajo?) asistí a una mesa redonda muy interesante e ilustrativa en la Asociación de Abogacía de Nueva York <a title="http://www.nycbar.org/" href="http://www.nycbar.org/" target="_blank">New York City Bar Association</a> titulada "¿Cómo influenciarán los recientes cambios en la ley a las elecciones de 2012"?
+El 5 de septiembre (sí, ya sé que me estoy quedando atrás en mis posts, pero ¿qué le vamos a hacer si tengo demasiado trabajo?) asistí a una mesa redonda muy interesante e ilustrativa en la Asociación de Abogacía de Nueva York <a title="https://www.nycbar.org/" href="https://www.nycbar.org/" target="_blank">New York City Bar Association</a> titulada "¿Cómo influenciarán los recientes cambios en la ley a las elecciones de 2012"?
 
 <p style="text-align: center">
   [mudslide:picasa,0,111219615350942087056,5785429418903603569]
@@ -30,7 +30,7 @@ Moderado por Nan Aron (conferenciante, autora, y Presidente de la Alliance for J
 
   * Angelo Falcón: Presidente y Fundador del National Institute for Latino Policy
   * Keesha Gaskins: Consejera General del Programa Sobre Democracia en el  Brennan Center
-  * <a title="http://en.wikipedia.org/wiki/Lawrence_Lessig" href="http://en.wikipedia.org/wiki/Lawrence_Lessig" target="_blank">Lawrence Lessig</a>: Profesor de Derecho de la Universidad de Harvard (y mucho más)
+  * <a title="https://en.wikipedia.org/wiki/Lawrence_Lessig" href="https://en.wikipedia.org/wiki/Lawrence_Lessig" target="_blank">Lawrence Lessig</a>: Profesor de Derecho de la Universidad de Harvard (y mucho más)
   * John Samples: Director del Cato Institute Center for Representative Government
 
 El debate fue bastante interesante. Dejando a parte, lo que no significa que no sea importante, los asuntos específicos de la legislación electoral de EEUU, los principales puntos que saqué del evento fueron:

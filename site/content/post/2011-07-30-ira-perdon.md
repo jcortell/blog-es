@@ -4,7 +4,7 @@ title: Ira, perdón
 date: 2011-07-30T23:39:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2983
+guid: https://cortell.net/blog/?p=2983
 permalink: /2011/07/30/ira-perdon/
 wpsd_autopost:
   - "1"

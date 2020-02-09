@@ -4,7 +4,7 @@ title: -¿OOXML estandar ISO? NO -¿Por qué? Por esto
 date: 2007-06-29T11:39:09+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2007/06/29/%c2%bfooxml-estandar-iso-no-%c2%bfpor-que-por-esto/'
+guid: 'https://www.cortell.net/2007/06/29/%c2%bfooxml-estandar-iso-no-%c2%bfpor-que-por-esto/'
 permalink: /2007/06/29/ooxml-estandar-iso-no-por-que-por-esto/
 categories:
   - CiberDerechos
@@ -15,9 +15,9 @@ categories:
   - Rants
   - Technology
 ---
-<a title="Libroblanco" target="_blank" href="http://libroblanco.com/joomla/index.php?option=com_content&task=view&id=669">Libroblanco</a> nos enví­a esto:
+<a title="Libroblanco" target="_blank" href="https://libroblanco.com/joomla/index.php?option=com_content&task=view&id=669">Libroblanco</a> nos enví­a esto:
 
-Puedes <a title="Petición" target="_blank" href="http://www.noooxml.org/petition">firmar contra que OOXML se convierta en un estándar ISO aquí­</a>. -¿Por qué deberí­as firmar?:
+Puedes <a title="Petición" target="_blank" href="https://www.noooxml.org/petition">firmar contra que OOXML se convierta en un estándar ISO aquí­</a>. -¿Por qué deberí­as firmar?:
 
 Que OOXML (un estándar creado por microsoft) para sus nuevos documentos de oficina se convierta en un estándar ISO es una incongruencia por que:
 
@@ -37,4 +37,4 @@ Que OOXML (un estándar creado por microsoft) para sus nuevos documentos de ofic
   
 8) Este estandar no ha sido creado compartiendo la experiencia y necesidades de todos los actores (productores, usuarios, reguladoes, etc) sino por Microsoft.
 
-<a title="noooxml.org" target="_blank" href="http://www.noooxml.org/">Más info</a>
+<a title="noooxml.org" target="_blank" href="https://www.noooxml.org/">Más info</a>

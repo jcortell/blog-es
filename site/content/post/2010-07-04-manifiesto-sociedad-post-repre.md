@@ -4,7 +4,7 @@ title: Manifiesto sociedad post-repre
 date: 2010-07-04T02:27:03+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2498
+guid: https://cortell.net/blog/?p=2498
 permalink: /2010/07/04/manifiesto-sociedad-post-repre/
 categories:
   - ¿Por qué no? ¿Utopías?

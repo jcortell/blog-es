@@ -4,7 +4,7 @@ title: Testing a simple hack
 date: 2014-01-04T14:51:25+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=5049
+guid: https://cortell.net/blog/?p=5049
 permalink: /2014/01/04/testing-a-simple-hack/
 categories:
   - Geek Fun

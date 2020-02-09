@@ -4,7 +4,7 @@ title: La corrupción no se para (ni nace) en los polí­ticos
 date: 2007-01-25T18:12:26+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/01/25/la-corrupcion-no-se-para-ni-nace-en-los-politicos/
+guid: https://www.cortell.net/2007/01/25/la-corrupcion-no-se-para-ni-nace-en-los-politicos/
 permalink: /2007/01/25/la-corrupcion-no-se-para-ni-nace-en-los-politicos/
 categories:
   - General

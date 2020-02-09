@@ -4,7 +4,7 @@ title: Las Redes Sociales como metáfora de las redes sociales
 date: 2010-11-27T18:54:19+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2744
+guid: https://cortell.net/blog/?p=2744
 permalink: /2010/11/27/las-redes-sociales-como-metafora-de-las-redes-sociales/
 categories:
   - CiberDerechos
@@ -14,7 +14,7 @@ categories:
   - Privacidad
   - Technology
 ---
-<a title="http://cortell.net/blog/?p=2327" href="http://cortell.net/blog/?p=2327" target="_blank">Ya despotriqué contra las redes sociales</a>.
+<a title="https://cortell.net/blog/?p=2327" href="https://cortell.net/blog/?p=2327" target="_blank">Ya despotriqué contra las redes sociales</a>.
 
 Ahora va y vuelvo. ¿Hipocresía? No. Realidad.
 

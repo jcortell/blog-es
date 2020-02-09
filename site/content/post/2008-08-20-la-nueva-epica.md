@@ -4,7 +4,7 @@ title: La nueva épica
 date: 2008-08-20T09:48:52+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1284
+guid: https://www.cortell.net/?p=1284
 permalink: /2008/08/20/la-nueva-epica/
 categories:
   - Geek Fun

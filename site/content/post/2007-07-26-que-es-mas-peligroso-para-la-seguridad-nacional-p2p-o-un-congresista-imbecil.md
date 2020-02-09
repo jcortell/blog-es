@@ -4,7 +4,7 @@ title: -¿Qué es más peligroso para la seguridad nacional, P2P o un congresist
 date: 2007-07-26T08:54:24+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2007/07/26/%c2%bfque-es-mas-peligroso-para-la-seguridad-nacional-p2p-o-un-congresista-imbecil/'
+guid: 'https://www.cortell.net/2007/07/26/%c2%bfque-es-mas-peligroso-para-la-seguridad-nacional-p2p-o-un-congresista-imbecil/'
 permalink: /2007/07/26/que-es-mas-peligroso-para-la-seguridad-nacional-p2p-o-un-congresista-imbecil/
 categories:
   - CiberDerechos
@@ -19,7 +19,7 @@ categories:
 ---
 A veces de lo estúpidos que llegan a ser algunos polí­ticos uno no se lo puede creer, por muchos precedentes que hayan establecido.
 
-Según <a title="artí­culo news.com" target="_blank" href="http://news.com.com/Congress+P2P+networks+harm+national+security/2100-1029_3-6198585.html?tag=nefd.lede">este artí­culo</a> de news.com en una sesión del Comité Gubernamental de Reforma, su director Henry Waxman (D-Calif.) dijo que estaba considerando proponer una nueva legislación para atajar el problema de seguridad nacional que constituye el uso de P2P en ordenadores del gobierno, pues según dijo, "gobiernos extranjeros, terroristas o el crimen organizado podrí­an acceder a documentos clasificados con secretos nacionales".
+Según <a title="artí­culo news.com" target="_blank" href="https://news.com.com/Congress+P2P+networks+harm+national+security/2100-1029_3-6198585.html?tag=nefd.lede">este artí­culo</a> de news.com en una sesión del Comité Gubernamental de Reforma, su director Henry Waxman (D-Calif.) dijo que estaba considerando proponer una nueva legislación para atajar el problema de seguridad nacional que constituye el uso de P2P en ordenadores del gobierno, pues según dijo, "gobiernos extranjeros, terroristas o el crimen organizado podrí­an acceder a documentos clasificados con secretos nacionales".
 
 Es más, Mark Gorton (Presidente de LimeWire, presente en la sesión) sufrió ataques verbales bastante duros por "dañar la seguridad nacional al ofrecer su producto".
 

@@ -4,7 +4,7 @@ title: Ft. Eire, Canada, abril 2015
 date: 2015-04-24T22:34:51+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5441
+guid: https://blog.cortell.net/es/?p=5441
 permalink: /2015/04/24/ft-eire-canada-abril-2015/
 categories:
   - General

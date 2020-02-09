@@ -4,7 +4,7 @@ title: Unos días en Lima y Bogotá
 date: 2014-11-17T20:24:17+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5332
+guid: https://blog.cortell.net/es/?p=5332
 permalink: /2014/11/17/unos-dias-en-lima-y-bogota/
 categories:
   - General

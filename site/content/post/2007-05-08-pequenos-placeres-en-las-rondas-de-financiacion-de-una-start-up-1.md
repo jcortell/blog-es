@@ -4,7 +4,7 @@ title: Pequeños placeres en las rondas de financiación de una start-up (1)
 date: 2007-05-08T15:13:01+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/05/08/pequenos-placeres-en-las-rondas-de-financiacion-de-una-start-up-1/
+guid: https://www.cortell.net/2007/05/08/pequenos-placeres-en-las-rondas-de-financiacion-de-una-start-up-1/
 permalink: /2007/05/08/pequenos-placeres-en-las-rondas-de-financiacion-de-una-start-up-1/
 categories:
   - General

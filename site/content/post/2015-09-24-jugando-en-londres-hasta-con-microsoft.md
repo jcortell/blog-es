@@ -4,7 +4,7 @@ title: Jugando en Londres… ¡hasta con Microsoft!
 date: 2015-09-24T09:05:47+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5598
+guid: https://blog.cortell.net/es/?p=5598
 permalink: /2015/09/24/jugando-en-londres-hasta-con-microsoft/
 categories:
   - CiberDerechos

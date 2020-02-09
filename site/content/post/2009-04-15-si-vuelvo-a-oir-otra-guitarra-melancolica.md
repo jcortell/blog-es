@@ -4,7 +4,7 @@ title: 'Si vuelvo a oir otra guitarra melancólica...'
 date: 2009-04-15T10:13:03+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1760
+guid: https://cortell.net/blog/?p=1760
 permalink: /2009/04/15/si-vuelvo-a-oir-otra-guitarra-melancolica/
 categories:
   - CiberDerechos

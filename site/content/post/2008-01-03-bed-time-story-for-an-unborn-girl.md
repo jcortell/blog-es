@@ -4,7 +4,7 @@ title: Bed-time story for an unborn girl
 date: 2008-01-03T17:41:58+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/01/03/bed-time-story-for-an-unborn-girl/
+guid: https://www.cortell.net/2008/01/03/bed-time-story-for-an-unborn-girl/
 permalink: /2008/01/03/bed-time-story-for-an-unborn-girl/
 categories:
   - General
@@ -58,4 +58,4 @@ The page was being turned and he could not hear the storyteller say anything.
 
 Why Princess, why?
 
- ![Princess](http://farm1.static.flickr.com/18/88886098_ac383a5278_m.jpg "Princess")![Broken heart](http://farm1.static.flickr.com/221/497927570_7bde9598d7.jpg "Broken heart")
+ ![Princess](https://farm1.static.flickr.com/18/88886098_ac383a5278_m.jpg "Princess")![Broken heart](https://farm1.static.flickr.com/221/497927570_7bde9598d7.jpg "Broken heart")

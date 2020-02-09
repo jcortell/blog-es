@@ -4,7 +4,7 @@ title: Propaganda y adoctrinamiento procopyright en primaria ¡HORROR FASCISTA!
 date: 2008-09-24T11:05:50+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1326
+guid: https://www.cortell.net/?p=1326
 permalink: /2008/09/24/propaganda-y-adoctrinamiento-procopyright-en-primaria-horror-fascista/
 categories:
   - CiberDerechos
@@ -19,11 +19,11 @@ Ayer se presentaron los resultados del proyecto "Educar para crear" en el Minist
 
 Info de EFE lo tenéis aquí:
 
-<a title="http://www.hoytecnologia.com/noticias/jovenes-ninos-desconocen-significado/76328" href="http://www.hoytecnologia.com/noticias/jovenes-ninos-desconocen-significado/76328" target="_blank">http://www.hoytecnologia.com/noticias/jovenes-ninos-desconocen-significado/76328</a>
+<a title="https://www.hoytecnologia.com/noticias/jovenes-ninos-desconocen-significado/76328" href="https://www.hoytecnologia.com/noticias/jovenes-ninos-desconocen-significado/76328" target="_blank">https://www.hoytecnologia.com/noticias/jovenes-ninos-desconocen-significado/76328</a>
 
 y la página web del asunto es:
 
-<a title="http://www.educarparacrear.org/" href="http://www.educarparacrear.org/" target="_blank">http://www.educarparacrear.org/</a>
+<a title="https://www.educarparacrear.org/" href="https://www.educarparacrear.org/" target="_blank">https://www.educarparacrear.org/</a>
 
 donde hay un par de PDFs, uno de ellos con los resultados. El asunto es que le han dado empaque académico y hay un grupo de profesores que firman el informe:
 

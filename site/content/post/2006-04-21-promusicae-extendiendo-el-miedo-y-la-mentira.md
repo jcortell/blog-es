@@ -4,7 +4,7 @@ title: PROMUSICAE extendiendo el miedo y la mentira
 date: 2006-04-21T07:34:33+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/04/21/promusicae-extendiendo-el-miedo-y-la-mentira/
+guid: https://www.cortell.net/2006/04/21/promusicae-extendiendo-el-miedo-y-la-mentira/
 permalink: /2006/04/21/promusicae-extendiendo-el-miedo-y-la-mentira/
 categories:
   - CiberDerechos
@@ -29,10 +29,10 @@ Salu2
 
 El link directo de la descarga es el siguiente:
   
-[http://www.promusicae.es/ads/adclick.php?bannerid=3&zoneid=3&source=&dest=http%3A%2F%2Fwww.promusicae.es%2Fpdf%2Fcampana\_jovenes\_musica\_e\_internet.pdf](http://www.promusicae.es/ads/adclick.php?bannerid=3&zoneid=3&source=&dest=http%3A%2F%2Fwww.promusicae.es%2Fpdf%2Fcampana_jovenes_musica_e_internet.pdf)
+[https://www.promusicae.es/ads/adclick.php?bannerid=3&zoneid=3&source=&dest=https%3A%2F%2Fwww.promusicae.es%2Fpdf%2Fcampana\_jovenes\_musica\_e\_internet.pdf](https://www.promusicae.es/ads/adclick.php?bannerid=3&zoneid=3&source=&dest=https%3A%2F%2Fwww.promusicae.es%2Fpdf%2Fcampana_jovenes_musica_e_internet.pdf)
 
-Y si quieres entrar, la web es: <http://www.promusicae.org/> , y el archivo está abajo a la derecha.
+Y si quieres entrar, la web es: <https://www.promusicae.org/> , y el archivo está abajo a la derecha.
 
 Y añado yo:
 
-![así­ manipulan](http://static.flickr.com/44/127001313_de7fb619c4.jpg?v=0)
+![así­ manipulan](https://static.flickr.com/44/127001313_de7fb619c4.jpg?v=0)

@@ -4,7 +4,7 @@ title: 'Data Retention: Now what?'
 date: 2005-12-16T12:54:56+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/12/16/data-retention-now-what/
+guid: https://www.cortell.net/2005/12/16/data-retention-now-what/
 permalink: /2005/12/16/data-retention-now-what/
 categories:
   - CiberDerechos
@@ -22,7 +22,7 @@ In case you have not heard, the European Parliament yesterday approved the Direc
 
 For more information on what happened and how the situation arose, please see our resource page
   
-<http://www.privacyinternational.org/dataretention>
+<https://www.privacyinternational.org/dataretention>
 
 WHAT WE‘VE ACHIEVED
 
@@ -38,17 +38,17 @@ This policy battle is by no means done. And we need to build on what we have don
 
 In the short term, if you are interested in data retention discussion and news issues, please feel free to join the low-volume email list at
 
-<http://mailman.edri.org/cgi-bin/mailman/listinfo/edri-dr>
+<https://mailman.edri.org/cgi-bin/mailman/listinfo/edri-dr>
 
 If you are interested in the wider implications of this type of policy-making please see the Policy Laundering Project that PI runs
   
 alongside with Statewatch and the American Civil Liberties Union at
   
-<http://www.policylaundering.org>
+<https://www.policylaundering.org>
   
 and PI‘s own site at
   
-<http://www.privacyinternational.org/policylaundering>
+<https://www.privacyinternational.org/policylaundering>
 
 So, again thank you for your incredible support at such short notice, and thanks for your support over the past few days, months, and years. I look forward to working with you all in the future as we continue work on these important policies and issues.
 
@@ -70,4 +70,4 @@ Privacy International
   
 London, EC1R 1UQ
   
-<http://www.privacyinternational.org>
+<https://www.privacyinternational.org>

@@ -4,7 +4,7 @@ title: Reflections from NY Comic Con
 date: 2012-10-14T09:40:06+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4357
+guid: https://cortell.net/blog/?p=4357
 permalink: /2012/10/14/reflections-from-ny-comic-con/
 wpsd_autopost:
   - "1"

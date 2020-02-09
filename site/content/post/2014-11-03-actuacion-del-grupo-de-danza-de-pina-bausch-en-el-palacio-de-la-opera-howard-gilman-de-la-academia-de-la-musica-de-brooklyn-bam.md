@@ -4,7 +4,7 @@ title: Actuación del grupo de danza de Pina Bausch en el Palacio de la Ópera H
 date: 2014-11-03T20:33:01+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5327
+guid: https://blog.cortell.net/es/?p=5327
 permalink: /2014/11/03/actuacion-del-grupo-de-danza-de-pina-bausch-en-el-palacio-de-la-opera-howard-gilman-de-la-academia-de-la-musica-de-brooklyn-bam/
 categories:
   - Arte

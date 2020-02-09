@@ -4,7 +4,7 @@ title: Un par de días en Zurich
 date: 2015-11-19T10:44:36+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5676
+guid: https://blog.cortell.net/es/?p=5676
 permalink: /2015/11/19/un-par-de-dias-en-zurich/
 categories:
   - Geek Fun

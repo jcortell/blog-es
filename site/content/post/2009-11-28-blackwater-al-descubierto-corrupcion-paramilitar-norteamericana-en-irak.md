@@ -4,7 +4,7 @@ title: 'BlackWater: al descubierto corrupción paramilitar norteamericana en Ira
 date: 2009-11-28T00:45:42+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2367
+guid: https://cortell.net/blog/?p=2367
 permalink: /2009/11/28/blackwater-al-descubierto-corrupcion-paramilitar-norteamericana-en-irak/
 categories:
   - General

@@ -4,7 +4,7 @@ title: Fun event at Garden City hotel
 date: 2013-06-30T14:39:43+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4784
+guid: https://cortell.net/blog/?p=4784
 permalink: /2013/06/30/fun-event-at-garden-city-hotel/
 categories:
   - General

@@ -4,7 +4,7 @@ title: Nuestro gobierno socialista quiere prohibir lo gratuito y la investigaci�
 date: 2008-07-11T12:17:42+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1269
+guid: https://www.cortell.net/?p=1269
 permalink: /2008/07/11/nuestro-gobierno-socialista-quiere-prohibir-lo-gratuito-y-la-investigacion/
 categories:
   - CiberDerechos
@@ -17,7 +17,7 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-Esto es el colmo. Leo en <a title="noticia" href="http://www.publico.es/dinero/133512/espana/p2p/pirateria/internet/descarga" target="_blank">Público</a> (gracias Alkaitz) que el gobierno (SOCIALISTA!!!! y una mierda) se ha propuesto prohibir el P2P.
+Esto es el colmo. Leo en <a title="noticia" href="https://www.publico.es/dinero/133512/espana/p2p/pirateria/internet/descarga" target="_blank">Público</a> (gracias Alkaitz) que el gobierno (SOCIALISTA!!!! y una mierda) se ha propuesto prohibir el P2P.
 
 O sea, que pagamos canon, pero no podemos ejercer el derecho a copia privada (por culpa del DRM y la prohibición del P2P). Además, con esta prohibición afectan al software libre, a una herramienta para la difusión de contenidos PROPIOS, y a la CIENCIA (por ejemplo en la investigación genómica, o la meteorología, se usa el P2P a menudo). Es más, empresas como NBC, Ford, CocaCola, Google, Yahoo, y muchas otras emplean protocolos y puertos que el gobierno español, con la voluntaria o involuntaria colaboración de las telecos, pretende prohibir.
 

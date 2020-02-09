@@ -4,7 +4,7 @@ title: Nombrado Asesor Tecnológico de la Real Academia de Bellas Artes de San C
 date: 2015-04-23T20:38:33+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5426
+guid: https://blog.cortell.net/es/?p=5426
 permalink: /2015/04/23/nombrado-asesor-tecnologico-de-la-real-academia-de-bellas-artes-de-san-carlos/
 categories:
   - Arte
@@ -12,7 +12,7 @@ categories:
   - Personal
   - Placeres de la vida
 ---
-<img class="aligncenter" src="http://www.injuve.es/sites/default/files/imagecache/galeria_primera/2015/06/convocatorias/realacademiasancarlos.png" alt="" width="214" height="112" />
+<img class="aligncenter" src="https://www.injuve.es/sites/default/files/imagecache/galeria_primera/2015/06/convocatorias/realacademiasancarlos.png" alt="" width="214" height="112" />
 
 El 23 de marzo me nombraron Asesor Tecnológico de la Real Academia de Bellas Artes de San Carlos, a punto de cumplir sus 250 años, por su 56º presidente, Dr. Manuel Muñoz.
 

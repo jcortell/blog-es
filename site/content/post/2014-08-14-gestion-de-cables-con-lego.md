@@ -4,7 +4,7 @@ title: Gestión de cables con Lego
 date: 2014-08-14T21:55:10+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5227
+guid: https://blog.cortell.net/es/?p=5227
 permalink: /2014/08/14/gestion-de-cables-con-lego/
 categories:
   - Arte

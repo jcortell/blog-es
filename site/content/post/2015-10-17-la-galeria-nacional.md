@@ -4,7 +4,7 @@ title: La Galería Nacional
 date: 2015-10-17T22:46:53+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5620
+guid: https://blog.cortell.net/es/?p=5620
 permalink: /2015/10/17/la-galeria-nacional/
 categories:
   - Arte

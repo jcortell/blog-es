@@ -4,7 +4,7 @@ title: Noticias culturales
 date: 2006-04-26T11:29:29+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/04/26/noticias-culturales/
+guid: https://www.cortell.net/2006/04/26/noticias-culturales/
 permalink: /2006/04/26/noticias-culturales/
 categories:
   - CiberDerechos
@@ -14,7 +14,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-Lo de la interesante recopilación de noticias que hace Pascual Serrano en rebelion.org ya lo he comentado en [este post](http://www.cortell.net/2006/04/26/este-mes-en-las-noticias/).
+Lo de la interesante recopilación de noticias que hace Pascual Serrano en rebelion.org ya lo he comentado en [este post](https://www.cortell.net/2006/04/26/este-mes-en-las-noticias/).
 
 Pero especial atención merecen estas noticias relacionadas con el mundo de la Cultura:
 

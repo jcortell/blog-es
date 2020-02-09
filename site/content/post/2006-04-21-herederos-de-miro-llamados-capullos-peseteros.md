@@ -4,7 +4,7 @@ title: 'Herederos de Miró llamados &quot;capullos peseteros&quot;'
 date: 2006-04-21T12:44:14+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/04/21/herederos-de-miro-llamados-capullos-peseteros/
+guid: https://www.cortell.net/2006/04/21/herederos-de-miro-llamados-capullos-peseteros/
 permalink: /2006/04/21/herederos-de-miro-llamados-capullos-peseteros/
 categories:
   - CiberDerechos
@@ -15,9 +15,9 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-![Google Miró](http://www.mercurynews.com/images/mercurynews/mercurynews/14389/207051147616.jpg)
+![Google Miró](https://www.mercurynews.com/images/mercurynews/mercurynews/14389/207051147616.jpg)
 
-Tal y como [relata](http://www.siliconbeat.com/entries/2006/04/20/google_takes_down_miro_image.html) el SiliconBeat ([y el diario MercuryNews](http://www.mercurynews.com/mld/mercurynews/14389478.htm)), los herederos de Miró, a través de "una sociedad de gestión" (es de suponer que hablan de VEGAP, que no sólo de SGAEs está llena el infierno de las suciedades de gestión), han solicitado a Google que retire un collage de imágenes provenientes de obras del famoso pintor.
+Tal y como [relata](https://www.siliconbeat.com/entries/2006/04/20/google_takes_down_miro_image.html) el SiliconBeat ([y el diario MercuryNews](https://www.mercurynews.com/mld/mercurynews/14389478.htm)), los herederos de Miró, a través de "una sociedad de gestión" (es de suponer que hablan de VEGAP, que no sólo de SGAEs está llena el infierno de las suciedades de gestión), han solicitado a Google que retire un collage de imágenes provenientes de obras del famoso pintor.
 
 Como muchos sabréis, Google pone en vez de su logo (o modifica su logo) según el dí­a, la estación, la noticia o el motivo que le apetece.
 

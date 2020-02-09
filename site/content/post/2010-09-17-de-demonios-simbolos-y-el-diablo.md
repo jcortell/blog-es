@@ -4,7 +4,7 @@ title: De demonios, símbolos y el diablo
 date: 2010-09-17T11:22:56+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2634
+guid: https://cortell.net/blog/?p=2634
 permalink: /2010/09/17/de-demonios-simbolos-y-el-diablo/
 categories:
   - ¿Por qué no? ¿Utopías?

@@ -4,7 +4,7 @@ title: 'Citas en la revista &quot;Cinema&quot;'
 date: 2008-12-01T17:27:19+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1399
+guid: https://www.cortell.net/?p=1399
 permalink: /2008/12/01/citas-en-la-revista-cinema/
 categories:
   - ¿Por qué no? ¿Utopías?

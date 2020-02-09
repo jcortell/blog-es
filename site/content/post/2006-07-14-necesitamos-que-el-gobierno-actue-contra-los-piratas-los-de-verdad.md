@@ -4,7 +4,7 @@ title: Necesitamos que el gobierno actúe contra los piratas (los de verdad)
 date: 2006-07-14T08:26:24+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/07/14/necesitamos-que-el-gobierno-actue-contra-los-piratas-los-de-verdad/
+guid: https://www.cortell.net/2006/07/14/necesitamos-que-el-gobierno-actue-contra-los-piratas-los-de-verdad/
 permalink: /2006/07/14/necesitamos-que-el-gobierno-actue-contra-los-piratas-los-de-verdad/
 categories:
   - CiberDerechos

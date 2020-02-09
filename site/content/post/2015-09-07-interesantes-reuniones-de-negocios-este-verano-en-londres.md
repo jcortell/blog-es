@@ -4,7 +4,7 @@ title: Interesantes reuniones de negocios este verano en Londres
 date: 2015-09-07T15:39:48+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5573
+guid: https://blog.cortell.net/es/?p=5573
 permalink: /2015/09/07/interesantes-reuniones-de-negocios-este-verano-en-londres/
 categories:
   - General

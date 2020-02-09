@@ -4,7 +4,7 @@ title: 'Informe del ICEX &quot;El mercado de la música en Mexico&quot;'
 date: 2009-10-28T12:48:03+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2266
+guid: https://cortell.net/blog/?p=2266
 permalink: /2009/10/28/informe-del-icex-el-mercado-de-la-musica-en-mexico/
 categories:
   - General
@@ -42,5 +42,5 @@ categories:
 </p>
 
 <div class="fl-right pie-det-actividad">
-  <img src="http://www.icex.es/staticFiles/pdf.gif" alt="Adobe Acrobat" /> <a href="http://www.icex.es/icex/cma/contentTypes/common/records/viewDocument/0,,,00.bin?doc=4259996" target="_blank">ver documento (Adobe Acrobat, 429 KB)</a>
+  <img src="https://www.icex.es/staticFiles/pdf.gif" alt="Adobe Acrobat" /> <a href="https://www.icex.es/icex/cma/contentTypes/common/records/viewDocument/0,,,00.bin?doc=4259996" target="_blank">ver documento (Adobe Acrobat, 429 KB)</a>
 </div>

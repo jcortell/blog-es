@@ -4,7 +4,7 @@ title: Testing WP update and plug-in incompatibility
 date: 2012-09-23T12:13:32+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4299
+guid: https://cortell.net/blog/?p=4299
 permalink: /2012/09/23/testing-wp-update-and-plug-in-incompatibility/
 wpsd_autopost:
   - "1"

@@ -4,7 +4,7 @@ title: Queens Museum of Art
 date: 2012-05-22T13:23:36+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4143
+guid: https://cortell.net/blog/?p=4143
 permalink: /2012/05/22/queens-museum-of-art/
 wpsd_autopost:
   - "1"

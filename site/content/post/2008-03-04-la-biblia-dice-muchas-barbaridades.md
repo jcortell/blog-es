@@ -4,7 +4,7 @@ title: 'La Biblia dice... muchas barbaridades'
 date: 2008-03-04T12:04:41+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/03/04/la-biblia-dice-muchas-barbaridades/
+guid: https://www.cortell.net/2008/03/04/la-biblia-dice-muchas-barbaridades/
 permalink: /2008/03/04/la-biblia-dice-muchas-barbaridades/
 categories:
   - General

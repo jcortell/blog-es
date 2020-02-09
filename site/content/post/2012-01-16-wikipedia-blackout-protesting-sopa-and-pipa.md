@@ -4,7 +4,7 @@ title: Wikipedia blackout protesting SOPA and PIPA
 date: 2012-01-16T19:29:39+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3764
+guid: https://cortell.net/blog/?p=3764
 permalink: /2012/01/16/wikipedia-blackout-protesting-sopa-and-pipa/
 wpsd_autopost:
   - "1"
@@ -19,7 +19,7 @@ categories:
   - Technology
 ---
 > <div>
->   <a href="http://wikimediafoundation.org/wiki/English_Wikipedia_anti-SOPA_blackout">http://wikimediafoundation.org/wiki/English_Wikipedia_anti-SOPA_blackout</a></p> 
+>   <a href="https://wikimediafoundation.org/wiki/English_Wikipedia_anti-SOPA_blackout">https://wikimediafoundation.org/wiki/English_Wikipedia_anti-SOPA_blackout</a></p> 
 >   
 >   <div>
 >     <div>
@@ -29,11 +29,11 @@ categories:
 >         </strong></div> 
 >         
 >         <div>
->           Today, the Wikipedia community <a title="w:en:Wikipedia:SOPA initiative/Action" href="http://en.wikipedia.org/wiki/en:Wikipedia:SOPA_initiative/Action">announced its decision</a> to black out the English-language Wikipedia for 24 hours, worldwide, beginning at 05:00 UTC on Wednesday, January 18 (you can read the <a title="Press releases/English Wikipedia to go dark" href="http://wikimediafoundation.org/wiki/Press_releases/English_Wikipedia_to_go_dark">statement from the Wikimedia Foundation here</a>). The blackout is a protest against proposed legislation in the United States—the <a title="w:en:Stop Online Piracy Act" href="http://en.wikipedia.org/wiki/en:Stop_Online_Piracy_Act">Stop Online Piracy Act (SOPA)</a> in the U.S. House of Representatives, and the <a title="w:en:PROTECT IP Act" href="http://en.wikipedia.org/wiki/en:PROTECT_IP_Act">PROTECT IP Act (PIPA)</a> in the U.S. Senate—that, if passed, would seriously damage the free and open Internet, including Wikipedia.
+>           Today, the Wikipedia community <a title="w:en:Wikipedia:SOPA initiative/Action" href="https://en.wikipedia.org/wiki/en:Wikipedia:SOPA_initiative/Action">announced its decision</a> to black out the English-language Wikipedia for 24 hours, worldwide, beginning at 05:00 UTC on Wednesday, January 18 (you can read the <a title="Press releases/English Wikipedia to go dark" href="https://wikimediafoundation.org/wiki/Press_releases/English_Wikipedia_to_go_dark">statement from the Wikimedia Foundation here</a>). The blackout is a protest against proposed legislation in the United States—the <a title="w:en:Stop Online Piracy Act" href="https://en.wikipedia.org/wiki/en:Stop_Online_Piracy_Act">Stop Online Piracy Act (SOPA)</a> in the U.S. House of Representatives, and the <a title="w:en:PROTECT IP Act" href="https://en.wikipedia.org/wiki/en:PROTECT_IP_Act">PROTECT IP Act (PIPA)</a> in the U.S. Senate—that, if passed, would seriously damage the free and open Internet, including Wikipedia.
 >         </div>
 >         
 >         <div>
->           This will be the first time the English Wikipedia has ever staged a public protest of this nature, and it’s a decision that wasn’t lightly made. Here’s how it’s been described by the three Wikipedia administrators who formally facilitated the community’s discussion. From the <a title="w:en:Wikipedia:SOPA" href="http://en.wikipedia.org/wiki/en:Wikipedia:SOPA#Summary_and_conclusion">public statement</a>, signed by User:NuclearWarfare, User:Risker and User:Billinghurst:<em></em>
+>           This will be the first time the English Wikipedia has ever staged a public protest of this nature, and it’s a decision that wasn’t lightly made. Here’s how it’s been described by the three Wikipedia administrators who formally facilitated the community’s discussion. From the <a title="w:en:Wikipedia:SOPA" href="https://en.wikipedia.org/wiki/en:Wikipedia:SOPA#Summary_and_conclusion">public statement</a>, signed by User:NuclearWarfare, User:Risker and User:Billinghurst:<em></em>
 >         </div>
 >         
 >         <dl>

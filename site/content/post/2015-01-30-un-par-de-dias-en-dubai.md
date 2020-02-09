@@ -4,7 +4,7 @@ title: Un par de días en Dubai
 date: 2015-01-30T19:09:04+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5402
+guid: https://blog.cortell.net/es/?p=5402
 permalink: /2015/01/30/un-par-de-dias-en-dubai/
 categories:
   - General
@@ -21,9 +21,9 @@ Era mi intención leer algo de filosofía postmoderna y teoría del arte durante
 
 Nota mental: para un asiento cómodo y para evitar ser molestado cada 5 minutos por pasajeros que quieren ir al baño (y para no molestar a los demás), en un vuelo largo con una configuración 3 + 4 + 3, y si no hay más remedio que volar en turista,  tiene mucho más sentido estadístico escoger el pasillo en la sección de 4.
 
-Tras el vuelo me recogió un chófer de Uber en un Lexus 350 enviado por mis cliente, y me llevó al hotel <a title="http://www.sofitel-dubai-thepalm.com/en" href="http://www.sofitel-dubai-thepalm.com/en" target="_blank">Sofitel The Palm hotel</a>. Un espléndido hotel con todos los servicios y comodidades que se pueda imaginar en un hotel de lujo. Muy notable fue la vista de Dubai desde mi habitación.
+Tras el vuelo me recogió un chófer de Uber en un Lexus 350 enviado por mis cliente, y me llevó al hotel <a title="https://www.sofitel-dubai-thepalm.com/en" href="https://www.sofitel-dubai-thepalm.com/en" target="_blank">Sofitel The Palm hotel</a>. Un espléndido hotel con todos los servicios y comodidades que se pueda imaginar en un hotel de lujo. Muy notable fue la vista de Dubai desde mi habitación.
 
-<img class="aligncenter" src="http://gulfnews.com/polopoly_fs/1.627105!/image/1366806873.jpg_gen/derivatives/box_475/1366806873.jpg" alt="Sofitel The Palm" width="475" height="313" />
+<img class="aligncenter" src="https://gulfnews.com/polopoly_fs/1.627105!/image/1366806873.jpg_gen/derivatives/box_475/1366806873.jpg" alt="Sofitel The Palm" width="475" height="313" />
 
 Al día siguiente me desperté temprano y fui a la playa privada a dar un paseo, y luego a las 8:30 am, cuando la piscina abrió, nadé unos largos en la hermosa piscina climatizada al aire libre. No me sorprendente que no hubiese nadie allí tan pronto, menos los socorristas, jardineros y camareros.
 
@@ -41,6 +41,6 @@ De camino de regreso a mi hotel vi a un gran grupo de conejitos desorientados e
 
 Al día siguiente tuve más reuniones, una de ellas con un ex oficial de inteligencia, ahora ejecutivo de una empresa de TI propiedad del gobierno. Como anécdota, me explicó los distintos cuellos en la túnica masculina tradicional (_kandura_): elevado en Abu Dhabi, bajo de corte recto en Dubai.
 
-Después de un día lleno de reuniones en el Centro de Convenciones y en Internet City, cenamos en<a title="http://cle-dubai.com/" href="http://cle-dubai.com/" target="_blank">Cle</a>, un increíble restaurante con el chef galardonado con estrella Michelin Greg Malouf, quien vino a charlar a nuestra mesa.
+Después de un día lleno de reuniones en el Centro de Convenciones y en Internet City, cenamos en<a title="https://cle-dubai.com/" href="https://cle-dubai.com/" target="_blank">Cle</a>, un increíble restaurante con el chef galardonado con estrella Michelin Greg Malouf, quien vino a charlar a nuestra mesa.
 
 Mi vuelo de regreso, aunque se retrasó, cambió, y cambió de nuevo, terminó siendo muy bueno, con una sección central toda para mí. Ahora estoy de vuelta en Nueva York, durante unos días. Hace frío, pero el "snowmageddon" o "blizzard2015" que estaban esperando al final no va a estar a la altura de lo esperado, a diferencia de lo que ha caído en Nueva Inglaterra.

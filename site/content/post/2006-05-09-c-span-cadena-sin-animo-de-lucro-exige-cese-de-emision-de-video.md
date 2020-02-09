@@ -4,7 +4,7 @@ title: C-Span (cadena sin ánimo de lucro) exige cese de emisión de ví­deo
 date: 2006-05-09T09:16:57+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/05/09/c-span-cadena-sin-animo-de-lucro-exige-cese-de-emision-de-video/
+guid: https://www.cortell.net/2006/05/09/c-span-cadena-sin-animo-de-lucro-exige-cese-de-emision-de-video/
 permalink: /2006/05/09/c-span-cadena-sin-animo-de-lucro-exige-cese-de-emision-de-video/
 categories:
   - CiberDerechos
@@ -14,9 +14,9 @@ categories:
   - Noticias
   - Rants
 ---
-No salgo de mi sorpresa. Si hace unos dí­as os [hablaba](http://www.cortell.net/2006/05/04/con-un-par-partirse-a-costa-de-bush%c2%a1en-su-cara/) del hilarante ví­deo que protagoniza el humorista Stephen Colbert criticando y parodiando a Bush (el cual se encontraba a escasos metros), y poco después actualicé la noticia con este dato:
+No salgo de mi sorpresa. Si hace unos dí­as os [hablaba](https://www.cortell.net/2006/05/04/con-un-par-partirse-a-costa-de-bush%c2%a1en-su-cara/) del hilarante ví­deo que protagoniza el humorista Stephen Colbert criticando y parodiando a Bush (el cual se encontraba a escasos metros), y poco después actualicé la noticia con este dato:
   
-[Actualización: este ví­deo se ha convertido en el número 1 de la lista Google Videos. En [este artí­culo](http://www.redherring.com/Article.aspx?a=16788&hed=C-Span+Videos+Top+Google) explican lo curioso que es el hecho de que el ví­deo, emitido por una cadena C-Span que ve gente principalmente de edad media, es número 1 de ví­deos por internet, que ven principalmente adolescentes; todo gracias a youtube y a ifilm. -¿Quién dijo que no hay oportunidades y negocio en distribuir el contenido gratuí­tamente por la red?] ahora leo en el New York times (el [artí­culo](http://www.nytimes.com/2006/05/08/technology/08colbert.html)) requiere registro, pero mejor usa [bug me not](http://www.bugmenot.com/)) absolutamente atónito que la cadena que lo grabó y emitió (C-Span) exige a Youtube y a ifilm que lo quiten de la red.
+[Actualización: este ví­deo se ha convertido en el número 1 de la lista Google Videos. En [este artí­culo](https://www.redherring.com/Article.aspx?a=16788&hed=C-Span+Videos+Top+Google) explican lo curioso que es el hecho de que el ví­deo, emitido por una cadena C-Span que ve gente principalmente de edad media, es número 1 de ví­deos por internet, que ven principalmente adolescentes; todo gracias a youtube y a ifilm. -¿Quién dijo que no hay oportunidades y negocio en distribuir el contenido gratuí­tamente por la red?] ahora leo en el New York times (el [artí­culo](https://www.nytimes.com/2006/05/08/technology/08colbert.html)) requiere registro, pero mejor usa [bug me not](https://www.bugmenot.com/)) absolutamente atónito que la cadena que lo grabó y emitió (C-Span) exige a Youtube y a ifilm que lo quiten de la red.
 
 -¿Por qué me sorprendo de tal comportamiento en la tierra del copyright más extremista y agresivo? Pues porque:
 

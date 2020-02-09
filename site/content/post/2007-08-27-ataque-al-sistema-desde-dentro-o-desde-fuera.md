@@ -4,7 +4,7 @@ title: Ataque al sistema -¿desde dentro o desde fuera?
 date: 2007-08-27T10:04:05+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2007/08/27/ataque-al-sistema-%c2%bfdesde-dentro-o-desde-fuera/'
+guid: 'https://www.cortell.net/2007/08/27/ataque-al-sistema-%c2%bfdesde-dentro-o-desde-fuera/'
 permalink: /2007/08/27/ataque-al-sistema-desde-dentro-o-desde-fuera/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -14,7 +14,7 @@ categories:
   - General
   - Sociedad y polí­tica
 ---
-A raiz de <a title="Post en mi blog" target="_blank" href="http://www.cortell.net/2007/08/07/-¿empresas-como-candidatos-a-la-presidencia-jamas--¿o-hamas/">este post</a>, y el comentario de <a title="comentario" target="_blank" href="http://www.cortell.net/2007/08/07/-¿empresas-como-candidatos-a-la-presidencia-jamas--¿o-hamas/#comment-87128">eyeclipse</a>, retomo un tema recurrente en cualquier debate sobre [H]activismo: -¿El "ataque" es mejor desde dentro, o desde fuera?
+A raiz de <a title="Post en mi blog" target="_blank" href="https://www.cortell.net/2007/08/07/-¿empresas-como-candidatos-a-la-presidencia-jamas--¿o-hamas/">este post</a>, y el comentario de <a title="comentario" target="_blank" href="https://www.cortell.net/2007/08/07/-¿empresas-como-candidatos-a-la-presidencia-jamas--¿o-hamas/#comment-87128">eyeclipse</a>, retomo un tema recurrente en cualquier debate sobre [H]activismo: -¿El "ataque" es mejor desde dentro, o desde fuera?
 
 Ambos enfoques tienen ventajas e inconvenientes, y cual Ying-Yang me debato siempre entre un enfoque y el otro.
 

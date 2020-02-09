@@ -4,7 +4,7 @@ title: En la Cumbre Federal de IBM en Washington DC
 date: 2014-06-21T14:23:34+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5203
+guid: https://blog.cortell.net/es/?p=5203
 permalink: /2014/06/21/en-la-cumbre-federal-de-ibm-en-washington-dc/
 categories:
   - General
@@ -29,6 +29,6 @@ Fue una experiencia muy directa. No es que no supiera antes que las estructuras 
 
 Otra de las lecciones que he aprendido en este viaje es la importancia de no facturar equipaje:
 
-Recientemente fui nombrado miembro del Consejo Asesor Europeo para temas de _nube_ de IBM, y la primera reunión se iba a celebrar al día siguiente en Niza (Francia), por la mañana. Para llegar a tiempo tuve que cambiar los vuelos en el último minuto. <a href="http://www.cruisecurator.com/blog/" title="http://www.cruisecurator.com/blog/" target="_blank">Mi maravillosa agente de viajes</a> fue super rápida y eficaz, cambiando mis billetes mientras se anunciaba el cierre del embarque justo delante de mí. Busqué el supervisor, le expliqué que tenía una confirmación de billete electrónico y no levaba equipaje facturado y, _presto_, me permitió subir a bordo, por lo que llegué a tiempo para mi reunión.
+Recientemente fui nombrado miembro del Consejo Asesor Europeo para temas de _nube_ de IBM, y la primera reunión se iba a celebrar al día siguiente en Niza (Francia), por la mañana. Para llegar a tiempo tuve que cambiar los vuelos en el último minuto. <a href="https://www.cruisecurator.com/blog/" title="https://www.cruisecurator.com/blog/" target="_blank">Mi maravillosa agente de viajes</a> fue super rápida y eficaz, cambiando mis billetes mientras se anunciaba el cierre del embarque justo delante de mí. Busqué el supervisor, le expliqué que tenía una confirmación de billete electrónico y no levaba equipaje facturado y, _presto_, me permitió subir a bordo, por lo que llegué a tiempo para mi reunión.
 
 Nota para mí mismo: no volar 7 horas con los ligamentos del tobillo rotos a menos que vuele en asiento que se hace cama plana de primera clase con una bolsa de hielo.

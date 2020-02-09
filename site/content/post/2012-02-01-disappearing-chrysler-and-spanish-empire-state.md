@@ -4,7 +4,7 @@ title: 'Disappearing Chrysler and &quot;Spanish&quot; Empire State'
 date: 2012-02-01T00:41:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3822
+guid: https://cortell.net/blog/?p=3822
 permalink: /2012/02/01/disappearing-chrysler-and-spanish-empire-state/
 wpsd_autopost:
   - "1"

@@ -4,7 +4,7 @@ title: 'CC y la Casa Blanca: de gestos y cambios'
 date: 2009-01-23T19:45:21+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1448
+guid: https://www.cortell.net/?p=1448
 permalink: /2009/01/23/cc-y-la-casa-blanca-de-gestos-y-cambios/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -14,7 +14,7 @@ Le deseo lo mejor a Barack Obama. Como me contó un amigo de Washington DC, el c
 
 Pero cuesta ilusionarse con los aires de cambio, cuando sabes que los cambios no son posibles. Ejemplos varios:
 
-• Se ha hablado mucho sobre la modificación de la <a title="White House Copyright" href="http://www.whitehouse.gov/copyright/" target="_blank">nota © de la página de la Casa Blanca</a>. El párrafo que ha levantado miles de comentarios es el siguiente:
+• Se ha hablado mucho sobre la modificación de la <a title="White House Copyright" href="https://www.whitehouse.gov/copyright/" target="_blank">nota © de la página de la Casa Blanca</a>. El párrafo que ha levantado miles de comentarios es el siguiente:
 
 > Except where otherwise noted, third-party content on this site is licensed under a Creative Commons Attribution 3.0 License. Visitors to this website agree to grant a non-exclusive, irrevocable, royalty-free license to the rest of the world for their submissions to Whitehouse.gov under the Creative Commons Attribution 3.0 License.
 

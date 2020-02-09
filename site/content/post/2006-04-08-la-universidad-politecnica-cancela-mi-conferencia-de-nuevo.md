@@ -4,7 +4,7 @@ title: La Universidad Politécnica cancela no autoriza mi conferencia -¡de nuev
 date: 2006-04-08T23:49:32+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2006/04/08/la-universidad-politecnica-cancela-mi-conferencia-%c2%a1de-nuevo/'
+guid: 'https://www.cortell.net/2006/04/08/la-universidad-politecnica-cancela-mi-conferencia-%c2%a1de-nuevo/'
 permalink: /2006/04/08/la-universidad-politecnica-cancela-mi-conferencia-de-nuevo/
 categories:
   - CiberDerechos
@@ -18,7 +18,7 @@ categories:
 
 Es tan increí­ble, que he tenido que corroborarlo, y esperar un par de dí­as para asimilarlo. <s>-¿Tendrá esto algo que ver con las anunciadas detenciones? -¿Habrá llamado alguien a alguien para "avisar" de que iban a empezar las detenciones, y que si iban a por mí­ en la UPV podrí­a causarle problemas a la universidad?</s> (en principio descartada esa posibilidad).
 
-Como comenté hace meses, me habí­an invitado a dar una conferencia en la UPV (durante la semana cultural de una de sus Escuelas Técnicas Superiores), y yo, encantado, habí­a aceptado. Aquí­ tenéis [el post](http://www.cortell.net/2006/02/28/conferencia-en-la-upv-un-ano-despues-del-intento-de-censura/) donde lo comenté.
+Como comenté hace meses, me habí­an invitado a dar una conferencia en la UPV (durante la semana cultural de una de sus Escuelas Técnicas Superiores), y yo, encantado, habí­a aceptado. Aquí­ tenéis [el post](https://www.cortell.net/2006/02/28/conferencia-en-la-upv-un-ano-despues-del-intento-de-censura/) donde lo comenté.
 
 Pues bien, hace un par de dí­as me llamó la persona encargada de organizar las conferencias, la misma que me habí­a invitado (quien "me ha permitido" contar todo esto, pero me ha pedido que no mencione su nombre ni el de otros). Voy a intentar transcribir la inverosí­mil conversación (y si cometo algún error, que me lo comunique y lo corrijo de inmediato):
 
@@ -86,4 +86,4 @@ Serí­a lo que harí­a cualquier persona (sobretodo en EEUU). Para que no me a
 
 e) -¿Alguna otra idea / propuesta?
 
-Mientras tanto, el lunes 10 daré una [conferencia en la Universitat Jaume I de Castellón](http://www.ctinf.tk/) (donde no tienen miedo a represalias, y donde, por cierto, han visto cómo la SGAE ha cancelado su charla/debate, supongo que al enterarse de que yo asistirí­a... como suelen hacer -¡miedo me tienen!). Estaré encantado de hablar de este y otros temas (como las recientes detenciones de webmasters en España).
+Mientras tanto, el lunes 10 daré una [conferencia en la Universitat Jaume I de Castellón](https://www.ctinf.tk/) (donde no tienen miedo a represalias, y donde, por cierto, han visto cómo la SGAE ha cancelado su charla/debate, supongo que al enterarse de que yo asistirí­a... como suelen hacer -¡miedo me tienen!). Estaré encantado de hablar de este y otros temas (como las recientes detenciones de webmasters en España).

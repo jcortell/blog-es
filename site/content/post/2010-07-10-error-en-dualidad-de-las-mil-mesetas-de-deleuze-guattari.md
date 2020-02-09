@@ -4,7 +4,7 @@ title: Error en dualidad de Las Mil Mesetas de Deleuze-Guattari
 date: 2010-07-10T13:04:24+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2504
+guid: https://cortell.net/blog/?p=2504
 permalink: /2010/07/10/error-en-dualidad-de-las-mil-mesetas-de-deleuze-guattari/
 categories:
   - Arte

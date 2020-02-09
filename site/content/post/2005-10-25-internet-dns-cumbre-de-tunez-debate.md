@@ -4,7 +4,7 @@ title: 'Internet, DNS, cumbre de Tunez... -¿debate?'
 date: 2005-10-25T09:04:23+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2005/10/25/internet-dns-cumbre-de-tunez-%c2%bfdebate/'
+guid: 'https://www.cortell.net/2005/10/25/internet-dns-cumbre-de-tunez-%c2%bfdebate/'
 permalink: /2005/10/25/internet-dns-cumbre-de-tunez-debate/
 categories:
   - CiberDerechos
@@ -13,7 +13,7 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-En [este](http://technology.guardian.co.uk/news/story/0,16559,1589967,00.html) excelente artí­culo de [The Guardian](http://www.guardian.co.uk) se expone de un modo bastante claro y equilibrado el debate y la tensión que el control sobre el sistema de DNS (los famosos "punto..." de Internet) está causando.
+En [este](https://technology.guardian.co.uk/news/story/0,16559,1589967,00.html) excelente artí­culo de [The Guardian](https://www.guardian.co.uk) se expone de un modo bastante claro y equilibrado el debate y la tensión que el control sobre el sistema de DNS (los famosos "punto..." de Internet) está causando.
 
 A unos dí­as de una cumbre en Tunez que parece va a resultar vital, encontramos dos posturas: EEUU e Icann (Internet Corporation for Assigned Names and Numbers), que pretenden seguir con el control de los dominios como hasta ahora, y una serie de paí­ses que reclaman su voz y voto en el asunto.
 

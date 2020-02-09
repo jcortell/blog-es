@@ -4,7 +4,7 @@ title: Atrévete a crear (es MUY fácil) (PCI 27)
 date: 2005-03-27T10:17:52+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=66
+guid: https://www.cortell.net/?p=66
 permalink: /2005/03/27/atrevete-a-crear-es-muy-facil-pci-27/
 categories:
   - 'Artí­culos escritos para la revista PC&amp;I'

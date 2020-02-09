@@ -4,7 +4,7 @@ title: Escalas temporales
 date: 2011-09-11T11:41:24+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3508
+guid: https://cortell.net/blog/?p=3508
 permalink: /2011/09/11/escalas-temporales/
 wpsd_autopost:
   - "1"

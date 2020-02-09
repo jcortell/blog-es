@@ -4,7 +4,7 @@ title: Lecturas para no dormir en verano
 date: 2009-08-20T01:17:46+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2123
+guid: https://cortell.net/blog/?p=2123
 permalink: /2009/08/20/lecturas-para-no-dormir-en-verano/
 categories:
   - ¿Por qué no? ¿Utopías?

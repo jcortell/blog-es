@@ -4,7 +4,7 @@ title: Lavado de cerebro pro-copyright
 date: 2006-04-27T08:21:02+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/04/27/lavado-de-cerebro-pro-copyright/
+guid: https://www.cortell.net/2006/04/27/lavado-de-cerebro-pro-copyright/
 permalink: /2006/04/27/lavado-de-cerebro-pro-copyright/
 categories:
   - CiberDerechos
@@ -17,9 +17,9 @@ categories:
 ---
 _menor_ me enví­a esta imagen de prueba:
 
-![englishbullshit](http://static.flickr.com/56/135770476_afa174423a_b.jpg)
+![englishbullshit](https://static.flickr.com/56/135770476_afa174423a_b.jpg)
 
-Ya en noviembre del año pasado hablé del [Adoctrinamiento (Interactivo) Obligatorio](http://www.cortell.net/2005/11/27/los-peligros-ocultos-de-la-red-viii-adoctrinamiento-interactivo-obligatorio-pci-35/) que tuve que sufirr en Harvard. Pero esto es el colmo: para la prueba de acceso a la universidad de Castilla la Mancha (Albacete) hay que leerse un texto en el que se sermonea contra el P2P y se dicen cosas contrarias al ordenamiento jurí­dico español y se miente ("decline in global music sales" lo cual es falso, pues lo que ha descendido es la venta de DISCOS, NO de MUSICA, que con los tonos de los móviles, la venta online, los conciertos, etc ha SUBIDO a niveles de record).
+Ya en noviembre del año pasado hablé del [Adoctrinamiento (Interactivo) Obligatorio](https://www.cortell.net/2005/11/27/los-peligros-ocultos-de-la-red-viii-adoctrinamiento-interactivo-obligatorio-pci-35/) que tuve que sufirr en Harvard. Pero esto es el colmo: para la prueba de acceso a la universidad de Castilla la Mancha (Albacete) hay que leerse un texto en el que se sermonea contra el P2P y se dicen cosas contrarias al ordenamiento jurí­dico español y se miente ("decline in global music sales" lo cual es falso, pues lo que ha descendido es la venta de DISCOS, NO de MUSICA, que con los tonos de los móviles, la venta online, los conciertos, etc ha SUBIDO a niveles de record).
 
 **-¿Qué pasarí­a si en una prueba de Vasco se hiciese apologí­a de ETA?**
 
@@ -33,4 +33,4 @@ Si ya lo decí­a yo, que la estrategia ahora pasa por el adoctrinamiento y el m
 
 -¿Qué podemos hacer para contrarrestar sus manipulaciones?
 
-![contramanipulación](http://static.flickr.com/44/127001245_603e6cb1c2_o.jpg)
+![contramanipulación](https://static.flickr.com/44/127001245_603e6cb1c2_o.jpg)

@@ -4,7 +4,7 @@ title: 'En Singapur, día 3: Makansutra Gluttons Bay'
 date: 2014-09-23T05:36:29+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5296
+guid: https://blog.cortell.net/es/?p=5296
 permalink: /2014/09/23/en-singapur-dia-3-makansutra-gluttons-bay/
 categories:
   - General
@@ -17,7 +17,7 @@ Pasé la mayor parte de la jornada de trabajo, de reuniones con clientes. Pero h
 
 Mi esposa, que por cierto estaba de vuelta de su fin de semana en el Caribe (no soy el único que trabaja duro y "tiene que soportar" duros viajes)​​, me había enviado este artículo sobre centros de vendedores "ambulantes" de alimentos de Singapur. Aunque largo, vale totalmente la pena leerlo:
   
-<a title="http://www.newyorker.com/magazine/2007/09/03/three-chopsticks" href="http://www.newyorker.com/magazine/2007/09/03/three-chopsticks" target="_blank">http://www.newyorker.com/magazine/2007/09/03/three-chopsticks</a>
+<a title="https://www.newyorker.com/magazine/2007/09/03/three-chopsticks" href="https://www.newyorker.com/magazine/2007/09/03/three-chopsticks" target="_blank">https://www.newyorker.com/magazine/2007/09/03/three-chopsticks</a>
 
 Así que decidí que tenía que probarlo. Y me fui directamente al más famoso: Makansutra Glutotns Bay. ¡Impresionante!
   

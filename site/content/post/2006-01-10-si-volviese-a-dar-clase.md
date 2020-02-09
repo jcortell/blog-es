@@ -4,7 +4,7 @@ title: 'Si volviese a dar clase...'
 date: 2006-01-10T17:49:23+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/01/10/si-volviese-a-dar-clase/
+guid: https://www.cortell.net/2006/01/10/si-volviese-a-dar-clase/
 permalink: /2006/01/10/si-volviese-a-dar-clase/
 categories:
   - General

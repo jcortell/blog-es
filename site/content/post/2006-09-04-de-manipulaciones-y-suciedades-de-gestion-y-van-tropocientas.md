@@ -4,7 +4,7 @@ title: De manipulaciones y Suciedades de Gestión (y van tropocientas)
 date: 2006-09-04T10:04:24+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/09/04/de-manipulaciones-y-suciedades-de-gestion-y-van-tropocientas/
+guid: https://www.cortell.net/2006/09/04/de-manipulaciones-y-suciedades-de-gestion-y-van-tropocientas/
 permalink: /2006/09/04/de-manipulaciones-y-suciedades-de-gestion-y-van-tropocientas/
 categories:
   - Copyfight
@@ -16,9 +16,9 @@ No se cansan. Por mucho que lo denunciemos no se cansan.
 
 Las Suciedades de Gestión no se cansan de manipular. Por mucho que lo denuncemos una y otra vez, y con pruebas irrefutables. Además, en su estrepitosa caí­da en picado arrastran a todo medio de comunicación incauto o manipulador que se les acerca.
 
-<a target="_blank" title="Manipulación" href="http://personales.ya.com/josumezo/malaprensa/2006/09/otra-vez-la-piratera.html">Aquí­ tenéis</a> un excelentemente documentado (como nos tiene acostumbrados Malaprensa) ejemplo de escandalosa manipulación de cifras por parte de Suciedades de Gestión y demás organizaciones afectas y similares. Las cifras son tan absurdas y tan inverosí­milmente inconsistentes (hasta el punto que se contradicen con las fuentes citadas) que da auténtica risa. Si en esto es en lo que se basan los legisladores para parir fetos legislativos y abortos esperpénticos como los que tenemos en nuestro ordenamiento (a todas luces una chapuza de remiendos y desatinos), entonces apaga y vámonos.
+<a target="_blank" title="Manipulación" href="https://personales.ya.com/josumezo/malaprensa/2006/09/otra-vez-la-piratera.html">Aquí­ tenéis</a> un excelentemente documentado (como nos tiene acostumbrados Malaprensa) ejemplo de escandalosa manipulación de cifras por parte de Suciedades de Gestión y demás organizaciones afectas y similares. Las cifras son tan absurdas y tan inverosí­milmente inconsistentes (hasta el punto que se contradicen con las fuentes citadas) que da auténtica risa. Si en esto es en lo que se basan los legisladores para parir fetos legislativos y abortos esperpénticos como los que tenemos en nuestro ordenamiento (a todas luces una chapuza de remiendos y desatinos), entonces apaga y vámonos.
 
-Por otra parte, en una nueva entrega del culebrón Traxtore / SGAE, la SGAE (a través de la voz de su amo ACAM, y ocultando la mano que tira la piedra cobardemente como siempre es el caso en las actuaciones de los mafiosos) tenemos la <a target="_blank" title="carta de Traxtore en Comfia" href="http://www.comfia.info/noticias/txt/28885.html">carta de Traxtore</a> que publica el boletí­n de CCOO (Comfia) y la <a target="_blank" title="SGAE en ACAM" href="http://www.acam.es/noticias_detalle.php?id=1845">refutación</a> de Antonio Alférez, Director de Comunicación de la Sociedad General de Autores y Editores (SGAE) en la web de ACAM.
+Por otra parte, en una nueva entrega del culebrón Traxtore / SGAE, la SGAE (a través de la voz de su amo ACAM, y ocultando la mano que tira la piedra cobardemente como siempre es el caso en las actuaciones de los mafiosos) tenemos la <a target="_blank" title="carta de Traxtore en Comfia" href="https://www.comfia.info/noticias/txt/28885.html">carta de Traxtore</a> que publica el boletí­n de CCOO (Comfia) y la <a target="_blank" title="SGAE en ACAM" href="https://www.acam.es/noticias_detalle.php?id=1845">refutación</a> de Antonio Alférez, Director de Comunicación de la Sociedad General de Autores y Editores (SGAE) en la web de ACAM.
 
 Nótese que la manipulación en este caso es mucho más sutil y aséptica. Han intentado un comunicado libre de pasiones y que aparente frialdad y objetividad, pero que rezuma veneno por ambos lados de su viperina lengua, con perlas como:
 

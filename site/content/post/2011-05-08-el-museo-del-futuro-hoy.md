@@ -4,7 +4,7 @@ title: 'El museo del futuro... hoy'
 date: 2011-05-08T12:45:00+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3139
+guid: https://cortell.net/blog/?p=3139
 permalink: /2011/05/08/el-museo-del-futuro-hoy/
 wpsd_autopost:
   - "1"
@@ -15,4 +15,4 @@ categories:
   - Technology
   - Technolust
 ---
-[Adobe Museum of Digital Media](http://www.adobemuseum.com/index.php)
+[Adobe Museum of Digital Media](https://www.adobemuseum.com/index.php)

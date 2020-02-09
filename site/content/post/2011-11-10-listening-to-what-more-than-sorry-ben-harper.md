@@ -4,7 +4,7 @@ title: 'Listening to &quot;What more than sorry&quot; by Ben Harper'
 date: 2011-11-10T17:47:27+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3628
+guid: https://cortell.net/blog/?p=3628
 permalink: /2011/11/10/listening-to-what-more-than-sorry-ben-harper/
 wpsd_autopost:
   - "1"

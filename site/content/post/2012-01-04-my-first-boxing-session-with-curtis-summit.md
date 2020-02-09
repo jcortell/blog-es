@@ -4,7 +4,7 @@ title: My first boxing session with Curtis Summit
 date: 2012-01-04T04:59:49+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3728
+guid: https://cortell.net/blog/?p=3728
 permalink: /2012/01/04/my-first-boxing-session-with-curtis-summit/
 wpsd_autopost:
   - "1"

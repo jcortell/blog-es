@@ -4,7 +4,7 @@ title: 'El principio del fin de la SGAE: cómo autoeditarse un disco sin &quot;p
 date: 2005-06-23T11:00:53+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/06/23/el-principio-del-fin-de-la-sgae-como-autoeditarse-un-disco-sin-pasar-por-el-aro/
+guid: https://www.cortell.net/2005/06/23/el-principio-del-fin-de-la-sgae-como-autoeditarse-un-disco-sin-pasar-por-el-aro/
 permalink: /2005/06/23/el-principio-del-fin-de-la-sgae-como-autoeditarse-un-disco-sin-pasar-por-el-aro/
 categories:
   - CiberDerechos
@@ -14,7 +14,7 @@ categories:
 ---
 Muchos son los asistentes a mis conferencias que preguntan por la autoedición, por la posibilidad de no afiliarse a la SGAE, etc. Siempre he defendido que es posible y deseable (la mejor forma de combatir a la SGAE es hacer que sus miembros se den de baja, y que los nuevos "autores" no se afilien, y para ello no sólo hay que denunciar las malas prácticas y abusos de la SGAE, y la situación de confrontación y manipulación que la LPI y su defensa de restricciones a ultranza está generando, sino dar alternativas).
 
-Anne, [publicó](http://ipunkforos.com/viewtopic.php?t=59479) esta interesantí­sima (y muy detallada) crónica en los foros (por cierto, recomiendo la lectura entera de los foros) de [ipunkrock.com](http://ipunkrock.com). MUY interesante (Nacho Escolar también lo ha reflejado en su [blog](http://www.escolar.net/MT/archives/2005/06/como_fabricar_t.html), y cuantos más lo difundamos, mejor). -¡MIL GRACIAS ANNE!
+Anne, [publicó](https://ipunkforos.com/viewtopic.php?t=59479) esta interesantí­sima (y muy detallada) crónica en los foros (por cierto, recomiendo la lectura entera de los foros) de [ipunkrock.com](https://ipunkrock.com). MUY interesante (Nacho Escolar también lo ha reflejado en su [blog](https://www.escolar.net/MT/archives/2005/06/como_fabricar_t.html), y cuantos más lo difundamos, mejor). -¡MIL GRACIAS ANNE!
 
 Cito textualmente (con permiso):
 

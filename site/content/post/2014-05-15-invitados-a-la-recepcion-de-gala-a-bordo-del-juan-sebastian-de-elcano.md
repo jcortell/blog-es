@@ -4,7 +4,7 @@ title: Invitados a la recepción de gala a bordo del Juan Sebastián de Elcano
 date: 2014-05-15T17:25:48+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5186
+guid: https://blog.cortell.net/es/?p=5186
 permalink: /2014/05/15/invitados-a-la-recepcion-de-gala-a-bordo-del-juan-sebastian-de-elcano/
 categories:
   - General

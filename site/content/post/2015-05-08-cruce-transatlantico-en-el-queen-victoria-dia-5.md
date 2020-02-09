@@ -4,7 +4,7 @@ title: Cruce transatlántico en el Queen Victoria, día 5
 date: 2015-05-08T12:11:48+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5454
+guid: https://blog.cortell.net/es/?p=5454
 permalink: /2015/05/08/cruce-transatlantico-en-el-queen-victoria-dia-5/
 categories:
   - General

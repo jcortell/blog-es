@@ -22,7 +22,7 @@ Nuestro [hotel](https://www.hoteldominebilbao.com/) estaba magníficamente ubica
 
 Aparte del hecho extremadamente molesto de que no permiten ningún tipo de fotografía en ninguna de las exposiciones, el Museo Guggenheim de Bilbao es decente desde el punto de vista del arte expuesto (además de parte de la colección permanente, vimos las exposiciones monográficas de Giorgio Morandi, Gerhard Richter, Jenny Holzer, Lucio Fontana y Richard Serra), incluidas las esculturas al aire libre, entre ellas mi favorita, 'Maman' de Louise Bourgeois. Pero donde el museo realmente brilla es arquitectónicamente, diseñado por el arquitecto canadiense-estadounidense Frank Gehry. Realmente impresionante.
 
-Después de un día de arte, caminamos a lo largo del estuario hasta la [Ribera Gastro Plaza](https://laribera.eus/), donde tomamos algunos pintxos, y luego por el casco antiguo, donde tomamos más pintxos en [Víctor Montes](http://www.victormontes.com/history-of-the-restaurant-victor-montes/).
+Después de un día de arte, caminamos a lo largo del estuario hasta la [Ribera Gastro Plaza](https://laribera.eus/), donde tomamos algunos pintxos, y luego por el casco antiguo, donde tomamos más pintxos en [Víctor Montes](https://www.victormontes.com/history-of-the-restaurant-victor-montes/).
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/dist/pa-embed-player.min.js" async></script>
 <div class="pa-embed-player" style="width:100%; height:480px; display:none;"

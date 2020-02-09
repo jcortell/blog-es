@@ -4,7 +4,7 @@ title: Qué hacer HOY contra patentes software (última oportunidad)
 date: 2005-07-04T07:53:45+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=63
+guid: https://www.cortell.net/?p=63
 permalink: /2005/07/04/concentracion-contra-patentes-software-hoy-en-madrid/
 categories:
   - CiberDerechos
@@ -15,19 +15,19 @@ categories:
 ---
 Me avisa Pablo:
   
-Diversas organizaciones y empresas llaman a sus socios a concentrarse ante las sedes del PSOE (c/ [Ferraz 70](http://qdqphotos.mappy.com/1/c/tbf/user=esphoto;uri=n0uWXUXXmKJH4DPDTyssLuRIjbA3bQ5FTkhsOvCYMvuwdgMeq4/nHwOThV4okg1KEnc7E9etSNs=), [mapa](http://callejero.paginasamarillas.es/flash/mapa.asp?ciudad=MADRID&x=-8080&y=2633&l1=28008,%20MADRID&l2=Calle%20Ferraz,%2070&t_act=Selecciona:&radio=500&Ops=Vacio&idCalle=2493&idioma=spa&site=callejero)) 17.30 y PP 19.00 (c/ [Génova 13](http://qdqphotos.mappy.com/1/c/tbf/user=esphoto;uri=n0uWXUXXmKJH4DPDTyssLuRIjbA3bQ5F0qYytqR316BhP4Ar8p7UFpMz1VJpzQdwanHVYsjBBJ8=), [mapa](http://callejero.paginasamarillas.es/flash/mapa.asp?ciudad=MADRID&x=-5518&y=2868&l1=28004,%20MADRID&l2=Calle%20G%E9nova,%2013&t_act=Selecciona:&radio=500&Ops=Vacio&idCalle=2825&idioma=spa&site=callejero)) para instar a sus eurodiputados votar en favor de las 21 enmiendas presentadas conjuntamente por numerosos partidos polí­-­ticos. El objetivo es el establecimiento de las
+Diversas organizaciones y empresas llaman a sus socios a concentrarse ante las sedes del PSOE (c/ [Ferraz 70](https://qdqphotos.mappy.com/1/c/tbf/user=esphoto;uri=n0uWXUXXmKJH4DPDTyssLuRIjbA3bQ5FTkhsOvCYMvuwdgMeq4/nHwOThV4okg1KEnc7E9etSNs=), [mapa](https://callejero.paginasamarillas.es/flash/mapa.asp?ciudad=MADRID&x=-8080&y=2633&l1=28008,%20MADRID&l2=Calle%20Ferraz,%2070&t_act=Selecciona:&radio=500&Ops=Vacio&idCalle=2493&idioma=spa&site=callejero)) 17.30 y PP 19.00 (c/ [Génova 13](https://qdqphotos.mappy.com/1/c/tbf/user=esphoto;uri=n0uWXUXXmKJH4DPDTyssLuRIjbA3bQ5F0qYytqR316BhP4Ar8p7UFpMz1VJpzQdwanHVYsjBBJ8=), [mapa](https://callejero.paginasamarillas.es/flash/mapa.asp?ciudad=MADRID&x=-5518&y=2868&l1=28004,%20MADRID&l2=Calle%20G%E9nova,%2013&t_act=Selecciona:&radio=500&Ops=Vacio&idCalle=2825&idioma=spa&site=callejero)) para instar a sus eurodiputados votar en favor de las 21 enmiendas presentadas conjuntamente por numerosos partidos polí­-­ticos. El objetivo es el establecimiento de las
   
 garantí­-­as contra la patentabilidad de software en la Unión Europea. Es especialmente importante, que aparezcan representantes de empresas, cuantas más mejor. Se ruega a todos aparecer con ropa formal (traje si posible). Más información:
 
-<http://www.internautas.org/html/3024.html>
+<https://www.internautas.org/html/3024.html>
   
-<http://barrapunto.com/articles/05/07/03/1041226.shtml>
+<https://barrapunto.com/articles/05/07/03/1041226.shtml>
   
-<http://barrapunto.com/softlibre/05/07/02/2322214.shtml>
+<https://barrapunto.com/softlibre/05/07/02/2322214.shtml>
 
 Además el martes 5 de julio se hará una manifestación en Estrasburgo, con autobuses que partirán desde Parí­s, Bruselas, Múnich, ímsterdam y, si se organiza suficiente gente, desde España también (Andalucí­a/Madrid/Valencia/Barcelona). Más información en:
   
-<http://noepatents.eu.org/index.php/StbDemo050604>
+<https://noepatents.eu.org/index.php/StbDemo050604>
 
 Por último reproduzco una informació que me ha enviado FFII [Nota: yo estoy EN CONTRA de las enmiendas, es ganar tiempo, pero a la larga sirven de poco. Yo me opondrí­a a las patentes de frente, haciéndoles cara, en un todo o nada, sí­ o no... pero los "expertos en polí­tica" parecen pensar que el apoyo a las enmiendas es "nuestra única oportunidad", pues cualquier otra postura es demasiado "radical". -¿Qué hay de malo en ser radical, cuando la razón, la lógica, el bien común, y los estudios independientes avalan esa postura? -¿Qué hay de malo en ser radical cuando, después de haberte informado y reflexionado, crees de todo corazón que es lo mejor y lo más justo? Puajj, asco de compromisos y mediastintas].
 
@@ -43,7 +43,7 @@ aparecer o abstenerse. Si no fueran posibles esas 21 enmiendas, lo que habrí­a
 
 * Más instrucciones sobre cómo contactar con su eurodiputado en
     
-<http://wiki.noepatents.eu.org/index.php/MEPinfo>
+<https://wiki.noepatents.eu.org/index.php/MEPinfo>
 
 * Al final de este documento encontrará una lista de eurodiputados españoles y sus números de telefón, así­ como algunas indicaciones sobre los mensajes especí­ficos que debe hacerles llegar.
 
@@ -53,11 +53,11 @@ Atentamente, Hartmut Pilch y Alberto Barrionuevo, FFII
 
 [2] 21 ENMIENDAS DE COMPROMISO auspiciadas por Buzek-Rocard-Duff
       
-<http://www.ffii.org/~rizox/21EnmiendasCompromiso.pdf>
+<https://www.ffii.org/~rizox/21EnmiendasCompromiso.pdf>
       
-<http://swpat.ffii.org/papers/europarl0309/amends05/komprom0506.en.pdf>
+<https://swpat.ffii.org/papers/europarl0309/amends05/komprom0506.en.pdf>
   
-[3] <http://swpat.ffii.org/papers/europarl0309/juri0504/ffiiepp050615.en.pdf>
+[3] <https://swpat.ffii.org/papers/europarl0309/juri0504/ffiiepp050615.en.pdf>
 
 =======================
   
@@ -135,7 +135,7 @@ CiU y PNV (liberales)
 
 Mensajes clave: por favor siga las "21 ENMIENDAS DE COMPROMISO" que están lideradas por Andrew Duff
         
-<http://www.andrewduffmep.org.uk/news/163.html>
+<https://www.andrewduffmep.org.uk/news/163.html>
   
 La lí­nea de Duff está conforme a las recomendaciones oficiales del partido liberal británico y a las de las Juventudes Liberales Europeas.
 

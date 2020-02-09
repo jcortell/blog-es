@@ -4,7 +4,7 @@ title: 'Empresas: cómo (y por qué) comprar CDs ví­rgenes sin canon'
 date: 2007-01-30T19:40:58+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/01/30/empresas-como-y-por-que-comprar-cds-virgenes-sin-canon/
+guid: https://www.cortell.net/2007/01/30/empresas-como-y-por-que-comprar-cds-virgenes-sin-canon/
 permalink: /2007/01/30/empresas-como-y-por-que-comprar-cds-virgenes-sin-canon/
 categories:
   - CiberDerechos
@@ -20,4 +20,4 @@ _Por cierto, al haberse modificado la Ley de Propiedad Intelectual, en su aparta
 
 Así­ pues, por favor, modifica el presupuesto (para que sean DVD‘s personalizados, y SIN canon) y me lo enví­as</em>."
 
-Me ha respondido que "por supuesto, oí­do cocina". Así­ que, ya sabéis, no hace falta pedirlos a <a target="_blank" title="Nierle" href="http://www.nierle.com/">Nierle</a>.
+Me ha respondido que "por supuesto, oí­do cocina". Así­ que, ya sabéis, no hace falta pedirlos a <a target="_blank" title="Nierle" href="https://www.nierle.com/">Nierle</a>.

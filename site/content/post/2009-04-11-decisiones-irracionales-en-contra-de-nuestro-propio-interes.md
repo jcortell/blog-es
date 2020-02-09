@@ -4,7 +4,7 @@ title: 'Decisiones irracionales: en contra de nuestro propio interés'
 date: 2009-04-11T10:34:03+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1773
+guid: https://cortell.net/blog/?p=1773
 permalink: /2009/04/11/decisiones-irracionales-en-contra-de-nuestro-propio-interes/
 categories:
   - ¿Por qué no? ¿Utopías?

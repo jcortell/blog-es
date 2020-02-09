@@ -4,7 +4,7 @@ title: Moneda P2P virtual ¿el fin del imperio y la opresión gubernamental?
 date: 2011-08-21T17:21:45+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3440
+guid: https://cortell.net/blog/?p=3440
 permalink: /2011/08/21/moneda-p2p-virtual-el-fin-del-imperio-y-la-opresion-gubernamental/
 wpsd_autopost:
   - "1"
@@ -30,4 +30,4 @@ El dinero el imperio lo apropia (impuestos), lo impone (intereses), o lo roba (e
 
 Pero ¿y si retomamos el control de la moneda? Ahí acaba el poder del imperio y comienza la posibilidad de autogestión, autoregulación, y libre colaboración.
 
-Esto es sólo un esbozo, un inicio, pero... bienvenidos al futuro, donde la utopía sigue viva porque no permitiremos que la maten ¿verdad campanilla?. <a title="http://www.bitcoin.org/" href="http://www.bitcoin.org/" target="_blank">BITCOIN</a>.
+Esto es sólo un esbozo, un inicio, pero... bienvenidos al futuro, donde la utopía sigue viva porque no permitiremos que la maten ¿verdad campanilla?. <a title="https://www.bitcoin.org/" href="https://www.bitcoin.org/" target="_blank">BITCOIN</a>.

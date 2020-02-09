@@ -4,7 +4,7 @@ title: Día navegando
 date: 2017-03-31T20:22:20+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=6045
+guid: https://blog.cortell.net/es/?p=6045
 permalink: /2017/03/31/dia-navegando-2/
 categories:
   - General

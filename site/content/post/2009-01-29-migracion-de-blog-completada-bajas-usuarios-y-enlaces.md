@@ -4,7 +4,7 @@ title: 'Migración de blog completada. Bajas: usuarios y enlaces'
 date: 2009-01-29T13:09:48+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1447
+guid: https://cortell.net/blog/?p=1447
 permalink: /2009/01/29/migracion-de-blog-completada-bajas-usuarios-y-enlaces/
 categories:
   - General

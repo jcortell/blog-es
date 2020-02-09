@@ -19,7 +19,7 @@ El domingo estuvimos en Toronto.
 
 El domingo fuimos a llevar a mis padres al aeropuerto de Toronto. Como su vuelo salía por la noche, decidimos pasar el día en la ciudad.
 
-Hacía frío, así que dimos una vuelta con el coche visitando los principales barrios, y paramos a comer en [Amsterdam Brew House](http://www.amsterdambeer.com/brewhouse/). 
+Hacía frío, así que dimos una vuelta con el coche visitando los principales barrios, y paramos a comer en [Amsterdam Brew House](https://www.amsterdambeer.com/brewhouse/). 
 
 Lo que más me llamó la atención es la densa bruma que apareció de repente, y cubrió hasta los edificios más grandes, y el cómo los dueños de los barcos tienen que cubrirlos completamente con plásticos para pasar el invierno. ¡Póbrecitos!
 

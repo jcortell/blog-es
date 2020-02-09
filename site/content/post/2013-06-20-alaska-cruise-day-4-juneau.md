@@ -4,7 +4,7 @@ title: 'Alaska Cruise Day 4: Juneau'
 date: 2013-06-20T17:42:15+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4760
+guid: https://cortell.net/blog/?p=4760
 permalink: /2013/06/20/alaska-cruise-day-4-juneau/
 categories:
   - General
@@ -22,7 +22,7 @@ Alrededor del medio día desembarcamos para ir de excursión al monte Robert, y 
 
 Conseguimos estar de vuelta justo a tiempo para una ducha, cambiarnos y abordar el catamarán St. Phillip para ir en un crucero en busca de ballenas jorobadas de noche. Aunque ya eran las 18:15h, el verano de Alaska recibe 18 horas de luz solar al día. El sol sale a las 4h y no se pone hasta las 22h.
 
-En las 3 horas y media que duró la expedición, el oceanógrafo australiano a bordo del catamarán nos explicó muchas cosas interesantes de las ballenas jorobadas, mientras miramos por nuestros binoculares tratando de conseguir una visión de una ballena distante. Poco podíamos esperarnos que breves minutos tras zarpar, tres ballenas empezaron a nadar junto a nosotros, y poco después, nueve ballenas formaron un anillo y se lanzaron hacie arriba, fuera del agua, al mismo tiempo, soplando burbujas de aire mientras se acercaban, atrapando a los arenques y el krill en las burbujas, empujando para arriba, y tragando a medida que surgían del agua, en lo que se llama “<a title="http://www.youtube.com/watch?feature=player_embedded&v=e3dcKzdGgcM" href="http://www.youtube.com/watch?feature=player_embedded&v=e3dcKzdGgcM" target="_blank">captura mediante red de burbujas</a>".
+En las 3 horas y media que duró la expedición, el oceanógrafo australiano a bordo del catamarán nos explicó muchas cosas interesantes de las ballenas jorobadas, mientras miramos por nuestros binoculares tratando de conseguir una visión de una ballena distante. Poco podíamos esperarnos que breves minutos tras zarpar, tres ballenas empezaron a nadar junto a nosotros, y poco después, nueve ballenas formaron un anillo y se lanzaron hacie arriba, fuera del agua, al mismo tiempo, soplando burbujas de aire mientras se acercaban, atrapando a los arenques y el krill en las burbujas, empujando para arriba, y tragando a medida que surgían del agua, en lo que se llama “<a title="https://www.youtube.com/watch?feature=player_embedded&v=e3dcKzdGgcM" href="https://www.youtube.com/watch?feature=player_embedded&v=e3dcKzdGgcM" target="_blank">captura mediante red de burbujas</a>".
 
 La emoción de todo el mundo a bordo era obvia, pues era un evento extremadamente poco común, que no mucha gente llega a ver. El oceanógrafo no podía creer lo afortunados que éramos. Pero incluso mejoró, ya que ¡lo vimos ocurrir tres veces!
 

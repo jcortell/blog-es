@@ -4,7 +4,7 @@ title: Microcréditos
 date: 2009-04-13T09:35:02+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1783
+guid: https://cortell.net/blog/?p=1783
 permalink: /2009/04/13/microcreditos/
 categories:
   - ¿Por qué no? ¿Utopías?

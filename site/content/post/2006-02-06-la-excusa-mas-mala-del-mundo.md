@@ -4,7 +4,7 @@ title: La excusa más mala del mundo
 date: 2006-02-06T12:03:13+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/02/06/la-excusa-mas-mala-del-mundo/
+guid: https://www.cortell.net/2006/02/06/la-excusa-mas-mala-del-mundo/
 permalink: /2006/02/06/la-excusa-mas-mala-del-mundo/
 categories:
   - CiberDerechos
@@ -13,7 +13,7 @@ categories:
   - Noticias
   - Rants
 ---
-No me consta que exista dicho galardón, pero de existir, "[evitar la piraterí­a](http://www.formulatv.com/1,20060205,1830,1.html)" serí­a La Excusa Más Mala del Mundo. Mala en todas sus acepciones.
+No me consta que exista dicho galardón, pero de existir, "[evitar la piraterí­a](https://www.formulatv.com/1,20060205,1830,1.html)" serí­a La Excusa Más Mala del Mundo. Mala en todas sus acepciones.
 
 Tele5 esconde sus fracasos bajo la excusa de la "piraterí­a". Ya lo intentó la Industria Disquera, y los datos demostraron que mentí­an, o que no se enteraban de lo que estaba pasando. No creo que en el caso de Tele5 no se den cuenta que una serie insulsa, que cambian de horario (a la madrugada), y cuyos capí­tulos son demasiado largos (y repiten de emisión en emisión), no tiene mucho futuro.
 

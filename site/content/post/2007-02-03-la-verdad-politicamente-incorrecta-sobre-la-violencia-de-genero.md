@@ -4,7 +4,7 @@ title: 'La verdad polí­ticamente incorrecta sobre la &quot;-¿violencia de gé
 date: 2007-02-03T18:34:56+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2007/02/03/la-verdad-politicamente-incorrecta-sobre-la-%c2%bfviolencia-de-genero/'
+guid: 'https://www.cortell.net/2007/02/03/la-verdad-politicamente-incorrecta-sobre-la-%c2%bfviolencia-de-genero/'
 permalink: /2007/02/03/la-verdad-politicamente-incorrecta-sobre-la-violencia-de-genero/
 categories:
   - ¿Por qué no? ¿Utopías?

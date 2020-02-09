@@ -4,7 +4,7 @@ title: A man falls, two walk over him
 date: 2012-01-09T20:14:27+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3744
+guid: https://cortell.net/blog/?p=3744
 permalink: /2012/01/09/a-man-falls-two-walk-over-him/
 wpsd_autopost:
   - "1"

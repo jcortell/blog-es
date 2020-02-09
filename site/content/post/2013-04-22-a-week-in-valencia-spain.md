@@ -4,7 +4,7 @@ title: A week in Valencia (Spain)
 date: 2013-04-22T22:33:39+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4672
+guid: https://cortell.net/blog/?p=4672
 permalink: /2013/04/22/a-week-in-valencia-spain/
 wpsd_autopost:
   - "1"
@@ -19,7 +19,7 @@ categories:
 
 Después de Londres y Oxford, para terminar un gran fin de semana de cumpleaños, fuimos a Valencia (España).
 
-Visitamos a familia (el verdadero propósito del viaje) y amigos incluido el estudio de <a title="http://zirotticrea.blogspot.com" href="http://zirotticrea.blogspot.com" target="_blank">Claudio Zirotti</a>, fuimos a la oficina a trabajar más de lo que queríamos, decidimos el lugar de la boda, y como siempre, comimos un montón de platos de arroz.
+Visitamos a familia (el verdadero propósito del viaje) y amigos incluido el estudio de <a title="https://zirotticrea.blogspot.com" href="https://zirotticrea.blogspot.com" target="_blank">Claudio Zirotti</a>, fuimos a la oficina a trabajar más de lo que queríamos, decidimos el lugar de la boda, y como siempre, comimos un montón de platos de arroz.
 
 La anécdota del viaje fue en la salida. Una vez en Madrid, antes de abordar el vuelo de Iberia Madrid-Nueva York, en el "control extra de seguridad" en la puerta de embarque me preguntaron si yo tenía vuelo de regreso a España.
 

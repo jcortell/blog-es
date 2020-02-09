@@ -4,7 +4,7 @@ title: Look at the data, just look at it!
 date: 2013-03-27T14:04:13+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4655
+guid: https://cortell.net/blog/?p=4655
 permalink: /2013/03/27/look-at-the-data-just-look-at-it/
 wpsd_autopost:
   - "1"
@@ -27,5 +27,5 @@ Carna botnet nos ofrece esta impresionante visualización de 24 horas del uso re
 ¡Mira los datos, míralos! ¿No ves los patrones de sueño de la gente, patrones de uso de internet, hábitos de horarios de comida, diferencias culturales, influencias urbanas, desigualdades regionales...?
 
 <p style="text-align: center">
-  <img class="aligncenter" alt="" src="http://internetcensus2012.bitbucket.org/images/geovideo.gif" width="660" height="371" />
+  <img class="aligncenter" alt="" src="https://internetcensus2012.bitbucket.org/images/geovideo.gif" width="660" height="371" />
 </p>

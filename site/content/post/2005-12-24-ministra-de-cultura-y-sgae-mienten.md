@@ -4,7 +4,7 @@ title: 'Ministra de Cultura y SGAE: MIENTEN'
 date: 2005-12-24T01:22:48+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/12/24/ministra-de-cultura-y-sgae-mienten/
+guid: https://www.cortell.net/2005/12/24/ministra-de-cultura-y-sgae-mienten/
 permalink: /2005/12/24/ministra-de-cultura-y-sgae-mienten/
 categories:
   - CiberDerechos
@@ -18,4 +18,4 @@ Esa frase idéntica la escribió Pedro Farré, de la SGAE 2 años antes, quien a
 
 Pues va a ser que sí­. Que nos mienten. Y lo saben.
 
-<http://www.faktoria-d.com/cdaway.html>
+<https://www.faktoria-d.com/cdaway.html>

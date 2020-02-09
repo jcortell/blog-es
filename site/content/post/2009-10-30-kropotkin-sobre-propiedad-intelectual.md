@@ -4,7 +4,7 @@ title: 'Kröpotkin sobre &quot;Propiedad Intelectual&quot;'
 date: 2009-10-30T11:28:48+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2279
+guid: https://cortell.net/blog/?p=2279
 permalink: /2009/10/30/kropotkin-sobre-propiedad-intelectual/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -14,7 +14,7 @@ categories:
   - Placeres de la vida
   - Sociedad y polí­tica
 ---
-Piotr Kröpotkin escibió una de sus obras cumbre, "<a title="Libro en PDF" href="http://www.quijotelibros.com.ar/anarres/Conquista%20del%20pan.pdf" target="_blank">La Conquista del Pan</a>", hace más de cien años. Pero la mayoría de sus reflexiones siguen siendo extremadamente lúcidas y actuales. Aquí van algunas frases sobre la "Propiedad Intelectual":
+Piotr Kröpotkin escibió una de sus obras cumbre, "<a title="Libro en PDF" href="https://www.quijotelibros.com.ar/anarres/Conquista%20del%20pan.pdf" target="_blank">La Conquista del Pan</a>", hace más de cien años. Pero la mayoría de sus reflexiones siguen siendo extremadamente lúcidas y actuales. Aquí van algunas frases sobre la "Propiedad Intelectual":
 
 =====================
 

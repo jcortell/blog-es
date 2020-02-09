@@ -4,7 +4,7 @@ title: Otra barbaridad desde ACAM.es y lección magistral de Bunbury
 date: 2005-06-03T07:31:49+00:00
 author: Jorge Cortell
 layout: post
-guid: http://64.246.54.67/cortell.net/2005/06/03/otra-barbaridad-desde-acames-y-leccion-magistral-de-bunbury/
+guid: https://64.246.54.67/cortell.net/2005/06/03/otra-barbaridad-desde-acames-y-leccion-magistral-de-bunbury/
 permalink: /2005/06/03/otra-barbaridad-desde-acames-y-leccion-magistral-de-bunbury/
 categories:
   - Copyfight
@@ -20,7 +20,7 @@ Coincido contigo en el último artí­culo que has escrito en tu blog, pero te h
 
 Galicia: nuevo ataque a los derechos de autor
   
-<http://www.acam.es/noticias_detalle.php?id=873>
+<https://www.acam.es/noticias_detalle.php?id=873>
 
 Me abstendré de comentar la noticia, que se comenta sola. Pero hagamos el ejercicio personal que siempre pido en estos casos: leamos entre lí­neas. Es curioso cómo la ACAM está empeñada en usar lo que yo estoy empezando a llamar "técnica Jorge Cortell". Y que consiste, ni más ni menos, en que si la información es peligrosa, hay que matar al mensajero, cómo demuestra la frase, sacada (literalmente) de dicha noticia:
 

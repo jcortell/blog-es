@@ -4,7 +4,7 @@ title: 'Comienzan el ataque personal (sobre mi curriculum): buena señal'
 date: 2005-05-23T04:17:33+00:00
 author: Jorge Cortell
 layout: post
-guid: http://64.246.54.67/cortell.net/?p=4
+guid: https://64.246.54.67/cortell.net/?p=4
 permalink: /2005/05/23/comienzan-el-ataque-personal-sobre-mi-curriculum-buena-senal/
 categories:
   - CiberDerechos

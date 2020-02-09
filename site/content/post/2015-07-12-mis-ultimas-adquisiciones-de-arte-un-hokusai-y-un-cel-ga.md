@@ -4,7 +4,7 @@ title: 'Mis últimas adquisiciones de arte: un Hokusai y un Cel-ga'
 date: 2015-07-12T09:51:10+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5565
+guid: https://blog.cortell.net/es/?p=5565
 permalink: /2015/07/12/mis-ultimas-adquisiciones-de-arte-un-hokusai-y-un-cel-ga/
 categories:
   - Arte
@@ -15,7 +15,7 @@ categories:
 ---
 El viernes adquirí dos obras de arte japonesas muy distintas.
 
-Una es muy rara y excepcional: una xilografía (madera) original **Ukiyo-e de Katsushika Hokusai** (1760-1849), (su "La Gran Ola de Kanagawa" es una de las obras de arte japonesas más famosas) titulada **“Sombra Ondulada del Monte Fuji”** de la serie “Cien Vistas del Monte Fuji, Vol. 2”, creada en 1835. La serie "<a href="http://www.degener.com/1606-2.htm" target="_blank">Cien Vistas del Monte Fuji</a>" fue expuesta en el <a href="https://www.britishmuseum.org/explore/online_tours/japan/views_of_mount_fuji/100_views_of_mount_fuji_a_sel.aspx" target="_blank">British Museum en 2001</a> y también está en la <a href="http://www.metmuseum.org/collection/the-collection-online/search/78803" target="_blank">colección del MET</a> de Nueva York.
+Una es muy rara y excepcional: una xilografía (madera) original **Ukiyo-e de Katsushika Hokusai** (1760-1849), (su "La Gran Ola de Kanagawa" es una de las obras de arte japonesas más famosas) titulada **“Sombra Ondulada del Monte Fuji”** de la serie “Cien Vistas del Monte Fuji, Vol. 2”, creada en 1835. La serie "<a href="https://www.degener.com/1606-2.htm" target="_blank">Cien Vistas del Monte Fuji</a>" fue expuesta en el <a href="https://www.britishmuseum.org/explore/online_tours/japan/views_of_mount_fuji/100_views_of_mount_fuji_a_sel.aspx" target="_blank">British Museum en 2001</a> y también está en la <a href="https://www.metmuseum.org/collection/the-collection-online/search/78803" target="_blank">colección del MET</a> de Nueva York.
 
 <img class=" aligncenter" src="https://farm1.staticflickr.com/477/19562282756_2bd31d08e4_n.jpg" alt="IMG_20150710_231431" width="320" height="240" />
 

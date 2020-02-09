@@ -4,7 +4,7 @@ title: Genial concurso
 date: 2006-03-28T07:39:45+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/03/28/genial-concurso/
+guid: https://www.cortell.net/2006/03/28/genial-concurso/
 permalink: /2006/03/28/genial-concurso/
 categories:
   - CiberDerechos
@@ -24,7 +24,7 @@ Mi amigo Mario de Ningunterra me comenta:
 
 Te proponemos este concurso para que tú también hables, para que tú des tu opinión, tu visión de las cosas
 
-Esperamos que os animéis a [enviar vuestros escritos](http://www.ningunterra.com/modules.php?name=Content&pa=showpage&pid=6).
+Esperamos que os animéis a [enviar vuestros escritos](https://www.ningunterra.com/modules.php?name=Content&pa=showpage&pid=6).
 
 ============================
 

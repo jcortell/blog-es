@@ -4,7 +4,7 @@ title: Prueba de incoherencia hipócrita
 date: 2010-11-23T10:31:06+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2735
+guid: https://cortell.net/blog/?p=2735
 permalink: /2010/11/23/prueba-de-incoherencia-hipocrita/
 categories:
   - General
@@ -13,7 +13,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-Hace unas horas, Corea del Norte y del Sur han intercambiado fuego de artillería en una de las islas fronterizas del sur, en el Mar Amarillo. Ha habido destrucción de edificios, heridos, y <a title="http://www.elpais.com/articulo/internacional/soldado/muere/ataque/Corea/Norte/isla/surcoreana/elpepuint/20101123elpepuint_8/Tes" href="http://www.elpais.com/articulo/internacional/soldado/muere/ataque/Corea/Norte/isla/surcoreana/elpepuint/20101123elpepuint_8/Tes" target="_blank">al parecer</a> un muerto. Eso, sin lugar a dudas, es _causa belli_.
+Hace unas horas, Corea del Norte y del Sur han intercambiado fuego de artillería en una de las islas fronterizas del sur, en el Mar Amarillo. Ha habido destrucción de edificios, heridos, y <a title="https://www.elpais.com/articulo/internacional/soldado/muere/ataque/Corea/Norte/isla/surcoreana/elpepuint/20101123elpepuint_8/Tes" href="https://www.elpais.com/articulo/internacional/soldado/muere/ataque/Corea/Norte/isla/surcoreana/elpepuint/20101123elpepuint_8/Tes" target="_blank">al parecer</a> un muerto. Eso, sin lugar a dudas, es _causa belli_.
 
 Si añadimos que Corea del Sur es aliada de EEUU, y "aliada importante extra OTAN" (MNNA desde 1989), y que Corea del Norte está sumisa a un régimen totalitario y no democrático, y con armas de destrucción masiva nucleares, tenemos...
 

@@ -4,7 +4,7 @@ title: 'Ironí­a: 2 noticias sobre &quot;obras culturales&quot; en el NY Times'
 date: 2007-10-14T00:35:08+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/10/14/ironia-2-noticias-sobre-creacion-en-el-ny-times/
+guid: https://www.cortell.net/2007/10/14/ironia-2-noticias-sobre-creacion-en-el-ny-times/
 permalink: /2007/10/14/ironia-2-noticias-sobre-creacion-en-el-ny-times/
 categories:
   - CiberDerechos

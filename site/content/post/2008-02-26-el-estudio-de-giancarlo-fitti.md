@@ -4,7 +4,7 @@ title: El estudio de Giancarlo Fitti
 date: 2008-02-26T18:15:53+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/02/26/el-estudio-de-giancarlo-fitti/
+guid: https://www.cortell.net/2008/02/26/el-estudio-de-giancarlo-fitti/
 permalink: /2008/02/26/el-estudio-de-giancarlo-fitti/
 categories:
   - General

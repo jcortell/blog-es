@@ -4,7 +4,7 @@ title: Dos días en Copenhague
 date: 2016-05-28T18:26:59+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5777
+guid: https://blog.cortell.net/es/?p=5777
 permalink: /2016/05/28/dos-dias-en-copenhague/
 categories:
   - General

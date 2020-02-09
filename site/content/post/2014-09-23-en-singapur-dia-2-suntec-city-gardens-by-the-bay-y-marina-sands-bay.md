@@ -4,7 +4,7 @@ title: 'En Singapur, día 2: Suntec City, Gardens by the Bay, y Marina Sands Bay
 date: 2014-09-23T04:37:27+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5292
+guid: https://blog.cortell.net/es/?p=5292
 permalink: /2014/09/23/en-singapur-dia-2-suntec-city-gardens-by-the-bay-y-marina-sands-bay/
 categories:
   - General
@@ -29,7 +29,7 @@ También hay cuatro jardines: chino, indio, malayo y colonial que rodean la 
 
 Pese a ser espectacular la primera vez que uno lo ve, es aún más espectacular si es de noche cuando te vas, y miras hacia atrás.
 
-Antes de viajar a Singapur, pregunté a un compañero expatriado en Nueva York, <a title="http://www.linkedin.com/in/inakiberenguer" href="http://www.linkedin.com/in/inakiberenguer" target="_blank ">Iñaki Berenguer</a>, que va a menudo a Singapur, para que me diese sugerencias: "Lo que no te puedes perder es subir arriba del hotel que tiene el barco en la azotea (marina sands bay) y tomar un drink mientras ves las vistas" (sic), me dijo.
+Antes de viajar a Singapur, pregunté a un compañero expatriado en Nueva York, <a title="https://www.linkedin.com/in/inakiberenguer" href="https://www.linkedin.com/in/inakiberenguer" target="_blank ">Iñaki Berenguer</a>, que va a menudo a Singapur, para que me diese sugerencias: "Lo que no te puedes perder es subir arriba del hotel que tiene el barco en la azotea (marina sands bay) y tomar un drink mientras ves las vistas" (sic), me dijo.
 
 Por obvio que parezca, tiene toda la razón. La vista es impresionante, y el ambiente no es tan turístico como uno podría imaginar. O tal vez es el hecho de que hay tantos expatriados en Singapur, que rara vez alguien parece un turista más.
 

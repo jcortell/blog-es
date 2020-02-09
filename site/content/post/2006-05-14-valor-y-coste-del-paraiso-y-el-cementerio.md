@@ -4,7 +4,7 @@ title: Valor y coste del paraí­so y el cementerio
 date: 2006-05-14T23:32:25+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/05/14/valor-y-coste-del-paraiso-y-el-cementerio/
+guid: https://www.cortell.net/2006/05/14/valor-y-coste-del-paraiso-y-el-cementerio/
 permalink: /2006/05/14/valor-y-coste-del-paraiso-y-el-cementerio/
 categories:
   - General
@@ -12,7 +12,7 @@ categories:
   - Otras cosas
   - Sociedad y polí­tica
 ---
-Impresionante. <a target="_blank" title="Matters of Scale" href="http://www.worldwatch.org/pubs/mag/2006/193/mos">Leo</a> en el apartado Matters of Scale de la revista del World Watch Institute (traduzco):
+Impresionante. <a target="_blank" title="Matters of Scale" href="https://www.worldwatch.org/pubs/mag/2006/193/mos">Leo</a> en el apartado Matters of Scale de la revista del World Watch Institute (traduzco):
 
 Coste, precio o valor promedio, en dolar EEUU por metro cuadrado, de:
 

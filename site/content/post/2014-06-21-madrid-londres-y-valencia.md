@@ -4,14 +4,14 @@ title: Madrid, Londres, y Valencia
 date: 2014-06-21T15:42:04+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5208
+guid: https://blog.cortell.net/es/?p=5208
 permalink: /2014/06/21/madrid-londres-y-valencia/
 categories:
   - General
   - Personal
   - Placeres de la vida
 ---
-Después de un fin de semana en Valencia, el lunes pasado fui a Madrid. Tras el impresionante tren de alta velocidad desde Valencia por la mañana, una presentación de negocios, y una deliciosa comida japonesa en <a title="http://www.restaurantekabuki.com/" href="http://www.restaurantekabuki.com/" target="_blank">Kabuki</a> con mis amigos Juan y Álvaro. Tan buena fue la comida y la compañía que casi perdí mi vuelo. No ayudó que me fui a la Terminal 4, como de costumbre, cuando mi vuelo a Londres partía desde la Terminal 1, y en el aeropuerto de Madrid Barajas Adolfo Suárez se necesita mucho tiempo para ir de terminal a terminal.
+Después de un fin de semana en Valencia, el lunes pasado fui a Madrid. Tras el impresionante tren de alta velocidad desde Valencia por la mañana, una presentación de negocios, y una deliciosa comida japonesa en <a title="https://www.restaurantekabuki.com/" href="https://www.restaurantekabuki.com/" target="_blank">Kabuki</a> con mis amigos Juan y Álvaro. Tan buena fue la comida y la compañía que casi perdí mi vuelo. No ayudó que me fui a la Terminal 4, como de costumbre, cuando mi vuelo a Londres partía desde la Terminal 1, y en el aeropuerto de Madrid Barajas Adolfo Suárez se necesita mucho tiempo para ir de terminal a terminal.
 
 Llegué a Londres la noche del lunes.
 

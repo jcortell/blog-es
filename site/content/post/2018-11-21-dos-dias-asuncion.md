@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-Los días 20 y 21 de noviembre fui a Asunción, Paraguay, para dar una [ponencia](http://sicompy.blogspot.com/2018/11/ii-jornada-informatica-en-salud-es.html) en [el II Congreso de Tecnología Sanitaria](https://jis.spis.org.py/) y para reunirme con el Ministro de Salud de Paraguay.
+Los días 20 y 21 de noviembre fui a Asunción, Paraguay, para dar una [ponencia](https://sicompy.blogspot.com/2018/11/ii-jornada-informatica-en-salud-es.html) en [el II Congreso de Tecnología Sanitaria](https://jis.spis.org.py/) y para reunirme con el Ministro de Salud de Paraguay.
 
 <!--more-->
 

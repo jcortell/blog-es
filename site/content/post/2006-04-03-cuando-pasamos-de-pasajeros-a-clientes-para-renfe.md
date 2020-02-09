@@ -4,7 +4,7 @@ title: '-¿Cuándo pasamos de &quot;pasajeros&quot; a &quot;clientes&quot; para 
 date: 2006-04-03T14:36:28+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2006/04/03/%c2%bfcuando-pasamos-de-pasajeros-a-clientes-para-renfe/'
+guid: 'https://www.cortell.net/2006/04/03/%c2%bfcuando-pasamos-de-pasajeros-a-clientes-para-renfe/'
 permalink: /2006/04/03/cuando-pasamos-de-pasajeros-a-clientes-para-renfe/
 categories:
   - General

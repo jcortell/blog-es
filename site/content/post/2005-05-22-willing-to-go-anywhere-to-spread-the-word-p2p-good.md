@@ -4,7 +4,7 @@ title: 'Willing to go anywhere to spread the word &quot;P2P = Good&quot;'
 date: 2005-05-22T00:13:21+00:00
 author: Jorge Cortell
 layout: post
-guid: http://64.246.54.67/cortell.net/?p=3
+guid: https://64.246.54.67/cortell.net/?p=3
 permalink: /2005/05/22/willing-to-go-anywhere-to-spread-the-word-p2p-good/
 categories:
   - CiberDerechos

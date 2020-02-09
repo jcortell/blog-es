@@ -4,7 +4,7 @@ title: Voto electrónico, ilegal en Texas
 date: 2006-04-28T14:02:25+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/04/28/voto-electronico-ilegal-en-texas/
+guid: https://www.cortell.net/2006/04/28/voto-electronico-ilegal-en-texas/
 permalink: /2006/04/28/voto-electronico-ilegal-en-texas/
 categories:
   - CiberDerechos

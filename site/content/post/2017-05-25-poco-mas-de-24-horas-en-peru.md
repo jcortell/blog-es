@@ -4,7 +4,7 @@ title: Poco más de 24 horas en Perú
 date: 2017-05-25T15:32:54+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=6093
+guid: https://blog.cortell.net/es/?p=6093
 permalink: /2017/05/25/poco-mas-de-24-horas-en-peru/
 categories:
   - General
@@ -18,7 +18,7 @@ Afortunadamente, las regulaciones de la Unión Europea exigen que las líneas a�
 
 También me hicieron reserva en el próximo vuelo ... 12 horas más tarde. Eso significaba perder mi primera cita programada con el cliente, la cual le pedí a mi distribuidor peruano que re-programara por mí.
 
-Al llegar a Lima, fui directamente a mi hotel, el  [Country Club Lima](http://www.hotelcountry.com/) , donde celebré mi primera reunión de negocios. Durante la cena. Nunca es una buena idea ir directamente a una reunión de negocios después de un vuelo de 13 horas, pero en este caso, no había elección.
+Al llegar a Lima, fui directamente a mi hotel, el  [Country Club Lima](https://www.hotelcountry.com/) , donde celebré mi primera reunión de negocios. Durante la cena. Nunca es una buena idea ir directamente a una reunión de negocios después de un vuelo de 13 horas, pero en este caso, no había elección.
 
 Me fui a la cama bastante convencido de que dormiría las muchas horas que mi cuerpo me pedía. Largas cortinas oscuras, cama perfectamente cómoda y enorme, todo tipo de almohadas para elegir ... estaba en el cielo del sueño. Pero, 6 horas más tarde, muy por delante de mi despertador, me desperté y decidí ir a trabajar. La estupenda wifi hizo que fuera un placer trabajar desde el hotel (lo cual rara vez es el caso).
 

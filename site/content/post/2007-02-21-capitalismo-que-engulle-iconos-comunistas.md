@@ -4,7 +4,7 @@ title: Capitalismo que engulle iconos comunistas
 date: 2007-02-21T19:03:50+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/02/21/capitalismo-que-engulle-iconos-comunistas/
+guid: https://www.cortell.net/2007/02/21/capitalismo-que-engulle-iconos-comunistas/
 permalink: /2007/02/21/capitalismo-que-engulle-iconos-comunistas/
 categories:
   - Filosofí­a
@@ -16,7 +16,7 @@ categories:
 ---
 Si Lenin levantara la cabeza. Claro que en la estátua que hay a la entrada del restaurante Red Square de Las Vegas, está decapitado. Está tan bien reproducida que incluso hay excrementos de pájaro (pese a estar en el interior del Madalay Bay).
 
-![Red Square restaurant](http://farm1.static.flickr.com/173/397771783_474514e844.jpg?v=0 "Red Square restaurant")
+![Red Square restaurant](https://farm1.static.flickr.com/173/397771783_474514e844.jpg?v=0 "Red Square restaurant")
 
 -¿Y qué decir del interior del restaurante? Camareras que si estuviesen en Rusia se helarí­an de lo escotaditas que van, iconos CCCP por todas partes, paredes que imitan tener mil capas de pintura y rotos, y comida de lujo.
 

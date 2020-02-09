@@ -4,7 +4,7 @@ title: 'El "famoso" VC valenciano'
 date: 2016-11-28T14:25:18+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5967
+guid: https://blog.cortell.net/es/?p=5967
 permalink: /2016/11/28/el-famoso-vc-valenciano/
 categories:
   - General
@@ -14,7 +14,7 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-Adam Gilfix, Brian de Luna, y Luke Heine, con la ayuda de Dealroom.co, han creado una [herramienta de visualización de datos de flujos de Venture Capital (VC)](http://venturecapitalflows.com/eu/) muy interesante.
+Adam Gilfix, Brian de Luna, y Luke Heine, con la ayuda de Dealroom.co, han creado una [herramienta de visualización de datos de flujos de Venture Capital (VC)](https://venturecapitalflows.com/eu/) muy interesante.
 
 Conozco de primera mano la actividad VC en lugares como Silicon Valley, NY, Boston, o Londres y sé que es intensa. Pero incluso cuando regreso a Valencia (España) de vacaciones, veo por todas partes "VC": eventos, reuniones, competiciones, noticias... lo que dado el caracter conservador y provinciano de los "Inversores Valencianos" que he conocido, me sorprende.
 
@@ -22,7 +22,7 @@ Así que he decidido comprobar los flujos VC de Valencia (España). Como era 
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="WGgCChj">
   <p>
-    <a href="http://imgur.com/WGgCChj">View post on imgur.com</a>
+    <a href="https://imgur.com/WGgCChj">View post on imgur.com</a>
   </p>
 </blockquote>
 
@@ -30,7 +30,7 @@ Así que he decidido comprobar los flujos VC de Valencia (España). Como era 
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="EmGeclk">
   <p>
-    <a href="http://imgur.com/EmGeclk">View post on imgur.com</a>
+    <a href="https://imgur.com/EmGeclk">View post on imgur.com</a>
   </p>
 </blockquote>
 
@@ -38,7 +38,7 @@ Así que he decidido comprobar los flujos VC de Valencia (España). Como era 
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="QbRvZvU">
   <p>
-    <a href="http://imgur.com/QbRvZvU">View post on imgur.com</a>
+    <a href="https://imgur.com/QbRvZvU">View post on imgur.com</a>
   </p>
 </blockquote>
 

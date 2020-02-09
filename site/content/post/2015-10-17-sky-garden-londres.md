@@ -4,7 +4,7 @@ title: Sky Garden, Londres
 date: 2015-10-17T22:19:06+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5618
+guid: https://blog.cortell.net/es/?p=5618
 permalink: /2015/10/17/sky-garden-londres/
 categories:
   - General

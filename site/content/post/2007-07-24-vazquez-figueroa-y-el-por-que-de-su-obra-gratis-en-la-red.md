@@ -4,7 +4,7 @@ title: Vázquez Figueroa y el por qué de su obra gratis en la red
 date: 2007-07-24T11:59:31+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/07/24/vazquez-figueroa-y-el-por-que-de-su-obra-gratis-en-la-red/
+guid: https://www.cortell.net/2007/07/24/vazquez-figueroa-y-el-por-que-de-su-obra-gratis-en-la-red/
 permalink: /2007/07/24/vazquez-figueroa-y-el-por-que-de-su-obra-gratis-en-la-red/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -17,7 +17,7 @@ categories:
 ---
 Me quito el sombrero.
 
-Un pedazo de escritor, como Vázquez Figueroa, ha decidido poner sus obras gratuí­tamente en la red a partir de ahora (gracias por el aviso, Iván). Y lo mejor es que explica por qué. Cito parte de su razonamiento (<a title="Blog de Vazquez Figueroa" target="_blank" href="http://vazquezfigueroa.blog.com/1940255/">merece la pena leerlo entero, de verdad</a>):
+Un pedazo de escritor, como Vázquez Figueroa, ha decidido poner sus obras gratuí­tamente en la red a partir de ahora (gracias por el aviso, Iván). Y lo mejor es que explica por qué. Cito parte de su razonamiento (<a title="Blog de Vazquez Figueroa" target="_blank" href="https://vazquezfigueroa.blog.com/1940255/">merece la pena leerlo entero, de verdad</a>):
 
        _A partir de ahora mis novelas se editarán simultáneamente en edición â€œcaraâ€, de las llamadas â€œde tapa duraâ€, en edición de bolsillo a mitad de precio, podrán descargarse gratuitamente en â€œInternetâ€ y todos los periódicos o revistas que lo deseen están autorizados a publicarlas al estilo de las antiguas novelas por entregas con la diferencia que en este caso no tendrán obligación de pagarme nada en concepto de derechos de autor._
 

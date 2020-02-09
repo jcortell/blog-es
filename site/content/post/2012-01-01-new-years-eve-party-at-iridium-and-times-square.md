@@ -4,7 +4,7 @@ title: New Years Eve party at Iridium and Times Square
 date: 2012-01-01T02:53:34+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3718
+guid: https://cortell.net/blog/?p=3718
 permalink: /2012/01/01/new-years-eve-party-at-iridium-and-times-square/
 wpsd_autopost:
   - "1"
@@ -15,7 +15,7 @@ categories:
   - Personal
   - Placeres de la vida
 ---
-Por supuesto, el primer año viviendo en Nueva York, la fiesta de noche vieja TENÍA que incluir una peregrinación a Times Square. Y ya que teníamos entradas para el <a title="http://theiridium.com/events/527/new-years-eve-w-the-mike-stern-band-featuring-randy-brecker-john-patitucci-dave-weckl/" href="http://theiridium.com/events/527/new-years-eve-w-the-mike-stern-band-featuring-randy-brecker-john-patitucci-dave-weckl/" target="_blank">concierto</a> de Iridium (Mike Stern Band con Randy Brecker, John Patitucci y Dave Weckl), aprovechamos para probar esa peregrinación cogiendo en metro a la 42nd/Times Square (ya que la policía había cerrado la estación de la 50th)... ¡¡y vaya que la probamos!!
+Por supuesto, el primer año viviendo en Nueva York, la fiesta de noche vieja TENÍA que incluir una peregrinación a Times Square. Y ya que teníamos entradas para el <a title="https://theiridium.com/events/527/new-years-eve-w-the-mike-stern-band-featuring-randy-brecker-john-patitucci-dave-weckl/" href="https://theiridium.com/events/527/new-years-eve-w-the-mike-stern-band-featuring-randy-brecker-john-patitucci-dave-weckl/" target="_blank">concierto</a> de Iridium (Mike Stern Band con Randy Brecker, John Patitucci y Dave Weckl), aprovechamos para probar esa peregrinación cogiendo en metro a la 42nd/Times Square (ya que la policía había cerrado la estación de la 50th)... ¡¡y vaya que la probamos!!
 
 La intersección Broadway/42nd estaba increíblemente llena (un millón de personas en la zona). Las 21:30 y nos costó más de media hora cruzar esa esquina, siendo empujados, apretados, pisoteados... ¿Lo peor?: ver padres irresponsables (o completamente ignorantes) con sus bebés y carritos intentando cruzar por ahí.
 

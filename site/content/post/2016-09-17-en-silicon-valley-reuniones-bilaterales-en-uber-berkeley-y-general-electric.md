@@ -4,7 +4,7 @@ title: En Silicon Valley, reuniones bilaterales en Uber, Berkeley y General Elec
 date: 2016-09-17T21:50:41+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5900
+guid: https://blog.cortell.net/es/?p=5900
 permalink: /2016/09/17/en-silicon-valley-reuniones-bilaterales-en-uber-berkeley-y-general-electric/
 categories:
   - Geek Fun

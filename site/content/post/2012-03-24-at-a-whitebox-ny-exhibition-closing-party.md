@@ -4,7 +4,7 @@ title: At a WhiteBox NY exhibition closing party
 date: 2012-03-24T15:21:31+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3949
+guid: https://cortell.net/blog/?p=3949
 permalink: /2012/03/24/at-a-whitebox-ny-exhibition-closing-party/
 wpsd_autopost:
   - "1"
@@ -18,13 +18,13 @@ categories:
   - Personal
   - Placeres de la vida
 ---
-<img class="aligncenter" title="Mookie Tenembaum Endgame" src="http://mookie-tenembaum.com/imagenes/endgame/03.jpg" alt="" width="492" height="369" />
+<img class="aligncenter" title="Mookie Tenembaum Endgame" src="https://mookie-tenembaum.com/imagenes/endgame/03.jpg" alt="" width="492" height="369" />
 
 Ayer fui a la fiesta de clausura de exposición de WhiteBox. La invitación decía:
 
-> El autor y curador <a title="http://raulzamudio.blogspot.com/" href="http://raulzamudio.blogspot.com/" target="_blank">Raul Zamudio</a> en conversación con <a title="http://mookie-tenembaum.com/" href="http://mookie-tenembaum.com/" target="_blank">Mookie Tenembaum</a>.
+> El autor y curador <a title="https://raulzamudio.blogspot.com/" href="https://raulzamudio.blogspot.com/" target="_blank">Raul Zamudio</a> en conversación con <a title="https://mookie-tenembaum.com/" href="https://mookie-tenembaum.com/" target="_blank">Mookie Tenembaum</a>.
 > 
-> Por favor únase a nosotros en <a title="http://www.whiteboxny.org/" href="http://www.whiteboxny.org/" target="_blank">White Box</a> para la recepción de clausura de DISILLUSIONISM, y para participar en una estimulante conversación entre Raul Zamudio y Mookie Tenembaum a las 8pm en punto. Mookie presentará su nuevo libro de artista, Paranoia. Se servirá vino Malbec y trufas.
+> Por favor únase a nosotros en <a title="https://www.whiteboxny.org/" href="https://www.whiteboxny.org/" target="_blank">White Box</a> para la recepción de clausura de DISILLUSIONISM, y para participar en una estimulante conversación entre Raul Zamudio y Mookie Tenembaum a las 8pm en punto. Mookie presentará su nuevo libro de artista, Paranoia. Se servirá vino Malbec y trufas.
 
 Aunque agradezco la invitación y definitivamente fue un evento interesante, algunas cosas piden a gritos que las comente. Aquí van algunas curiosidades del evento:
 

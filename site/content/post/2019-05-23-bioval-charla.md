@@ -18,9 +18,9 @@ El pasado jueves participé como miembro de una mesa redonda en la jornada “In
 
 <!--more-->
 
-El evento, [5ª edición TIC Salud](http://www.bioval.org/blog/2019/05/23/5a-edicion-tic-salud-inteligencia-artificial-y-big-data-la-medicina-de-los-datos/), estuvo organizado por el Centro Europeo de Empresas Innovadoras de Valencia (CEEI), el Cluster Bio de la Comunidad Valenciana (BIOVAL) y el Instituto de Tecnología e Informática (ITI), junto con la Generalitat Valenciana (GVA).
+El evento, [5ª edición TIC Salud](https://www.bioval.org/blog/2019/05/23/5a-edicion-tic-salud-inteligencia-artificial-y-big-data-la-medicina-de-los-datos/), estuvo organizado por el Centro Europeo de Empresas Innovadoras de Valencia (CEEI), el Cluster Bio de la Comunidad Valenciana (BIOVAL) y el Instituto de Tecnología e Informática (ITI), junto con la Generalitat Valenciana (GVA).
 
-[Resumen](http://www.emprenemjunts.es/index.php?op=8&n=18904).
+[Resumen](https://www.emprenemjunts.es/index.php?op=8&n=18904).
 
 Cobertura:
 

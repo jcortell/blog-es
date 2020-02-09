@@ -4,7 +4,7 @@ title: Barbaridades sobre el canon
 date: 2007-02-05T14:01:52+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/02/05/barbaridades-sobre-el-canon/
+guid: https://www.cortell.net/2007/02/05/barbaridades-sobre-el-canon/
 permalink: /2007/02/05/barbaridades-sobre-el-canon/
 categories:
   - CiberDerechos
@@ -14,7 +14,7 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-Rafael Sánchez, director de copia privada de EGEDA (últimamente parece que SGAE ha aprendido a repartir juego, a no monopolizar el "papel de malo", y se ve que ha llegado a un acuerdo con las otras suciedades de gestión para que metan la pata ellas también, porque se ve que les da miedo que se hable de los 24‘6 millones de euros que han recaudado en 2006), en una entrevista publicada en el diario Expansión el martes 23 de enero, dice las siguientes barbaridades sobre <a target="_blank" title="Sgaecontratraxtore" href="http://www.sgaecontratraxtore.com/01ed1b98cb0b5ed01.html">el canon digital</a> (para intentar defender lo indefendible):
+Rafael Sánchez, director de copia privada de EGEDA (últimamente parece que SGAE ha aprendido a repartir juego, a no monopolizar el "papel de malo", y se ve que ha llegado a un acuerdo con las otras suciedades de gestión para que metan la pata ellas también, porque se ve que les da miedo que se hable de los 24‘6 millones de euros que han recaudado en 2006), en una entrevista publicada en el diario Expansión el martes 23 de enero, dice las siguientes barbaridades sobre <a target="_blank" title="Sgaecontratraxtore" href="https://www.sgaecontratraxtore.com/01ed1b98cb0b5ed01.html">el canon digital</a> (para intentar defender lo indefendible):
 
 – Al comentario del entrevistador de que se compensan soportes o equipos aun cuando no se utilizan para copiar contenidos protegidos. "_Cuando un comprador adquiere un soporte es imposible saber el uso que se le va a dar [...]. El otro sistema serí­a que al comprar el soporte se le preguntara al consumidor qué uso se le va a dar. Obviamente es inviable_"
 

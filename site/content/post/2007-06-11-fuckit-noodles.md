@@ -4,7 +4,7 @@ title: FuckIt noodles
 date: 2007-06-11T17:00:45+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/06/11/fuckit-noodles/
+guid: https://www.cortell.net/2007/06/11/fuckit-noodles/
 permalink: /2007/06/11/fuckit-noodles/
 categories:
   - General
@@ -12,7 +12,7 @@ categories:
   - Otras cosas
   - Placeres de la vida
 ---
-Anoche me reí­ un buen rato con el nombre de un plato y la camiseta de un camarero en el restaurante <a target="_blank" title="Chino Latino" href="http://www.chinolatino.com/">Chino Latino</a> de Minneapolis.
+Anoche me reí­ un buen rato con el nombre de un plato y la camiseta de un camarero en el restaurante <a target="_blank" title="Chino Latino" href="https://www.chinolatino.com/">Chino Latino</a> de Minneapolis.
 
 El plato eran los "Phuket Noodles". Cualquiera que sea bueno en geografí­a (o que le guste emplear Google o Wikipedia) sabrá que Phuket es una espectacular área del sur oste de Tailandia, con unas playas paradisí­acas. Pero claro, ahí­ está el idioma para causar malos entendidos y chistes divertidos.
 

@@ -4,7 +4,7 @@ title: Apuntes desde Bogotá y 4
 date: 2009-05-19T15:50:55+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1920
+guid: https://cortell.net/blog/?p=1920
 permalink: /2009/05/19/apuntes-desde-bogota-y-4/
 categories:
   - General
@@ -20,6 +20,6 @@ No pensaba escribir otra entrada con anécdotas de este viaje, pero me han suced
 
 Ahora sólo espero que la salida del vuelo, anunciada con retraso de 40 minutos, no me haga perder la conexión (no creo, en vuelos tan largos al piloto le es sencillo recuperar ese tiempo). Nos vemos en España.
 
-<img class="aligncenter" title="sombrer de fibra fino y ala corta" src="http://www.ceba.com.co/images/prince.jpg" alt="" width="106" height="87" />
+<img class="aligncenter" title="sombrer de fibra fino y ala corta" src="https://www.ceba.com.co/images/prince.jpg" alt="" width="106" height="87" />
 
 Por cierto, me he comprado un sombrero de fibra fino de ala corta. ¿Guiri, chulapo, hortera, vacilón...? Lo que sea, pero protege la calva del sol abrasador de Bogotá.

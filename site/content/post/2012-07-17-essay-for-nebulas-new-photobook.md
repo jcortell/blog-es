@@ -4,7 +4,7 @@ title: 'Essay for Nebula‘s new photobook'
 date: 2012-07-17T13:34:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4216
+guid: https://cortell.net/blog/?p=4216
 permalink: /2012/07/17/essay-for-nebulas-new-photobook/
 wpsd_autopost:
   - "1"
@@ -21,7 +21,7 @@ categories:
 ---
 He contribuído un ensayo al libro (PDF disponible gratuitamente online y para compra en papel en breve -adjuntas algunas imágenes de muestra-) de una exposición que estoy organizando. "_Mirada, Reflexión, Fusión_" es resultado de tres años de trabajo altamente poético pero cargado políticamente de una de las más interesantes nuevas fotógrafas en la escena del arte de Nueva York: _NÉBULA_.
 
-<img class="aligncenter" title="1430" src="http://farm8.staticflickr.com/7096/7246414172_028f5138b4.jpg" alt="" width="500" height="334" />
+<img class="aligncenter" title="1430" src="https://farm8.staticflickr.com/7096/7246414172_028f5138b4.jpg" alt="" width="500" height="334" />
 
 De Tokio a San Francisco, Madrid a Seoul, la fotógrafa española _Nébula_ ha viajado a diez ciudades en cuatro países para encontrar inspiración e imágenes adecuadas (a veces un fugaz reflejo de las mismas) y dar así forma a lo que ella siente sobre el arte, la identidad, el apropriacionismo, feminismo, y psicoanálisis.
 
@@ -29,21 +29,21 @@ En la tradición de la sensibilidad especial de Francesca Goodman y la habilidad
 
 Pero al contrario de la aparente indiferencia de Sherman a la teoría – lo cual, como Laura Mulvey señaló, no evita que su arte tenga un gran significado teórico – el trabajo de Nébula está firmemente enraizado en una base teórica y filosófica.
 
-<img class="aligncenter" title="3883" src="http://farm8.staticflickr.com/7231/7246434896_1c546b17a3.jpg" alt="" width="500" height="353" />
+<img class="aligncenter" title="3883" src="https://farm8.staticflickr.com/7231/7246434896_1c546b17a3.jpg" alt="" width="500" height="353" />
 
 “**Mirada**” nace del obsesivo tema de la mirada en la pintura a partir del siglo XVII, que va de la representación a introducir al espectador en la imagen, el nuevo paradigma que introdujo Manet en _El Ferrocarril_. Pero la mirada de Nébula va más allá, explorando el concepto de mirada de Sartre como el campo de batalla en el que el yo se define y redefine a sí mismo, una relación, con su derivada pérdida de autonomía, no algo que puede ejercer. La mirada es parte de un deseo de completarse uno mismo a través del otro. Interesantemente, aquí, como ocurre tan a menudo en el arte, tenemos a Nébula, una mujer, reflexionando sobre la ineludibilidad de la mirada masculina e incluso escopofilia, como Mulvey lo hubiese descrito. Pero lo lleva mucho más allá, como veremos más adelante, sin la necesidad de la dialéctica polarizada de Bracha Ettinger.
 
-<img class="aligncenter" title="3447" src="http://farm8.staticflickr.com/7235/7246432220_a7e7168562.jpg" alt="" width="500" height="317" />
+<img class="aligncenter" title="3447" src="https://farm8.staticflickr.com/7235/7246432220_a7e7168562.jpg" alt="" width="500" height="317" />
 
 Al igual que en “_Una Mirada oblicua_” de Robert Doisneau, la mirada es mostrada, al principio, para ser denunciada. Pero esa misma denuncia sirve también como un primer paso. Incluso dentro de la aparentemente simple mirada, Nébula nos hace considerar la mirada del espectador, la mirada intra y extra-diegética, y la mirada de la cámara. Por supuesto, todo esto es publicado con otra: la mirada editorial. Es el _Blick aus den Bilde_ de Alfred Neumeier, o la mirada dentro de la imagen.
 
-<img class="aligncenter" title="3733" src="http://farm8.staticflickr.com/7073/7246433186_d5d2b43ab0.jpg" alt="" width="361" height="500" />
+<img class="aligncenter" title="3733" src="https://farm8.staticflickr.com/7073/7246433186_d5d2b43ab0.jpg" alt="" width="361" height="500" />
 
 “**Reflexión**” nos lleva en un _tour de force_ a través de la epistemología, asimilando y sacudiendo siglos de debates y preconcepciones, y nos dispara directamente hacia lo que parece una paradoja. Las imágenes de Nébula transmiten visiones tanto endógenas como exógenas, lo que puede parecer llevarnos a una visión constructivista del conocimiento. Pero no es así. Considerando el “estadio del espejo” de Jacques Lacan como dialéctica, el aparente monólogo del reflejo sin fin se convierte en un mero pasatiempo, incluso una trampa para el observador incauto que no consiga superar este simbólico _fort-da_ Freudiano.
 
 En esta dialéctica del sujeto en términos de “ausencia” no debemos encontrar la falta de adecuación en comparación con el yo ideal, todo lo contrario, “ausencia” puede leerse como una oportunidad de regresar a una forma más lúdica de conseguir la plenitud, como nos propone Norman O. Brown siguiendo el postulado de Nietzsche, personificando el _koan_ Zen del vacío de la taza de té en el infantilismo del _paiz paizon_. Así, es con la inclusión de **“Fusión”** que entendemos que se trata de una indagación en el Zen. Cuando la mirada es reflejada, aparece la fusión, aconteciendo un País de las Maravillas en el que el sujeto sujetando la cámara es visto en el objeto o escena, capturando el encuentro mágico que lleva a la comprensión de que el _ideal_, lo sublime y sublimado, forman todos parte de un solo Aquí y Ahora.
 
-<img class="aligncenter" title="IMG_3574" src="http://farm8.staticflickr.com/7211/7246409058_51c579bd63.jpg" alt="" width="500" height="442" />
+<img class="aligncenter" title="IMG_3574" src="https://farm8.staticflickr.com/7211/7246409058_51c579bd63.jpg" alt="" width="500" height="442" />
 
 Pero aunque la mirada parece que nos lleva a lo singular – que es “una perfección que siempre está en progreso, pero que no admite progresión de una entelequia a otra” como dice Christopher Kul-Want – en la reflexión, es reflexionando sobre el reflejo que alcanzamos la liberadora y unificadora comunión de la fusión.
 

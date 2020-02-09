@@ -4,7 +4,7 @@ title: Conagra, o el silencioso peligro de la concentración
 date: 2006-06-19T07:58:51+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/06/19/conagra-o-el-silencioso-peligro-de-la-concentracion/
+guid: https://www.cortell.net/2006/06/19/conagra-o-el-silencioso-peligro-de-la-concentracion/
 permalink: /2006/06/19/conagra-o-el-silencioso-peligro-de-la-concentracion/
 categories:
   - General

@@ -24,8 +24,8 @@ Nos encanta Vancouver. Es una ciudad hermosa, con gente estupenda y increíble c
 Por suerte, el lunes, el día que salimos, no llovió.
 
 Deliciosa comida que probamos:
-- [Nero Belgian Waffle Bar](http://www.nerowafflebar.com/)
-- [New Town Bakery & Restaurant](http://newtownbakery.ca/)
+- [Nero Belgian Waffle Bar](https://www.nerowafflebar.com/)
+- [New Town Bakery & Restaurant](https://newtownbakery.ca/)
 - [Sushi Itoga](https://www.itoga.com/)
 - Incluso de vuelta en el aeropuerto de Toronto, [Red Rocket 192 Grill](https://www.torontopearson.com/Components/Templates/Retailer.aspx?retailerid=3233#)
 

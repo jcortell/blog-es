@@ -4,7 +4,7 @@ title: Varias noticias que enfurecen
 date: 2005-10-04T18:05:36+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/10/04/varias-noticias-que-enfurecen/
+guid: https://www.cortell.net/2005/10/04/varias-noticias-que-enfurecen/
 permalink: /2005/10/04/varias-noticias-que-enfurecen/
 categories:
   - General
@@ -17,13 +17,13 @@ A veces parece que las noticias no se refieran al mundo en que vivimos. Y a vece
 
 Parece ser que la miseria humana no tiene lí­mites. Y no me refiero a la que sufren millones de personas en todo el planeta, o a las ví­ctimas de catástrofes naturales. Me refiero a la miseria moral y ética que demuestran indiví­duos como los que nos presenta TheSmokingGun.
 
-Ya fue indignante leer sobre el caso de [estos](http://www.thesmokinggun.com/graphics/art3/vicknairehrenberg.jpg) dos abogados de Louisiana que pretendieron [registrar](http://www.thesmokinggun.com/graphics/art3/0920051katrina4.gif) la [marca](http://www.thesmokinggun.com/graphics/art3/0920051inside1.gif) Katrina para la producción de bebidas alcohólicas el 4 de septiembre (sólo 6 dí­as después de que el huracán causase más de mil ví­ctimas). Las propias oficinas de estos abogados en Metarie, Louisiana, se vieron afectadas por el huracán. En dichas oficinas a parte de ejercer la abogací­a, uno de ellos (Ehrenberg) es quiropráctico.
+Ya fue indignante leer sobre el caso de [estos](https://www.thesmokinggun.com/graphics/art3/vicknairehrenberg.jpg) dos abogados de Louisiana que pretendieron [registrar](https://www.thesmokinggun.com/graphics/art3/0920051katrina4.gif) la [marca](https://www.thesmokinggun.com/graphics/art3/0920051inside1.gif) Katrina para la producción de bebidas alcohólicas el 4 de septiembre (sólo 6 dí­as después de que el huracán causase más de mil ví­ctimas). Las propias oficinas de estos abogados en Metarie, Louisiana, se vieron afectadas por el huracán. En dichas oficinas a parte de ejercer la abogací­a, uno de ellos (Ehrenberg) es quiropráctico.
 
 -¿Cómo es posible que gente así­ pueda ser abogado, que se supone un instrumento imprescindible en la administración de la Justicia? Me da igual que se graduasen en Loyola University, y que aprobasen todos los exámenes y controles Bar. Son dos buitres que se aprovechan de la desgracia de los demás.
 
 Pero para colmo, hay otro buitre, y su caso es ya casi cómico.
 
-El 21 de septiembre un [empresario](http://www.thesmokinggun.com/graphics/art3/0930053inside1.jpg) de Louisiana intentó [registrar](http://www.thesmokinggun.com/graphics/art3/0930053katrina4.gif) la marca Katrina también. Y también para producto alcohólicos.
+El 21 de septiembre un [empresario](https://www.thesmokinggun.com/graphics/art3/0930053inside1.jpg) de Louisiana intentó [registrar](https://www.thesmokinggun.com/graphics/art3/0930053katrina4.gif) la marca Katrina también. Y también para producto alcohólicos.
 
 [Trivia: -¿por qué productos alcohólicos? Porque en Louisiana hay un cocktail famoso llamado "el huracán"]
 
@@ -39,7 +39,7 @@ Consumismo ciego, concentración de poder y económica, monopolios artificiales 
 
 Si hay algo en este mundo con lo que no soy tolerante es con la violencia, el abuso, la injusticia... y si eso se aplica a los niños, entonces sí­ hecho humo por las orejas.
 
-Parece ser que determinados grupos de narcotraficantes están "adornando" o "marcando" sus enví­os de droga con imágenes infantiles (como [esta](http://www.thesmokinggun.com/graphics/art3/0929052dea1.jpg) de los Teletubbies). [Humor mode on] A parte de que uno pueda pensar que Tinky-Winky está lleno de referencias a la comunidad homosexual, o que Laa-Laa parece que "se haya tomado algo" [humor mode off] lo cierto es que es ruí­n y muestra una bajeza sin lí­mites el adornar la drogan con imágenes infantiles (o el estampar las pastillas con iconos de naturaleza infantil, como [este](http://www.thesmokinggun.com/graphics/art2/hpotter1.jpg) de Harry Potter). -¿Quieren decorar su "mercancí­a"? que le pongan [esta](http://www.thesmokinggun.com/graphics/art/binladen_heroin.jpg) imagen, que por lo menos junta dos males en uno.
+Parece ser que determinados grupos de narcotraficantes están "adornando" o "marcando" sus enví­os de droga con imágenes infantiles (como [esta](https://www.thesmokinggun.com/graphics/art3/0929052dea1.jpg) de los Teletubbies). [Humor mode on] A parte de que uno pueda pensar que Tinky-Winky está lleno de referencias a la comunidad homosexual, o que Laa-Laa parece que "se haya tomado algo" [humor mode off] lo cierto es que es ruí­n y muestra una bajeza sin lí­mites el adornar la drogan con imágenes infantiles (o el estampar las pastillas con iconos de naturaleza infantil, como [este](https://www.thesmokinggun.com/graphics/art2/hpotter1.jpg) de Harry Potter). -¿Quieren decorar su "mercancí­a"? que le pongan [esta](https://www.thesmokinggun.com/graphics/art/binladen_heroin.jpg) imagen, que por lo menos junta dos males en uno.
 
 La droga es una lastra, un mal a erradicar. Está claro que "la guerra a las drogas" que libra EEUU es un error que cuesta más vidas, corrupción y abusos que otra cosa. Está claro que la polí­tica meramente persecutoria lo único que consigue es incrementar cada dí­a más la población carcelaria, que ya está más que saturada en casi todos los paí­ses, significando una lastra económica y social impermisible para el resto de ciudadanos. Está claro que hay polí­ticas alternativas (educación, comunicación, involucración social, fomento de alternativas lúdicas, fortalecimiento de valores alternativos, eliminación de valores supérfluos y dañinos como el consumismo, la alienación y la ostentación que parecen haber permeado nuestra sociedad, etc) que merecen la pena y no son destructivas ni represivas. Pero claro, eso implicarí­a una revisión del sistema completo, y una reducción de la represión. Implicarí­a un autoanálisis, y una crí­tica. Y eso el sistema no lo quiere aceptar. Con su arrogancia y su endogamia el sistema que todos estamos alimentando acabará consumiéndonos en una demostración de justicia natural.
 
@@ -61,7 +61,7 @@ Muy sencillo: porque todos necesitamos "pertenecer" y nos creamos ví­nculos em
 
 Incluso aquella asociaciones que muestran afinidades (como el seguir tal o cual secta, perdón, religión, o pertenecer a tal o cual asociación, o haber estudiado tal o cual carrera) no son suficientes para explicar los ví­nculos emocionales que muchas veces se derivan de ellas.
 
-El problema de esta racionalización es que nos lleva a cuestionarnos instituciones que muchos no quieren que sean cuestionadas. Y no hablo de los equipos de fútbol. Hablo de la "patria". -¿Y qué que compartamos administración general, idioma, cultura, o terreno? -¿Dónde marcamos la lí­nea, en los Pirineos, en la vaya de Ceuta, en el rí­o más próximo, en tu calle, en tu finca, en tu casa, en tu cuarto (los japoneses llaman a esto [Hikikomori](http://www.bahx.com/hikikomori.html)...?
+El problema de esta racionalización es que nos lleva a cuestionarnos instituciones que muchos no quieren que sean cuestionadas. Y no hablo de los equipos de fútbol. Hablo de la "patria". -¿Y qué que compartamos administración general, idioma, cultura, o terreno? -¿Dónde marcamos la lí­nea, en los Pirineos, en la vaya de Ceuta, en el rí­o más próximo, en tu calle, en tu finca, en tu casa, en tu cuarto (los japoneses llaman a esto [Hikikomori](https://www.bahx.com/hikikomori.html)...?
 
 Me alegro por Alonso, pero también por Rossi, y por Sete... y por todos los que disfrutan haciendo deporte (y si encima ganan mucho dinero me alegro más por ellos). Pero entregar pasiones y emociones a "una causa común" tan vací­a como esa es muy triste. Todos necesitamos un escape, un ocio. Es estupendo ver deporte por la tele, tomar partido, alegrarse... pero esas muestras de desesperación o euforia que se viven en los estadios o en los conciertos, alentadas por la mitomaní­a que da de comer a muchos medios de comunicación me parece extremadamente peligroso. Alienación. Antes era la religión, luego la tele, ahora los mitos. Y no son mitos por méritos altamente admirables (como los logros cientí­ficos), sino por hazañas deportivas, o peor aún, por haberse acostado con la estrella de turno (o incluso ser el primo del que se acostó con una ex-estrella del cine).
 

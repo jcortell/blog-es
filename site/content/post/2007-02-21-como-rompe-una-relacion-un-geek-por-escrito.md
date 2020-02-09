@@ -4,7 +4,7 @@ title: Cómo rompe una relación un geek por escrito (breve)
 date: 2007-02-21T00:08:57+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/02/21/como-rompe-una-relacion-un-geek-por-escrito/
+guid: https://www.cortell.net/2007/02/21/como-rompe-una-relacion-un-geek-por-escrito/
 permalink: /2007/02/21/como-rompe-una-relacion-un-geek-por-escrito/
 categories:
   - Geek Fun

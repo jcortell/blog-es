@@ -4,7 +4,7 @@ title: código en verso
 date: 2010-07-22T18:03:03+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2541
+guid: https://cortell.net/blog/?p=2541
 permalink: /2010/07/22/codigo-en-verso/
 categories:
   - ¿Por qué no? ¿Utopías?

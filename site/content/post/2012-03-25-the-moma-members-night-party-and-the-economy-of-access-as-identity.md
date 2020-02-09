@@ -4,7 +4,7 @@ title: The MoMA members night party and the economy of access as identity
 date: 2012-03-25T11:18:01+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3965
+guid: https://cortell.net/blog/?p=3965
 permalink: /2012/03/25/the-moma-members-night-party-and-the-economy-of-access-as-identity/
 wpsd_autopost:
   - "1"

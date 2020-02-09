@@ -4,7 +4,7 @@ title: Comentarios a raí­z de la entrevista realizada a la Ministra de Cultura
 date: 2005-06-10T10:36:15+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/06/10/comentarios-a-raiz-de-la-entrevista-realizada-a-la-ministra-de-cultura/
+guid: https://www.cortell.net/2005/06/10/comentarios-a-raiz-de-la-entrevista-realizada-a-la-ministra-de-cultura/
 permalink: /2005/06/10/comentarios-a-raiz-de-la-entrevista-realizada-a-la-ministra-de-cultura/
 categories:
   - CiberDerechos
@@ -13,7 +13,7 @@ categories:
   - Noticias
   - Rants
 ---
-Comentarios a raí­z de la [entrevista](http://www.elmundo.es/encuentros/invitados/2005/06/1594/index.html) realizada a la Ministra de Cultura.
+Comentarios a raí­z de la [entrevista](https://www.elmundo.es/encuentros/invitados/2005/06/1594/index.html) realizada a la Ministra de Cultura.
 
 Ni voy a entrar en la pregunta 1.
 
@@ -83,7 +83,7 @@ Además, hasta ahora eso de "se contarán con la opinión de todos" no ha sido a
   
 "que los artistas y autores sean respetados en sus derechos"
   
--¿Con "respeto" como el que pide la SGAE, que en su propia página [web](http://www.sgae.es/contenido/cont.inm?instanceId=64&tipoId=41) dice (y cito) "Es obvio que cada vez que se hace una copia de un disco para uso privado, se deja de vender un ejemplar del mismo"? Eso no es respeto, eso es abuso y manipulación.
+-¿Con "respeto" como el que pide la SGAE, que en su propia página [web](https://www.sgae.es/contenido/cont.inm?instanceId=64&tipoId=41) dice (y cito) "Es obvio que cada vez que se hace una copia de un disco para uso privado, se deja de vender un ejemplar del mismo"? Eso no es respeto, eso es abuso y manipulación.
   
 "que a los ciudadanos les llegue con diversidad y libertad la cultura lo más barata posible. Ya sé que todo será muy complicado, pero eso es gobernar."
   

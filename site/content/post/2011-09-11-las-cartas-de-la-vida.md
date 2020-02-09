@@ -4,7 +4,7 @@ title: Las cartas de la vida
 date: 2011-09-11T11:37:56+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3506
+guid: https://cortell.net/blog/?p=3506
 permalink: /2011/09/11/las-cartas-de-la-vida/
 wpsd_autopost:
   - "1"

@@ -4,7 +4,7 @@ title: Acabó la Campus SIN expulsiones ni detenciones
 date: 2005-08-01T08:02:40+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/08/01/acabo-la-campus-sin-expulsiones-ni-detenciones/
+guid: https://www.cortell.net/2005/08/01/acabo-la-campus-sin-expulsiones-ni-detenciones/
 permalink: /2005/08/01/acabo-la-campus-sin-expulsiones-ni-detenciones/
 categories:
   - CiberDerechos
@@ -24,7 +24,7 @@ Las LAN Parties son buenas. La CampusParty es un negocio y su organización se e
 
 Y a los alarmistas y polemizadores: ojalá hubiéseis venido. Os hemos echado de menos. El debate no es lo mismo sin todos los puntos de vista debidamente representados.
 
-[Actualización: [aquí­](http://the-vice.com/index.php/all/2005/08/01/los_hombres_misteriosos_mistery_man_s) tenéis la crónica de theVice sobre el debate de los campuseros con la SGAE. GRACIAS]
+[Actualización: [aquí­](https://the-vice.com/index.php/all/2005/08/01/los_hombres_misteriosos_mistery_man_s) tenéis la crónica de theVice sobre el debate de los campuseros con la SGAE. GRACIAS]
 
 #flickr\_badge\_source_txt {padding:0; font: 11px Arial, Helvetica, Sans serif; color:#666666;}
   
@@ -53,7 +53,7 @@ Y a los alarmistas y polemizadores: ojalá hubiéseis venido. Os hemos echado de
 <table id="flickr_badge_uber_wrapper" cellpadding="0" cellspacing="10" border="0">
   <tr>
     <td>
-      <a href="http://www.flickr.com" id="flickr_www">www.<strong style="color:#3993ff">flick<span style="color:#ff1c92">r</span></strong>.com</a></p> 
+      <a href="https://www.flickr.com" id="flickr_www">www.<strong style="color:#3993ff">flick<span style="color:#ff1c92">r</span></strong>.com</a></p> 
       
       <table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
         <tr>

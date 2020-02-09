@@ -4,7 +4,7 @@ title: 'Confirmado por Steve Jobs: iPhones en España en marzo via Movistar'
 date: 2007-10-29T11:30:12+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/10/29/confirmado-por-steve-jobs-iphones-en-espana-en-marzo-via-movistar/
+guid: https://www.cortell.net/2007/10/29/confirmado-por-steve-jobs-iphones-en-espana-en-marzo-via-movistar/
 permalink: /2007/10/29/confirmado-por-steve-jobs-iphones-en-espana-en-marzo-via-movistar/
 categories:
   - General

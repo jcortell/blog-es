@@ -4,7 +4,7 @@ title: Fun interpreting signs
 date: 2012-01-01T17:46:35+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3716
+guid: https://cortell.net/blog/?p=3716
 permalink: /2012/01/01/fun-interpreting-signs/
 wpsd_autopost:
   - "1"

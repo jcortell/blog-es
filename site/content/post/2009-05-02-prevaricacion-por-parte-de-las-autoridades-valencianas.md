@@ -4,7 +4,7 @@ title: ¿Prevaricación por parte de las autoridades valencianas?
 date: 2009-05-02T12:57:17+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1834
+guid: https://cortell.net/blog/?p=1834
 permalink: /2009/05/02/prevaricacion-por-parte-de-las-autoridades-valencianas/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -25,4 +25,4 @@ La incapacidad del Ayuntamiento o de cualquier organización (sea deportiva, lú
 
 ¿Acaso un cajero de banco, taquillera del cine, o turista no tienen el mismo derecho a una plaza de aparcamiento que un funcionario público?
 
-Pequeños abusos, grandes perjuicios, pues no sólo constituyen un aumento del gasto (energía, combustible, tiempo, etc) de los ciudadanos, sino que además establece un peligrosísimo precedente que parece apoyar la tesis muy extendida por otra parte, de que los políticos y funcionarios tienen "<a title="http://www.europapress.es/nacional/noticia-yak-aguirreno-debe-criminalizar-nadie-cuando-intencion-tenian-era-acortar-sufrimiento-familias-20090421122217.html" href="http://www.europapress.es/nacional/noticia-yak-aguirreno-debe-criminalizar-nadie-cuando-intencion-tenian-era-acortar-sufrimiento-familias-20090421122217.html" target="_blank">derechos especiales</a>" que les sitúan más allá de la legalidad vigente.
+Pequeños abusos, grandes perjuicios, pues no sólo constituyen un aumento del gasto (energía, combustible, tiempo, etc) de los ciudadanos, sino que además establece un peligrosísimo precedente que parece apoyar la tesis muy extendida por otra parte, de que los políticos y funcionarios tienen "<a title="https://www.europapress.es/nacional/noticia-yak-aguirreno-debe-criminalizar-nadie-cuando-intencion-tenian-era-acortar-sufrimiento-familias-20090421122217.html" href="https://www.europapress.es/nacional/noticia-yak-aguirreno-debe-criminalizar-nadie-cuando-intencion-tenian-era-acortar-sufrimiento-familias-20090421122217.html" target="_blank">derechos especiales</a>" que les sitúan más allá de la legalidad vigente.

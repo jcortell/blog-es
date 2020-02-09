@@ -4,7 +4,7 @@ title: Los primeros días viviendo en Londres
 date: 2015-05-08T12:41:03+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5462
+guid: https://blog.cortell.net/es/?p=5462
 permalink: /2015/05/08/los-primeros-dias-viviendo-en-londres/
 categories:
   - General

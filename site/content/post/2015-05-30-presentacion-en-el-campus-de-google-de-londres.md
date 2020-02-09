@@ -4,7 +4,7 @@ title: Presentación en el Campus de Google de Londres
 date: 2015-05-30T21:01:50+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5485
+guid: https://blog.cortell.net/es/?p=5485
 permalink: /2015/05/30/presentacion-en-el-campus-de-google-de-londres/
 categories:
   - General

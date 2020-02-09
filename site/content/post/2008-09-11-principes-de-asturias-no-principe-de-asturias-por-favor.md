@@ -4,7 +4,7 @@ title: '¿Príncipes de Asturias? No, &quot;Príncipe de Asturias&quot;, por fav
 date: 2008-09-11T17:05:01+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1307
+guid: https://www.cortell.net/?p=1307
 permalink: /2008/09/11/principes-de-asturias-no-principe-de-asturias-por-favor/
 categories:
   - General

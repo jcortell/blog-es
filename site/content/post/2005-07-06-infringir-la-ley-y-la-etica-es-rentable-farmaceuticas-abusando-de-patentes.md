@@ -4,7 +4,7 @@ title: Infringir la ley y la ética es rentable (farmacéuticas abusando de pate
 date: 2005-07-06T16:40:49+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/07/06/infringir-la-ley-y-la-etica-es-rentable-farmaceuticas-abusando-de-patentes/
+guid: https://www.cortell.net/2005/07/06/infringir-la-ley-y-la-etica-es-rentable-farmaceuticas-abusando-de-patentes/
 permalink: /2005/07/06/infringir-la-ley-y-la-etica-es-rentable-farmaceuticas-abusando-de-patentes/
 categories:
   - CiberDerechos

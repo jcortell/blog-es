@@ -4,7 +4,7 @@ title: November in Valencia
 date: 2012-12-13T13:22:31+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4480
+guid: https://cortell.net/blog/?p=4480
 permalink: /2012/12/13/november-in-valencia/
 wpsd_autopost:
   - "1"

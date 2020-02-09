@@ -20,7 +20,7 @@ El 3 de marzo se suponía que debía estar en casa en España y, sin embargo, aq
 
 Debido a las hostilidades entre India y Pakistán sobre Cachemira y el piloto indio que los pakistaníes se derribaron, lo que provocó que su espacio aéreo se cerrara, mi vuelo de Bangkok a Ámsterdam tuvo que desviarse a su alrededor, agregando 3 horas adicionales al tiempo de vuelo, haciéndome perder mi conexión con Valencia.
 
-KLM se portó muy bien y me puso en un buen [hotel](http://villagetv.corendonhotels.com/corendon-village-hotel-amsterdam/#/), incluyendo cena, desayuno y wifi. Al menos la "alerta amarilla de vientos fuertes" no afectó a mi próximo vuelo.
+KLM se portó muy bien y me puso en un buen [hotel](https://villagetv.corendonhotels.com/corendon-village-hotel-amsterdam/#/), incluyendo cena, desayuno y wifi. Al menos la "alerta amarilla de vientos fuertes" no afectó a mi próximo vuelo.
 
 No estoy cansado de viajar (eso no puede suceder), pero después de unos 25 años de arriba para abajo constantemente, me estoy cansando de perderme el día de San Valentín, cumpleaños, aniversarios, obras escolares ... Estoy listo para más viajes, pero con mi familia.
 

@@ -4,7 +4,7 @@ title: La SGAE al revés
 date: 2006-04-21T09:37:52+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/04/21/la-sgae-al-reves/
+guid: https://www.cortell.net/2006/04/21/la-sgae-al-reves/
 permalink: /2006/04/21/la-sgae-al-reves/
 categories:
   - CiberDerechos

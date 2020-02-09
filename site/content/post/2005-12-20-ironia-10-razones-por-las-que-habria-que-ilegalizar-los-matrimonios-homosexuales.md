@@ -4,7 +4,7 @@ title: (IRONIA) 10 razones por las que habrí­a que ilegalizar los matrimonios 
 date: 2005-12-20T18:20:16+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/12/20/ironia-10-razones-por-las-que-habria-que-ilegalizar-los-matrimonios-homosexuales/
+guid: https://www.cortell.net/2005/12/20/ironia-10-razones-por-las-que-habria-que-ilegalizar-los-matrimonios-homosexuales/
 permalink: /2005/12/20/ironia-10-razones-por-las-que-habria-que-ilegalizar-los-matrimonios-homosexuales/
 categories:
   - Filosofí­a
@@ -12,7 +12,7 @@ categories:
   - Otras cosas
   - Sociedad y polí­tica
 ---
-Para celebrar que en Gran Bretaña ya es legal el matrimonio homosexual, y que en España, pese a alguna [reticencia](http://www.lasprovincias.es/valencia/pg051220/prensa/noticias/CValenciana/200512/20/VAL-CVA-160.html) que otra, también, quisiera compartir con vosotros la lista de los 10 principales motivos por los que el matrimonio homosexual no deberí­a ser legal (**modo IRONIA on**) que me ha enviado un compañero de Harvard (y que me tomo la licencia de traducir y adaptar):
+Para celebrar que en Gran Bretaña ya es legal el matrimonio homosexual, y que en España, pese a alguna [reticencia](https://www.lasprovincias.es/valencia/pg051220/prensa/noticias/CValenciana/200512/20/VAL-CVA-160.html) que otra, también, quisiera compartir con vosotros la lista de los 10 principales motivos por los que el matrimonio homosexual no deberí­a ser legal (**modo IRONIA on**) que me ha enviado un compañero de Harvard (y que me tomo la licencia de traducir y adaptar):
 
 1) Ser homosexual no es natural. Debemos rechazar lo que no es natural, como las gafas, el polyester, o el aire acondicionado.
 

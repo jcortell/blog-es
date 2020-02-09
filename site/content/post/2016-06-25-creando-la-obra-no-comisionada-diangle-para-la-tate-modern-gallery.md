@@ -4,7 +4,7 @@ title: Creando la obra no-comisionada “Diangle” para la Tate Modern Gallery
 date: 2016-06-25T11:17:02+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5822
+guid: https://blog.cortell.net/es/?p=5822
 permalink: /2016/06/25/creando-la-obra-no-comisionada-diangle-para-la-tate-modern-gallery/
 categories:
   - Arte

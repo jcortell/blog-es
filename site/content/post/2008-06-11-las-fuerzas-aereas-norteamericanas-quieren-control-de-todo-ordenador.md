@@ -4,7 +4,7 @@ title: Las Fuerzas Aéreas Norteamericanas quieren control de TODO ordenador
 date: 2008-06-11T12:28:12+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1240
+guid: https://www.cortell.net/?p=1240
 permalink: /2008/06/11/las-fuerzas-aereas-norteamericanas-quieren-control-de-todo-ordenador/
 categories:
   - CiberDerechos
@@ -22,4 +22,4 @@ Suerte que estos proyectos a parte de salir más caros de lo que se presupuestan
 
 Pero el dato está ahi: imperialismo informático por la fuerza. Pues que se preparen, que esto no es cuestión de quién tiene más tanques o satélites, y el tiro les puede salir por la culata.
 
-<a title="post" href="http://www.truthout.org/article/attention-geeks-and-hackers" target="_blank">Fuente</a> (el artículo merece la pena).
+<a title="post" href="https://www.truthout.org/article/attention-geeks-and-hackers" target="_blank">Fuente</a> (el artículo merece la pena).

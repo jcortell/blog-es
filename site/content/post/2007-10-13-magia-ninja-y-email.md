@@ -4,14 +4,14 @@ title: Magia Ninja y eMail
 date: 2007-10-13T03:11:41+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/10/13/magia-ninja-y-email/
+guid: https://www.cortell.net/2007/10/13/magia-ninja-y-email/
 permalink: /2007/10/13/magia-ninja-y-email/
 categories:
   - General
   - Personal
   - Technology
 ---
-Hoy he cenado en el restaurante <a title="Ninja New York" target="_blank" href="http://www.ninjanewyork.com/">Ninja</a> (Nueva York). Curioso, simpático. Nada extraordinario, pero buen exponente de la restauración como entretenimiento (estilo Disney, demasiado _cheesy_ para el europeo medio, descreí­do de todo), aunque no por ello hay que despreciar algunos platos bastante conseguidos.
+Hoy he cenado en el restaurante <a title="Ninja New York" target="_blank" href="https://www.ninjanewyork.com/">Ninja</a> (Nueva York). Curioso, simpático. Nada extraordinario, pero buen exponente de la restauración como entretenimiento (estilo Disney, demasiado _cheesy_ para el europeo medio, descreí­do de todo), aunque no por ello hay que despreciar algunos platos bastante conseguidos.
 
 Lo más curioso ha sido el espectáculo de magia en nuestra propia mesa.
 

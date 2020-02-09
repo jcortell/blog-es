@@ -4,7 +4,7 @@ title: -¡-¿Drogas pagadas con dinero público en los festivales oficiales de c
 date: 2006-03-13T18:19:44+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2006/03/13/%c2%a1%c2%bfdrogas-pagadas-con-dinero-publico-en-los-festivales-oficiales-de-cine/'
+guid: 'https://www.cortell.net/2006/03/13/%c2%a1%c2%bfdrogas-pagadas-con-dinero-publico-en-los-festivales-oficiales-de-cine/'
 permalink: /2006/03/13/drogas-pagadas-con-dinero-publico-en-los-festivales-oficiales-de-cine/
 categories:
   - General

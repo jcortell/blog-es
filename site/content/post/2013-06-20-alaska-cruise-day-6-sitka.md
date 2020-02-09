@@ -4,7 +4,7 @@ title: 'Alaska Cruise Day 6: Sitka'
 date: 2013-06-20T18:09:50+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4764
+guid: https://cortell.net/blog/?p=4764
 permalink: /2013/06/20/alaska-cruise-day-6-sitka/
 categories:
   - General

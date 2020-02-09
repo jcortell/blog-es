@@ -4,7 +4,7 @@ title: 'Caso cafeterí­a Musgo: importantí­simo matiz contra abusos SGAE'
 date: 2006-07-20T15:25:11+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/07/20/caso-cafeteria-musgo-importantisimo-matiz-contra-abusos-sgae/
+guid: https://www.cortell.net/2006/07/20/caso-cafeteria-musgo-importantisimo-matiz-contra-abusos-sgae/
 permalink: /2006/07/20/caso-cafeteria-musgo-importantisimo-matiz-contra-abusos-sgae/
 categories:
   - CiberDerechos
@@ -14,7 +14,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-DjAcer nos avisaba de la noticia, que proporciona la Asociación de Internautas: <a target="_blank" title="Cafeterí­a Musgo lucha y gana" href="http://www.internautas.org/html/3809.html">la cafeterí­a Musgo evita el pago de canon a la SGAE</a>. Pero la clave no es esa (por mucho que nos alegremos de encuentren resistencia cada vez mayor a sus monopolí­sticas y oscuras pretensiones recaudatorias).
+DjAcer nos avisaba de la noticia, que proporciona la Asociación de Internautas: <a target="_blank" title="Cafeterí­a Musgo lucha y gana" href="https://www.internautas.org/html/3809.html">la cafeterí­a Musgo evita el pago de canon a la SGAE</a>. Pero la clave no es esa (por mucho que nos alegremos de encuentren resistencia cada vez mayor a sus monopolí­sticas y oscuras pretensiones recaudatorias).
 
 La clave es: _el juzgado de lo mercantil número 2 de Pontevedra eximió al establecimiento de la cotización de los derechos de autor reclamados. Ahora, aquella sentencia acaba de hacerse firme, al renunciar la sociedad a recurrir el dictamen.</p> 
 

@@ -4,7 +4,7 @@ title: '&quot;Historias para no dormir&quot; por la retención de datos'
 date: 2005-09-20T07:30:32+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/09/20/historias-para-no-dormir-por-la-retencion-de-datos/
+guid: https://www.cortell.net/2005/09/20/historias-para-no-dormir-por-la-retencion-de-datos/
 permalink: /2005/09/20/historias-para-no-dormir-por-la-retencion-de-datos/
 categories:
   - CiberDerechos

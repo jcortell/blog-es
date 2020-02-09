@@ -4,16 +4,16 @@ title: 'Empastillados hasta atontarnos... más'
 date: 2011-02-05T20:14:43+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2898
+guid: https://cortell.net/blog/?p=2898
 permalink: /2011/02/05/empastillados-hasta-atontarnos-mas/
 categories:
   - General
 ---
-<img class="aligncenter" title="pill head" src="http://2.bp.blogspot.com/__QJpEN6YC4I/TQZx1GqXBBI/AAAAAAAAAB4/h7PNCWzTubQ/s1600/head-of-pills.jpg" alt="" width="320" height="320" />
+<img class="aligncenter" title="pill head" src="https://2.bp.blogspot.com/__QJpEN6YC4I/TQZx1GqXBBI/AAAAAAAAAB4/h7PNCWzTubQ/s1600/head-of-pills.jpg" alt="" width="320" height="320" />
 
-Con respecto a las benzodiacepinas, <a title="http://planetaconciencia.blogspot.com/2011/02/plus-de-humanidad.html" href="http://planetaconciencia.blogspot.com/2011/02/plus-de-humanidad.html" target="_blank">comenta</a> (gracias por el enlace, Ana) Teodoro J. Martínez – Doctor en Medicina pediátrica:
+Con respecto a las benzodiacepinas, <a title="https://planetaconciencia.blogspot.com/2011/02/plus-de-humanidad.html" href="https://planetaconciencia.blogspot.com/2011/02/plus-de-humanidad.html" target="_blank">comenta</a> (gracias por el enlace, Ana) Teodoro J. Martínez – Doctor en Medicina pediátrica:
 
-"“Ciertos medicamentos con receta se han convertido en <a title="http://www.kpbs.org/news/2010/nov/02/prescription-drugs-are-chief-cause-non-natural-dea/" href="http://www.kpbs.org/news/2010/nov/02/prescription-drugs-are-chief-cause-non-natural-dea/" target="_blank">una de las principales causas de ingreso hospitalario y muerte</a>”. A esta conclusión llega el equipo investigador coordinado por el Dr. Coben, en un reciente estudio sobre los ingresos hospitalarios debidos a intoxicaciones de tipo farmacológico en Estados Unidos. Entre estos fármacos recetados por facultativos, destacan las intoxicaciones por benzodiacepinas, que se incrementaron un 65% entre 1999 y 2006. Este incremento duplicó las intoxicaciones por cualquier otra sustancia, ilegal o no.
+"“Ciertos medicamentos con receta se han convertido en <a title="https://www.kpbs.org/news/2010/nov/02/prescription-drugs-are-chief-cause-non-natural-dea/" href="https://www.kpbs.org/news/2010/nov/02/prescription-drugs-are-chief-cause-non-natural-dea/" target="_blank">una de las principales causas de ingreso hospitalario y muerte</a>”. A esta conclusión llega el equipo investigador coordinado por el Dr. Coben, en un reciente estudio sobre los ingresos hospitalarios debidos a intoxicaciones de tipo farmacológico en Estados Unidos. Entre estos fármacos recetados por facultativos, destacan las intoxicaciones por benzodiacepinas, que se incrementaron un 65% entre 1999 y 2006. Este incremento duplicó las intoxicaciones por cualquier otra sustancia, ilegal o no.
 
 Las benzodiacepinas son sustancias farmacológicas de uso legal, utilizadas habitualmente para el tratamiento de los trastornos por ansiedad, si bien tienen otros usos autorizados, como el antiepiléptico, la inducción del sueño o la relajación muscular.
 

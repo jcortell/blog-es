@@ -4,7 +4,7 @@ title: 'Gore Vidal: Juliano el Apóstata'
 date: 2009-11-15T01:15:13+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2311
+guid: https://cortell.net/blog/?p=2311
 permalink: /2009/11/15/gore-vidal-juliano-el-apostata/
 categories:
   - Arte

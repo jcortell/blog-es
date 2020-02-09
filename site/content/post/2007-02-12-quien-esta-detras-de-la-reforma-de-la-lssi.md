@@ -4,7 +4,7 @@ title: -¿QUIí‰N ESTA DETRAS DE LA REFORMA DE LA LSSI?
 date: 2007-02-12T11:33:23+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2007/02/12/%c2%bfquien-esta-detras-de-la-reforma-de-la-lssi/'
+guid: 'https://www.cortell.net/2007/02/12/%c2%bfquien-esta-detras-de-la-reforma-de-la-lssi/'
 permalink: /2007/02/12/quien-esta-detras-de-la-reforma-de-la-lssi/
 categories:
   - CiberDerechos
@@ -15,7 +15,7 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-(Via Asociación de Internautas, si queréis los enlaces para más info, acudid directos al final de <a target="_blank" title="Asociacion de Internautas" href="http://www.internautas.org/sincanon/html/4057.html">esta página</a>)
+(Via Asociación de Internautas, si queréis los enlaces para más info, acudid directos al final de <a target="_blank" title="Asociacion de Internautas" href="https://www.internautas.org/sincanon/html/4057.html">esta página</a>)
 
 Cronologí­a de los hechos:
 

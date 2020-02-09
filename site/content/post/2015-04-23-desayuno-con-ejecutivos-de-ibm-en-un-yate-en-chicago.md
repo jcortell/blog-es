@@ -4,7 +4,7 @@ title: Desayuno con ejecutivos de IBM en un yate en Chicago
 date: 2015-04-23T22:30:01+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5439
+guid: https://blog.cortell.net/es/?p=5439
 permalink: /2015/04/23/desayuno-con-ejecutivos-de-ibm-en-un-yate-en-chicago/
 categories:
   - General

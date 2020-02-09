@@ -4,7 +4,7 @@ title: Sistemas Operativos Online
 date: 2007-02-06T13:16:01+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/02/06/sistemas-operativos-online/
+guid: https://www.cortell.net/2007/02/06/sistemas-operativos-online/
 permalink: /2007/02/06/sistemas-operativos-online/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -19,18 +19,18 @@ Lo que más me llama la atención ahora mismo en el entorno de los Sistemas Oper
   
 Os dejo unos enlaces, para que lo probéis y penséis sobre las implicaciones:
 
-– <a target="_blank" title="EyeOS" href="http://eyeos.org/">EyeOS</a> (hecho por españoles, -¡olé!) **El único OpenSource** (como bien puntualizan ellos mismos, doblemente gracias _hombrelobo_)
+– <a target="_blank" title="EyeOS" href="https://eyeos.org/">EyeOS</a> (hecho por españoles, -¡olé!) **El único OpenSource** (como bien puntualizan ellos mismos, doblemente gracias _hombrelobo_)
   
-– <a target="_blank" title="CrayThur" href="http://www.craythur.com/">CrayThur</a>
+– <a target="_blank" title="CrayThur" href="https://www.craythur.com/">CrayThur</a>
 
-– <a target="_blank" title="DesktopTwo" href="http://desktoptwo.com/">DesktopTwo</a>
+– <a target="_blank" title="DesktopTwo" href="https://desktoptwo.com/">DesktopTwo</a>
 
-– <a target="_blank" title="Glide" href="http://www.glidedigital.com/">Glide</a>
+– <a target="_blank" title="Glide" href="https://www.glidedigital.com/">Glide</a>
 
-– <a target="_blank" title="Goowy" href="http://www.goowy.com/">Goowy</a>
+– <a target="_blank" title="Goowy" href="https://www.goowy.com/">Goowy</a>
 
-– <a target="_blank" title="Orca" href="http://www.orcawebos.com/orcaa.com/">Orca</a>
+– <a target="_blank" title="Orca" href="https://www.orcawebos.com/orcaa.com/">Orca</a>
 
-– <a target="_blank" title="Xindesk" href="http://www.xindesk.com/">Xindesk</a>
+– <a target="_blank" title="Xindesk" href="https://www.xindesk.com/">Xindesk</a>
 
 – <a target="_blank" title="YouOS" href="https://www.youos.com/">YouOS</a>

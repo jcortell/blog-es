@@ -4,7 +4,7 @@ title: Un día en Varsovia
 date: 2014-11-25T10:22:50+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5344
+guid: https://blog.cortell.net/es/?p=5344
 permalink: /2014/11/25/un-dia-en-varsovia/
 categories:
   - General

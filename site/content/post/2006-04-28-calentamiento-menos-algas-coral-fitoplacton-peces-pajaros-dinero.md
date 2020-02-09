@@ -4,16 +4,16 @@ title: 'Calentamiento = menos algas, coral, fitoplacton, peces, pájaros... DINE
 date: 2006-04-28T14:44:45+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=417
+guid: https://www.cortell.net/?p=417
 permalink: /2006/04/28/calentamiento-menos-algas-coral-fitoplacton-peces-pajaros-dinero/
 categories:
   - General
   - Medioambiente
   - Sociedad y polí­tica
 ---
-Nos [avisa la NASA](http://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id=17237), con su tecnológico y espacial ojo que todo lo ve, que el océano se calienta. Eso lo sabí­amos. Bueno, la verdad es que [ahora sabemos](http://earthobservatory.nasa.gov/Study/HeatBucket/) que es la masa de agua (principalmente océanos y mares) la que se está caletando a un ritmo muy superior al previsto.
+Nos [avisa la NASA](https://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id=17237), con su tecnológico y espacial ojo que todo lo ve, que el océano se calienta. Eso lo sabí­amos. Bueno, la verdad es que [ahora sabemos](https://earthobservatory.nasa.gov/Study/HeatBucket/) que es la masa de agua (principalmente océanos y mares) la que se está caletando a un ritmo muy superior al previsto.
 
-También los bosques boreales ([Taiga](http://earthobservatory.nasa.gov/Study/BOREASIntro/)) están oscureciéndose a causa del calentamiento global (y a un paso muchí­simo más rápido de lo previsto por los cientí­ficos).
+También los bosques boreales ([Taiga](https://earthobservatory.nasa.gov/Study/BOREASIntro/)) están oscureciéndose a causa del calentamiento global (y a un paso muchí­simo más rápido de lo previsto por los cientí­ficos).
 
 Pero es curioso que a alguna gente no les llame la atención nada de eso si no les haces el siguiente razonamiento:
 

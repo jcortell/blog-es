@@ -4,7 +4,7 @@ title: New Museum curators talk
 date: 2012-03-19T18:55:49+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3931
+guid: https://cortell.net/blog/?p=3931
 permalink: /2012/03/19/new-museum-curators-talk/
 wpsd_autopost:
   - "1"
@@ -15,7 +15,7 @@ categories:
   - Personal
   - Placeres de la vida
 ---
-El sábado por la tarde fui a la <a title="http://www.newmuseum.org/events/612" href="http://www.newmuseum.org/events/612" target="_blank">charla</a> _Curadores Independientes Internacionales y el New Museum presentan La Perspectiva del Curador: Rosina Cazali_. Aunque había una interesante <a title="http://www.sothebys.com/en/auctions/2012/fine-classical-chinese-paintings-n08835/exhibitions.html" href="http://www.sothebys.com/en/auctions/2012/fine-classical-chinese-paintings-n08835/exhibitions.html" target="_blank">charla en Sotheby‘s</a> titulada "_Maestros de Ming y Qing: Pinturas y Caligrafías Chinas en Sotheby‘s_" por Arnold Chang, previo a su exhibición y subastaPintura Clásica China. No sé cómo fue la charla de Sotheby‘s, pero esto es lo que vi y escuché en el New Museum.
+El sábado por la tarde fui a la <a title="https://www.newmuseum.org/events/612" href="https://www.newmuseum.org/events/612" target="_blank">charla</a> _Curadores Independientes Internacionales y el New Museum presentan La Perspectiva del Curador: Rosina Cazali_. Aunque había una interesante <a title="https://www.sothebys.com/en/auctions/2012/fine-classical-chinese-paintings-n08835/exhibitions.html" href="https://www.sothebys.com/en/auctions/2012/fine-classical-chinese-paintings-n08835/exhibitions.html" target="_blank">charla en Sotheby‘s</a> titulada "_Maestros de Ming y Qing: Pinturas y Caligrafías Chinas en Sotheby‘s_" por Arnold Chang, previo a su exhibición y subastaPintura Clásica China. No sé cómo fue la charla de Sotheby‘s, pero esto es lo que vi y escuché en el New Museum.
 
 <p style="text-align: center">
   <img class="aligncenter" title="Talk" src="https://lh5.googleusercontent.com/-VldLJO-RUqw/T2dbdqAaefI/AAAAAAAAA5U/sekkepX3xQ4/s808/20120317_154532.jpg" alt="" width="485" height="364" />
@@ -23,7 +23,7 @@ El sábado por la tarde fui a la <a title="http://www.newmuseum.org/events/612"
 
 Mientras las exposiciones mostradas en las proyecciones de la charla no fueron tan impresionantes, hubo cosas que disfruté y aprecié, como la determinación de dar la charla en español (con traducción simultánea, pese a que la Sra. Cazali habla inglés perfectamente) como mensaje político y cultural sutil, y los interesantes puntos de vista de la Sr. Cazali sobre los procesos curatoriales y el arte.
 
-Pero, al final, mi impresión fue triste, porque los temas que escogió como curadora, y los artistas que escogió y mostró  como representativos de su trabajo y el arte en Guatemala en las últimas dos décadas, prácticamente todos giraban en torno al tema común de la violencia del período de la guerra civil. Y como Juan Cárdenas explicó a Glenn Lowry (Director del MoMA) en una <a title="http://www.eltiempo.com/cultura/artes-plasticas/ARTICULO-WEB-NEW_NOTA_INTERIOR-11336241.html" href="http://www.eltiempo.com/cultura/artes-plasticas/ARTICULO-WEB-NEW_NOTA_INTERIOR-11336241.html" target="_blank">carta abierta</a> (gracias por el enlace, Nebula) hablando sobre arte contemporáneo Colombiano: 
+Pero, al final, mi impresión fue triste, porque los temas que escogió como curadora, y los artistas que escogió y mostró  como representativos de su trabajo y el arte en Guatemala en las últimas dos décadas, prácticamente todos giraban en torno al tema común de la violencia del período de la guerra civil. Y como Juan Cárdenas explicó a Glenn Lowry (Director del MoMA) en una <a title="https://www.eltiempo.com/cultura/artes-plasticas/ARTICULO-WEB-NEW_NOTA_INTERIOR-11336241.html" href="https://www.eltiempo.com/cultura/artes-plasticas/ARTICULO-WEB-NEW_NOTA_INTERIOR-11336241.html" target="_blank">carta abierta</a> (gracias por el enlace, Nebula) hablando sobre arte contemporáneo Colombiano: 
 
 [...]
 

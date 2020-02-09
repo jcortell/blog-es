@@ -4,7 +4,7 @@ title: Informantes del INE
 date: 2011-06-24T10:05:05+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3238
+guid: https://cortell.net/blog/?p=3238
 permalink: /2011/06/24/informantes-del-ine/
 wpsd_autopost:
   - "1"

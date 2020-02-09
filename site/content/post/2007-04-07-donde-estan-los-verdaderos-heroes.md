@@ -4,7 +4,7 @@ title: -¿Dónde están los verdaderos héroes?
 date: 2007-04-07T17:51:17+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2007/04/07/%c2%bfdonde-estan-los-verdaderos-heroes/'
+guid: 'https://www.cortell.net/2007/04/07/%c2%bfdonde-estan-los-verdaderos-heroes/'
 permalink: /2007/04/07/donde-estan-los-verdaderos-heroes/
 categories:
   - ¿Por qué no? ¿Utopías?

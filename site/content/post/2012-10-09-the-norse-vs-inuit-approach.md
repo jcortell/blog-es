@@ -4,7 +4,7 @@ title: The Norse vs Inuit approach
 date: 2012-10-09T00:54:01+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4350
+guid: https://cortell.net/blog/?p=4350
 permalink: /2012/10/09/the-norse-vs-inuit-approach/
 wpsd_autopost:
   - "1"

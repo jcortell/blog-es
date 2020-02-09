@@ -4,7 +4,7 @@ title: 'Curators‘ thoughts'
 date: 2012-04-07T00:10:48+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4035
+guid: https://cortell.net/blog/?p=4035
 permalink: /2012/04/07/curators-thoughts/
 wpsd_autopost:
   - "1"

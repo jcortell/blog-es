@@ -4,7 +4,7 @@ title: 'Libros e internet: observando a libreros'
 date: 2009-03-21T13:03:32+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1693
+guid: https://cortell.net/blog/?p=1693
 permalink: /2009/03/21/libros-e-internet-observando-a-libreros/
 categories:
   - General

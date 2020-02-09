@@ -4,7 +4,7 @@ title: En Lisboa, Londres, Valencia y Paris
 date: 2014-10-03T19:50:49+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5307
+guid: https://blog.cortell.net/es/?p=5307
 permalink: /2014/10/03/en-lisboa-londres-valencia-y-paris/
 categories:
   - General

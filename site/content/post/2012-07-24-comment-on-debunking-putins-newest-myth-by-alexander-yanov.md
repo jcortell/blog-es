@@ -4,7 +4,7 @@ title: 'Comment on &quot;Debunking Putin‘s Newest Myth&quot; by Alexander Yano
 date: 2012-07-24T22:31:09+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4227
+guid: https://cortell.net/blog/?p=4227
 permalink: /2012/07/24/comment-on-debunking-putins-newest-myth-by-alexander-yanov/
 wpsd_autopost:
   - "1"
@@ -16,7 +16,7 @@ categories:
   - Ráfagas literarias
   - Sociedad y polí­tica
 ---
-Después de leer "<a title="http://www.imrussia.org/index.php?option=com_content&view=article&id=268&Itemid=81&lang=en" href="http://www.imrussia.org/index.php?option=com_content&view=article&id=268&Itemid=81&lang=en" target="_blank">Desacreditando el Nuevo Mito de Putin</a>" por Alexander Yanov, y con todos mis respetos y admiración por este reconocidísimo historiador de los nacionalismos rusos:
+Después de leer "<a title="https://www.imrussia.org/index.php?option=com_content&view=article&id=268&Itemid=81&lang=en" href="https://www.imrussia.org/index.php?option=com_content&view=article&id=268&Itemid=81&lang=en" target="_blank">Desacreditando el Nuevo Mito de Putin</a>" por Alexander Yanov, y con todos mis respetos y admiración por este reconocidísimo historiador de los nacionalismos rusos:
 
 Aunque es bastante brillante y elocuente, creo que no es lo suficientemente incisivo y audaz desacreditando el último mito de Putin. Adopta un enfoque muy conservador, tal vez permitiendo que un bagaje e inclinación de filosofía occidental tradicional tomen la parte de la razón pura y la creencia, que normalmente se necesitan, en partes iguales, para combatir una disputa político / filosófica.
 

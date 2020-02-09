@@ -4,7 +4,7 @@ title: -¿Guerra al terrorismo? A este precio la tenemos perdida
 date: 2005-10-27T18:58:44+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2005/10/27/%c2%bfguerra-al-terrorismo-a-este-precio-la-tenemos-perdida/'
+guid: 'https://www.cortell.net/2005/10/27/%c2%bfguerra-al-terrorismo-a-este-precio-la-tenemos-perdida/'
 permalink: /2005/10/27/guerra-al-terrorismo-a-este-precio-la-tenemos-perdida/
 categories:
   - CiberDerechos
@@ -15,7 +15,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-[Leo](http://www.levante-emv.es/secciones/noticia.jsp?pIdNoticia=146085&pIndiceNoticia=6&pIdSeccion=7) en el diario [Levante](http://www.levante-emv.es/) online que _en Francia fue presentado ayer en Consejo de ministros, en medio de las crí­ticas de las asociaciones de derechos humanos y de magistrados y de la Comisión Nacional sobre Informática y las Libertades, un proyecto de ley para luchar contra el terrorismo.</p> 
+[Leo](https://www.levante-emv.es/secciones/noticia.jsp?pIdNoticia=146085&pIndiceNoticia=6&pIdSeccion=7) en el diario [Levante](https://www.levante-emv.es/) online que _en Francia fue presentado ayer en Consejo de ministros, en medio de las crí­ticas de las asociaciones de derechos humanos y de magistrados y de la Comisión Nacional sobre Informática y las Libertades, un proyecto de ley para luchar contra el terrorismo.</p> 
 
 -«El riesgo terrorista es real. Debemos seguir totalmente movilizados-», afirmó el presidente francés, Jacques Chirac. </em>
 
@@ -57,6 +57,6 @@ Por último lo de "poderes de actuación sin mandato judicial" da miedo, mucho m
 
 Datos de pasajeros, usuarios de telefoní­a, y ficheros administrativos. O sea TODOS los datos. Sin control judicial. -¿No conocen casos en los que gobiernos autoritarios (e incluso supuestamente democráticos) emplearon esos datos para hacer depuraciones politico/ideológicas entre su población? -¿Les suena la Caza de Brujas en EEUU, o los campos de concentración para Japoneses, ciudadanos de EEUU? Por no hablar de Hitler, Franco, Videla, Pinochet, Pol Pot, etc. El primer ejemplo era de un paí­s democrático que NO estaba en guerra.
 
-Y para los que me leéis desde un cibercafé, desconectaos de mi página, no sea que crucen datos y por ser mi blog un favorito entre supuestos terroristas (por ejemplo, ciudadanos de determinado paí­s, o con determinado apellido, o con multas de tráfico por pagar, o con denuncias anónimas de vecinos enfadados) me acusen a mí­. -¿Os reí­s? Leed [este](http://www.cortell.net/2005/08/31/los-peligros-ocultos-de-la-red-v-la-retencion-de-datos-y-la-interceptacion-de-telecomunicaciones/) y [este](http://www.cortell.net/2004/11/27/no-eres-paranoico-si-de-verdad-te-persiguen-pci-24/) artí­culo y comprobad como miles de personas en EEUU ya han sufrido innumerables problemas por tonterí­as como esa.
+Y para los que me leéis desde un cibercafé, desconectaos de mi página, no sea que crucen datos y por ser mi blog un favorito entre supuestos terroristas (por ejemplo, ciudadanos de determinado paí­s, o con determinado apellido, o con multas de tráfico por pagar, o con denuncias anónimas de vecinos enfadados) me acusen a mí­. -¿Os reí­s? Leed [este](https://www.cortell.net/2005/08/31/los-peligros-ocultos-de-la-red-v-la-retencion-de-datos-y-la-interceptacion-de-telecomunicaciones/) y [este](https://www.cortell.net/2004/11/27/no-eres-paranoico-si-de-verdad-te-persiguen-pci-24/) artí­culo y comprobad como miles de personas en EEUU ya han sufrido innumerables problemas por tonterí­as como esa.
 
-NO ES LA GUERRA, E INCLUSO SI LO FUESE NO PODEMOS PERMITIR QUE HAGAN LO QUE LES DE LA GANA CON NUESTROS DERECHOS CIVILES. SI LO HICIESEN YA HABRIAMOS PERDIDO LA GUERRA. Más sobre este concepto en [este](http://www.cortell.net/2005/10/26/harvard-midterm-paper-govt-e-1045/) artí­culo.
+NO ES LA GUERRA, E INCLUSO SI LO FUESE NO PODEMOS PERMITIR QUE HAGAN LO QUE LES DE LA GANA CON NUESTROS DERECHOS CIVILES. SI LO HICIESEN YA HABRIAMOS PERDIDO LA GUERRA. Más sobre este concepto en [este](https://www.cortell.net/2005/10/26/harvard-midterm-paper-govt-e-1045/) artí­culo.

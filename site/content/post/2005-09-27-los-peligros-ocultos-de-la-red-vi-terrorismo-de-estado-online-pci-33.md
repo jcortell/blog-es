@@ -4,7 +4,7 @@ title: 'Los peligros ocultos de la Red VI: Terrorismo de Estado OnLine (PC&amp;I
 date: 2005-09-27T09:03:35+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=132
+guid: https://www.cortell.net/?p=132
 permalink: /2005/09/27/los-peligros-ocultos-de-la-red-vi-terrorismo-de-estado-online-pci-33/
 categories:
   - 'Artí­culos escritos para la revista PC&amp;I'
@@ -35,4 +35,4 @@ Esto conlleva una serie de graves peligros:
   
 – Para colmo supongo que integrarán el JFCCNW en el Future Combat System (FCS), y que le aportará tecnologí­a In-Q-Tel, pero de este otro peligro hablaré el mes que viene.
 
-[<img src="http://tira.escomposlinux.org/ecol-222.png" alt="tira es.comp.os.linux" border="0" />](http://tira.escomposlinux.org/ecol-222.png)
+[<img src="https://tira.escomposlinux.org/ecol-222.png" alt="tira es.comp.os.linux" border="0" />](https://tira.escomposlinux.org/ecol-222.png)

@@ -4,7 +4,7 @@ title: En los próximos tres meses viajaré DE VERDAD
 date: 2014-05-10T12:19:44+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5162
+guid: https://blog.cortell.net/es/?p=5162
 permalink: /2014/05/10/en-los-proximos-tres-meses-viajare-de-verdad/
 categories:
   - General

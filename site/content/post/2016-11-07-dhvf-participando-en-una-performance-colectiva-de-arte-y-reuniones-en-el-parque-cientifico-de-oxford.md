@@ -4,7 +4,7 @@ title: DHVF, participando en una performance colectiva de arte, y reuniones en e
 date: 2016-11-07T20:04:55+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5932
+guid: https://blog.cortell.net/es/?p=5932
 permalink: /2016/11/07/dhvf-participando-en-una-performance-colectiva-de-arte-y-reuniones-en-el-parque-cientifico-de-oxford/
 categories:
   - Arte

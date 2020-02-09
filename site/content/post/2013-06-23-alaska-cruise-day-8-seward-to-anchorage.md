@@ -4,7 +4,7 @@ title: 'Alaska Cruise Day 8: Seward to Anchorage'
 date: 2013-06-23T18:28:06+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4769
+guid: https://cortell.net/blog/?p=4769
 permalink: /2013/06/23/alaska-cruise-day-8-seward-to-anchorage/
 categories:
   - General

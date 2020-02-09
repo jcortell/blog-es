@@ -4,7 +4,7 @@ title: slkdjlaskjdlak
 date: 2010-11-07T19:16:23+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2676
+guid: https://cortell.net/blog/?p=2676
 permalink: /2010/11/07/slkdjlaskjdlak/
 categories:
   - Arte

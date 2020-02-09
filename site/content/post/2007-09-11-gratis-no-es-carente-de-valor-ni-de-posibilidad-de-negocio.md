@@ -4,7 +4,7 @@ title: Gratis no es carente de valor, ni de posibilidad de negocio
 date: 2007-09-11T17:26:10+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/09/11/gratis-no-es-carente-de-valor-ni-de-posibilidad-de-negocio/
+guid: https://www.cortell.net/2007/09/11/gratis-no-es-carente-de-valor-ni-de-posibilidad-de-negocio/
 permalink: /2007/09/11/gratis-no-es-carente-de-valor-ni-de-posibilidad-de-negocio/
 categories:
   - CiberDerechos
@@ -13,7 +13,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-Parece mentira que un concepto tan obvio como el de la gratuidad no sea comprendido en su totalidad. Y que no lo <strike>entienda</strike> quiera entender la SGAâ‚¬, pase, pero que Javier Ansorena, del diario Expansión, demuestre no entenderlo en <a target="_blank" title="Artí­culo Expansión" href="http://www.expansion.com/edicion/exp/economia_y_politica/entorno/es/desarrollo/1034209.html">este artí­culo</a>, la verdad es que... no lo entiendo 😉
+Parece mentira que un concepto tan obvio como el de la gratuidad no sea comprendido en su totalidad. Y que no lo <strike>entienda</strike> quiera entender la SGAâ‚¬, pase, pero que Javier Ansorena, del diario Expansión, demuestre no entenderlo en <a target="_blank" title="Artí­culo Expansión" href="https://www.expansion.com/edicion/exp/economia_y_politica/entorno/es/desarrollo/1034209.html">este artí­culo</a>, la verdad es que... no lo entiendo 😉
 
 Parafraseando a Pedro Farré de SGAâ‚¬, dice que "Nada es gratis y la música tampoco".
 

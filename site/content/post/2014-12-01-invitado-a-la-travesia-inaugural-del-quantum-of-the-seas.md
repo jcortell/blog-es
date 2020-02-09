@@ -4,7 +4,7 @@ title: Invitado a la travesía inaugural del Quantum of the Seas
 date: 2014-12-01T16:43:54+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5354
+guid: https://blog.cortell.net/es/?p=5354
 permalink: /2014/12/01/invitado-a-la-travesia-inaugural-del-quantum-of-the-seas/
 categories:
   - General
@@ -16,9 +16,9 @@ Mi maravillosa esposa me invitó a la travesía inaugural del Quantum of the Sea
 
 Me encantan esos "cruceros inaugurales". Aunque su destino oficial es "ningún sitio", tienes la oportunidad de disfrutar del barco, con sus restaurantes y entretenimiento, en tan sólo 3 días. Por supuesto prefiero cruceros completos (y el próximo abril disfrutaremos de uno impresionante), pero ahora mismo no puedo estar sin cobertura de teléfono móvil e internet durante más de 3 días, así que esto es perfecto.
 
-Además, en estas ocasiones ella es la invitada VIP y yo disfruto de ser su acompañante, donde nadie me conoce, y no hay "expertos de la industria" (al menos "mi" industria), lo cual es divertido. Incluso le dieron una <a title="http://hexaelectronics.com/product/hexa-blue-10-windows-tablet/" href="http://hexaelectronics.com/product/hexa-blue-10-windows-tablet/" target="_blank">tablet Hexa</a> de 8" como regalo de bienvenida. ¡Mola!
+Además, en estas ocasiones ella es la invitada VIP y yo disfruto de ser su acompañante, donde nadie me conoce, y no hay "expertos de la industria" (al menos "mi" industria), lo cual es divertido. Incluso le dieron una <a title="https://hexaelectronics.com/product/hexa-blue-10-windows-tablet/" href="https://hexaelectronics.com/product/hexa-blue-10-windows-tablet/" target="_blank">tablet Hexa</a> de 8" como regalo de bienvenida. ¡Mola!
 
-Si bien este nuevo barco se orienta hacia el "mercado masivo", es realmente espectacular, con la <a title="http://www.royalcaribbean.com/quantumoftheseas/technology/smart-experiences/" href="http://www.royalcaribbean.com/quantumoftheseas/technology/smart-experiences/" target="_blank">tecnología</a> jugando un papel preponderante. Os enumero algunos de los mejores momentos:
+Si bien este nuevo barco se orienta hacia el "mercado masivo", es realmente espectacular, con la <a title="https://www.royalcaribbean.com/quantumoftheseas/technology/smart-experiences/" href="https://www.royalcaribbean.com/quantumoftheseas/technology/smart-experiences/" target="_blank">tecnología</a> jugando un papel preponderante. Os enumero algunos de los mejores momentos:
 
   * Camareros robot. Sí: ROBOTS. Con una pantalla que indica el cóctel que están preparando, los ingredientes, los pasos, la edad media de las personas en el bar, lo que están pidiendo, etc.
   * Coches de choque
@@ -31,6 +31,6 @@ Si bien este nuevo barco se orienta hacia el "mercado masivo", es realmente espe
 
 Todo esto además de algunas otras "características más comunes" en barcos como este como muro de escalada, arcade de vídeo-juegos, biblioteca, una banda que hizo excelentes versiones de temas de U2, un cómico, etc.
 
-Pero, sorprendentemente, la novedad más refrescante del barco era su <a title="http://www.royalcaribbean.com/connect/quantum-of-the-seas-art-collection-a-deep-dive/" href="http://www.royalcaribbean.com/connect/quantum-of-the-seas-art-collection-a-deep-dive/" target="_blank">arte</a>. Una colección valorada en más de $5 millones, compuesta por 2.980 piezas originales de algunos artistas conocidos decoraban toda la nave. Aunque no era una colección atrevida, arriesgada o incluso emocionante (fue curada por una empresa que organiza "colecciones corporativas"), fue una característica muy bienvenida, toda una mejora con respecto a los insulsos posters y reproducciones pésimas de otros cruceros. Espero que la industria toma nota y haga de esta una característica habitual.
+Pero, sorprendentemente, la novedad más refrescante del barco era su <a title="https://www.royalcaribbean.com/connect/quantum-of-the-seas-art-collection-a-deep-dive/" href="https://www.royalcaribbean.com/connect/quantum-of-the-seas-art-collection-a-deep-dive/" target="_blank">arte</a>. Una colección valorada en más de $5 millones, compuesta por 2.980 piezas originales de algunos artistas conocidos decoraban toda la nave. Aunque no era una colección atrevida, arriesgada o incluso emocionante (fue curada por una empresa que organiza "colecciones corporativas"), fue una característica muy bienvenida, toda una mejora con respecto a los insulsos posters y reproducciones pésimas de otros cruceros. Espero que la industria toma nota y haga de esta una característica habitual.
 
 Así que fue una experiencia maravillosa, por lo cual estoy muy agradecido a mi esposa, su agencia de viajes y Royal Caribbean. ¡Me pueden invitar de nuevo en el momento que quieran! 😉

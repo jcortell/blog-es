@@ -4,7 +4,7 @@ title: Diferencias entre una buena y una mediocre sala VIP
 date: 2007-02-22T05:25:39+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/02/22/diferencias-entre-una-buena-y-una-mediocre-sala-vip/
+guid: https://www.cortell.net/2007/02/22/diferencias-entre-una-buena-y-una-mediocre-sala-vip/
 permalink: /2007/02/22/diferencias-entre-una-buena-y-una-mediocre-sala-vip/
 categories:
   - ¿Por qué no? ¿Utopías?

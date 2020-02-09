@@ -4,7 +4,7 @@ title: 'La &quot;clase media&quot; subvenciona a la &quot;clase alta&quot; volan
 date: 2008-05-31T12:28:51+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1234
+guid: https://www.cortell.net/?p=1234
 permalink: /2008/05/31/la-clase-media-subvenciona-a-la-clase-alta-volando/
 categories:
   - General

@@ -4,7 +4,7 @@ title: La verdad de Telefónica y la red
 date: 2011-05-30T11:40:39+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3184
+guid: https://cortell.net/blog/?p=3184
 permalink: /2011/05/30/la-verdad-de-telefonica-y-la-red/
 wpsd_autopost:
   - "1"

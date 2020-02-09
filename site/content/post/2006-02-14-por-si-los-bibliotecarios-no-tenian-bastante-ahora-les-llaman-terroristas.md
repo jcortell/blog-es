@@ -4,7 +4,7 @@ title: Por si los bibliotecarios no tení­an bastante, ahora les llaman terrori
 date: 2006-02-14T13:42:09+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/02/14/por-si-los-bibliotecarios-no-tenian-bastante-ahora-les-llaman-terroristas/
+guid: https://www.cortell.net/2006/02/14/por-si-los-bibliotecarios-no-tenian-bastante-ahora-les-llaman-terroristas/
 permalink: /2006/02/14/por-si-los-bibliotecarios-no-tenian-bastante-ahora-les-llaman-terroristas/
 categories:
   - CiberDerechos
@@ -14,7 +14,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-Si hace unos dí­as [hablábamos](http://www.cortell.net/2006/02/08/amenazas-para-las-bibliotecas-drm-canones/) de los peligros que acechan a las bibliotecas ahora leo con incredulidad [lo que el Boston Globe ha publicado: escrito por Richard L. Cravatts](http://www.boston.com/news/globe/editorial_opinion/oped/articles/2006/02/06/when_librarians_protect_terrorists/), profesor de la Boston University, dice que Kathy Glick-Weil, directora de la biblioteca de Newton (Massachusetts, EEUU), al negarse a permitir un registro de los ordenadores y archivos de la biblioteca por parte del FBI sin permiso judicial el 18 de enero (tras una amenaza de bomba a la Brandeis University), lo que hizo fue poco menos que apoyar a los terroristas.
+Si hace unos dí­as [hablábamos](https://www.cortell.net/2006/02/08/amenazas-para-las-bibliotecas-drm-canones/) de los peligros que acechan a las bibliotecas ahora leo con incredulidad [lo que el Boston Globe ha publicado: escrito por Richard L. Cravatts](https://www.boston.com/news/globe/editorial_opinion/oped/articles/2006/02/06/when_librarians_protect_terrorists/), profesor de la Boston University, dice que Kathy Glick-Weil, directora de la biblioteca de Newton (Massachusetts, EEUU), al negarse a permitir un registro de los ordenadores y archivos de la biblioteca por parte del FBI sin permiso judicial el 18 de enero (tras una amenaza de bomba a la Brandeis University), lo que hizo fue poco menos que apoyar a los terroristas.
 
 -¡Menudo fascista!
 

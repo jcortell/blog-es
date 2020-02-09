@@ -4,7 +4,7 @@ title: Varios días en México
 date: 2014-11-03T15:57:32+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5322
+guid: https://blog.cortell.net/es/?p=5322
 permalink: /2014/11/03/varios-dias-en-mexico/
 categories:
   - General
@@ -18,7 +18,7 @@ Mis amigos, además de distribuidores, “los Germinales” (tres generaciones c
 
 El primer día Germinal “senior” me llevó, nada más recogerme del aeropuerto, a comer a un restaurante llamado “El Sabor del Tiempo”. Muy genuino y tradicional. Pese a que solicitamos al “mesero” que por favor nos recomendara platos que no picasen, nos sirvió un asado que aunque delicioso, picaba lo suyo. Aunque supongo que la comida del sudeste asiático me ha curtido, porque yo me lo pude terminar y él no 😉
 
-En esta comida me habló del libro “<a title="http://www.amazon.com/Los-se%C3%B1ores-narco-Spanish-Edition-ebook/dp/B007TID1RK" href="http://www.amazon.com/Los-se%C3%B1ores-narco-Spanish-Edition-ebook/dp/B007TID1RK" target="_blank">Los Señores del Narco</a>”, donde se relata con mucho detalle, cifras y pruebas documentales, la estrecha relación entre los narcotraficantes y los políticos mexicanos, y de otros países, desde hace décadas. Germinal me lo comentó porque él mismo fue testigo, cuando construía hospitales en la sierra, hace 40 años, de los vuelos de narcotráfico ayudados por los militares, que incluso cargaban los aviones. Y al haber sido testigo de eso, cuando lo leyó en el mencionado libro se dio cuenta de que es un trabajo de investigación tremendamente detallado y veraz. Así que ya lo he pedido y será mi próxima lectura en cuanto acabe el libro de Wittgenstein que estoy leyendo, que no disfrutando.
+En esta comida me habló del libro “<a title="https://www.amazon.com/Los-se%C3%B1ores-narco-Spanish-Edition-ebook/dp/B007TID1RK" href="https://www.amazon.com/Los-se%C3%B1ores-narco-Spanish-Edition-ebook/dp/B007TID1RK" target="_blank">Los Señores del Narco</a>”, donde se relata con mucho detalle, cifras y pruebas documentales, la estrecha relación entre los narcotraficantes y los políticos mexicanos, y de otros países, desde hace décadas. Germinal me lo comentó porque él mismo fue testigo, cuando construía hospitales en la sierra, hace 40 años, de los vuelos de narcotráfico ayudados por los militares, que incluso cargaban los aviones. Y al haber sido testigo de eso, cuando lo leyó en el mencionado libro se dio cuenta de que es un trabajo de investigación tremendamente detallado y veraz. Así que ya lo he pedido y será mi próxima lectura en cuanto acabe el libro de Wittgenstein que estoy leyendo, que no disfrutando.
 
 La violencia y delincuencia por desgracia están a la orden del día en México y monopolizan el debate social. Pero no es para menos, pues en los pocos días que allí estuve escuché tantos casos de corrupción y violencia que me dieron náuseas. De hecho la población está harta, y hay constantes manifestaciones que bloquean el tránsito en el centro de México DF, pero por supuesto, necesarias como son, no cambiarán nada.
 

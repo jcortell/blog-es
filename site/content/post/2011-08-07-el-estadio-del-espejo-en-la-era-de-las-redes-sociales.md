@@ -4,7 +4,7 @@ title: El estadio del espejo en la era de las redes sociales
 date: 2011-08-07T13:48:05+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3369
+guid: https://cortell.net/blog/?p=3369
 permalink: /2011/08/07/el-estadio-del-espejo-en-la-era-de-las-redes-sociales/
 wpsd_autopost:
   - "1"
@@ -25,4 +25,4 @@ Al inicio, como suele ocurrir, las redes sociales eran toscas, burdas, básicas.
 
 Si asumimos al resto de participantes de esas redes sociales como "el semejante", y las redes como "espejo", tenemos que el estadio del espejo puede darse en una segunda instancia de la segunda tópica, a la luz de un nuevo y potente mecanismo especular, aparente pero engañosamente mucho más validador.
 
-Al igual que <a title="Estudio de Columbia" href="http://news.columbia.edu/research/2490" target="_blank">la memoria no funciona igual en la era de los buscadores</a> en red, sostengo (y seguro que no soy el primero en hacerlo) que la identidad no funciona igual en la era de las redes sociales.
+Al igual que <a title="Estudio de Columbia" href="https://news.columbia.edu/research/2490" target="_blank">la memoria no funciona igual en la era de los buscadores</a> en red, sostengo (y seguro que no soy el primero en hacerlo) que la identidad no funciona igual en la era de las redes sociales.

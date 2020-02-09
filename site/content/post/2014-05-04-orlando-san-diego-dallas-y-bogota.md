@@ -4,7 +4,7 @@ title: Orlando, San Diego, Dallas y Bogotá
 date: 2014-05-04T19:03:14+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5138
+guid: https://blog.cortell.net/es/?p=5138
 permalink: /2014/05/04/orlando-san-diego-dallas-y-bogota/
 categories:
   - General

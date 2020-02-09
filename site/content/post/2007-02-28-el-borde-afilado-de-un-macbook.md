@@ -4,7 +4,7 @@ title: El borde afilado de un MacBook
 date: 2007-02-28T17:50:41+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/02/28/el-borde-afilado-de-un-macbook/
+guid: https://www.cortell.net/2007/02/28/el-borde-afilado-de-un-macbook/
 permalink: /2007/02/28/el-borde-afilado-de-un-macbook/
 categories:
   - General

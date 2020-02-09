@@ -4,7 +4,7 @@ title: Complot internacional para acabar con el mal reparto de la riqueza
 date: 2009-07-06T19:21:23+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2013
+guid: https://cortell.net/blog/?p=2013
 permalink: /2009/07/06/complot-internacional-para-acabar-con-el-mal-reparto-de-la-riqueza/
 categories:
   - ¿Por qué no? ¿Utopías?

@@ -4,7 +4,7 @@ title: 'Thoughts about the 15M'
 date: 2012-05-22T13:17:18+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4139
+guid: https://cortell.net/blog/?p=4139
 permalink: /2012/05/22/thoughts-about-the-15m/
 wpsd_autopost:
   - "1"

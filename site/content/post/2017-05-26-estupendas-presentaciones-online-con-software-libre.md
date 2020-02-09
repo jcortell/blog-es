@@ -4,7 +4,7 @@ title: Estupendas presentaciones online con software libre
 date: 2017-05-26T09:05:16+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=6096
+guid: https://blog.cortell.net/es/?p=6096
 permalink: /2017/05/26/estupendas-presentaciones-online-con-software-libre/
 categories:
   - ¿Por qué no? ¿Utopías?

@@ -4,13 +4,13 @@ title: Orgulloso (carnaza para trolls)
 date: 2005-06-13T11:16:25+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=40
+guid: https://www.cortell.net/?p=40
 permalink: /2005/06/13/orgulloso-carnaza-para-trolls/
 categories:
   - General
   - Personal
 ---
-![notas Harvard spring 05](http://www.cortell.net/wp-content/images/edu/harvardspring05.png)
+![notas Harvard spring 05](https://www.cortell.net/wp-content/images/edu/harvardspring05.png)
 
 Este es un post para que los trolls tengan con qué entretenerse, mientras los demás nos dedicamos a otros menesteres. Si no eres un troll (o muy curioso), deja de leer aquí­ y pasa al siguiente post. Así­ me pueden llamar prepotente, o dedicarse a puntualizar si los créditos de undergraduate en España equivalen a los puntos del _puturrú de fua_ (qué tiempos aquellos, -¿os acordáis cuando en la TV aparecí­an grupos con crí­tica social como La Trinca? Supongo que ya no es así­, pero no lo sé porque hace mucho que no veo la TV).
 

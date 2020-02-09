@@ -4,7 +4,7 @@ title: MacBook Air olvidado en la estación de trenes de Málaga
 date: 2008-09-04T00:31:23+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1294
+guid: https://www.cortell.net/?p=1294
 permalink: /2008/09/04/macbook-air-olvidado-en-la-estacion-de-trenes-de-malaga/
 categories:
   - General

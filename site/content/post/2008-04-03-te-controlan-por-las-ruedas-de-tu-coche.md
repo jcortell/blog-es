@@ -4,7 +4,7 @@ title: Te controlan por las ruedas de tu coche
 date: 2008-04-03T09:50:29+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/04/03/te-controlan-por-las-ruedas-de-tu-coche/
+guid: https://www.cortell.net/2008/04/03/te-controlan-por-las-ruedas-de-tu-coche/
 permalink: /2008/04/03/te-controlan-por-las-ruedas-de-tu-coche/
 categories:
   - CiberDerechos
@@ -15,7 +15,7 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-Según <a href="http://www.hexview.com/sdp/node/44" title="fuente" target="_blank">este interesantísimo artículo</a> (recomiendo su lectura íntegra) de Hexview, el Sistema de Monitorización de Presión de Neumáticos (TPMS) de todos los vehículos modernos contiene un sensor (que mide la presión de la rueda) y un transmisor que se comunica con el ordenador de abordo mediante texto plano usando una frecuencia de radio (normalmente, 315MHz o 433MHz).
+Según <a href="https://www.hexview.com/sdp/node/44" title="fuente" target="_blank">este interesantísimo artículo</a> (recomiendo su lectura íntegra) de Hexview, el Sistema de Monitorización de Presión de Neumáticos (TPMS) de todos los vehículos modernos contiene un sensor (que mide la presión de la rueda) y un transmisor que se comunica con el ordenador de abordo mediante texto plano usando una frecuencia de radio (normalmente, 315MHz o 433MHz).
 
 No hace falta ser demasiado paranóico para entender que este mecanismo se puede emplear para monitorizar a cada vehículo (los TPMS llevan números de serie, por lo que es fácil identificar cada vehículo), o para poner multas. Incluso, poniéndonos el "gorro de patriota", podría servir para detonar un artefacto explosivo al paso de un vehículo específico.
 

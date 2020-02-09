@@ -4,7 +4,7 @@ title: Subway hell on the way to a meeting
 date: 2012-03-11T15:42:51+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3905
+guid: https://cortell.net/blog/?p=3905
 permalink: /2012/03/11/subway-hell-on-the-way-to-a-meeting/
 wpsd_autopost:
   - "1"

@@ -18,7 +18,7 @@ El 15 de octubre fui a Shanghai para más conferencias y para reunirme con el ma
 
 <!--more-->
 
-Llegamos en un vuelo nocturno, pero afortunadamente nuestro hotel (el [Cordis hongqiao](http://www.cordishotels.com/en/shanghai-hongqiao/)) estaba ubicado al lado del aeropuerto y la estación de tren. Aun así, nos fuimos a la cama más allá de la medianoche, y a las 6:30 am hubo una sesión de práctica de Taichi. Como he practicado Taichi antes, decidí quedarme un poco más en la cama para reunir fuerzas para el intenso día que se avecinaba.
+Llegamos en un vuelo nocturno, pero afortunadamente nuestro hotel (el [Cordis hongqiao](https://www.cordishotels.com/en/shanghai-hongqiao/)) estaba ubicado al lado del aeropuerto y la estación de tren. Aun así, nos fuimos a la cama más allá de la medianoche, y a las 6:30 am hubo una sesión de práctica de Taichi. Como he practicado Taichi antes, decidí quedarme un poco más en la cama para reunir fuerzas para el intenso día que se avecinaba.
 
 Después de un desayuno muy agradable, tomamos un autobús hacia el centro de Shanghai, donde visitamos las nuevas oficinas principales de [Fosun](https://www.fosun.com/language/en/), y hablamos con algunos de sus directivos de inversión. Fosun es un conglomerado Global Top 500 con más de $100 mil millones bajo administración, que invierte en Salud, Felicidad y Riqueza. Algunas de sus inversiones más famosas incluyen producciones cinematográficas (Wonder Woman, Gemini Man, etc.), Club Med o el Club de fútbol inglés Wolverhampton Wanderers (Wolves).
 

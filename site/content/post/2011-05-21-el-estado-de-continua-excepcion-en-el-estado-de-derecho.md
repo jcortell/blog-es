@@ -4,7 +4,7 @@ title: El Estado de contínua Excepción en el Estado de Derecho
 date: 2011-05-21T16:05:12+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3163
+guid: https://cortell.net/blog/?p=3163
 permalink: /2011/05/21/el-estado-de-continua-excepcion-en-el-estado-de-derecho/
 wpsd_autopost:
   - "1"
@@ -18,7 +18,7 @@ categories:
 ---
 > Todos los participantes del movimiento 15M, y me incluyo, aunque sólo pasaba por ahí para comprar el pan 😉 deberíamos ser multados y/o detenidos. Pero no va a ocurrir. Así es como se desprestigia (paso previo en su declive a su ocaso y derrumbe) una institución. Y de eso se trata.
 
-<img class="aligncenter" src="http://exprimetuuva.files.wordpress.com/2010/12/banksy-flowers.gif" alt="Bansky" />
+<img class="aligncenter" src="https://exprimetuuva.files.wordpress.com/2010/12/banksy-flowers.gif" alt="Bansky" />
   
 Si la ley es igual para todos, no puede haber excepciones. Si la ley se ha de aplicar en cualquier caso, no puede haber excepciones.
 
@@ -30,9 +30,9 @@ Pero a veces hay asuntos, hay estandartes, que son "la gota que colma el vaso". 
 
 Basta de confundir Estado con Sociedad (que no deja de ser una agrupación de indivíduos), basta de confundir Espiritualidad (que posiblemente no deje de ser una debilidad cerebral) con Religión.
 
-Si no se disuelven las manifestaciones-sentadas-acampadas hoy, el Estado de Derecho mostrará su verdadera cara y debilidad, marcando con ello un declive que comenzó hace tiempo. Si por el contrario se aplica [la ley](http://www.20minutos.es/noticia/1056432/0/junta-electoral/15m/manifestaciones/), podrá comenzar una imparable  cadena de acontecimientos de mayor o menor violencia que intente revertir la perversión en que se ha convertido todo esto.
+Si no se disuelven las manifestaciones-sentadas-acampadas hoy, el Estado de Derecho mostrará su verdadera cara y debilidad, marcando con ello un declive que comenzó hace tiempo. Si por el contrario se aplica [la ley](https://www.20minutos.es/noticia/1056432/0/junta-electoral/15m/manifestaciones/), podrá comenzar una imparable  cadena de acontecimientos de mayor o menor violencia que intente revertir la perversión en que se ha convertido todo esto.
   
-<img class="aligncenter" src="http://filipspagnoli.files.wordpress.com/2008/10/banksy-anarchism.jpg" alt="Bansky" />
+<img class="aligncenter" src="https://filipspagnoli.files.wordpress.com/2008/10/banksy-anarchism.jpg" alt="Bansky" />
 
 > Así que parece que el "movimiento 15M" conseguirá lo que se propone ocurra lo que ocurra... a no ser que haya silencio.
 > 

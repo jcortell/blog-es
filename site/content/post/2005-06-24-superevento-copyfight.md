@@ -4,7 +4,7 @@ title: Superevento Copyfight
 date: 2005-06-24T08:24:33+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/06/24/superevento-copyfight/
+guid: https://www.cortell.net/2005/06/24/superevento-copyfight/
 permalink: /2005/06/24/superevento-copyfight/
 categories:
   - CiberDerechos
@@ -18,4 +18,4 @@ Estarán todos (Lawrence Lessig / John Perry Barlow / Cory Doctorow / Jimmy Wale
 
 Enhorabuena, esto es lo que hace falta (eventos, debate, información, etc). Por cierto, que calladito os lo tení­ais. Suerte.
 
-Más info: web de [Copyfight](http://www.elastico.net/copyfight/).
+Más info: web de [Copyfight](https://www.elastico.net/copyfight/).

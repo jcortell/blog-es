@@ -4,7 +4,7 @@ title: Un gusano como excusa para una estafa militar
 date: 2010-09-17T10:59:32+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2629
+guid: https://cortell.net/blog/?p=2629
 permalink: /2010/09/17/un-gusano-como-excusa-para-una-estafa-militar/
 categories:
   - CiberDerechos
@@ -22,7 +22,7 @@ En <a title="https://snap.pae.osd.mil/snapit/ReportOpen.aspx?SysID=PB2011_AirFor
 
 Pero en el fondo el enorme malgasto de recursos públicos norteamericanos no es algo que debiera preocuparnos (que se jodan, que para eso son ricos, dice el hombre de a pie) sino los entresijos del poder que permean dichas acciones, y que tienen repercusiones internacionales.
 
-En un <a title="http://www.foreignaffairs.com/articles/66552/william-j-lynn-iii/defending-a-new-domain?cid=emc-sep2010promo-content-091610" href="http://www.foreignaffairs.com/articles/66552/william-j-lynn-iii/defending-a-new-domain?cid=emc-sep2010promo-content-091610" target="_blank">artículo</a> muy citado de William J. Lynn III (_U.S. Deputy Secretary of Defense_) escrito en Foreign Affairs, el Pentágono deja muy claro que, pese a trabajar "junto a la _Homeland Security Agency_", son ellos los que se van a asegurar de que la Red (siguen llamándola _Grid_, en vez de _Network_, lo cual denota sus cuadradas cabezotas y su espíritu intervencionista) se pliegue a los intereses económicos norteamericanos, con la eterna excusa de la "seguridad", claro.
+En un <a title="https://www.foreignaffairs.com/articles/66552/william-j-lynn-iii/defending-a-new-domain?cid=emc-sep2010promo-content-091610" href="https://www.foreignaffairs.com/articles/66552/william-j-lynn-iii/defending-a-new-domain?cid=emc-sep2010promo-content-091610" target="_blank">artículo</a> muy citado de William J. Lynn III (_U.S. Deputy Secretary of Defense_) escrito en Foreign Affairs, el Pentágono deja muy claro que, pese a trabajar "junto a la _Homeland Security Agency_", son ellos los que se van a asegurar de que la Red (siguen llamándola _Grid_, en vez de _Network_, lo cual denota sus cuadradas cabezotas y su espíritu intervencionista) se pliegue a los intereses económicos norteamericanos, con la eterna excusa de la "seguridad", claro.
 
 Esa batalla de control a través de organismos "internos" (en aquel entonces FBI y en teoría NSA) y "externos" (Pentágono y CIA) ya la viví en primera persona hace más de una década. Asumo que la batalla continuó, pero con la creación de la HSA (especie de FBI+CIA) y la todavía más descarada infiltración de la NSA en el Pentágono (¿o en realidad es al revés?) las líneas se han borrado. El problema es que el control también. Y con ello se dispara la amenaza de intervenciones autoritarias.
 

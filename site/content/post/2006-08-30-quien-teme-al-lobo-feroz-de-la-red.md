@@ -4,7 +4,7 @@ title: -¿Quién teme al lobo feroz de la red?
 date: 2006-08-30T09:13:08+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2006/08/30/%c2%bfquien-teme-al-lobo-feroz-de-la-red/'
+guid: 'https://www.cortell.net/2006/08/30/%c2%bfquien-teme-al-lobo-feroz-de-la-red/'
 permalink: /2006/08/30/quien-teme-al-lobo-feroz-de-la-red/
 categories:
   - CiberDerechos

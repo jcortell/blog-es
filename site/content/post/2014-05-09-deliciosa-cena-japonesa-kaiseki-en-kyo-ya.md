@@ -4,12 +4,12 @@ title: Deliciosa cena japonesa kaiseki en Kyo Ya
 date: 2014-05-09T19:28:32+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5158
+guid: https://blog.cortell.net/es/?p=5158
 permalink: /2014/05/09/deliciosa-cena-japonesa-kaiseki-en-kyo-ya/
 categories:
   - Uncategorized
 ---
-Por mi cumpleaños el mes pasado, mi mujer me invitó a una deliciosa cena kaiseki en el discreto restaurante japonés <a title="New York Times review of Kyo Ya" href="http://www.nytimes.com/restaurants/1194723845594/kyo-ya/details.html" target="_blank">Kyo Ya</a>. ¡Fue impresionante!
+Por mi cumpleaños el mes pasado, mi mujer me invitó a una deliciosa cena kaiseki en el discreto restaurante japonés <a title="New York Times review of Kyo Ya" href="https://www.nytimes.com/restaurants/1194723845594/kyo-ya/details.html" target="_blank">Kyo Ya</a>. ¡Fue impresionante!
 
 El menu de 11 platos, los cuales estuvieron todos deliciosos:
 

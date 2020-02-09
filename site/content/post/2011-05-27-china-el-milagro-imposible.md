@@ -4,7 +4,7 @@ title: 'China: el milagro imposible'
 date: 2011-05-27T16:22:47+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3179
+guid: https://cortell.net/blog/?p=3179
 permalink: /2011/05/27/china-el-milagro-imposible/
 wpsd_autopost:
   - "1"

@@ -4,7 +4,7 @@ title: Nueva encuesta
 date: 2006-01-03T10:26:35+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/01/03/nueva-encuesta/
+guid: https://www.cortell.net/2006/01/03/nueva-encuesta/
 permalink: /2006/01/03/nueva-encuesta/
 categories:
   - Copyfight

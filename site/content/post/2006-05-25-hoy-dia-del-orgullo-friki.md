@@ -4,7 +4,7 @@ title: Hoy, dí­a del orgullo friki
 date: 2006-05-25T01:45:55+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/05/25/hoy-dia-del-orgullo-friki/
+guid: https://www.cortell.net/2006/05/25/hoy-dia-del-orgullo-friki/
 permalink: /2006/05/25/hoy-dia-del-orgullo-friki/
 categories:
   - Filosofí­a
@@ -12,7 +12,7 @@ categories:
   - General
   - Humor y curiosidades
 ---
-Según <a target="_blank" title="Baquia dí­a del friki" href="http://blogs.baquia.com/zumodered/post/2006/05/23/el-dia-los-raritos">cuentan</a>, los frikis celebran hoy el dí­a del orgullo <a target="_blank" title="definición de friki" href="http://es.wikipedia.org/wiki/Friki">friki</a>, y para eso han publicado un <a target="_blank" title="Manifiesto Friki" href="http://www.alvarezperea.com/diaorgullofriki/manifiesto.htm">manifiesto</a>:
+Según <a target="_blank" title="Baquia dí­a del friki" href="https://blogs.baquia.com/zumodered/post/2006/05/23/el-dia-los-raritos">cuentan</a>, los frikis celebran hoy el dí­a del orgullo <a target="_blank" title="definición de friki" href="https://es.wikipedia.org/wiki/Friki">friki</a>, y para eso han publicado un <a target="_blank" title="Manifiesto Friki" href="https://www.alvarezperea.com/diaorgullofriki/manifiesto.htm">manifiesto</a>:
 
 ===================
 

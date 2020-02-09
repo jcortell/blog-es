@@ -4,7 +4,7 @@ title: 'Cómo EEUU obliga a adoptar copyright más restrictivo a otros gobiernos
 date: 2006-02-14T12:28:40+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/02/14/como-eeuu-obliga-a-adoptar-copyright-mas-restrictivo-a-otros-gobiernos-soberanos/
+guid: https://www.cortell.net/2006/02/14/como-eeuu-obliga-a-adoptar-copyright-mas-restrictivo-a-otros-gobiernos-soberanos/
 permalink: /2006/02/14/como-eeuu-obliga-a-adoptar-copyright-mas-restrictivo-a-otros-gobiernos-soberanos/
 categories:
   - CiberDerechos
@@ -15,7 +15,7 @@ categories:
 ---
 Como he denunciado en multitud de ocasiones (la primera en 1998 en una publicación de la Harvard Law School), lo que parecen legislaciones nacionales adoptadas por gobiernos soberanos en sus dignos y solemnes parlamentos en muchas ocasiones no es más que basura impuesta.
 
-El Tratado de Libre Comercio Centroamericano ([CAFTA](http://www.ustr.gov/Trade_Agreements/Bilateral/CAFTA/CAFTA-DR_Final_Texts/Section_Index.html)) es considerado un acuerdo [TRIPS-plus](http://www.qiap.ca/documents/FTAAUS2.pdf), uno de esos acuerdos de comercio bilaterales negociados por los EEUU que incluyen provisiones (obligaciones) para la implantación y la ampliación de restricciones anticopia (DRM), lí­mites a las excepciones de patentes, la desaparición de las licencias _sui generis_, y términos más amplios de prohibiciones y restricciones a la copia y acceso a las obras bajo el paraguas "Propiedad Intelectual".
+El Tratado de Libre Comercio Centroamericano ([CAFTA](https://www.ustr.gov/Trade_Agreements/Bilateral/CAFTA/CAFTA-DR_Final_Texts/Section_Index.html)) es considerado un acuerdo [TRIPS-plus](https://www.qiap.ca/documents/FTAAUS2.pdf), uno de esos acuerdos de comercio bilaterales negociados por los EEUU que incluyen provisiones (obligaciones) para la implantación y la ampliación de restricciones anticopia (DRM), lí­mites a las excepciones de patentes, la desaparición de las licencias _sui generis_, y términos más amplios de prohibiciones y restricciones a la copia y acceso a las obras bajo el paraguas "Propiedad Intelectual".
 
 Para colmo, los representantes de EEUU, una vez "obligan" al paí­s de turno a firmar uno de esos acuerdos, vuelven al congreso de su paí­s a exigir reformas legislativas para la "armonización". Por supuesto dichas reformas no pasan por el procedimiento de debate y votación. Y por supuesto siempre van a favor de las multinacionales y en contra de los derechos y libertades de los consumidores y ciudadanos.
 

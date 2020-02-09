@@ -4,7 +4,7 @@ title: 'Ví­deos musicales, derivados, colaborativos...'
 date: 2007-02-06T18:38:02+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/02/06/videos-musicales-derivados-colaborativos/
+guid: https://www.cortell.net/2007/02/06/videos-musicales-derivados-colaborativos/
 permalink: /2007/02/06/videos-musicales-derivados-colaborativos/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -13,7 +13,7 @@ categories:
   - General
   - Technology
 ---
-Este impresionante <a target="_blank" title="Web2.0 en YouTube" href="http://www.youtube.com/watch?v=6gmP4nk0EOE">ví­deo</a> sobre lo que se supone que es la Web 2.0 (simple, no nos dice nada nuevo, pero ciertamente es muy ilustrativo) sintetiza muchos conceptos.
+Este impresionante <a target="_blank" title="Web2.0 en YouTube" href="https://www.youtube.com/watch?v=6gmP4nk0EOE">ví­deo</a> sobre lo que se supone que es la Web 2.0 (simple, no nos dice nada nuevo, pero ciertamente es muy ilustrativo) sintetiza muchos conceptos.
 
 Ahora pongamos un ejemplo práctico, pero complejo: un grupo musical, toca en un concierto, se graba un ví­deo. Hasta ahora, a parte de la gran -© (presente en la letra, en el diseño de los posters, en la música, en la interpretación, en el ví­deo...) y del diezmo inevitable de la suciedad de gestión, TODO quedaba en manos de los de siempre: Discográfica y Suciedad de Gestión.
 

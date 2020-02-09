@@ -4,7 +4,7 @@ title: Menos mal que nos queda el Hip Hop
 date: 2005-11-27T20:17:07+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/11/27/menos-mal-que-nos-queda-el-hip-hop/
+guid: https://www.cortell.net/2005/11/27/menos-mal-que-nos-queda-el-hip-hop/
 permalink: /2005/11/27/menos-mal-que-nos-queda-el-hip-hop/
 categories:
   - General

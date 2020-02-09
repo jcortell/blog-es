@@ -4,7 +4,7 @@ title: Autoedición
 date: 2008-01-16T16:40:45+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2008/01/16/autoedicion/
+guid: https://www.cortell.net/2008/01/16/autoedicion/
 permalink: /2008/01/16/autoedicion/
 categories:
   - CiberDerechos
@@ -13,9 +13,9 @@ categories:
   - Noticias
   - Rants
 ---
-En esta tí­pica <a title="diario 20 minutos" target="_blank" href="http://www.20minutos.es/noticia/334609/0/sgae/vecinos/zaragoza/">noticia</a> "SGAE hace que se embargue a asociación de vecinos por dar conciertos sin ánimo de lucro, en los que no cobraban ni los artistas, y no pagar a SGAE" que me eví­a Ivan, encuentro algo muy interesante en los comentarios (nada nuevo, pero muy buen resumen de primera mano):
+En esta tí­pica <a title="diario 20 minutos" target="_blank" href="https://www.20minutos.es/noticia/334609/0/sgae/vecinos/zaragoza/">noticia</a> "SGAE hace que se embargue a asociación de vecinos por dar conciertos sin ánimo de lucro, en los que no cobraban ni los artistas, y no pagar a SGAE" que me eví­a Ivan, encuentro algo muy interesante en los comentarios (nada nuevo, pero muy buen resumen de primera mano):
 
-[Rafa me dice que este mensaje apareció en un <a target="_blank" title="ipunkforos" href="http://www.ipunkforos.com/viewtopic.php?t=59479">thread</a> de su foro hace tiempo, y la verdad es que puede que ya lo comentase, pero es interesante, así­ que aquí­ va de nuevo]
+[Rafa me dice que este mensaje apareció en un <a target="_blank" title="ipunkforos" href="https://www.ipunkforos.com/viewtopic.php?t=59479">thread</a> de su foro hace tiempo, y la verdad es que puede que ya lo comentase, pero es interesante, así­ que aquí­ va de nuevo]
 
 Me ha costado descubrir un resquicio de esperanza a los grupos que no queremos nada que ver con la SGAE. Hay una posibilidad para la autoedicion!
   

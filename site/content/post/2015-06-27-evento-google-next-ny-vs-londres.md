@@ -4,7 +4,7 @@ title: 'Evento Google Next: NY vs Londres'
 date: 2015-06-27T15:29:56+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5546
+guid: https://blog.cortell.net/es/?p=5546
 permalink: /2015/06/27/evento-google-next-ny-vs-londres/
 categories:
   - Geek Fun
@@ -17,7 +17,7 @@ categories:
 ---
 El 23 de junio me invitaron al <a href="https://cloudplatformonline.com/NEXT_Google_Cloud_Platform_Experience_London.html" target="_blank">Google Next Event</a>, como cliente y potencial _partner_ de Google.
 
-Fue un tanto chocante comparar el tono y espíritu general del [mismo evento en Nueva York el año pasado](http://blog.cortell.net/es/2014/05/14/invitado-por-google-a-la-presentacion-de-google-cloud-platform/).
+Fue un tanto chocante comparar el tono y espíritu general del [mismo evento en Nueva York el año pasado](https://blog.cortell.net/es/2014/05/14/invitado-por-google-a-la-presentacion-de-google-cloud-platform/).
 
 En Nueva York todo estaba orientado hacia el _networking_, y daba la sensación de que uno podría ser cualquiera, y no importaba si representaba a una gran empresa o una "intención de _startup_".
 

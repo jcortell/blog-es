@@ -4,7 +4,7 @@ title: Santiago de Chile, Buenos Aires, y Montevideo
 date: 2014-06-02T10:00:46+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5198
+guid: https://blog.cortell.net/es/?p=5198
 permalink: /2014/06/02/santiago-de-chile-buenos-aires-y-montevideo/
 categories:
   - General

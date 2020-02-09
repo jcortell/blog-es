@@ -4,7 +4,7 @@ title: 'Regalos: qué suerte esta Navidad'
 date: 2010-12-25T11:52:07+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2798
+guid: https://cortell.net/blog/?p=2798
 permalink: /2010/12/25/regalos-que-suerte-esta-navidad/
 categories:
   - General

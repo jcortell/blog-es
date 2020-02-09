@@ -4,7 +4,7 @@ title: Se presenta artistasprofesionales.net
 date: 2005-08-02T09:14:22+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/08/02/se-presenta-artistasprofesionalesnet/
+guid: https://www.cortell.net/2005/08/02/se-presenta-artistasprofesionalesnet/
 permalink: /2005/08/02/se-presenta-artistasprofesionalesnet/
 categories:
   - CiberDerechos
@@ -12,7 +12,7 @@ categories:
   - General
   - Noticias
 ---
-Como comenté en mi conferencia "Modelos de Negocio Alternativos a la Industria Discográfica", se ha presentado [artistasprofesionales.net](http://www.artistasprofesionales.net)
+Como comenté en mi conferencia "Modelos de Negocio Alternativos a la Industria Discográfica", se ha presentado [artistasprofesionales.net](https://www.artistasprofesionales.net)
 
 Se trata de un foro / red social / portal que va a servir para poner en contacto Artistas Profesionales (compositores, intérpretes, bandas, fotógrafos, cineastas, etc) con su mercado y servicios auxiliares (managers, salas de conciertos, equipamiento, técnicos de iluminación, etc) sin necesidad de recurrir a intermediarios, ni depender de una industria que ahoga a los creadores. **El servicio es totalmente gratuito**.
 

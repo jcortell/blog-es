@@ -4,7 +4,7 @@ title: 'LPI: es TODO por el PODER (ejemplo de pressclipping)'
 date: 2006-03-29T08:11:29+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=393
+guid: https://www.cortell.net/?p=393
 permalink: /2006/03/29/lpi-es-todo-por-el-poder-ejemplo-de-pressclipping/
 categories:
   - CiberDerechos

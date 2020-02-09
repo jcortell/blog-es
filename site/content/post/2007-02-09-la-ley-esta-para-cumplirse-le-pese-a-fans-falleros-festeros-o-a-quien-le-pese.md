@@ -4,7 +4,7 @@ title: La ley está para cumplirse, le pese a fans, falleros, festeros, o a qui�
 date: 2007-02-09T13:16:05+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/02/09/la-ley-esta-para-cumplirse-le-pese-a-fans-falleros-festeros-o-a-quien-le-pese/
+guid: https://www.cortell.net/2007/02/09/la-ley-esta-para-cumplirse-le-pese-a-fans-falleros-festeros-o-a-quien-le-pese/
 permalink: /2007/02/09/la-ley-esta-para-cumplirse-le-pese-a-fans-falleros-festeros-o-a-quien-le-pese/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -14,7 +14,7 @@ categories:
 ---
 La ley, el Imperio de La Ley, está para cumplirse. Esto es el contrato social, si las normas se rompen, se rompen para todos.
 
-Por un lado tenemos varios ejemplos recientes de casos en los que la justicia se aplica por profundas e impopulares que sean sus consecuencias, como en el <a target="_blank" title="ABC" href="http://www.abc.es/20070206/deportes-futbol/italia-cierra-estadios-seguridad_200702060329.html">caso de la liga de fútbol italiana</a>, o el caso del <a target="_blank" title="Canarias 7" href="http://www.canarias7.es/articulo.cfm?Id=45793">carnaval</a> <a target="_blank" title="Canarias 7" href="http://www.canarias7.es/articulo.cfm?Id=45884">ruidoso</a>.
+Por un lado tenemos varios ejemplos recientes de casos en los que la justicia se aplica por profundas e impopulares que sean sus consecuencias, como en el <a target="_blank" title="ABC" href="https://www.abc.es/20070206/deportes-futbol/italia-cierra-estadios-seguridad_200702060329.html">caso de la liga de fútbol italiana</a>, o el caso del <a target="_blank" title="Canarias 7" href="https://www.canarias7.es/articulo.cfm?Id=45793">carnaval</a> <a target="_blank" title="Canarias 7" href="https://www.canarias7.es/articulo.cfm?Id=45884">ruidoso</a>.
 
 Por otro lado tenemos muchos, muchos casos en los que por impopular, no se aplica una medida que legalmente tiene mucho sentido. Los ejemplos que mejor conozco, lógicamente, son los de Valencia, pero que conste que no los comento por anti-valencianista, pues paso de ser de aquí­ o de allá (me considero cosmopolita y odio los regionalismos y nacionalismos radicales, irracionales e intransigentes, a la vez que odio los estados totalitarios, expansionistas y centralistas).
 

@@ -4,7 +4,7 @@ title: Tribulaciones aeroportuarias
 date: 2005-12-04T14:50:11+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/12/04/tribulaciones-aeroportuarias/
+guid: https://www.cortell.net/2005/12/04/tribulaciones-aeroportuarias/
 permalink: /2005/12/04/tribulaciones-aeroportuarias/
 categories:
   - CiberDerechos

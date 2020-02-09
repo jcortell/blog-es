@@ -4,7 +4,7 @@ title: Cicerone en Nueva York
 date: 2014-09-02T19:19:29+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5259
+guid: https://blog.cortell.net/es/?p=5259
 permalink: /2014/09/02/cicerone-en-nueva-york/
 categories:
   - Arte

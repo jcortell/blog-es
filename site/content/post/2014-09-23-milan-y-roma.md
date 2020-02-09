@@ -4,7 +4,7 @@ title: Milán y Roma
 date: 2014-09-23T05:58:57+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5298
+guid: https://blog.cortell.net/es/?p=5298
 permalink: /2014/09/23/milan-y-roma/
 categories:
   - General

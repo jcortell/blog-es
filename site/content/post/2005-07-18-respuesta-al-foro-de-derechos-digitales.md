@@ -4,7 +4,7 @@ title: Respuesta al Foro de Derechos Digitales
 date: 2005-07-18T13:47:01+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/07/18/respuesta-al-foro-de-derechos-digitales/
+guid: https://www.cortell.net/2005/07/18/respuesta-al-foro-de-derechos-digitales/
 permalink: /2005/07/18/respuesta-al-foro-de-derechos-digitales/
 categories:
   - CiberDerechos
@@ -12,11 +12,11 @@ categories:
   - General
   - Otras cosas
 ---
-A la pregunta (en el [Foro](http://www.irc-campus-party.org) de Derechos Digitales de la [Campus Party](http://www.campus-party.org))
+A la pregunta (en el [Foro](https://www.irc-campus-party.org) de Derechos Digitales de la [Campus Party](https://www.campus-party.org))
 
 > -¿Cómo se podrí­a legislar el peering de modo que los agentes implicados, incluyendo el usuario final, no vean lesionados sus derechos?
 
-Acabo de [responder](http://www.irc-campus-party.org/viewtopic.php?p=12684#12684):
+Acabo de [responder](https://www.irc-campus-party.org/viewtopic.php?p=12684#12684):
   
 En general, y para todos los "agentes implicados" podemos determinar que las redes P2P son una tecnologí­a excelente tanto para la promoción, como sobretodo para la distribución de obras digitales o digitalizables. Es por ello que, como tal, dicha tecnologí­a deberí­a de ser muy bien acogida por todos. Pero no parece ser así­. Por ejemplo, la industria discográfica (y especialmente las multinacionales), tras más de 100 años basando su modelo de negocio en la venta del soporte fí­sico que contiene la música grabada, y la concentración de oferta en unos oligopolios que manipulan los precios del mercado y las obras que se promocionan, ha puesto el grito en el cielo al ver aparecer estas tecnologí­as, sin pararse a pensar en cómo puede sacar partido de ellas.
 

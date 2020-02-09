@@ -4,7 +4,7 @@ title: 'Entropía legislativa: 70 años de copyright para música en Europa'
 date: 2009-04-24T10:18:36+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1824
+guid: https://cortell.net/blog/?p=1824
 permalink: /2009/04/24/entropia-legislativa-70-anos-de-copyright-para-musica-en-europa/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -22,7 +22,7 @@ A lo que lleva el "compromiso": entropía legislativa.
 
 =============
 
-Noticia. Fuente <a title="http://www.faq-mac.com/noticias/35485/europa-aprueba-70-anos-copyright-grabaciones-musicales" href="http://www.faq-mac.com/noticias/35485/europa-aprueba-70-anos-copyright-grabaciones-musicales" target="_blank">faqmac</a>:
+Noticia. Fuente <a title="https://www.faq-mac.com/noticias/35485/europa-aprueba-70-anos-copyright-grabaciones-musicales" href="https://www.faq-mac.com/noticias/35485/europa-aprueba-70-anos-copyright-grabaciones-musicales" target="_blank">faqmac</a>:
 
 El Parlamento europeo aprobó ayer la ampliación de los derechos de autor para grabaciones musicales. Estaba en 50 años, pedían 95 y se quedó en 70.
   

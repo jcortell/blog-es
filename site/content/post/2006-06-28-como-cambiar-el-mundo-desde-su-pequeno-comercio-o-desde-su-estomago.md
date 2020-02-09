@@ -4,16 +4,16 @@ title: Cómo cambiar el mundo desde su pequeño comercio (o desde su estómago)
 date: 2006-06-28T12:40:41+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/06/28/como-cambiar-el-mundo-desde-su-pequeno-comercio-o-desde-su-estomago/
+guid: https://www.cortell.net/2006/06/28/como-cambiar-el-mundo-desde-su-pequeno-comercio-o-desde-su-estomago/
 permalink: /2006/06/28/como-cambiar-el-mundo-desde-su-pequeno-comercio-o-desde-su-estomago/
 categories:
   - General
   - Medioambiente
   - Sociedad y polí­tica
 ---
-Desde hace tiempo <a target="_blank" title="Local food" href="http://www.worldwatch.org/node/4132">se sabe</a> que el consumo de alimentos locales tiene un impacto muy importante (y positivo) en el medioambiente.
+Desde hace tiempo <a target="_blank" title="Local food" href="https://www.worldwatch.org/node/4132">se sabe</a> que el consumo de alimentos locales tiene un impacto muy importante (y positivo) en el medioambiente.
 
-Pero se puede ir mucho más alla. Aquí­ hay una lista de iniciativas que una <a target="_blank" title="GalacticPizza" href="http://www.galacticpizza.com/gpvsnof.html">pizzerí­a de Minneapolis</a> ha puesto en marcha para ayudar a cambiar el mundo:
+Pero se puede ir mucho más alla. Aquí­ hay una lista de iniciativas que una <a target="_blank" title="GalacticPizza" href="https://www.galacticpizza.com/gpvsnof.html">pizzerí­a de Minneapolis</a> ha puesto en marcha para ayudar a cambiar el mundo:
 
   * Entrega de pizza a domicilio en vehí­culos 100% eléctricos.
   * Toda la energí­a de la pizzerí­a viene de energí­a eólica.

@@ -4,7 +4,7 @@ title: 'Los hombres: guarros y torpes'
 date: 2009-10-29T23:50:20+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2273
+guid: https://cortell.net/blog/?p=2273
 permalink: /2009/10/29/los-hombres-guarros-y-torpes/
 categories:
   - General
@@ -18,4 +18,4 @@ No sólo somos los hombres más guarros, sino que más torpes. Analizando qué l
 
 ¿El mensaje que mejor funcionó para ambos sexos? "¿Se está lavando con jabón la persona que está junto a usted?" Gran Hermano. Presión Social. Manipulación básica del "ojo que todo lo ve". Freud sigue vivo.
 
-Fuente: <a title="http://www.cnn.com/2009/HEALTH/10/16/hand.washing.study/index.html" href="http://www.cnn.com/2009/HEALTH/10/16/hand.washing.study/index.html" target="_blank">CNN Health</a>.
+Fuente: <a title="https://www.cnn.com/2009/HEALTH/10/16/hand.washing.study/index.html" href="https://www.cnn.com/2009/HEALTH/10/16/hand.washing.study/index.html" target="_blank">CNN Health</a>.

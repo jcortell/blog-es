@@ -4,7 +4,7 @@ title: Propuestas de mejora a la LISI por parte de organizaciones sociales y pro
 date: 2007-06-28T11:32:17+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/06/28/propuestas-de-mejora-a-la-lisi-por-parte-de-organizaciones-sociales-y-profesionales/
+guid: https://www.cortell.net/2007/06/28/propuestas-de-mejora-a-la-lisi-por-parte-de-organizaciones-sociales-y-profesionales/
 permalink: /2007/06/28/propuestas-de-mejora-a-la-lisi-por-parte-de-organizaciones-sociales-y-profesionales/
 categories:
   - CiberDerechos

@@ -4,7 +4,7 @@ title: Japan Society y Forbidden Planet Londres
 date: 2016-07-09T08:48:37+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5844
+guid: https://blog.cortell.net/es/?p=5844
 permalink: /2016/07/09/japan-society-y-forbidden-planet-londres/
 categories:
   - Arte

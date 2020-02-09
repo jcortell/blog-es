@@ -18,7 +18,7 @@ El jueves pasado fui a Madrid con mi hijo en el tren de alta velocidad, para un 
 
 <!--more-->
 
-Además de las reuniones (una en la Embajada de los Estados Unidos, la otra con mi equipo en nuestra oficina de Madrid) disfruté los pequeños placeres de la vida cotidiana, como reunirme con amigos, ver arte callejero inesperado (genial el trasero de la mujer hacia la bandera), y las alcachofas más deliciosas en [Cannibal Raw Bar](http://www.cannibalrawbar.es/).
+Además de las reuniones (una en la Embajada de los Estados Unidos, la otra con mi equipo en nuestra oficina de Madrid) disfruté los pequeños placeres de la vida cotidiana, como reunirme con amigos, ver arte callejero inesperado (genial el trasero de la mujer hacia la bandera), y las alcachofas más deliciosas en [Cannibal Raw Bar](https://www.cannibalrawbar.es/).
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/dist/pa-embed-player.min.js" async></script>
 <div class="pa-embed-player" style="width:100%; height:480px; display:none;"

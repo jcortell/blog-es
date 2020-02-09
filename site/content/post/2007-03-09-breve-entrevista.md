@@ -4,7 +4,7 @@ title: Breve entrevista
 date: 2007-03-09T12:40:57+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/03/09/breve-entrevista/
+guid: https://www.cortell.net/2007/03/09/breve-entrevista/
 permalink: /2007/03/09/breve-entrevista/
 categories:
   - CiberDerechos

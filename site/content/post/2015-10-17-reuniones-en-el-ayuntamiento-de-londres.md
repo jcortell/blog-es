@@ -4,7 +4,7 @@ title: Reuniones en el Ayuntamiento de Londres
 date: 2015-10-17T22:03:40+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5614
+guid: https://blog.cortell.net/es/?p=5614
 permalink: /2015/10/17/reuniones-en-el-ayuntamiento-de-londres/
 categories:
   - General

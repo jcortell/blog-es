@@ -4,7 +4,7 @@ title: Camino de NY
 date: 2007-06-06T23:52:10+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/06/06/camino-de-ny/
+guid: https://www.cortell.net/2007/06/06/camino-de-ny/
 permalink: /2007/06/06/camino-de-ny/
 categories:
   - General
@@ -41,4 +41,4 @@ Se acerca el fin del vuelo. No sé si habrá conexión a la red en el hotel (com
 
 Ahora a buscar un sitio hip/chic para cenar algo y a dormir como un niño bueno. =:-)
 
-[Actualización: el peligro de posts intimistas y sinceros como este es que <a target="_blank" title="Followski" href="http://www.despacho101.com/press/perla1">haya gente</a> que no lo entienda, que no lo quiera entender, o que no lo crea. Además es comida fácil para trolls. Qué le vamos a hacer. Soy como soy, te guste o no, lo cual por otra parte me importa un carajo -por cierto, -¿sabes lo que significa carajo? 😉 -]
+[Actualización: el peligro de posts intimistas y sinceros como este es que <a target="_blank" title="Followski" href="https://www.despacho101.com/press/perla1">haya gente</a> que no lo entienda, que no lo quiera entender, o que no lo crea. Además es comida fácil para trolls. Qué le vamos a hacer. Soy como soy, te guste o no, lo cual por otra parte me importa un carajo -por cierto, -¿sabes lo que significa carajo? 😉 -]

@@ -4,7 +4,7 @@ title: ¿Por fin podremos almacenar energía solar?
 date: 2009-04-12T08:52:05+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1779
+guid: https://cortell.net/blog/?p=1779
 permalink: /2009/04/12/por-fin-podremos-almacenar-energia-solar/
 categories:
   - ¿Por qué no? ¿Utopías?

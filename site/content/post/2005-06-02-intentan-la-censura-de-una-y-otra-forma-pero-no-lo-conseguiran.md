@@ -4,7 +4,7 @@ title: 'Intentan la censura de una y otra forma... pero no lo conseguirán'
 date: 2005-06-02T14:17:38+00:00
 author: Jorge Cortell
 layout: post
-guid: http://64.246.54.67/cortell.net/2005/06/02/intentan-la-censura-de-una-y-otra-forma-pero-no-lo-conseguiran/
+guid: https://64.246.54.67/cortell.net/2005/06/02/intentan-la-censura-de-una-y-otra-forma-pero-no-lo-conseguiran/
 permalink: /2005/06/02/intentan-la-censura-de-una-y-otra-forma-pero-no-lo-conseguiran/
 categories:
   - Personal

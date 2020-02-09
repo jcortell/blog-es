@@ -4,7 +4,7 @@ title: Finishing is not ending
 date: 2011-10-24T08:24:44+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3272
+guid: https://cortell.net/blog/?p=3272
 permalink: /2011/10/24/terminar-no-pone-fin/
 wpsd_autopost:
   - "1"

@@ -4,7 +4,7 @@ title: Receveing an award in Las Vegas
 date: 2013-03-01T17:43:52+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4598
+guid: https://cortell.net/blog/?p=4598
 permalink: /2013/03/01/receveing-an-award-in-las-vegas/
 wpsd_autopost:
   - "1"
@@ -31,6 +31,6 @@ El segundo día tuve una reunión muy temprano, luego recibí el premio en el es
 
 El último día participé en una mesa redonda de debate televisada con Tim Llewellynn (de Nueva Zelanda aunque vive en Suiza) y Aleksandar Vidovic (de Eslovenia) sobre tecnología cloud y seguridad. Fue filmado en un estudio increíblemente montado como un café hasta el más mínimo detalle, por un enorme equipo de televisión, con un director de Los Angeles, y organizado por la agencia de publicidad Ogilvy. A pesar de que duró 2 horas, nos dijeron que ¡lo reducirían a 2 minutos para TV!
 
-Después de algunas reuniones más, fui a la gala privada en la suite del ático (la "habitación de Celine Dion") de la Torre Forum. A continuación, algo de sushi de Nobu para cenar y un concierto de <a title="http://www.trainline.com/" href="http://www.trainline.com/" target="_blank">Train</a>.
+Después de algunas reuniones más, fui a la gala privada en la suite del ático (la "habitación de Celine Dion") de la Torre Forum. A continuación, algo de sushi de Nobu para cenar y un concierto de <a title="https://www.trainline.com/" href="https://www.trainline.com/" target="_blank">Train</a>.
 
 Un vuelo de medianoche (por algo lo llaman "ojos rojos") me llevó de regreso a casa, cansado, agotado, pero contento con los resultados, el _networking_, y la experiencia.

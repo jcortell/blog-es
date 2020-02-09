@@ -4,7 +4,7 @@ title: 'Motivo 87.535 para NO usar Windows: FIN DE SOPORTE'
 date: 2006-07-12T08:12:07+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/07/12/motivo-87535-para-no-usar-windows-fin-de-soporte/
+guid: https://www.cortell.net/2006/07/12/motivo-87535-para-no-usar-windows-fin-de-soporte/
 permalink: /2006/07/12/motivo-87535-para-no-usar-windows-fin-de-soporte/
 categories:
   - Free Software

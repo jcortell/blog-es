@@ -4,7 +4,7 @@ title: 'Ví­deo de &quot;la conferencia maldita&quot; disponible en... redes P2
 date: 2005-05-26T23:40:34+00:00
 author: Jorge Cortell
 layout: post
-guid: http://64.246.54.67/cortell.net/2005/05/26/video-de-la-conferencia-maldita-disponible-en-redes-p2p/
+guid: https://64.246.54.67/cortell.net/2005/05/26/video-de-la-conferencia-maldita-disponible-en-redes-p2p/
 permalink: /2005/05/26/video-de-la-conferencia-maldita-disponible-en-redes-p2p/
 categories:
   - Copyfight

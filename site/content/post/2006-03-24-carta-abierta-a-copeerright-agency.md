@@ -4,7 +4,7 @@ title: Carta abierta a CoPeerRight Agency
 date: 2006-03-24T10:40:23+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/03/24/carta-abierta-a-copeerright-agency/
+guid: https://www.cortell.net/2006/03/24/carta-abierta-a-copeerright-agency/
 permalink: /2006/03/24/carta-abierta-a-copeerright-agency/
 categories:
   - CiberDerechos
@@ -12,7 +12,7 @@ categories:
   - General
   - Rants
 ---
-En el [artí­culo que escribí­ sobre CoPeerRight Agency](http://www.cortell.net/2006/03/03/copeerright-agency-ejemplo-de-fud-pro-copyright/), leo un comentario anónimo (cobardemente escrito desde una dirección de correo de Yahoo, y sin nombre propio ni nick) de alguien que se supone representa o trabaja para ellos que dice lo siguiente:
+En el [artí­culo que escribí­ sobre CoPeerRight Agency](https://www.cortell.net/2006/03/03/copeerright-agency-ejemplo-de-fud-pro-copyright/), leo un comentario anónimo (cobardemente escrito desde una dirección de correo de Yahoo, y sin nombre propio ni nick) de alguien que se supone representa o trabaja para ellos que dice lo siguiente:
 
 _Buenos dí­as,</p> 
 

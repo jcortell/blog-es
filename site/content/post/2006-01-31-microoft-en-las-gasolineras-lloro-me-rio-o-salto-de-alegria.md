@@ -4,7 +4,7 @@ title: 'Micro$oft en las gasolineras: -¿lloro, me rí­o o salto de alegrí­a?
 date: 2006-01-31T13:46:55+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2006/01/31/microoft-en-las-gasolineras-%c2%bflloro-me-rio-o-salto-de-alegria/'
+guid: 'https://www.cortell.net/2006/01/31/microoft-en-las-gasolineras-%c2%bflloro-me-rio-o-salto-de-alegria/'
 permalink: /2006/01/31/microoft-en-las-gasolineras-lloro-me-rio-o-salto-de-alegria/
 categories:
   - Free Software
@@ -12,7 +12,7 @@ categories:
   - Otras cosas
   - Technology
 ---
-Por increí­ble que parezca, esta [FOTO](http://gearlog.com/photos/gearlog/images/4023/original.aspx) (real, no es broma) lo demuestra: Micro$oft quiere instalar pantallas de 10‘4" en surtidores de gasolina (como los fabricados por [Dresser Wayne](http://www.wayne.com/) para, y cito (sic) "ver anuncios, comprar música, o pedir café mientras llenamos el depósito".
+Por increí­ble que parezca, esta [FOTO](https://gearlog.com/photos/gearlog/images/4023/original.aspx) (real, no es broma) lo demuestra: Micro$oft quiere instalar pantallas de 10‘4" en surtidores de gasolina (como los fabricados por [Dresser Wayne](https://www.wayne.com/) para, y cito (sic) "ver anuncios, comprar música, o pedir café mientras llenamos el depósito".
 
 No sé si llorar, reirme, o saltar de alegrí­a, pues hay motivos para las tres cosas:
 

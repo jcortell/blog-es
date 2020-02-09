@@ -4,7 +4,7 @@ title: Anuncio del gobierno del RU paradigma del plagio
 date: 2007-07-02T09:23:06+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/07/02/anuncio-del-gobierno-del-ru-paradigma-del-plagio/
+guid: https://www.cortell.net/2007/07/02/anuncio-del-gobierno-del-ru-paradigma-del-plagio/
 permalink: /2007/07/02/anuncio-del-gobierno-del-ru-paradigma-del-plagio/
 categories:
   - CiberDerechos

@@ -4,7 +4,7 @@ title: 'Delicious home treats: chick pea cookies and more'
 date: 2013-07-15T12:55:14+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4804
+guid: https://cortell.net/blog/?p=4804
 permalink: /2013/07/15/delicious-home-treats-chick-pea-cookies-and-more/
 categories:
   - NY

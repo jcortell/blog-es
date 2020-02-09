@@ -4,7 +4,7 @@ title: Un día en Viena, un fin de semana en Valencia, un día en Barcelona, y d
 date: 2014-11-25T09:54:34+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5342
+guid: https://blog.cortell.net/es/?p=5342
 permalink: /2014/11/25/un-dia-en-viena-un-fin-de-semana-en-valencia-un-dia-en-barcelona-y-dos-en-stuttgart/
 categories:
   - General

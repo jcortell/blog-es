@@ -4,7 +4,7 @@ title: -¿Es ilegal el empleo de software privativo con bases de datos?
 date: 2006-01-11T15:17:24+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2006/01/11/%c2%bfes-ilegal-el-empleo-de-software-privativo-con-bases-de-datos/'
+guid: 'https://www.cortell.net/2006/01/11/%c2%bfes-ilegal-el-empleo-de-software-privativo-con-bases-de-datos/'
 permalink: /2006/01/11/es-ilegal-el-empleo-de-software-privativo-con-bases-de-datos/
 categories:
   - CiberDerechos

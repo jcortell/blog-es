@@ -4,7 +4,7 @@ title: 'Ataque contra la &quot;reflexión&quot; regulada hoy, y si no le gusta a
 date: 2011-05-21T16:28:23+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3165
+guid: https://cortell.net/blog/?p=3165
 permalink: /2011/05/21/ataque-contra-la-reflexion-regulada/
 wpsd_autopost:
   - "1"
@@ -19,7 +19,7 @@ Lo siento pero no puedo evitarlo. Me altera, me enerva, que exista una "jornada 
 
 La "jornada de reflexión" debería ser diaria. Al igual que las elecciones. Y la participación obligatoria.
 
-<img class="aligncenter" src="http://debian.ch/merchandise/img/tshirts/apt-get_install_anarchism.png" alt="apt-get anarchism" />
+<img class="aligncenter" src="https://debian.ch/merchandise/img/tshirts/apt-get_install_anarchism.png" alt="apt-get anarchism" />
 
 **¿Cómo que hoy, por un día, cada cuatro años, no puedo discutir sobre política? Pues este es el día que más me apetece hacerlo. Porque por desgracia parece ser el único que importa. Y ahora, después de ver cómo la policía observa impasible la Puerta del Sol, que vengan y me multen.**
 

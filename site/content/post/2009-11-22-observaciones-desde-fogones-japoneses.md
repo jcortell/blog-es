@@ -4,7 +4,7 @@ title: Observaciones desde fogones japoneses
 date: 2009-11-22T00:32:39+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2338
+guid: https://cortell.net/blog/?p=2338
 permalink: /2009/11/22/observaciones-desde-fogones-japoneses/
 categories:
   - General

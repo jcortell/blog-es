@@ -4,7 +4,7 @@ title: SoHo (window)shopping
 date: 2012-05-29T17:30:07+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4160
+guid: https://cortell.net/blog/?p=4160
 permalink: /2012/05/29/soho-windowshopping/
 wpsd_autopost:
   - "1"

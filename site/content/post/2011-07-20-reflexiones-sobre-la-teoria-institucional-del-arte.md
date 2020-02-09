@@ -4,7 +4,7 @@ title: 'Reflexiones sobre &quot;La Teoría Institucional del Arte&quot;'
 date: 2011-07-20T01:40:20+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3326
+guid: https://cortell.net/blog/?p=3326
 permalink: /2011/07/20/reflexiones-sobre-la-teoria-institucional-del-arte/
 wpsd_autopost:
   - "1"
@@ -18,7 +18,7 @@ categories:
 ---
 El viernes día 8, en el marco de un curso sobre _Planificación y Desarrollo de Exposiciones _en Madrid, participé en un breve debate sobre "el mundo del arte" del que no me he repuesto.
 
-Javier Rubio (crítico de arte del suplemento _ABC Cultural_) expuso y defendió la Teoría Institucional del Arte, revisada en _El Círculo del Arte_, de George Dickie (este <a title="http://www.economist.com/node/14941197" href="http://www.economist.com/node/14941197" target="_blank">artículo</a> de The Economist resume muy bien ese "circuito"). Y no es una cuestión ideológica, pues lo mismo expuso Martí Perán en _El País_ hace varios años.
+Javier Rubio (crítico de arte del suplemento _ABC Cultural_) expuso y defendió la Teoría Institucional del Arte, revisada en _El Círculo del Arte_, de George Dickie (este <a title="https://www.economist.com/node/14941197" href="https://www.economist.com/node/14941197" target="_blank">artículo</a> de The Economist resume muy bien ese "circuito"). Y no es una cuestión ideológica, pues lo mismo expuso Martí Perán en _El País_ hace varios años.
 
 No es que me guste para nada la restrictiva Ontología de A.C. Danto (de quien Dickie era discípulo), pero las ideas de Hume (_Norma del Gusto_, 1757), reformuladas por Dickie (desde su _Defining Art_ de 1969), no pueden resultar menos que repulsivas.
 

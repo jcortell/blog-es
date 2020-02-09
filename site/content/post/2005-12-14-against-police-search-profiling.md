@@ -4,7 +4,7 @@ title: Against police search profiling
 date: 2005-12-14T09:54:50+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/12/14/against-police-search-profiling/
+guid: https://www.cortell.net/2005/12/14/against-police-search-profiling/
 permalink: /2005/12/14/against-police-search-profiling/
 categories:
   - Filosofí­a

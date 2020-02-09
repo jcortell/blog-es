@@ -4,7 +4,7 @@ title: En respuesta al artí­culo de iAbogado
 date: 2005-06-09T10:18:06+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/06/09/en-respuesta-al-articulo-de-iabogado/
+guid: https://www.cortell.net/2005/06/09/en-respuesta-al-articulo-de-iabogado/
 permalink: /2005/06/09/en-respuesta-al-articulo-de-iabogado/
 categories:
   - Copyfight
@@ -12,7 +12,7 @@ categories:
 ---
 Javier Muñoz, en iAbogado escribí­a el 8 de mayo este artí­culo:
   
-[Las contradicciones de Cortell](http://www.iabogado.com/2005/05/las-contradicciones-de-cortell.cfm)
+[Las contradicciones de Cortell](https://www.iabogado.com/2005/05/las-contradicciones-de-cortell.cfm)
 
 Es la primera vez que veo a alguien intentar rebatir mis argumentos (no atacar a mi persona o ideologí­a). Se agradece, aunque me sorprende la tardanza.
 

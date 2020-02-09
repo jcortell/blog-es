@@ -4,7 +4,7 @@ title: Blog de mudanza
 date: 2009-01-24T16:01:44+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1449
+guid: https://www.cortell.net/?p=1449
 permalink: /2009/01/24/blog-de-mudanza/
 categories:
   - General

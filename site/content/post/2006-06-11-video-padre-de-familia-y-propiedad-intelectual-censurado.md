@@ -4,7 +4,7 @@ title: 'Ví­deo &quot;Padre de Familia&quot; y propiedad intelectual CENSURADO'
 date: 2006-06-11T16:48:59+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/06/11/video-padre-de-familia-y-propiedad-intelectual-censurado/
+guid: https://www.cortell.net/2006/06/11/video-padre-de-familia-y-propiedad-intelectual-censurado/
 permalink: /2006/06/11/video-padre-de-familia-y-propiedad-intelectual-censurado/
 categories:
   - CiberDerechos
@@ -16,7 +16,7 @@ categories:
 ---
 Hace unos dí­as Vicente me envio un enlace a un breví­simo ví­deo de la serie "Padre de Familia" con un sketch sobre la "porpiedad intelectual y el copyright". No lo posteé en su momento porque hay tantos ejemplos de burla y parodia hacia ese absurdo concepto...
 
-Pero ahora resulta que <a target="_blank" title="Ví­deo retirado de YouTube" href="http://www.youtube.com/watch?v=SH27fQjsPZk">el mencionado ví­deo ha sido retirado de YouTube</a> **por infracción del copyright**.
+Pero ahora resulta que <a target="_blank" title="Ví­deo retirado de YouTube" href="https://www.youtube.com/watch?v=SH27fQjsPZk">el mencionado ví­deo ha sido retirado de YouTube</a> **por infracción del copyright**.
 
 Ya pasó algo similar con uno de SouthPark. Lo único que conseguirán es que todos busquemos ese sketch como locos y lo posteemos en otros servidores. -¿Quieren silenciarnos? Toma caja de amplificación (no aprenden estos paletos, que ni en la UPV ni en la red lo conseguirán).
 

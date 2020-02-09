@@ -4,14 +4,14 @@ title: -¿A quién admiras?
 date: 2007-10-16T12:29:32+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2007/10/16/%c2%bfa-quien-admiras/'
+guid: 'https://www.cortell.net/2007/10/16/%c2%bfa-quien-admiras/'
 permalink: /2007/10/16/a-quien-admiras/
 categories:
   - ¿Por qué no? ¿Utopías?
   - Filosofí­a
   - General
 ---
-A veces pienso que dice mucho de nosotros el preguntarnos quienes son nuestros í­dolos. Ya he hablado <a target="_blank" href="http://www.cortell.net/2007/04/07/%c2%bfdonde-estan-los-verdaderos-heroes/">anteriormente</a> del error de la sociedad actual al ensalzar figuras vácuas o por los motivos más absurdos (farándula del "corazón", deportistas por el importe de su contrato, o actores y actrices no por su trabajo sino por su fí­sico).
+A veces pienso que dice mucho de nosotros el preguntarnos quienes son nuestros í­dolos. Ya he hablado <a target="_blank" href="https://www.cortell.net/2007/04/07/%c2%bfdonde-estan-los-verdaderos-heroes/">anteriormente</a> del error de la sociedad actual al ensalzar figuras vácuas o por los motivos más absurdos (farándula del "corazón", deportistas por el importe de su contrato, o actores y actrices no por su trabajo sino por su fí­sico).
 
 Se me ocurren mil ejemplos, desde los conocidos (como Steve Jobs: por su visión, tenacidad, y capacidad de superación ante la adversidad personal) hasta los anónimos (como mi muy admirado D. Erich: un ejemplo de lealtad, integridad y perseverancia). Pero hay un ejemplo que me ha impactado de verdad, y es la historia del reciente Premio Nobel de Medicina, **Mario Capecchi**.
 

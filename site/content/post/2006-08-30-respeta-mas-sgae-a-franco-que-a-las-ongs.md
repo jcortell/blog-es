@@ -4,7 +4,7 @@ title: -¿Respeta más SGAE a Franco que a las ONGs?
 date: 2006-08-30T09:11:44+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2006/08/30/%c2%bfrespeta-mas-sgae-a-franco-que-a-las-ongs/'
+guid: 'https://www.cortell.net/2006/08/30/%c2%bfrespeta-mas-sgae-a-franco-que-a-las-ongs/'
 permalink: /2006/08/30/respeta-mas-sgae-a-franco-que-a-las-ongs/
 categories:
   - CiberDerechos

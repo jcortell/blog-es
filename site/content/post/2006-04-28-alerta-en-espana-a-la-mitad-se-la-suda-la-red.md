@@ -4,7 +4,7 @@ title: 'Alerta: en España a la mitad se la suda la Red'
 date: 2006-04-28T13:49:33+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/04/28/alerta-en-espana-a-la-mitad-se-la-suda-la-red/
+guid: https://www.cortell.net/2006/04/28/alerta-en-espana-a-la-mitad-se-la-suda-la-red/
 permalink: /2006/04/28/alerta-en-espana-a-la-mitad-se-la-suda-la-red/
 categories:
   - General
@@ -13,9 +13,9 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-Da la [voz de alarma](http://blogs.baquia.com/zumodered/post/2006/04/12/la-mitad-los-paisanos-pasa-la-red) Baquia:
+Da la [voz de alarma](https://blogs.baquia.com/zumodered/post/2006/04/12/la-mitad-los-paisanos-pasa-la-red) Baquia:
 
-_Ciertamente desmoralizador el último estudio de la Oficina de Estadí­stica de la UE (Eurostat): en él se dice que el 50% de los españoles no se ha acercado a la Red [ni por curiosidad](http://www.elpais.es/articulo/internet/espanoles/ha/utilizado/Internet/solo/35/conecta/semanalmente/elpportec/20060406elpepunet_7/Tes/), nada menos que un porcentaje siete puntos por encima del promedio comunitario._
+_Ciertamente desmoralizador el último estudio de la Oficina de Estadí­stica de la UE (Eurostat): en él se dice que el 50% de los españoles no se ha acercado a la Red [ni por curiosidad](https://www.elpais.es/articulo/internet/espanoles/ha/utilizado/Internet/solo/35/conecta/semanalmente/elpportec/20060406elpepunet_7/Tes/), nada menos que un porcentaje siete puntos por encima del promedio comunitario._
 
 Así­ nos luce el pelo.
   

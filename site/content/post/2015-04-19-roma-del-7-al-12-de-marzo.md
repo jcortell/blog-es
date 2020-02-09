@@ -4,7 +4,7 @@ title: Roma del 7 al 12 de marzo
 date: 2015-04-19T12:18:37+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5422
+guid: https://blog.cortell.net/es/?p=5422
 permalink: /2015/04/19/roma-del-7-al-12-de-marzo/
 categories:
   - Arte
@@ -13,9 +13,9 @@ categories:
 ---
 El 7 de marzo mi mujer y yo viajamos a Roma durante unos días, ya que la visita de un día durante el crucero del verano pasado nos supo a poco y nos dejó con ganas de más.
 
-Primero nos quedamos en el hotel <a title="http://www.splendideroyal.com/" href="http://www.splendideroyal.com/" target="_blank">Splendide Royal</a>. Una “grand dame” de decoración barroca y restaurante de lujo lleno de empresarios, oligarcas del este, y sus amantes.
+Primero nos quedamos en el hotel <a title="https://www.splendideroyal.com/" href="https://www.splendideroyal.com/" target="_blank">Splendide Royal</a>. Una “grand dame” de decoración barroca y restaurante de lujo lleno de empresarios, oligarcas del este, y sus amantes.
 
-El día 9 nos pasamos al hotel <a title="http://www.kolbehotelrome.com/" href="http://www.kolbehotelrome.com/" target="_blank">Kolbe Rome</a>, un monasterio (en parte todavía en marcha) ubicado al lado del Circo Massimo y el Colosseo, a donde nos reunimos con mis suegros, que venían de Canadá.
+El día 9 nos pasamos al hotel <a title="https://www.kolbehotelrome.com/" href="https://www.kolbehotelrome.com/" target="_blank">Kolbe Rome</a>, un monasterio (en parte todavía en marcha) ubicado al lado del Circo Massimo y el Colosseo, a donde nos reunimos con mis suegros, que venían de Canadá.
 
 Visitamos toda Roma:
   

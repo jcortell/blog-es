@@ -4,11 +4,11 @@ title: 'Canción &quot;Me lo monto con Ubuntu&quot;'
 date: 2007-01-23T17:11:52+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/01/23/cancion-me-lo-monto-con-ubuntu/
+guid: https://www.cortell.net/2007/01/23/cancion-me-lo-monto-con-ubuntu/
 permalink: /2007/01/23/cancion-me-lo-monto-con-ubuntu/
 enclosure:
   - |
-    http://www.musicalliure.net/descarrega.php?id=147
+    https://www.musicalliure.net/descarrega.php?id=147
     0
     audio/mp3
 categories:
@@ -17,7 +17,7 @@ categories:
   - General
   - Technology
 ---
-Aquí­ tenéis -enlace corregido- (<a target="_blank" title="canción en ogg" href="http://www.musicalliure.net/descarrega.php?id=147">formato libre ogg</a>, y <a target="_blank" title="YouTube" href="http://www.youtube.com/watch?v=mHAdVv6KFJc">cutre-ví­deo</a> en YouTube) la canción "mâ€™ho munto amb lâ€™Ubuntu" (traducción: "Me lo monto con Ubuntu")
+Aquí­ tenéis -enlace corregido- (<a target="_blank" title="canción en ogg" href="https://www.musicalliure.net/descarrega.php?id=147">formato libre ogg</a>, y <a target="_blank" title="YouTube" href="https://www.youtube.com/watch?v=mHAdVv6KFJc">cutre-ví­deo</a> en YouTube) la canción "mâ€™ho munto amb lâ€™Ubuntu" (traducción: "Me lo monto con Ubuntu")
 
 Mâ€™ho munto, mâ€™ho munto, mâ€™ho munto amb lâ€™Ubuntu
   

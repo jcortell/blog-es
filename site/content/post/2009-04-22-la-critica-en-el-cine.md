@@ -4,7 +4,7 @@ title: La crítica EN el cine
 date: 2009-04-22T09:50:46+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1812
+guid: https://cortell.net/blog/?p=1812
 permalink: /2009/04/22/la-critica-en-el-cine/
 categories:
   - Filosofí­a
@@ -14,7 +14,7 @@ categories:
   - Placeres de la vida
   - Psicología
 ---
-Anoche estuve viendo con mi chica _<a title="http://www.imdb.com/title/tt0250081/" href="http://www.imdb.com/title/tt0250081/" target="_blank">Storytelling</a>_ (2001) de Todd Solondz. Tras la misma, como suele ser habitual, se inició el debate/tertulia. Pero lo que podría haber sido un consenso más, como nos ocurre en tantas ocasiones, se convirtió en un enfrentamiento de posturas. Y no por el film en sí, bastante fácil de analizar. Sino por un término: "crítica".
+Anoche estuve viendo con mi chica _<a title="https://www.imdb.com/title/tt0250081/" href="https://www.imdb.com/title/tt0250081/" target="_blank">Storytelling</a>_ (2001) de Todd Solondz. Tras la misma, como suele ser habitual, se inició el debate/tertulia. Pero lo que podría haber sido un consenso más, como nos ocurre en tantas ocasiones, se convirtió en un enfrentamiento de posturas. Y no por el film en sí, bastante fácil de analizar. Sino por un término: "crítica".
 
 Mi chica defendía que la película era una crítica, más incisiva que _American Beauty_, de la sociedad norteamericana y sus valores. Yo, sin embargo, me cuestioné el término "_crítica_". Manías de protofilósofo amateur racionalista y perfeccionista (con un par de circunstancias añadidas).
 
@@ -30,7 +30,7 @@ Por lo tanto, y siendo estrictos, un examen sin juicio, o mero retrato de los as
 > 
 > ¿Tendrá esto que ver con la popularidad del cine como entretenimiento? 
 
-Una de mis frases favoritas es que **pensar duele**. Y cada vez estoy más convencido de que los que se adhieren a la escuela clásica de la "felicidad del perro" (<a title="http://es.wikipedia.org/wiki/Felicidad" href="http://es.wikipedia.org/wiki/Felicidad" target="_blank">felicidad</a> = ausencia de dolor, entendido como tensión y necesidad) son legión.
+Una de mis frases favoritas es que **pensar duele**. Y cada vez estoy más convencido de que los que se adhieren a la escuela clásica de la "felicidad del perro" (<a title="https://es.wikipedia.org/wiki/Felicidad" href="https://es.wikipedia.org/wiki/Felicidad" target="_blank">felicidad</a> = ausencia de dolor, entendido como tensión y necesidad) son legión.
 
 Ni epicureismo, ni estoicismo, ni racionalismo, ni utilitarismo les darán la clave de la felicidad. Y por favor, no caigan en la trampa de Nietzsche o Ciorán.
 

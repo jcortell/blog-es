@@ -4,7 +4,7 @@ title: El día 21 nos la cuelan
 date: 2010-12-16T12:53:39+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2776
+guid: https://cortell.net/blog/?p=2776
 permalink: /2010/12/16/el-dia-21-nos-la-cuelan/
 categories:
   - CiberDerechos
@@ -93,7 +93,7 @@ Reproduzco el mensaje que me ha llegado de Red Sostenible:
 </div>
 
 <div id="_mcePaste">
-  [1]http://www.elpais.com/articulo/espana/Cable/reunion/Gonzalez/Sinde/reclamacion/pissarro/elpepuesp/20101208elpepunac_10/Tes#
+  [1]https://www.elpais.com/articulo/espana/Cable/reunion/Gonzalez/Sinde/reclamacion/pissarro/elpepuesp/20101208elpepunac_10/Tes#
 </div>
 
 <div id="_mcePaste">
@@ -105,15 +105,15 @@ Reproduzco el mensaje que me ha llegado de Red Sostenible:
 </div>
 
 <div id="_mcePaste">
-  [2] http://www.nacionred.com/lobbies-pi/la-ley-sinde-made-in-usa-verguenza-nacional
+  [2] https://www.nacionred.com/lobbies-pi/la-ley-sinde-made-in-usa-verguenza-nacional
 </div>
 
 <div id="_mcePaste">
-  http://noticias.lainformacion.com/espana/el-congreso-aprobara-de-forma-expres-la-ley-sinde_NFJ6eWkVV83K0f7i7Q9R21/
+  https://noticias.lainformacion.com/espana/el-congreso-aprobara-de-forma-expres-la-ley-sinde_NFJ6eWkVV83K0f7i7Q9R21/
 </div>
 
 <div id="_mcePaste">
-  http://red-sostenible.net
+  https://red-sostenible.net
 </div>
 
 <div id="_mcePaste">
@@ -162,11 +162,11 @@ Montoro Romero, Cristóbal Ricardo (GP)
   
 Tomé Muguruza, Baudilio (GP)
 
-[1]http://www.elpais.com/articulo/espana/Cable/reunion/Gonzalez/Sinde/reclamacion/pissarro/elpepuesp/20101208elpepunac_10/Tes#Punto 6
+[1]https://www.elpais.com/articulo/espana/Cable/reunion/Gonzalez/Sinde/reclamacion/pissarro/elpepuesp/20101208elpepunac_10/Tes#Punto 6
   
 El embajador dice que el Gobierno norte americano no quiere que la ley sea debilitada por los emendamientos.
 
-[2] http://www.nacionred.com/lobbies-pi/la-ley-sinde-made-in-usa-verguenza-nacionalhttp://noticias.lainformacion.com/espana/el-congreso-aprobara-de-forma-expres-la-ley-sinde_NFJ6eWkVV83K0f7i7Q9R21/http://red-sostenible.net
+[2] https://www.nacionred.com/lobbies-pi/la-ley-sinde-made-in-usa-verguenza-nacionalhttps://noticias.lainformacion.com/espana/el-congreso-aprobara-de-forma-expres-la-ley-sinde_NFJ6eWkVV83K0f7i7Q9R21/https://red-sostenible.net
   
 Para más informaciones:
   

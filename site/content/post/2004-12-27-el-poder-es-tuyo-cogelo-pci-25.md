@@ -4,7 +4,7 @@ title: 'El poder es tuyo ... -¡cógelo! (PC&amp;I 25)'
 date: 2004-12-27T10:33:09+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2004/12/27/el-poder-es-tuyo-%c2%a1cogelo-pci-25/'
+guid: 'https://www.cortell.net/2004/12/27/el-poder-es-tuyo-%c2%a1cogelo-pci-25/'
 permalink: /2004/12/27/el-poder-es-tuyo-cogelo-pci-25/
 categories:
   - 'Artí­culos escritos para la revista PC&amp;I'
@@ -23,12 +23,12 @@ PHP, MySQL, y demás desarrollos de software libre han conseguido crear unas pla
 
 Más información:
   
-<http://www.democraciadirecta.net>
+<https://www.democraciadirecta.net>
   
-<http://www.enlloc.org/constitucion>
+<https://www.enlloc.org/constitucion>
   
-<http://democraciaweb.org>
+<https://democraciaweb.org>
   
-<http://www.edemocracia.com>
+<https://www.edemocracia.com>
 
-[<img src="http://tira.escomposlinux.org/ecol-197.png" alt="tira es.comp.os.linux" border="0" />](http://tira.escomposlinux.org/ecol-197.png)
+[<img src="https://tira.escomposlinux.org/ecol-197.png" alt="tira es.comp.os.linux" border="0" />](https://tira.escomposlinux.org/ecol-197.png)

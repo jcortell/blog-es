@@ -4,7 +4,7 @@ title: The parks of the future
 date: 2012-01-30T22:49:23+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3804
+guid: https://cortell.net/blog/?p=3804
 permalink: /2012/01/30/the-parks-of-the-future/
 categories:
   - General

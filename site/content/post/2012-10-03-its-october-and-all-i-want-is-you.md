@@ -4,7 +4,7 @@ title: 'It‘s October and all I want is you'
 date: 2012-10-03T22:02:51+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4320
+guid: https://cortell.net/blog/?p=4320
 permalink: /2012/10/03/its-october-and-all-i-want-is-you/
 wpsd_autopost:
   - "1"

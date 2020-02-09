@@ -4,7 +4,7 @@ title: No user, no cry
 date: 2005-10-26T17:46:25+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/10/26/no-user-no-cry/
+guid: https://www.cortell.net/2005/10/26/no-user-no-cry/
 permalink: /2005/10/26/no-user-no-cry/
 categories:
   - General
@@ -18,7 +18,7 @@ per lectora 18 oct 2005 10:36:35
   
 una cancion muy buena q han puesto hoy
 
-[Nota.- Cantar a ritmo de "[No woman no cry](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?selectedItemId=17012467&id=13126496)" de Bob Marley]
+[Nota.- Cantar a ritmo de "[No woman no cry](https://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?selectedItemId=17012467&id=13126496)" de Bob Marley]
 
 No user, no cry;
   
@@ -114,4 +114,4 @@ but until they‘ve gone
   
 no user no cry
 
-http://www.piksel.no/log.html
+https://www.piksel.no/log.html

@@ -4,7 +4,7 @@ title: 'Las plañideras del &quot;pobres artistas nuevos&quot; no conocen esto'
 date: 2007-02-08T15:07:09+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/02/08/las-planideras-del-pobres-artistas-nuevos-no-conocen-esto/
+guid: https://www.cortell.net/2007/02/08/las-planideras-del-pobres-artistas-nuevos-no-conocen-esto/
 permalink: /2007/02/08/las-planideras-del-pobres-artistas-nuevos-no-conocen-esto/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -20,9 +20,9 @@ El hecho de que las cosas se hiciesen de una forma antes, no quiere decir que no
 
 Cansado de poner ejemplos de "la tecnologí­a al rescate" (formas en que cosas como jamendo, lastFM, YouTube, MySpace, Blogs, Podcasts, etc, etc han ayudado y pueden ayudar a muchos artistas), voy a poner dos ejemplos tradicionales, analógicos, "de toda la vida" con los que estas "plañideras" se sentirán identificados y entenderán que las cosas cambian, pero en el fondo todo sigue igual, y la vida continúa.
 
-Por un lado el <a target="_blank" title="Circuito Café Teatro" href="http://www.circuitocafeteatro.com/Inicio/tabid/36/Default.aspx">Circuito Café Teatro de Valencia</a>.
+Por un lado el <a target="_blank" title="Circuito Café Teatro" href="https://www.circuitocafeteatro.com/Inicio/tabid/36/Default.aspx">Circuito Café Teatro de Valencia</a>.
 
-Por otro lado <a target="_blank" title="Ronda Sonora" href="http://rondasonora.k25.net/">Ronda Sonora</a>.
+Por otro lado <a target="_blank" title="Ronda Sonora" href="https://rondasonora.k25.net/">Ronda Sonora</a>.
 
 No tengo muchos datos, pero ni parece fianciado con dinero público, ni veo a SGAEs, VEGAPs, DAMAs, ni AIEs por el medio. Enhorabuena por la iniciativa.
 

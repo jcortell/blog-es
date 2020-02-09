@@ -4,7 +4,7 @@ title: La formación en la Facultad de Bellas Artes
 date: 2009-04-10T01:51:56+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1757
+guid: https://cortell.net/blog/?p=1757
 permalink: /2009/04/10/la-formacion-en-la-facultad-de-bellas-artes/
 categories:
   - Filosofí­a

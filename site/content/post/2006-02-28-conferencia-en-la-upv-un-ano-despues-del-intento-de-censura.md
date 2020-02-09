@@ -4,7 +4,7 @@ title: Conferencia en la UPV un año después del intento de censura
 date: 2006-02-28T14:31:23+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/02/28/conferencia-en-la-upv-un-ano-despues-del-intento-de-censura/
+guid: https://www.cortell.net/2006/02/28/conferencia-en-la-upv-un-ano-despues-del-intento-de-censura/
 permalink: /2006/02/28/conferencia-en-la-upv-un-ano-despues-del-intento-de-censura/
 categories:
   - General
@@ -16,7 +16,7 @@ categories:
 
 Supongo que, como en todas partes, en la Universidad Politécnica de Valencia hay gente que quiere escuchar lo que digo, y gente que no. Esto demuestra que pese a las presiones y el intento de censura ocurrido el año pasado, también existe cierta libertad, y me alegro por ello.
 
-Pues bien, como podéis comprobar en mi [calendario de próximas conferencias](http://www.cortell.net/proximas-conferencias/), los que quieren escucharme me han invitado a dar una conferencia el dí­a 2 de mayo a las 12:00 horas, en la Escuela de Informática titulada: "**Cómo ejercer y defender tus derechos digitales**". Este es el resumen de lo que tratará la conferencia:
+Pues bien, como podéis comprobar en mi [calendario de próximas conferencias](https://www.cortell.net/proximas-conferencias/), los que quieren escucharme me han invitado a dar una conferencia el dí­a 2 de mayo a las 12:00 horas, en la Escuela de Informática titulada: "**Cómo ejercer y defender tus derechos digitales**". Este es el resumen de lo que tratará la conferencia:
 
 > Los derechos a: el secreto de las telecomunicaciones, la privacidad, la libertad de expresión, la libertad de información, el acceso a la cultura, la igualdad ante la justicia, etc... están siendo atacados desde muy diversos ámbitos. En esta conferencia se mostrará cómo ejercer dichos derechos y cómo defenderlos para que no sigan siendo erosionandos.
 

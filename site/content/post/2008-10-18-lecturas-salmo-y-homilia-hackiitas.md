@@ -4,7 +4,7 @@ title: Lecturas, Salmo y Homilía hackiitas
 date: 2008-10-18T12:40:05+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1347
+guid: https://www.cortell.net/?p=1347
 permalink: /2008/10/18/lecturas-salmo-y-homilia-hackiitas/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -15,9 +15,9 @@ categories:
   - Hacking
   - Humor y curiosidades
 ---
-¿Sabías que las organizaciones religiosas estan exentas del pago de cualquier tipo de tasa, canon, o "derecho" a las Suciedades de Gestión? ¿Primero por qué? Segundo, ejemplo de por qué me encantan los HackMeeting, su gente, y las <a title="http://sindominio.net/hackmeeting/index.php/Celebracion_religiosa" href="http://sindominio.net/hackmeeting/index.php/Celebracion_religiosa" target="_blank">cosas que hacen</a>:
+¿Sabías que las organizaciones religiosas estan exentas del pago de cualquier tipo de tasa, canon, o "derecho" a las Suciedades de Gestión? ¿Primero por qué? Segundo, ejemplo de por qué me encantan los HackMeeting, su gente, y las <a title="https://sindominio.net/hackmeeting/index.php/Celebracion_religiosa" href="https://sindominio.net/hackmeeting/index.php/Celebracion_religiosa" target="_blank">cosas que hacen</a>:
 
-<img src="http://sindominio.net/hackmeeting/images/thumb/8/84/Isaac-jesus.jpg/425px-Isaac-jesus.jpg" alt="Isaac-jesus" width="425" height="599" />
+<img src="https://sindominio.net/hackmeeting/images/thumb/8/84/Isaac-jesus.jpg/425px-Isaac-jesus.jpg" alt="Isaac-jesus" width="425" height="599" />
 
 # Celebración de la compartición religiosa
 

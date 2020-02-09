@@ -4,7 +4,7 @@ title: 'Desarrollo caso Mamoncí­n-SGAâ‚¬ Vs Alasbarricadas.org (más sobre
 date: 2007-09-19T11:39:02+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/09/19/desarrollo-caso-mamoncin-sgae-vs-alasbarricadasorg-mas-sobre-el-honor/
+guid: https://www.cortell.net/2007/09/19/desarrollo-caso-mamoncin-sgae-vs-alasbarricadasorg-mas-sobre-el-honor/
 permalink: /2007/09/19/desarrollo-caso-mamoncin-sgae-vs-alasbarricadasorg-mas-sobre-el-honor/
 categories:
   - CiberDerechos
@@ -20,15 +20,15 @@ Nos cuenta Mercé:
 
 LAS CLAVES DEL PROCESO ALASBARRICADAS
 
-En mayo de 2007, los padres de X. recibí­an sorprendidos una demanda de Ramoncí­n contra su hijo, por lesiones al honor. El ex-cantante pedí­a y pide 6.000 euros, más costes del juicio (10.000 aprox. en total), por unos comentarios anónimos aparecidos en un rincón de la web Alasbarricadas.org, donde se tachaba a Ramoncí­n de <a target="_blank" title="DRAE" href="http://buscon.rae.es/draeI/SrvltGUIBusUsual?LEMA=pedante&TIPO_HTML=2&FORMATO=ampliado&sourceid=mozilla-search">pedante</a> y <a target="_blank" title="DRAE" href="http://buscon.rae.es/draeI/SrvltGUIBusUsual?LEMA=escoria&TIPO_HTML=2&FORMATO=ampliado&sourceid=mozilla-search">escoria</a>.
+En mayo de 2007, los padres de X. recibí­an sorprendidos una demanda de Ramoncí­n contra su hijo, por lesiones al honor. El ex-cantante pedí­a y pide 6.000 euros, más costes del juicio (10.000 aprox. en total), por unos comentarios anónimos aparecidos en un rincón de la web Alasbarricadas.org, donde se tachaba a Ramoncí­n de <a target="_blank" title="DRAE" href="https://buscon.rae.es/draeI/SrvltGUIBusUsual?LEMA=pedante&TIPO_HTML=2&FORMATO=ampliado&sourceid=mozilla-search">pedante</a> y <a target="_blank" title="DRAE" href="https://buscon.rae.es/draeI/SrvltGUIBusUsual?LEMA=escoria&TIPO_HTML=2&FORMATO=ampliado&sourceid=mozilla-search">escoria</a>.
 
-Empezaba una nueva aventura para X., quien hasta ahora no habí­a vivido un proceso judicial relacionado con Internet. El 12 de septiembre se celebró el juicio, en el Juzgado de Instrucción 44 de Madrid, el mismo donde se perdió el caso <a target="_blank" title="http://www.putasgae.org/" href="http://www.putasgae.org/">PutaSGAE</a>. En unos dí­as, la juez dictará sentencia.
+Empezaba una nueva aventura para X., quien hasta ahora no habí­a vivido un proceso judicial relacionado con Internet. El 12 de septiembre se celebró el juicio, en el Juzgado de Instrucción 44 de Madrid, el mismo donde se perdió el caso <a target="_blank" title="https://www.putasgae.org/" href="https://www.putasgae.org/">PutaSGAE</a>. En unos dí­as, la juez dictará sentencia.
 
 Esto que sigue es el cómo una influyente organización, la Sociedad General de Autores y Editores (SGAE), ha intrigado para invalidar el artí­culo 16 de la Ley de Servicios de la Sociedad de la Información (LSSI) y la directiva europea que exoneran de responsabilidad a los prestadores de servicios de Internet, frente a los contenidos aportados por terceros.
 
 1. Qué busca la SGAE, según la SGAE, con este proceso.
 
-"En la audiencia previa al juicio, el 19 de junio, planteamos a los abogados de SGAE, que defienden a Ramoncí­n, llegar a un acuerdo pero se negaron alegando que están cansados de que se hable mal de ellos. Quieren que, en Internet, antes de hablar mal de ellos se lo piensen dos veces. Con este plural entendimos que quien está detrás de la demanda no es Ramoncí­n, sino la <a target="_blank" title="SGAâ‚¬" href="http://www.alasbarricadas.org/noticias/">SGAE</a>".
+"En la audiencia previa al juicio, el 19 de junio, planteamos a los abogados de SGAE, que defienden a Ramoncí­n, llegar a un acuerdo pero se negaron alegando que están cansados de que se hable mal de ellos. Quieren que, en Internet, antes de hablar mal de ellos se lo piensen dos veces. Con este plural entendimos que quien está detrás de la demanda no es Ramoncí­n, sino la <a target="_blank" title="SGAâ‚¬" href="https://www.alasbarricadas.org/noticias/">SGAE</a>".
 
 2. En qué centra el abogado de la SGAE su acusación, en el juicio.
 
@@ -52,11 +52,11 @@ Esto que sigue es el cómo una influyente organización, la Sociedad General de 
 
 7. Cómo llega la SGAE hasta X.
 
-"Contrata a una agencia de detectives, <a target="_blank" title="http://www.metodo3.es/" href="http://www.metodo3.es/">Método 3</a>. Curiosamente, no nos mandan ni un correo, ni avisan al proveedor de la web, <a target="_blank" title="http://www.nodo50.org/" href="http://www.nodo50.org/">Nodo50</a>, ni le piden logs ni nada, como suele hacerse en estos casos".
+"Contrata a una agencia de detectives, <a target="_blank" title="https://www.metodo3.es/" href="https://www.metodo3.es/">Método 3</a>. Curiosamente, no nos mandan ni un correo, ni avisan al proveedor de la web, <a target="_blank" title="https://www.nodo50.org/" href="https://www.nodo50.org/">Nodo50</a>, ni le piden logs ni nada, como suele hacerse en estos casos".
 
 8. En qué consiste la investigación de la agencia de detectives.
 
-En hacer un whois sobre el dominio <a target="_blank" title="http://www.alasbarricadas.org/noticias/" href="http://www.alasbarricadas.org/noticias/">Alasbarricadas.org</a>. Allí­ aparece el nombre de X., que en su momento fue el encargado de registrarlo, y una dirección postal antigua. La SGAE manda un burofax a esta dirección, sin éxito.
+En hacer un whois sobre el dominio <a target="_blank" title="https://www.alasbarricadas.org/noticias/" href="https://www.alasbarricadas.org/noticias/">Alasbarricadas.org</a>. Allí­ aparece el nombre de X., que en su momento fue el encargado de registrarlo, y una dirección postal antigua. La SGAE manda un burofax a esta dirección, sin éxito.
 
 Entonces, echan mano de métodos "que no explicarán en su informe ni en el juicio, ni la juez se interesará por ellos". Así­ descubren la dirección de los padres de X., "que supongo sólo puede obtenerse a través de mis datos de nacimiento o antiguos DNIs, ya que llevo 14 años sin residir allí­".
 
@@ -76,7 +76,7 @@ Entonces, echan mano de métodos "que no explicarán en su informe ni en el juic
 
 "A la pregunta de cómo se sintió al leer los comentarios dice que ofendido, que alucinó y que está cansado de estas cosas"
 
-"Cuando se le pregunta hasta qué grado se sintió ofendido y también sobre su relación con la SGAE, la juez corta al abogado defensor, <a target="_blank" title="http://www.bufetalmeida.com/" href="http://www.bufetalmeida.com/">Carlos Sánchez Almeida</a>, quien acaba haciendo una queja formal y la juez le retira la palabra. Al final, el tema del honor casi no se trata".
+"Cuando se le pregunta hasta qué grado se sintió ofendido y también sobre su relación con la SGAE, la juez corta al abogado defensor, <a target="_blank" title="https://www.bufetalmeida.com/" href="https://www.bufetalmeida.com/">Carlos Sánchez Almeida</a>, quien acaba haciendo una queja formal y la juez le retira la palabra. Al final, el tema del honor casi no se trata".
 
 12. Qué se espera de la sentencia
 
@@ -98,6 +98,6 @@ Copyright 2007 Mercí¨ Molist.
 
 Verbatim copying, translation and distribution of this entire article is permitted in any digital and no commercial medium, provide this notice is preserved.
 
-<a target="_blank" title="Filmica" href="http://www.filmica.com/port666/archivos/006437.html">http://www.filmica.com/port666/archivos/006437.html</a>
+<a target="_blank" title="Filmica" href="https://www.filmica.com/port666/archivos/006437.html">https://www.filmica.com/port666/archivos/006437.html</a>
   
-<a target="_blank" title="Merce" href="http://ww2.grn.es/merce/2007/alasbarricadas.html">http://ww2.grn.es/merce/2007/alasbarricadas.html </a>
+<a target="_blank" title="Merce" href="https://ww2.grn.es/merce/2007/alasbarricadas.html">https://ww2.grn.es/merce/2007/alasbarricadas.html </a>

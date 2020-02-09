@@ -4,7 +4,7 @@ title: -¿18 años por 24 vidas? Si esto es justicia, vaya mierda
 date: 2006-10-10T09:51:57+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2006/10/10/%c2%bf18-anos-por-24-vidas-si-esto-es-justicia-vaya-mierda/'
+guid: 'https://www.cortell.net/2006/10/10/%c2%bf18-anos-por-24-vidas-si-esto-es-justicia-vaya-mierda/'
 permalink: /2006/10/10/18-anos-por-24-vidas-si-esto-es-justicia-vaya-mierda/
 categories:
   - General

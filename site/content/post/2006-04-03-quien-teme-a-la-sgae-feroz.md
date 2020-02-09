@@ -4,7 +4,7 @@ title: -¿Quién teme a la SGAE feroz?
 date: 2006-04-03T14:37:33+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2006/04/03/%c2%bfquien-teme-a-la-sgae-feroz/'
+guid: 'https://www.cortell.net/2006/04/03/%c2%bfquien-teme-a-la-sgae-feroz/'
 permalink: /2006/04/03/quien-teme-a-la-sgae-feroz/
 categories:
   - CiberDerechos

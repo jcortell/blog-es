@@ -4,7 +4,7 @@ title: Obesidad causada por virus
 date: 2006-02-01T10:07:09+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/02/01/obesidad-causada-por-virus/
+guid: https://www.cortell.net/2006/02/01/obesidad-causada-por-virus/
 permalink: /2006/02/01/obesidad-causada-por-virus/
 categories:
   - General

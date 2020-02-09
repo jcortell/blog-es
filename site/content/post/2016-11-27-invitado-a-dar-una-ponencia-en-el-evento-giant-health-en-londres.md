@@ -4,7 +4,7 @@ title: Invitado a dar una ponencia en el evento GIANT Health en Londres
 date: 2016-11-27T15:27:50+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5963
+guid: https://blog.cortell.net/es/?p=5963
 permalink: /2016/11/27/invitado-a-dar-una-ponencia-en-el-evento-giant-health-en-londres/
 categories:
   - General
@@ -13,7 +13,7 @@ categories:
   - Placeres de la vida
   - Technology
 ---
-Justo después de mi regreso de Alemania, y antes de partir para Paraguay, fui invitado a dar una ponencia en el evento <a href="http://gianthealthevent.com" target="_blank">GIANT Health</a> ("innovación global en salud y nuevas tecnologías"), en The Coronet, Londres-
+Justo después de mi regreso de Alemania, y antes de partir para Paraguay, fui invitado a dar una ponencia en el evento <a href="https://gianthealthevent.com" target="_blank">GIANT Health</a> ("innovación global en salud y nuevas tecnologías"), en The Coronet, Londres-
 
 El evento se desarrolló durante 3 días, del 16 al 18 de noviembre, con 3 pistas paralelas, e incluyó más de 200 ponentes. Mi ponencia fue el 18 de noviembre en el auditorio principal.
 

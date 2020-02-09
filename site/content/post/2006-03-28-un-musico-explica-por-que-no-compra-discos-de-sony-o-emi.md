@@ -4,7 +4,7 @@ title: Un músico explica por qué no compra discos de Sony o EMI
 date: 2006-03-28T07:56:12+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/03/28/un-musico-explica-por-que-no-compra-discos-de-sony-o-emi/
+guid: https://www.cortell.net/2006/03/28/un-musico-explica-por-que-no-compra-discos-de-sony-o-emi/
 permalink: /2006/03/28/un-musico-explica-por-que-no-compra-discos-de-sony-o-emi/
 categories:
   - CiberDerechos
@@ -12,11 +12,11 @@ categories:
   - General
   - Rants
 ---
-Hay quien cree que por haber escrito [este artí­culo](http://www.cortell.net/2006/03/24/como-y-por-que-no-volver-a-comprar-un-disco/) y [haber propuesto cosas como esta](http://www.cortell.net/2006/03/27/mas-madera-drm-que-es-la-guerra-anticopyright/) soy un fundamentalista radical que "no entiende" la "industria cultural". Pues bien, Nacho, un [MUSICO profesional](http://www.delta-0.net) que conocí­ en la Campus Party del 2005 y que planteó una interesante pregunta en una mesa redonda, me enví­a este artí­culo:
+Hay quien cree que por haber escrito [este artí­culo](https://www.cortell.net/2006/03/24/como-y-por-que-no-volver-a-comprar-un-disco/) y [haber propuesto cosas como esta](https://www.cortell.net/2006/03/27/mas-madera-drm-que-es-la-guerra-anticopyright/) soy un fundamentalista radical que "no entiende" la "industria cultural". Pues bien, Nacho, un [MUSICO profesional](https://www.delta-0.net) que conocí­ en la Campus Party del 2005 y que planteó una interesante pregunta en una mesa redonda, me enví­a este artí­culo:
 
 POR QUí‰ YA NO COMPRO DISCOS DE EMI
   
-por [Nachenko](http://www.delta-0.net).
+por [Nachenko](https://www.delta-0.net).
 
 Seré directo: tengo el disco "Alice in Ultraland" de los Future Sound of London (sacado bajo el nombre de Amorphous Androgynous) original y
   

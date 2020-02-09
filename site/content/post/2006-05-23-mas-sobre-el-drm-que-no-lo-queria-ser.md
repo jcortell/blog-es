@@ -4,7 +4,7 @@ title: 'Más sobre el &quot;DRM&quot; que no lo querí­a ser'
 date: 2006-05-23T00:31:13+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/05/23/mas-sobre-el-drm-que-no-lo-queria-ser/
+guid: https://www.cortell.net/2006/05/23/mas-sobre-el-drm-que-no-lo-queria-ser/
 permalink: /2006/05/23/mas-sobre-el-drm-que-no-lo-queria-ser/
 categories:
   - CiberDerechos
@@ -14,9 +14,9 @@ categories:
   - Rants
   - Technology
 ---
-Me escribe Zim para puntualizar sobre <a target="_blank" title="Supuesto DRM" href="http://www.cortell.net/2006/05/16/interludio-david-bravo-con-drm-en-disco-tote-king/">el tema del supuesto DRM</a> en el disco de Tote King:
+Me escribe Zim para puntualizar sobre <a target="_blank" title="Supuesto DRM" href="https://www.cortell.net/2006/05/16/interludio-david-bravo-con-drm-en-disco-tote-king/">el tema del supuesto DRM</a> en el disco de Tote King:
 
-_Te escribo de nuevo para informarte más a fondo sobre el supuesto anticopy del disco del Tote, en una <a target="_blank" title="Entrevista Tote" href="http://www.hiphophispano.com/home/?sec=entrevistas&id=92">entrevista</a> en el portal hiphophispano.com (aunque desde mi pc solo puedo abrirla correctamente desde IE :S), el propio Tote comenta lo siguiente:</p> 
+_Te escribo de nuevo para informarte más a fondo sobre el supuesto anticopy del disco del Tote, en una <a target="_blank" title="Entrevista Tote" href="https://www.hiphophispano.com/home/?sec=entrevistas&id=92">entrevista</a> en el portal hiphophispano.com (aunque desde mi pc solo puedo abrirla correctamente desde IE :S), el propio Tote comenta lo siguiente:</p> 
 
 Ha habido cierto revuelo por el programa que lleva tu cd, desde el cual te puedes bajar las canciones al ipod, copiarlo al disco duro, enviarlo por email, etc. Pero siempre desde un programa interface que llevan las copias originales. Se ha tomado como una traba para pasar a mp3 tu disco -¿Qué nos puedes comentar de esto?
 

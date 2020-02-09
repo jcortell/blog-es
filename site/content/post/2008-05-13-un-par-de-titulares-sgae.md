@@ -4,7 +4,7 @@ title: Un par de titulares SGAE
 date: 2008-05-13T15:50:51+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1213
+guid: https://www.cortell.net/?p=1213
 permalink: /2008/05/13/un-par-de-titulares-sgae/
 categories:
   - CiberDerechos
@@ -15,7 +15,7 @@ categories:
 ---
 David me avisa que lee en Internautas:
 
-<a title="noticia" href="http://www.internautas.org/html/4935.html" target="_blank">AUTORES SOCIOS DE LA SGAE CRITICAN IRREGULARIDADES EN LA ENTIDAD</a>
+<a title="noticia" href="https://www.internautas.org/html/4935.html" target="_blank">AUTORES SOCIOS DE LA SGAE CRITICAN IRREGULARIDADES EN LA ENTIDAD</a>
   
 Denuncian graves irregularidades en el Montepío de Autores de la Fundación Autor de la SGAE.
 
@@ -27,7 +27,7 @@ Asimismo, denunciaron que la SGAE, frente a la que tienen interpuestas varias ac
   
 \___\___\___\___\___\___\___\___\___\___\___\___\___\___\____
 
-<a title="noticia Internautas" href="http://www.internautasorg/html/4934.html" target="_blank">ESPERA RECAUDAR MÁS DE 40 MILLONES POR CANON DIGITAL</a>
+<a title="noticia Internautas" href="https://www.internautasorg/html/4934.html" target="_blank">ESPERA RECAUDAR MÁS DE 40 MILLONES POR CANON DIGITAL</a>
   
 La SGAE ingresa 400 millones de euros mientras crece el descontento de socios y trabajadores
 

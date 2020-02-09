@@ -4,7 +4,7 @@ title: Un estudio de la Universidad de Harvard revela cosas muy interesantes sob
 date: 2005-06-21T11:58:55+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/06/21/un-estudio-de-la-universidad-de-harvard-revela-cosas-muy-interesantes-sobre-linux-vs-windows/
+guid: https://www.cortell.net/2005/06/21/un-estudio-de-la-universidad-de-harvard-revela-cosas-muy-interesantes-sobre-linux-vs-windows/
 permalink: /2005/06/21/un-estudio-de-la-universidad-de-harvard-revela-cosas-muy-interesantes-sobre-linux-vs-windows/
 categories:
   - CiberDerechos
@@ -12,7 +12,7 @@ categories:
   - General
   - Noticias
 ---
-Aquí­ tenéis una [entrevista](http://hbsworkingknowledge.hbs.edu/item.jhtml?id=4834&t=technology) a los autores del estudio.
+Aquí­ tenéis una [entrevista](https://hbsworkingknowledge.hbs.edu/item.jhtml?id=4834&t=technology) a los autores del estudio.
 
 Las principales conclusiones del estudio _"Dynamic Mixed Duopoly: A Model Motivated by Linux vs. Windows"_ de los profesores Pankaj Ghemawat y Ramón Casadesus-Masanell (que plantea un modelo matemático de economí­a formal para responder a una serie de distintas alternativas o scenarios) son:
 
@@ -28,4 +28,4 @@ Otra de las conclusiones es que **es prácticamente imposible que Windows acabe 
 
 Interesante estudio. Una pena que dediquen una importante parte a analizar las mejores estrategias para la supervivencia de Windows.
 
-"The intrinsic parallelism and free idea exchange in OSS has benefits that are not replicable with our current licensing model and therefore present a long-term developer mindshare threat." [Microsoft‘s Haloween Memos](http://www.opensource.org/halloween/).
+"The intrinsic parallelism and free idea exchange in OSS has benefits that are not replicable with our current licensing model and therefore present a long-term developer mindshare threat." [Microsoft‘s Haloween Memos](https://www.opensource.org/halloween/).

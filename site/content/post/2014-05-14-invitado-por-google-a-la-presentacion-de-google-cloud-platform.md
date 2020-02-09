@@ -4,7 +4,7 @@ title: Invitado por Google a la presentación de Google Cloud Platform
 date: 2014-05-14T20:34:32+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5169
+guid: https://blog.cortell.net/es/?p=5169
 permalink: /2014/05/14/invitado-por-google-a-la-presentacion-de-google-cloud-platform/
 categories:
   - Free Software

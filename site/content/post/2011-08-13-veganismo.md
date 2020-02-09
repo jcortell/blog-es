@@ -4,7 +4,7 @@ title: Veganismo
 date: 2011-08-13T11:30:02+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3393
+guid: https://cortell.net/blog/?p=3393
 permalink: /2011/08/13/veganismo/
 wpsd_autopost:
   - "1"
@@ -18,7 +18,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-Resumen de información varia y llamativa sobre el <a title="http://es.wikipedia.org/wiki/Vegetarianismo" href="http://es.wikipedia.org/wiki/Vegetarianismo" target="_blank">vegetarianismo</a> (alimentación no basada en animales) y/o <a title="http://es.wikipedia.org/wiki/Veganismo" href="http://es.wikipedia.org/wiki/Veganismo" target="_blank">veganismo</a> (ni sus derivados):
+Resumen de información varia y llamativa sobre el <a title="https://es.wikipedia.org/wiki/Vegetarianismo" href="https://es.wikipedia.org/wiki/Vegetarianismo" target="_blank">vegetarianismo</a> (alimentación no basada en animales) y/o <a title="https://es.wikipedia.org/wiki/Veganismo" href="https://es.wikipedia.org/wiki/Veganismo" target="_blank">veganismo</a> (ni sus derivados):
 
 **Motivos éticos**
 
@@ -46,7 +46,7 @@ Según la UNESCO, hacen falta 4.000 metros cúbicos de agua para "producir" una 
 
 Según un informe de la FAO:
 
-> El sector ganadero genera más gases de [efecto invernadero](http://es.wikipedia.org/wiki/Efecto_invernadero "Efecto invernadero") –el 18 por ciento, medidos en su equivalente en [dióxido de carbono](http://es.wikipedia.org/wiki/Di%C3%B3xido_de_carbono "Dióxido de carbono") (CO2)- que el sector del transporte. También es una de las principales causas de la degradación del suelo y de los recursos hídricos.
+> El sector ganadero genera más gases de [efecto invernadero](https://es.wikipedia.org/wiki/Efecto_invernadero "Efecto invernadero") –el 18 por ciento, medidos en su equivalente en [dióxido de carbono](https://es.wikipedia.org/wiki/Di%C3%B3xido_de_carbono "Dióxido de carbono") (CO2)- que el sector del transporte. También es una de las principales causas de la degradación del suelo y de los recursos hídricos.
 
 **Curiosidades**
 
@@ -54,4 +54,4 @@ La gran mayoría de religiones prohíben explícitamente (Hinduismo, Budismo, Co
 
 Multitud de grandes pensadores en la historia, como Sócrates, Confucio, Buda, Lao Tzu, Tolstoy, Pitágoras, Da Vinci, Ralph Waldo Emerson, George Bernard Shaw, Mark Twain, Plutarco, Voltaire, Darwin, Einstein, Edison, Newton, Tesla, Gandhi... escogieron el vegetarianismo/veganismo.
 
-LA DECISIÓN ES NUESTRA. Si tienes dudas, <a title="http://www.cinetube.es/documentales/naturaleza/ver-documental-earthlings.html" href="http://www.cinetube.es/documentales/naturaleza/ver-documental-earthlings.html" target="_blank">descárgate</a> <a title="http://www.filmaffinity.com/es/film808856.html" href="http://www.filmaffinity.com/es/film808856.html" target="_blank">este documental</a>.
+LA DECISIÓN ES NUESTRA. Si tienes dudas, <a title="https://www.cinetube.es/documentales/naturaleza/ver-documental-earthlings.html" href="https://www.cinetube.es/documentales/naturaleza/ver-documental-earthlings.html" target="_blank">descárgate</a> <a title="https://www.filmaffinity.com/es/film808856.html" href="https://www.filmaffinity.com/es/film808856.html" target="_blank">este documental</a>.

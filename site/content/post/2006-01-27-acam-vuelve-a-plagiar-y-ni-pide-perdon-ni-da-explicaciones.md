@@ -4,7 +4,7 @@ title: ACAM vuelve a plagiar, y ni pide perdón ni da explicaciones
 date: 2006-01-27T21:07:25+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/01/27/acam-vuelve-a-plagiar-y-ni-pide-perdon-ni-da-explicaciones/
+guid: https://www.cortell.net/2006/01/27/acam-vuelve-a-plagiar-y-ni-pide-perdon-ni-da-explicaciones/
 permalink: /2006/01/27/acam-vuelve-a-plagiar-y-ni-pide-perdon-ni-da-explicaciones/
 categories:
   - CiberDerechos
@@ -14,11 +14,11 @@ categories:
 ---
 Hechos:
 
-Mercé Molist escribió hace unos dí­as el [artí­culo](http://www.elpais.es/solotexto/articulo.html?xref=20060119elpcibpor_2&type=Tes) "CoPeerRight llega a España para luchar contra la piraterí­a" (sobre cuya temática ya [escribí­](http://www.cortell.net/2006/01/22/heroes-y-villanos/) hace dí­as) que fue publicado en "El Paí­s".
+Mercé Molist escribió hace unos dí­as el [artí­culo](https://www.elpais.es/solotexto/articulo.html?xref=20060119elpcibpor_2&type=Tes) "CoPeerRight llega a España para luchar contra la piraterí­a" (sobre cuya temática ya [escribí­](https://www.cortell.net/2006/01/22/heroes-y-villanos/) hace dí­as) que fue publicado en "El Paí­s".
 
 Dí­as después aparece publicado en la web de la ACAM (suciedad de gestión, como la SGAE), copiado sin permiso de El Paí­s, sin mencionar el nombre de la autora, y con el tí­tulo cambiado. Tras quejarse la autora a ACAM, estos añaden el -© de El Paí­s y Mercé Molist, pero ni le explican qué pasó, ni le piden disculpas (ni, como serí­a coherente con sus arengas, tampoco le ofrecen una compensación económica).
 
-([Más info](http://barrapunto.com/ciberderechos/06/01/20/1721226.shtml) en Barrapunto)
+([Más info](https://barrapunto.com/ciberderechos/06/01/20/1721226.shtml) en Barrapunto)
 
 Dias después la autora escribe en la lista de KernelPanic:
 

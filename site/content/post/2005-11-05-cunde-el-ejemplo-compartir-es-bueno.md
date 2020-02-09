@@ -4,7 +4,7 @@ title: 'Cunde el ejemplo: compartir es bueno'
 date: 2005-11-05T10:06:19+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/11/05/cunde-el-ejemplo-compartir-es-bueno/
+guid: https://www.cortell.net/2005/11/05/cunde-el-ejemplo-compartir-es-bueno/
 permalink: /2005/11/05/cunde-el-ejemplo-compartir-es-bueno/
 categories:
   - CiberDerechos

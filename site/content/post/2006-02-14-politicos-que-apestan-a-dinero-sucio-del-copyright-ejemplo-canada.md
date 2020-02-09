@@ -4,7 +4,7 @@ title: 'Polí­ticos que apestan a dinero sucio del copyright (ejemplo: Canadá)
 date: 2006-02-14T11:28:41+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/02/14/politicos-que-apestan-a-dinero-sucio-del-copyright-ejemplo-canada/
+guid: https://www.cortell.net/2006/02/14/politicos-que-apestan-a-dinero-sucio-del-copyright-ejemplo-canada/
 permalink: /2006/02/14/politicos-que-apestan-a-dinero-sucio-del-copyright-ejemplo-canada/
 categories:
   - CiberDerechos
@@ -14,7 +14,7 @@ categories:
 ---
 Sam Bulte, elegida Secretaria del Parlamento en Canadá, es una "pro copyright mucho más estricto", y de hecho propuso la ley Bill C-60.
 
-El profesor [Michael Geist ha analizado](http://www.michaelgeist.ca/index.php?option=com_content&task=view&id=1058) sus contribuciones de campaña y, oh, sorpresa, ha recibido sus contribuciones de:
+El profesor [Michael Geist ha analizado](https://www.michaelgeist.ca/index.php?option=com_content&task=view&id=1058) sus contribuciones de campaña y, oh, sorpresa, ha recibido sus contribuciones de:
 
 Access Copyright
   

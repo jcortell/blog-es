@@ -4,7 +4,7 @@ title: 'MMT: arte de verdad'
 date: 2008-11-24T12:49:08+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1388
+guid: https://www.cortell.net/?p=1388
 permalink: /2008/11/24/mmt-arte-de-verdad/
 categories:
   - CiberDerechos
@@ -13,7 +13,7 @@ categories:
   - General
   - Placeres de la vida
 ---
-En <a title="http://noizzweb.blogspot.com/2008/11/entrevista-midnight-mystery-theatre.html" href="http://noizzweb.blogspot.com/2008/11/entrevista-midnight-mystery-theatre.html" target="_blank">esta entrevista</a>, el colectivo MMT (autores del disco publicado bajo suidad que ya he reseñado en este blog) explica sus motivaciones, su método, su filosofía: El cuento de <span class="fullpost">Antón James Callander, la </span>Teoría de la Oscuridad, Art is Freedom...
+En <a title="https://noizzweb.blogspot.com/2008/11/entrevista-midnight-mystery-theatre.html" href="https://noizzweb.blogspot.com/2008/11/entrevista-midnight-mystery-theatre.html" target="_blank">esta entrevista</a>, el colectivo MMT (autores del disco publicado bajo suidad que ya he reseñado en este blog) explica sus motivaciones, su método, su filosofía: El cuento de <span class="fullpost">Antón James Callander, la </span>Teoría de la Oscuridad, Art is Freedom...
 
 Para mí ESTO, y ASÍ sí que es arte. Aunque no me guste vuestra música, enhorabuena de nuevo, chicos.
 

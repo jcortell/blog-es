@@ -4,7 +4,7 @@ title: Psicogénesis del superhéroe, la muerte del indivíduo
 date: 2010-11-27T12:42:02+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2738
+guid: https://cortell.net/blog/?p=2738
 permalink: /2010/11/27/psicogenesis-del-superheroe-la-muerte-del-individuo/
 categories:
   - General
@@ -32,4 +32,4 @@ Pero al final, todos acaban mal. A ver si aprendemos a dejar la mentalidad de su
 
 Repetid conmigo: todos somos "sagrados", "importantes", "necesarios", "hermosos"... Sí, hay que tener consciencia de grupo, de especie, de comunidad, pero desde que los _Homo Sapiens_ (_Cro-Magnon_) acabamos con los _Neandertales_, no hemos sabido reconciliar el valor del indivíduo con la vida en grupo. Supongo que las grandes aglomeraciones, los recursos escasos, la neurosis derivada de la cultura, etc, no ayuda. Pero ¿para qué queremos cerebros tan potentes y plásticos, y ciencia tan avanzada, si no sabemos convivir con nosotros mismos?
 
-<img class="aligncenter" title="somos un agujero" src="http://imgn.dt07.net/863/863966_vb.jpg" alt="" width="200" height="200" />
+<img class="aligncenter" title="somos un agujero" src="https://imgn.dt07.net/863/863966_vb.jpg" alt="" width="200" height="200" />

@@ -4,7 +4,7 @@ title: 'CoPeerRight Agency: ejemplo de FUD pro-copyright'
 date: 2006-03-03T11:41:12+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/03/03/copeerright-agency-ejemplo-de-fud-pro-copyright/
+guid: https://www.cortell.net/2006/03/03/copeerright-agency-ejemplo-de-fud-pro-copyright/
 permalink: /2006/03/03/copeerright-agency-ejemplo-de-fud-pro-copyright/
 categories:
   - CiberDerechos

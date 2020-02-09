@@ -4,7 +4,7 @@ title: Su señorí­a reconoce que son marionetas
 date: 2006-06-06T07:52:03+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/06/06/su-senoria-reconoce-que-son-marionetas/
+guid: https://www.cortell.net/2006/06/06/su-senoria-reconoce-que-son-marionetas/
 permalink: /2006/06/06/su-senoria-reconoce-que-son-marionetas/
 categories:
   - CiberDerechos
@@ -14,7 +14,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-El pasado viernes 2 de junio impartí­ una clase en el [Master en Comunicación y Crí­tica de Arte](http://www.masterartgirona.org/) (dentro del Módulo II: Los mercados de la cultura: artes visuales, arquitectura y patrimonio) â€œEl debate sobre los derechos de autorâ€, organizada por la Girona International Graduate School.
+El pasado viernes 2 de junio impartí­ una clase en el [Master en Comunicación y Crí­tica de Arte](https://www.masterartgirona.org/) (dentro del Módulo II: Los mercados de la cultura: artes visuales, arquitectura y patrimonio) â€œEl debate sobre los derechos de autorâ€, organizada por la Girona International Graduate School.
 
 Justo antes de la mí­a, el Sr. ílex Saez, diputado en el Congreso por el grupo socialista y ponente de la actual reforma de la ley de "Propiedad Intelectual" impartió la suya (que se centró exclusivamente en la ley en sí­).
 

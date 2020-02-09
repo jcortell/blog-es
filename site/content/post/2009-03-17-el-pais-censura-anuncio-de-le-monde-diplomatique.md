@@ -4,7 +4,7 @@ title: El País censura anuncio de Le Monde Diplomatique
 date: 2009-03-17T11:00:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1682
+guid: https://cortell.net/blog/?p=1682
 permalink: /2009/03/17/el-pais-censura-anuncio-de-le-monde-diplomatique/
 categories:
   - General
@@ -25,4 +25,4 @@ El artículo, se publica en la portada del número de marzo de Le Monde diplomat
 
 La dirección y la redacción de Le Monde diplomatique en español encuentran sorprendente que un diario como El País , que pretende ser una referencia en materia de ética periodística, le oculte a sus lectores el verdadero estado de su situación económica y que ese afán le conduzca a cometer un claro acto de censura. 
 
-Se puede leer el artículo completo en <a title="http://www.monde-diplomatique.es" href="http://www.monde-diplomatique.es" target="_blank">nuestra web</a>.
+Se puede leer el artículo completo en <a title="https://www.monde-diplomatique.es" href="https://www.monde-diplomatique.es" target="_blank">nuestra web</a>.

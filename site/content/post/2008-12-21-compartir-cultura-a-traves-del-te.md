@@ -4,7 +4,7 @@ title: 'Compartir cultura: receta del té moruno'
 date: 2008-12-21T12:50:19+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1421
+guid: https://www.cortell.net/?p=1421
 permalink: /2008/12/21/compartir-cultura-a-traves-del-te/
 categories:
   - Copyfight

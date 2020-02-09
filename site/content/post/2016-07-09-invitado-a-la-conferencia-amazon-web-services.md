@@ -4,7 +4,7 @@ title: Invitado a la Conferencia Amazon Web Services
 date: 2016-07-09T08:11:22+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5840
+guid: https://blog.cortell.net/es/?p=5840
 permalink: /2016/07/09/invitado-a-la-conferencia-amazon-web-services/
 categories:
   - Free Software

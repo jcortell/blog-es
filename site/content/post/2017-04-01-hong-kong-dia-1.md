@@ -4,7 +4,7 @@ title: Hong Kong Día 1
 date: 2017-04-01T15:23:46+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=6057
+guid: https://blog.cortell.net/es/?p=6057
 permalink: /2017/04/01/hong-kong-dia-1/
 categories:
   - General

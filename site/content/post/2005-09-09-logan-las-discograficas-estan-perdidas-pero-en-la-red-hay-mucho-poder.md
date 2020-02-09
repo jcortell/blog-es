@@ -4,7 +4,7 @@ title: 'LOGAN: las discográficas están perdidas pero en la red hay mucho poder
 date: 2005-09-09T09:14:43+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/09/09/logan-las-discograficas-estan-perdidas-pero-en-la-red-hay-mucho-poder/
+guid: https://www.cortell.net/2005/09/09/logan-las-discograficas-estan-perdidas-pero-en-la-red-hay-mucho-poder/
 permalink: /2005/09/09/logan-las-discograficas-estan-perdidas-pero-en-la-red-hay-mucho-poder/
 categories:
   - CiberDerechos
@@ -17,7 +17,7 @@ En la Campus Party uno de los participantes en la mesa redonda sobre alternativa
 
 Ahora, sólo unos dí­as después de esta mesa redonda él es protagonista del mejor ejemplo ilustrativo de esta situación.
 
-Su andadura en solitario (sabéis que es guitarrista y compositor de Presuntos Implicados desde su fundación) lleva el nombre de [LOGAN](http://www.loganmusic.net). Está a punto de sacar nuevo disco (sale a la venta la semana que viene), y para la promoción del mismo le ha pedido a su discográfica que apueste por una nueva forma: la red. Hasta aquí­ nada fuera de lo común.
+Su andadura en solitario (sabéis que es guitarrista y compositor de Presuntos Implicados desde su fundación) lleva el nombre de [LOGAN](https://www.loganmusic.net). Está a punto de sacar nuevo disco (sale a la venta la semana que viene), y para la promoción del mismo le ha pedido a su discográfica que apueste por una nueva forma: la red. Hasta aquí­ nada fuera de lo común.
 
 > Lo "curioso" empieza cuando él pretende que se pueda descargar música de su web. 
 
@@ -51,7 +51,7 @@ No conozco los detalles, pero me lo imagino:
   
 – Logan: "Pues yo estoy convencido de que es el futuro, y de que funciona, y os lo voy a demostrar".
 
--¿Qué es lo que hace? Pues lo que la mayorí­a de empresas españolas cuando "descubrieron internet" a finales de los 90, principios del 2000: una [web](http://www.loganmusic.net) (eso sí­, muy currada gráficamente y con unos iconos animados muy molones)... y poco más. Nada nuevo, nada pensado. Es lo que se le ocurre a cualquier advenedizo. Por una parte no podemos echar la culpa a Logan (al fin y al cabo, lo suyo es la música), pero si a parte de un diseñador gráfico, y alguien que sepa usar Dreamweaver y Flash, le hubiesen preguntado a los internautas (no ya contratar a una empresa de asesorí­a, que serí­a lo suyo pero requiere presupuesto), o por lo menos se hubiesen informado un poco por la red, hubiesen podido aportar mucho más.
+-¿Qué es lo que hace? Pues lo que la mayorí­a de empresas españolas cuando "descubrieron internet" a finales de los 90, principios del 2000: una [web](https://www.loganmusic.net) (eso sí­, muy currada gráficamente y con unos iconos animados muy molones)... y poco más. Nada nuevo, nada pensado. Es lo que se le ocurre a cualquier advenedizo. Por una parte no podemos echar la culpa a Logan (al fin y al cabo, lo suyo es la música), pero si a parte de un diseñador gráfico, y alguien que sepa usar Dreamweaver y Flash, le hubiesen preguntado a los internautas (no ya contratar a una empresa de asesorí­a, que serí­a lo suyo pero requiere presupuesto), o por lo menos se hubiesen informado un poco por la red, hubiesen podido aportar mucho más.
 
 La web tiene los siguientes apartados:
   

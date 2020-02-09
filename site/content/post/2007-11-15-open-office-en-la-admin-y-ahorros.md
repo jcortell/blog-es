@@ -4,7 +4,7 @@ title: OpenOffice en la Admin. y ahorros
 date: 2007-11-15T18:14:41+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/11/15/open-office-en-la-admin-y-ahorros/
+guid: https://www.cortell.net/2007/11/15/open-office-en-la-admin-y-ahorros/
 permalink: /2007/11/15/open-office-en-la-admin-y-ahorros/
 categories:
   - Free Software
@@ -13,7 +13,7 @@ categories:
 ---
 Fernando Acero enví­a esto a la lista de Hispalinux:
 
-<a title="noticia en Enpresadigitala" target="_blank" href="http://www.enpresadigitala.net/castellano/noticias/noticia_concreta.jsp?id=3127">http://www.enpresadigitala.net/castellano/noticias/noticia_concreta.jsp?id=3127</a>
+<a title="noticia en Enpresadigitala" target="_blank" href="https://www.enpresadigitala.net/castellano/noticias/noticia_concreta.jsp?id=3127">https://www.enpresadigitala.net/castellano/noticias/noticia_concreta.jsp?id=3127</a>
 
 El ahorro de costes es la principal explicación de que los Departamentos de Justicia de Finlandia y Cataluña hayan decidido migrar todos sus ordenadores a OpenOffice. En el caso escandinavo, se dejarán de pagar dos millones de euros en licencias durante diez años, lo que compensa
   

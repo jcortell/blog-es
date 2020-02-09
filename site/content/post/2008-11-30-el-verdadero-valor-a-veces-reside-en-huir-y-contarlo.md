@@ -4,14 +4,14 @@ title: 'El verdadero valor a veces reside en huir... y contarlo'
 date: 2008-11-30T20:38:08+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1395
+guid: https://www.cortell.net/?p=1395
 permalink: /2008/11/30/el-verdadero-valor-a-veces-reside-en-huir-y-contarlo/
 categories:
   - ¿Por qué no? ¿Utopías?
   - General
   - Noticias
 ---
-<a title="http://kristof.blogs.nytimes.com/" href="http://kristof.blogs.nytimes.com/" target="_blank">Nicholas D. Kristof</a> publica en el International Herald Tribune del jueves 27/11/08 un editorial sobre el valor de algunas mujeres en Pakistan, sometidas a increíbles abusos con la total permisividad y encubrimiento por parte de las autoridades, y nos recuerda que muchas veces el valor está en huir... para contarlo.
+<a title="https://kristof.blogs.nytimes.com/" href="https://kristof.blogs.nytimes.com/" target="_blank">Nicholas D. Kristof</a> publica en el International Herald Tribune del jueves 27/11/08 un editorial sobre el valor de algunas mujeres en Pakistan, sometidas a increíbles abusos con la total permisividad y encubrimiento por parte de las autoridades, y nos recuerda que muchas veces el valor está en huir... para contarlo.
 
 Mi más sincero (aunque nunca les llegue) apoyo a esas mujeres con coraje que nos demuestran el valor del valor.
 

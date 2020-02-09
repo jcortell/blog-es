@@ -4,7 +4,7 @@ title: 3 días en Colonia noviembre 2016 para BioEurope
 date: 2016-11-11T17:40:42+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5948
+guid: https://blog.cortell.net/es/?p=5948
 permalink: /2016/11/11/3-dias-en-colonia-noviembre-2016-para-bioeurope/
 categories:
   - General

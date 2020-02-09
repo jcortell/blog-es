@@ -4,7 +4,7 @@ title: 'Resultado de la crisis: los ricos, más ricos; y los pobres, más pobres
 date: 2009-10-29T22:55:04+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2269
+guid: https://cortell.net/blog/?p=2269
 permalink: /2009/10/29/resultado-de-la-crisis-los-ricos-mas-ricos-y-los-pobres-mas-pobres/
 categories:
   - ¿Por qué no? ¿Utopías?

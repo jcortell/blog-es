@@ -4,7 +4,7 @@ title: In Salvador de Bahia (Brazil)
 date: 2011-12-12T02:28:07+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3678
+guid: https://cortell.net/blog/?p=3678
 permalink: /2011/12/12/in-salvador-de-bahia-brazil/
 wpsd_autopost:
   - "1"
@@ -15,13 +15,13 @@ categories:
 ---
 Solía pensar que un viaje era más interesante cuantas más anécdotas y cosas curiosas le ocurriesen a uno. Pero con los años, el placer de un transcurrir tranquilo, de un trayecto memorable por el mero hecho del mismo trayecto, se va aprendiendo. Este viaje de negocios relámpago a Salvador de Bahía (Brasil) ha sido uno de esos viajes… casi.
 
-Me he hospedado en una vieja gloria de [hotel](http://www.pestana.com/pt/pestana-bahia-hotel/pages/home.aspx "Hotel Pestana Bahia") (anteriormente de la cadena Le Meridien), con una ubicación de película: en la misma punta de la península, con mar a ambos lados, y una vista desde mi habitación del piso 22 absolutamente impresionante.
+Me he hospedado en una vieja gloria de [hotel](https://www.pestana.com/pt/pestana-bahia-hotel/pages/home.aspx "Hotel Pestana Bahia") (anteriormente de la cadena Le Meridien), con una ubicación de película: en la misma punta de la península, con mar a ambos lados, y una vista desde mi habitación del piso 22 absolutamente impresionante.
 
-<img class="aligncenter" title="view" src="http://farm8.staticflickr.com/7146/6495688723_ee3dd241d5.jpg" alt="" width="500" height="375" />
+<img class="aligncenter" title="view" src="https://farm8.staticflickr.com/7146/6495688723_ee3dd241d5.jpg" alt="" width="500" height="375" />
 
-Estos dos días han transcurrido, de primera hora a última, en compañía de unos clientes-amigos que me han mostrado por qué tienen los brasileños tanta fama de gente abierta, tranquila y amable. Han sido excepcionalmente educados, y se han asegurado de llevarme a todas partes, comiendo y cenando conmigo en unos restaurantes estupendos (<a title="Soho" href="http://www.sohorestaurante.com.br/index_ssa.html" target="_blank">Soho</a>, <a title="Amado" href="http://www.amadobahia.com.br/index2.html" target="_blank">Amado</a>, <a title="Mistura" href="http://www.restaurantemistura.com.br/" target="_blank">Mistura</a>…) unos mariscos y pescados locales realmente deliciosos. ¡Incluso la última noche cené en la espectacular casa de uno de ellos, con toda su familia!
+Estos dos días han transcurrido, de primera hora a última, en compañía de unos clientes-amigos que me han mostrado por qué tienen los brasileños tanta fama de gente abierta, tranquila y amable. Han sido excepcionalmente educados, y se han asegurado de llevarme a todas partes, comiendo y cenando conmigo en unos restaurantes estupendos (<a title="Soho" href="https://www.sohorestaurante.com.br/index_ssa.html" target="_blank">Soho</a>, <a title="Amado" href="https://www.amadobahia.com.br/index2.html" target="_blank">Amado</a>, <a title="Mistura" href="https://www.restaurantemistura.com.br/" target="_blank">Mistura</a>…) unos mariscos y pescados locales realmente deliciosos. ¡Incluso la última noche cené en la espectacular casa de uno de ellos, con toda su familia!
 
-<img class="aligncenter" title="Soho Restaurant" src="http://farm8.staticflickr.com/7146/6495688791_971cdae917.jpg" alt="" width="500" height="411" />
+<img class="aligncenter" title="Soho Restaurant" src="https://farm8.staticflickr.com/7146/6495688791_971cdae917.jpg" alt="" width="500" height="411" />
 
 Por otro lado, y como suele ser habitual, he conocido la ciudad desde el coche. Mi única interacción física con la ciudad han sido dos momentos. Por un lado la visita de trabajo al Hospital de Suburbio, un hospital muy nuevo construido en uno de los barrios más peligrosos de todo Brasil, donde muchas de las urgencias que se tratan son heridas de bala "perdida" ("¿Cómo puede ser que tratemos a gente con hasta 5 heridas de bala, y digan que son balas perdidas, heridas recibidas al pasar cerca de un tiroteo del que no saben nada? ¡Qué mala suerte tiene la gente aquí, y qué mala puntería los que disparan!" me decía uno de los doctores). Por otro lado, en un paseo matutino por la playa frente al hotel, una relajada charla con unos pescadores muy pobres, que se sumergían a pulmón en una zona rocosa, con el océano batiente, que me contaban lo que era para ellos aquello: ni trabajo, ni esfuerzo, ni obligación, ni penuria… el mar, la playa, una forma de vivir. Cada día, su relación con el mar, con la arena, algo tan natural que no entienden la vida sin ello. Da qué pensar, y me recuerda mucho a la forma de entender la vida oriental, pero con un toque extra de diversión y alegría.
 

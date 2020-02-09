@@ -4,7 +4,7 @@ title: Canon y estrategias de la SGAE
 date: 2006-06-11T16:40:16+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/06/11/canon-y-estrategias-de-la-sgae/
+guid: https://www.cortell.net/2006/06/11/canon-y-estrategias-de-la-sgae/
 permalink: /2006/06/11/canon-y-estrategias-de-la-sgae/
 categories:
   - CiberDerechos

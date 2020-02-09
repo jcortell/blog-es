@@ -4,7 +4,7 @@ title: La manía de la fabricación
 date: 2011-05-01T12:57:06+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3112
+guid: https://cortell.net/blog/?p=3112
 permalink: /2011/05/01/la-mania-de-la-fabricacion/
 wpsd_autopost:
   - "1"

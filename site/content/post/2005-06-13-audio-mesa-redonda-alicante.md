@@ -4,14 +4,14 @@ title: Audio mesa redonda Alicante
 date: 2005-06-13T11:23:06+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/06/13/audio-mesa-redonda-alicante/
+guid: https://www.cortell.net/2005/06/13/audio-mesa-redonda-alicante/
 permalink: /2005/06/13/audio-mesa-redonda-alicante/
 categories:
   - CiberDerechos
   - Copyfight
   - General
 ---
-Aquí­ tenéis el audio ([parte 1](http://www.cortell.net/wp-content/files/260505UAaudio/260505UA01.ogg), [parte 2](http://www.cortell.net/wp-content/files/260505UAaudio/260505UA02.ogg) y [parte 3](http://www.cortell.net/wp-content/files/260505UAaudio/260505UA03.ogg)) de la mesa redonda de Alicante (no se oye muy bien, porque está grabado con el micro de ambiente, pero se entiende). Dentro de unos dí­as pondré el xVid en Torrent, pues al participar varios ponentes, conviene ver la imagen para reconocer mejor a quien habla en cada momento (aunque creo se nos podrá reconocer por nuestras palabras, más que por nuestra voz).
+Aquí­ tenéis el audio ([parte 1](https://www.cortell.net/wp-content/files/260505UAaudio/260505UA01.ogg), [parte 2](https://www.cortell.net/wp-content/files/260505UAaudio/260505UA02.ogg) y [parte 3](https://www.cortell.net/wp-content/files/260505UAaudio/260505UA03.ogg)) de la mesa redonda de Alicante (no se oye muy bien, porque está grabado con el micro de ambiente, pero se entiende). Dentro de unos dí­as pondré el xVid en Torrent, pues al participar varios ponentes, conviene ver la imagen para reconocer mejor a quien habla en cada momento (aunque creo se nos podrá reconocer por nuestras palabras, más que por nuestra voz).
 
 Os pongo en antecedentes.
 

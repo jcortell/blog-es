@@ -4,7 +4,7 @@ title: Copyleft reconocido en sentencia española
 date: 2009-02-12T01:49:06+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1534
+guid: https://cortell.net/blog/?p=1534
 permalink: /2009/02/12/copyleft-reconocido-en-sentencia-espanolajavierde/
 categories:
   - CiberDerechos
@@ -16,7 +16,7 @@ Javier de la Cueva (un fuerte abrazo desde aquí) escribe esto en la lista de CC
 
 Fundamento cuarto de la Sentencia del Juzgado de lo Mercantil nº 7 de Madrid, de 29 de diciembre de 2008. El texto completo está en:
 
-<http://derecho-internet.org/node/473>
+<https://derecho-internet.org/node/473>
 
    CUARTO. Frente a ello nos encontramos con un auténtico cambio de paradigma en la defensa de los derechos por parte de los autores musicales. Cierto es que muchos artistas se acogen al paraguas de la
   

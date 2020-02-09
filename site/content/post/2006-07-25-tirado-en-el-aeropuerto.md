@@ -4,7 +4,7 @@ title: '&quot;Tirado&quot; en el aeropuerto'
 date: 2006-07-25T16:27:43+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/07/25/tirado-en-el-aeropuerto/
+guid: https://www.cortell.net/2006/07/25/tirado-en-el-aeropuerto/
 permalink: /2006/07/25/tirado-en-el-aeropuerto/
 categories:
   - General

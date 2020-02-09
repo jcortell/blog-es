@@ -4,7 +4,7 @@ title: La excepción socialista que confirma la regla
 date: 2009-03-16T10:45:27+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1678
+guid: https://cortell.net/blog/?p=1678
 permalink: /2009/03/16/la-excepcion-socialista-que-confirma-la-regla/
 categories:
   - Copyfight
@@ -12,7 +12,7 @@ categories:
   - Noticias
   - Sociedad y polí­tica
 ---
-<a title="http://blogs.periodistadigital.com/ciudadaniaypolitica.php/2009/03/13/derechos-de-autor-artistas-internet-opor" href="http://blogs.periodistadigital.com/ciudadaniaypolitica.php/2009/03/13/derechos-de-autor-artistas-internet-opor" target="_blank">Una diputada socialista escribe un post en su blog sobre el abuso de las discográficas</a> (sin mención, por supuesto, a las sacrosantas Suciedades de Gestión o el canon, que "con la Iglesia hemos topado, amigo Sancho") y media blogosfera se pone a babear y cantan a los vientos del cambio.
+<a title="https://blogs.periodistadigital.com/ciudadaniaypolitica.php/2009/03/13/derechos-de-autor-artistas-internet-opor" href="https://blogs.periodistadigital.com/ciudadaniaypolitica.php/2009/03/13/derechos-de-autor-artistas-internet-opor" target="_blank">Una diputada socialista escribe un post en su blog sobre el abuso de las discográficas</a> (sin mención, por supuesto, a las sacrosantas Suciedades de Gestión o el canon, que "con la Iglesia hemos topado, amigo Sancho") y media blogosfera se pone a babear y cantan a los vientos del cambio.
 
 Siento desilusionaros, pero esto siempre ha existido y va a seguir existiendo: la voz díscola, individual, original, disonante... pero insignificante al fin de al cabo. Y no es que el Partido lo permita ni lo prohiba. Simplemente ocurre, porque tantas voces, de tantos indivíduos, no pueden ser controladas. Pero luego, a la hora de aprobar resoluciones, redactar propuestas de ley, etc, existen un mutismo, secretismo, y sectarismo ciegos y obcecados. Opaco, impermeable e inaccesible, la voluntad "del Partido" (o sea, los cuatro jerifaltes y los ocho lameculos que son los que en realidad deciden por acción u omisión) es la que en definitiva transciende y afecta a los ciudadanos.
 

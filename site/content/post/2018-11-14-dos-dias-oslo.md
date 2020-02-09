@@ -22,7 +22,7 @@ La organización me puso gentilmente en un [buen hotel](https://www.radissonblu.
 
 También disfruté de Oslo, pese a ser gris, frío y lluvioso. En un rápido paseo por Karl Johans Gate, puedes ver la Catedral, el Parlamento, el Ayuntamiento y el Palacio Real. Fue particularmente sorprendente ver a un porta aviones de Estados Unidos atracado justo en frente de la Fortaleza de Akershus y el Museo de la Resistencia. Irónico.
 
-No tuve tiempo, pero hice una "escapada" rápida para ver algo de arte contemporáneo en [Astrup Fearnley Museet](http://www.afmuseet.no/en/hjem). Fue un error. Tan impresionante como es el edificio diseñado por Renzo Piano, las obras en el interior denotan una falta de curación adecuada. Es una colección privada que reúne a "grandes nombres" como Damien Hirst o Jeff Koons, sin ningún propósito ni criterio.
+No tuve tiempo, pero hice una "escapada" rápida para ver algo de arte contemporáneo en [Astrup Fearnley Museet](https://www.afmuseet.no/en/hjem). Fue un error. Tan impresionante como es el edificio diseñado por Renzo Piano, las obras en el interior denotan una falta de curación adecuada. Es una colección privada que reúne a "grandes nombres" como Damien Hirst o Jeff Koons, sin ningún propósito ni criterio.
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum/dist/pa-embed-player.min.js" async></script>
 <div class="pa-embed-player" style="width:100%; height:480px; display:none;"

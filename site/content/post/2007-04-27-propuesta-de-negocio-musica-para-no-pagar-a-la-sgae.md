@@ -4,7 +4,7 @@ title: 'Propuesta de negocio: &quot;música para no pagar a la SGAE&quot;'
 date: 2007-04-27T17:15:16+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/04/27/propuesta-de-negocio-musica-para-no-pagar-a-la-sgae/
+guid: https://www.cortell.net/2007/04/27/propuesta-de-negocio-musica-para-no-pagar-a-la-sgae/
 permalink: /2007/04/27/propuesta-de-negocio-musica-para-no-pagar-a-la-sgae/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -25,7 +25,7 @@ Así­ que he decidido compartirlo con la comunidad. A ver si a alguien le inter
 – Necesidad del mercado: de todos es sabido que el pago de los correspondientes impuestos a las Suciedades de Gestión tiene a un gran número de personas y colectivos muy muy molestos. Este gran número de personas seguro que verí­an con buenos ojos una alternativa viable (poder emplear y difundir música en sus negocios sin pasar por caja cada mes). Como ejemplo de esta situación, un botón (gracias Ana M-ª):
 
 <div style="text-align: center">
-  <img alt="cartel fiesta" title="cartel fiesta" src="http://farm1.static.flickr.com/213/474589811_ebeb0be86f.jpg" />
+  <img alt="cartel fiesta" title="cartel fiesta" src="https://farm1.static.flickr.com/213/474589811_ebeb0be86f.jpg" />
 </div>
 
 – Propuesta: recopilar en una colección de CDs temáticos (por estilos musicales) música LIBRE, y que por lo tanto pueda ser comercializada como "MUSICA PARA NO PAGAR A LA SGAE". Para ello habrí­a que documentar muy bien la procedencia de cada tema, licencias, legislación y jurisprudencia.

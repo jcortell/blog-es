@@ -4,7 +4,7 @@ title: Incesante acoso y derribo
 date: 2005-10-24T09:00:18+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/10/24/incesante-acoso-y-derribo/
+guid: https://www.cortell.net/2005/10/24/incesante-acoso-y-derribo/
 permalink: /2005/10/24/incesante-acoso-y-derribo/
 categories:
   - General
@@ -15,23 +15,23 @@ Incesante acoso y derribo.
 
 Ya he denunciado maniobras destinadas a acallarme o desacreditarme en varias ocasiones anteriores:
   
-[Censurar la Conferencia Maldita](http://homepage.mac.com/jorgecortell/blogwavestudio/LH20041117170647/LHA20050504095812/index.html)
+[Censurar la Conferencia Maldita](https://homepage.mac.com/jorgecortell/blogwavestudio/LH20041117170647/LHA20050504095812/index.html)
   
-[Amenazas de repercusiones](http://homepage.mac.com/jorgecortell/blogwavestudio/LH20041117170647/LHA20050504193150/)
+[Amenazas de repercusiones](https://homepage.mac.com/jorgecortell/blogwavestudio/LH20041117170647/LHA20050504193150/)
   
-[Forzar la dimisión](http://homepage.mac.com/jorgecortell/blogwavestudio/LH20041117170647/LHA20050505191504/index.html)
+[Forzar la dimisión](https://homepage.mac.com/jorgecortell/blogwavestudio/LH20041117170647/LHA20050505191504/index.html)
   
-[Negar mi relación con la universidad](http://homepage.mac.com/jorgecortell/blogwavestudio/LH20041021114344/LHA20050507235615/index.html)
+[Negar mi relación con la universidad](https://homepage.mac.com/jorgecortell/blogwavestudio/LH20041021114344/LHA20050507235615/index.html)
   
-[Manipulación en los medios](http://homepage.mac.com/jorgecortell/blogwavestudio/LH20041117170647/LHA20050510142036/index.html)
+[Manipulación en los medios](https://homepage.mac.com/jorgecortell/blogwavestudio/LH20041117170647/LHA20050510142036/index.html)
   
-[Amenazar a los medios que hablen conmigo](http://homepage.mac.com/jorgecortell/blogwavestudio/LH20041117170647/LHA20050516104242/index.html)
+[Amenazar a los medios que hablen conmigo](https://homepage.mac.com/jorgecortell/blogwavestudio/LH20041117170647/LHA20050516104242/index.html)
   
-[Ataque ad hominem](http://homepage.mac.com/jorgecortell/blogwavestudio/LH20041117170647/LHA20050522232542/index.html)
+[Ataque ad hominem](https://homepage.mac.com/jorgecortell/blogwavestudio/LH20041117170647/LHA20050522232542/index.html)
   
-[Ataque a mi web](http://homepage.mac.com/jorgecortell/blogwavestudio/LH20041117170647/LHA20050602140455/index.html)
+[Ataque a mi web](https://homepage.mac.com/jorgecortell/blogwavestudio/LH20041117170647/LHA20050602140455/index.html)
   
-[Campaña internacional de desprestigio e inspección de hacienda](http://www.cortell.net/2005/06/24/-¿acoso-y-derribo-noooooo-es-casualidad/)
+[Campaña internacional de desprestigio e inspección de hacienda](https://www.cortell.net/2005/06/24/-¿acoso-y-derribo-noooooo-es-casualidad/)
 
 Cuando creí­a que me estaban dejando en paz (quizá dándose cuenta de que no me callarán ni cosiéndome la boca), un nuevo episodio de acoso y derribo demuestra que el que quiera denunciar las sucias tácticas de aquellos que nos quieren manipular y recortar nuestras libertades tendrá que pagar un precio muy alto tarde o temprano.
 

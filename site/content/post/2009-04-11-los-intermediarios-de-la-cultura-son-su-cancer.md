@@ -4,7 +4,7 @@ title: Los intermediarios de la cultura son su cancer
 date: 2009-04-11T10:19:01+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1771
+guid: https://cortell.net/blog/?p=1771
 permalink: /2009/04/11/los-intermediarios-de-la-cultura-son-su-cancer/
 categories:
   - Copyfight

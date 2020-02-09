@@ -4,7 +4,7 @@ title: At RSNA Chicago
 date: 2014-01-11T21:48:04+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=5068
+guid: https://cortell.net/blog/?p=5068
 permalink: /2014/01/11/at-rsna-chicago/
 categories:
   - General

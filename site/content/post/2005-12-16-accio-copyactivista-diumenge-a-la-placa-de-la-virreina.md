@@ -4,7 +4,7 @@ title: ACCIO COPYACTIVISTA DIUMENGE A LA PLAí‡A DE LA VIRREINA
 date: 2005-12-16T13:39:45+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/12/16/accio-copyactivista-diumenge-a-la-placa-de-la-virreina/
+guid: https://www.cortell.net/2005/12/16/accio-copyactivista-diumenge-a-la-placa-de-la-virreina/
 permalink: /2005/12/16/accio-copyactivista-diumenge-a-la-placa-de-la-virreina/
 categories:
   - CiberDerechos
@@ -40,7 +40,7 @@ El Metabolik Hacklab de Leioa, artifex de la campanya, deia en la seva presentac
 
 I afegia: ""Compartir es bo" reivindica la llibertat del fluxe de coneixements, cultures i tecniques (copyleft, software lliure, etc) front l‘esquerda digital sostinguda pels monopolis del software privatiu, les patents sobre el desenvolupament tecnologic i les tecnologies i lleis anticopia, que amenacen empobrir la riquesa cultural de la humanitat que es la xarxa i el coneixement cientific-tecnic".
 
-Mes a <http://www.compartiresbueno.net>
+Mes a <https://www.compartiresbueno.net>
 
 —
   

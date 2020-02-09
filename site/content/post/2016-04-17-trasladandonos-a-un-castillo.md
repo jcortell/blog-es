@@ -4,7 +4,7 @@ title: Trasladándonos a un castillo
 date: 2016-04-17T14:59:59+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5753
+guid: https://blog.cortell.net/es/?p=5753
 permalink: /2016/04/17/trasladandonos-a-un-castillo/
 categories:
   - General

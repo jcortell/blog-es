@@ -4,7 +4,7 @@ title: CD de The Homeless Bones
 date: 2006-08-03T07:59:22+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/08/03/cd-de-the-homeless-bones/
+guid: https://www.cortell.net/2006/08/03/cd-de-the-homeless-bones/
 permalink: /2006/08/03/cd-de-the-homeless-bones/
 categories:
   - Copyfight
@@ -12,7 +12,7 @@ categories:
   - Noticias
   - Placeres de la vida
 ---
-El guitarrista <a title="Eme Navarro" target="_blank" href="http://emenavarro.blogspot.com/">Eme Navarro</a> ha tenido el detalle de enviarme el nuevo CD de The Homeless Bones (disponible gratuí­tamente en su web).
+El guitarrista <a title="Eme Navarro" target="_blank" href="https://emenavarro.blogspot.com/">Eme Navarro</a> ha tenido el detalle de enviarme el nuevo CD de The Homeless Bones (disponible gratuí­tamente en su web).
 
 Lo primero que tengo que hacer es agradecerles que me lo enví­en, agradecerles la co-dedicatoria que me hacen en el interior, y agradecerles su postura totalmente pro-cultura libre.
 

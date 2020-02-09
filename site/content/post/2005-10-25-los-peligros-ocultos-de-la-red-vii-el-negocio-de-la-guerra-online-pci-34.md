@@ -4,7 +4,7 @@ title: 'Los peligros ocultos de la Red VII: El Negocio de la Guerra OnLine (PC&a
 date: 2005-10-25T07:31:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=158
+guid: https://www.cortell.net/?p=158
 permalink: /2005/10/25/los-peligros-ocultos-de-la-red-vii-el-negocio-de-la-guerra-online-pci-34/
 categories:
   - 'Artí­culos escritos para la revista PC&amp;I'
@@ -13,7 +13,7 @@ categories:
   - Rants
   - Technology
 ---
-El mes pasado [hablábamos](http://www.cortell.net/2005/09/27/los-peligros-ocultos-de-la-red-vi-terrorismo-de-estado-online-pci-33/) del JFCCNW (cuya misión teórica es la defensa de las redes del Departamento de Defensa de los EEUU). Pero más preocupante que una división militar integrada por crackers de todo el mundo, es el Future Combat System (FCS), que es la mayor inversión que ha hecho el gobierno norteamericano desde enviar al hombre a la luna (por supuesto no se trata de una iniciativa de Sanidad, o Educación). A base de aviones sin piloto, robots de combate, el fracasado y carí­simo escudo antimisiles NMD, ex-SDI, y nano-sensores, el gobierno norteamericano quiere emplear la tecnologí­a para imponer su voluntad en todo el mundo. La superioridad numérica dejó de importar hace siglos. La superioridad armamentí­stica dejó de importar con la llegada del armamento nuclear. La superioridad tecnológica es lo que importa en los conflictos bélicos actuales. Ni siquiera la "inteligencia militar" (suena a contrasentido, -¿verdad?) es tan importante, como ha demostrado EEUU una y otra vez.
+El mes pasado [hablábamos](https://www.cortell.net/2005/09/27/los-peligros-ocultos-de-la-red-vi-terrorismo-de-estado-online-pci-33/) del JFCCNW (cuya misión teórica es la defensa de las redes del Departamento de Defensa de los EEUU). Pero más preocupante que una división militar integrada por crackers de todo el mundo, es el Future Combat System (FCS), que es la mayor inversión que ha hecho el gobierno norteamericano desde enviar al hombre a la luna (por supuesto no se trata de una iniciativa de Sanidad, o Educación). A base de aviones sin piloto, robots de combate, el fracasado y carí­simo escudo antimisiles NMD, ex-SDI, y nano-sensores, el gobierno norteamericano quiere emplear la tecnologí­a para imponer su voluntad en todo el mundo. La superioridad numérica dejó de importar hace siglos. La superioridad armamentí­stica dejó de importar con la llegada del armamento nuclear. La superioridad tecnológica es lo que importa en los conflictos bélicos actuales. Ni siquiera la "inteligencia militar" (suena a contrasentido, -¿verdad?) es tan importante, como ha demostrado EEUU una y otra vez.
 
 Pero toda esa tecnologí­a ha de interconectarse en red con unas garantí­as mí­nimas de seguridad. Ese es el cometido teórico del JFCCNW. Pero una división no les va a bastar. Imaginen miles de robots de combate intentado coordinarse con los aviones sin piloto sobrevolando su posición, mientras los sensores de la ropa de los pocos soldados humanos en el campo de batalla intentan enviar su nivel de pérdida de sangre al centro de control... el cual se encuentra totalmente bloqueado por un ataque de denegación de servicio que un script kiddie ha lanzado sin ni siquiera darse cuenta desde casa de sus abuelos mientras merienda. No es extraño que quieran, y se estén, inmiscuyendo tanto en la red. Pero sí­ peligroso, por el modo en el que lo están haciendo.
 
@@ -31,4 +31,4 @@ Para colmo la cruzada "contra el terrorismo" les ha permitido saltarse negociaci
 
 Sólo han pasado por alto un detalle: creen que la red es importante para ellos, pero no se dan cuenta de que es más importante para nosotros, para todos. Es el futuro. Debemos emplearla para conectar personas, compartir conocimiento. Y si ellos están dispuestos a luchar por la red, nosotros lo estamos más.
 
-[<img src="http://tira.escomposlinux.org/ecol-223.png" alt="tira es.comp.os.linux" border="0" />](http://tira.escomposlinux.org/ecol-223.png)
+[<img src="https://tira.escomposlinux.org/ecol-223.png" alt="tira es.comp.os.linux" border="0" />](https://tira.escomposlinux.org/ecol-223.png)

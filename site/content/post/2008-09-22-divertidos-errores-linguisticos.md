@@ -4,7 +4,7 @@ title: Divertidos errores linguísticos
 date: 2008-09-22T10:37:14+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1321
+guid: https://www.cortell.net/?p=1321
 permalink: /2008/09/22/divertidos-errores-linguisticos/
 categories:
   - General

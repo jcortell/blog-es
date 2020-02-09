@@ -4,7 +4,7 @@ title: A bombo y platillo repatriamos cientí­ficos para tratarlos como basura
 date: 2006-03-21T16:34:51+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/03/21/a-bombo-y-platilla-repatriamos-cientificos-para-tratarlos-como-basura/
+guid: https://www.cortell.net/2006/03/21/a-bombo-y-platilla-repatriamos-cientificos-para-tratarlos-como-basura/
 permalink: /2006/03/21/a-bombo-y-platilla-repatriamos-cientificos-para-tratarlos-como-basura/
 categories:
   - General
@@ -18,4 +18,4 @@ Definitivamente la Ciencia y la Cultura no son prioridad de este gobierno, ni lo
   
 [
   
-Leer para creer](http://www.abc.es/abc/pg060321/prensa/noticias/Sociedad/Ciencia/200603/21/NAC-SOC-105.asp) (noticia sobre el enfrentamiento de decenas de cientí­ficos repatriados "Ramón y Cajal" que están cansados de sus contratos basura y falta de seguimiento e interés por parte de la Administración).
+Leer para creer](https://www.abc.es/abc/pg060321/prensa/noticias/Sociedad/Ciencia/200603/21/NAC-SOC-105.asp) (noticia sobre el enfrentamiento de decenas de cientí­ficos repatriados "Ramón y Cajal" que están cansados de sus contratos basura y falta de seguimiento e interés por parte de la Administración).

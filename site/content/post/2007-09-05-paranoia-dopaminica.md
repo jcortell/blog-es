@@ -4,7 +4,7 @@ title: Paranoia dopamí­nica
 date: 2007-09-05T15:37:10+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/09/05/paranoia-dopaminica/
+guid: https://www.cortell.net/2007/09/05/paranoia-dopaminica/
 permalink: /2007/09/05/paranoia-dopaminica/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -13,7 +13,7 @@ categories:
   - Otras cosas
   - Sociedad y polí­tica
 ---
-Tras leer <a title="post Microsiervos" target="_blank" href="http://www.microsiervos.com/archivo/azar/patrones-dopamina.html">esta</a> interesantí­sima entrada de mis queridos microsiervos sobre "Encontrando patrones inexistentes debido al exceso de dopamina", en la que se mencionan cosas tan curiosas como
+Tras leer <a title="post Microsiervos" target="_blank" href="https://www.microsiervos.com/archivo/azar/patrones-dopamina.html">esta</a> interesantí­sima entrada de mis queridos microsiervos sobre "Encontrando patrones inexistentes debido al exceso de dopamina", en la que se mencionan cosas tan curiosas como
 
 > El resumen de ese capí­tulo del libro es que al parecer cuanto más bajos están los niveles de dopamina, de forma más -«escéptica-» suele comportarse la persona; cuando sube (ya sea de forma natural o artificial, por ejemplo, con inyecciones de L-dopa) el -«nivel de escepticismo-» baja y puede tener consecuencias curiosas, llegando a ser alarmantes o peligrosas.
 

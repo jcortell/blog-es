@@ -4,7 +4,7 @@ title: Montando mi primera exposición de arte
 date: 2016-04-17T14:50:25+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5751
+guid: https://blog.cortell.net/es/?p=5751
 permalink: /2016/04/17/montando-mi-primera-exposicion-de-arte/
 categories:
   - Arte

@@ -4,7 +4,7 @@ title: La libertad de escoger no es ser libre
 date: 2008-11-01T16:44:25+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1358
+guid: https://www.cortell.net/?p=1358
 permalink: /2008/11/01/la-libertad-de-escoger-no-es-ser-libre/
 categories:
   - ¿Por qué no? ¿Utopías?

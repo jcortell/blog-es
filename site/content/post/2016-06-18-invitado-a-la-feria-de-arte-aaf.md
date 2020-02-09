@@ -4,7 +4,7 @@ title: Invitado a la feria de arte AAF
 date: 2016-06-18T14:16:12+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5814
+guid: https://blog.cortell.net/es/?p=5814
 permalink: /2016/06/18/invitado-a-la-feria-de-arte-aaf/
 categories:
   - Arte

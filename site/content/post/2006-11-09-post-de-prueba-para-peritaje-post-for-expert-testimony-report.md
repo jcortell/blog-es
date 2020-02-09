@@ -4,7 +4,7 @@ title: Post de prueba para peritaje / Post for Expert-Testimony Report
 date: 2006-11-09T16:10:06+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/11/09/post-de-prueba-para-peritaje-post-for-expert-testimony-report/
+guid: https://www.cortell.net/2006/11/09/post-de-prueba-para-peritaje-post-for-expert-testimony-report/
 permalink: /2006/11/09/post-de-prueba-para-peritaje-post-for-expert-testimony-report/
 categories:
   - CiberDerechos

@@ -4,7 +4,7 @@ title: Anatomía de un hackeo newbie de bajo nivel con el navegador
 date: 2011-07-19T15:05:27+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3315
+guid: https://cortell.net/blog/?p=3315
 permalink: /2011/07/19/anatomia-de-un-hackeo-newbie-de-bajo-nivel-con-el-navegador/
 wpsd_autopost:
   - "1"
@@ -39,7 +39,7 @@ b) Ir a "ver>opciones para desarrolladores>herramientas para desarrolladores". E
 
 c) Si la página es muy larga, el código es complicado, hay muchos recursos, está bien ofuscado, etc, lo más práctico y directo es emplear la búsqueda, y utilizar un término que nos destaque lo que buscamos por formato de archivo (.avi, .mp4, .flv, etc), por almacenamiento externo (amazon, youtube, etc), o por ser la palabra que aparece justo antes del recurso necesitado (en la captura de pantalla adjunta, yo buscaba un vídeo que estaba tras la palabra "collection").
 
-<img class="aligncenter" src="http://farm7.static.flickr.com/6005/5954546312_4afe8f92bb_z.jpg" alt="screenshot" />
+<img class="aligncenter" src="https://farm7.static.flickr.com/6005/5954546312_4afe8f92bb_z.jpg" alt="screenshot" />
 
 d) Copiamos la URL del recurso, e intentamos descargarla (botón derecho>guardar como, CURL en la consola/terminal, o cualquier programa de descarga específico, desde el más sencillo hasta jDownloader). En caso de no poder, analizar si requiere algún tipo de autorización adicional (no debería, si tenéis acceso a la página que lo muestra), restricción (¿vía cookies, IP, u otra?), etc.
 

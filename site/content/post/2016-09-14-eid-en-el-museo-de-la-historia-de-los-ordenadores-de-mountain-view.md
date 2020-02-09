@@ -4,7 +4,7 @@ title: EID en el Museo de la Historia de los Ordenadores de Mountain View
 date: 2016-09-14T01:36:57+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5880
+guid: https://blog.cortell.net/es/?p=5880
 permalink: /2016/09/14/eid-en-el-museo-de-la-historia-de-los-ordenadores-de-mountain-view/
 categories:
   - Geek Fun
@@ -14,7 +14,7 @@ categories:
   - Placeres de la vida
   - Technology
 ---
-El lunes, 12 de septiembre, fue el <a href="http://eid.mindthebridge.com/" target="_blank">Día de la Innovación Europea (EID)</a> en el <a href="http://www.computerhistory.org/" target="_blank">Museo de la Historia de los Ordenadores</a> in Mountain View, California.
+El lunes, 12 de septiembre, fue el <a href="https://eid.mindthebridge.com/" target="_blank">Día de la Innovación Europea (EID)</a> en el <a href="https://www.computerhistory.org/" target="_blank">Museo de la Historia de los Ordenadores</a> in Mountain View, California.
 
 Aunque el museo no está abierto los lunes, nos dieron acceso a algunos de las exposiciones, como la del IBM 1401, el impresionante PDP-1 (origen de la cultura hacker), y los vehículos autónomos (y sí, por supuesto, entré en un coche sin conductor de Google y me saqué un _selfie_).
 

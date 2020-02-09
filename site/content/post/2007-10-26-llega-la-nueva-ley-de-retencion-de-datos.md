@@ -4,7 +4,7 @@ title: Llega la nueva ley de retención de datos
 date: 2007-10-26T13:27:38+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/10/26/llega-la-nueva-ley-de-retencion-de-datos/
+guid: https://www.cortell.net/2007/10/26/llega-la-nueva-ley-de-retencion-de-datos/
 permalink: /2007/10/26/llega-la-nueva-ley-de-retencion-de-datos/
 categories:
   - CiberDerechos
@@ -16,7 +16,7 @@ categories:
 ---
 Alex escribe en la lista de Kernel (traduzco del catalán):
 
-<a target="_blank" title="BOE" href="http://www.boe.es/boe/dias/2007/10/19/pdfs/A42517-42523.pdf">Ley 25/2007, de 18 de octubre, de conservación de datos relativos a las comunicaciones electrónicas y a las redes públicas de comunicaciones</a>.
+<a target="_blank" title="BOE" href="https://www.boe.es/boe/dias/2007/10/19/pdfs/A42517-42523.pdf">Ley 25/2007, de 18 de octubre, de conservación de datos relativos a las comunicaciones electrónicas y a las redes públicas de comunicaciones</a>.
 
 En relación a las comunicaciones de Internet, obliga a los proveedores de acceso a registrar los siguientes datos, a partir de noviembre (la ley entrará en vigor 20 dias después de la fecha de publicación):
 

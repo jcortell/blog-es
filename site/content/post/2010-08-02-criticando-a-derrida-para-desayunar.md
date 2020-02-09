@@ -4,7 +4,7 @@ title: Criticando a Derrida para desayunar
 date: 2010-08-02T08:49:44+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2552
+guid: https://cortell.net/blog/?p=2552
 permalink: /2010/08/02/criticando-a-derrida-para-desayunar/
 categories:
   - Filosofí­a

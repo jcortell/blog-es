@@ -4,7 +4,7 @@ title: Tabús anatómicos
 date: 2011-09-11T10:57:22+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3497
+guid: https://cortell.net/blog/?p=3497
 permalink: /2011/09/11/tabus-anatomicos/
 wpsd_autopost:
   - "1"

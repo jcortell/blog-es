@@ -4,7 +4,7 @@ title: ¿El limbo de los personajes, la muerte de la cultura?
 date: 2008-07-31T09:13:55+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1279
+guid: https://www.cortell.net/?p=1279
 permalink: /2008/07/31/el-limbo-de-los-personajes-la-muerte-de-la-cultura/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -16,7 +16,7 @@ categories:
   - Otras cosas
   - Rants
 ---
-Texto que aporto al próximo proyecto / libro de <a title="http://conservas.tk/" href="http://conservas.tk/" target="_blank">Conservas</a>
+Texto que aporto al próximo proyecto / libro de <a title="https://conservas.tk/" href="https://conservas.tk/" target="_blank">Conservas</a>
 
 – Superman ¿eres tú?
   

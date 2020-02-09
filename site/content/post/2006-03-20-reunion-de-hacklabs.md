@@ -4,7 +4,7 @@ title: Reunión de Hacklabs
 date: 2006-03-20T13:37:10+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/03/20/reunion-de-hacklabs/
+guid: https://www.cortell.net/2006/03/20/reunion-de-hacklabs/
 permalink: /2006/03/20/reunion-de-hacklabs/
 categories:
   - General
@@ -24,11 +24,11 @@ De igual manera será una gran oportunidad para conocernos, compartir proyectos 
 
 En el wiki de la página de hacklabs estamos recopilando todo la información de las actividades que tendrán lugar:
 
-http://www.hacklabs.org/wiki.pl?action=browse&id=JornadasInterHacklabs
+https://www.hacklabs.org/wiki.pl?action=browse&id=JornadasInterHacklabs
 
 Por un lado hemos pensado que cada hacklab deberí­a rellenar una ficha para entrar en materia lo más pronto posible, pues 3 dí­as dan para poco.
 
-http://www.hacklabs.org/wiki.pl?JornadasInterHacklabs/FichasHacklabs
+https://www.hacklabs.org/wiki.pl?JornadasInterHacklabs/FichasHacklabs
 
 La intención es crear diversas dinámicas durante los 3 dí­as para poder llegar a consensos más o menos válidos que nos permitan avanzar en el dí­a a dí­a de nuestros respectivos hacklabs
 
@@ -40,7 +40,7 @@ Más tarde habrá una presentación de las jornadas y algún juego que preparemo
 
 El sábado pasamos al taller de asamblearismo. Entendemos que uno de los pilares básicos en todo colectivo es el uso y disfrute de las asambleas. La gente de Metabolik se está preparando un taller para evaluras las experiencias adquiridas y proponer protocolos más eficaces.
 
-http://www.hacklabs.org/wiki.pl?JornadasInterHacklabs/TallerAsamblearismo
+https://www.hacklabs.org/wiki.pl?JornadasInterHacklabs/TallerAsamblearismo
 
 Por la tarde a través de la dinámica de la bola de nieve y a partir de varias preguntas, se provocará la reflexión desde lo individual a lo colectivo las visiones que tenemos sobre un hacklab, esta dinámica permite que las distintas opiniones queden reflejadas por escrito, depurandose a medida que avance la dinámica, de manera que podamos generar un texto para el final del taller.
 

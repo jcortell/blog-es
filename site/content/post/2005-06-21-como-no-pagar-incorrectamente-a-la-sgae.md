@@ -4,7 +4,7 @@ title: Cómo no pagar (incorrectamente) a la SGAE
 date: 2005-06-21T08:32:59+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/06/21/como-no-pagar-incorrectamente-a-la-sgae/
+guid: https://www.cortell.net/2005/06/21/como-no-pagar-incorrectamente-a-la-sgae/
 permalink: /2005/06/21/como-no-pagar-incorrectamente-a-la-sgae/
 categories:
   - CiberDerechos

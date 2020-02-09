@@ -4,7 +4,7 @@ title: Crucero por el Báltico, día 2
 date: 2016-05-29T16:50:17+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5782
+guid: https://blog.cortell.net/es/?p=5782
 permalink: /2016/05/29/crucero-por-el-baltico-dia-2/
 categories:
   - General

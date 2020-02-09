@@ -4,7 +4,7 @@ title: Patentando de nuevo la orina de vaca
 date: 2010-09-11T18:02:23+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2608
+guid: https://cortell.net/blog/?p=2608
 permalink: /2010/09/11/patentando-de-nuevo-la-urina-de-vaca/
 categories:
   - Copyfight
@@ -14,7 +14,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-<a title="fuente" href="http://www.avpayurveda.com/general-news/232-us-patent-for-cow-urine.html" target="_blank">La orina de vaca ha sido patentada de nuevo</a>.
+<a title="fuente" href="https://www.avpayurveda.com/general-news/232-us-patent-for-cow-urine.html" target="_blank">La orina de vaca ha sido patentada de nuevo</a>.
 
 La Orina Re-destilada de Vaca (RCUD), conocida como "Kamdhenu" ya fue patentada por Go Vigyan Anusandhan Kendra, como base para antibióticos. Ahora ha sido patentada de nuevo, en esta ocasión como anti-cancerígeno bajo el nobre comercial de "Kamdhenu Ark", ha sido co-desarrollada por el Kendra and National Environmental Engineer Research Institute (NEERI), de la India.
 

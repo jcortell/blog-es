@@ -4,7 +4,7 @@ title: La participación en la utopía
 date: 2011-01-23T19:20:17+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2873
+guid: https://cortell.net/blog/?p=2873
 permalink: /2011/01/23/la-participacion-en-la-utopia/
 categories:
   - ¿Por qué no? ¿Utopías?

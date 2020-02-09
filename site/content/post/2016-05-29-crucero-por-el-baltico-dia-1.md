@@ -4,16 +4,16 @@ title: Crucero por el Báltico, día 1
 date: 2016-05-29T16:38:57+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5780
+guid: https://blog.cortell.net/es/?p=5780
 permalink: /2016/05/29/crucero-por-el-baltico-dia-1/
 categories:
   - General
   - Personal
   - Placeres de la vida
 ---
-Al día siguiente, sábado 14 de mayo, tomamos el desayuno en el centro de visitantes (una vez más con deliciosos pasteles daneses), y tomamos un taxi hasta la terminal de cruceros donde embarcamos al [Seabourn Quest para realizar un crucero de 7 noches por el Báltico](http://www.seabourn.com/find-luxury-cruise-vacation/CruiseDetails.action?tourId=&webItineraryIdForAudit=E7N07S&fromSearchVacation=true&guestsCount=2&voyageCode=6728&#).
+Al día siguiente, sábado 14 de mayo, tomamos el desayuno en el centro de visitantes (una vez más con deliciosos pasteles daneses), y tomamos un taxi hasta la terminal de cruceros donde embarcamos al [Seabourn Quest para realizar un crucero de 7 noches por el Báltico](https://www.seabourn.com/find-luxury-cruise-vacation/CruiseDetails.action?tourId=&webItineraryIdForAudit=E7N07S&fromSearchVacation=true&guestsCount=2&voyageCode=6728&#).
 
-<img class="aligncenter" src="http://www.seabourn.com/images/itineraryMaps/E7N07S.jpg" width="300" height="190" />
+<img class="aligncenter" src="https://www.seabourn.com/images/itineraryMaps/E7N07S.jpg" width="300" height="190" />
 
 El barco es absolutamente fantástico. Es bastante nuevo, exquisitamente decorado, y nos asignaron una suite increíble con un armario vestidor enorme. De particular excelencia resultó el baño de la suite. Sólo he visto un cuarto de baño así en lugares como el Hotel Ritz Carlton (cualquiera, ya que son todos iguales) o el palacio del Emir en Emiratos. ¡Me quedé seriamente impresionado!
 

@@ -4,7 +4,7 @@ title: 'Marvel asesina antes de liberar a sus &quot;hijos&quot;'
 date: 2007-03-09T12:54:02+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/03/09/marvel-asesina-antes-de-liberar-a-sus-hijos/
+guid: https://www.cortell.net/2007/03/09/marvel-asesina-antes-de-liberar-a-sus-hijos/
 permalink: /2007/03/09/marvel-asesina-antes-de-liberar-a-sus-hijos/
 categories:
   - CiberDerechos
@@ -12,12 +12,12 @@ categories:
   - General
   - Noticias
 ---
-Ya pasó con <a target="_blank" title="contí­nuo de licencias" href="http://www.cortell.net/2005/11/12/el-continuo-de-las-licencias-de-la-censura-a-la-suidad/">Superman</a>, en el 93, con 55 años.
+Ya pasó con <a target="_blank" title="contí­nuo de licencias" href="https://www.cortell.net/2005/11/12/el-continuo-de-las-licencias-de-la-censura-a-la-suidad/">Superman</a>, en el 93, con 55 años.
 
-Ahora le ha llegado el turno a <a target="_blank" title="Steve Rogers" href="http://www.marveldatabase.com/Captain_America_(Steve_Rogers)">Captain America</a>. A los 66 años, Marvel ha decidido matarlo de 6 tiros. La historia es interesante. Pero los motivos más: antes muerto que compartido o libre.
+Ahora le ha llegado el turno a <a target="_blank" title="Steve Rogers" href="https://www.marveldatabase.com/Captain_America_(Steve_Rogers)">Captain America</a>. A los 66 años, Marvel ha decidido matarlo de 6 tiros. La historia es interesante. Pero los motivos más: antes muerto que compartido o libre.
 
 <div style="text-align: center">
-  <img alt="Captain America dead" title="Captain America dead" src="http://i.today.reuters.com/misc/genImage.aspx?uri=2007-03-07T212510Z_01_N07230662_RTRUKOP_1_PICTURE0.jpg&resize=other" />
+  <img alt="Captain America dead" title="Captain America dead" src="https://i.today.reuters.com/misc/genImage.aspx?uri=2007-03-07T212510Z_01_N07230662_RTRUKOP_1_PICTURE0.jpg&resize=other" />
 </div>
 
 Igual que quien mata a su pareja ante el anuncio de una separación, o los padres que antes reniegan y desheredan a sus hijos antes de aceptar que se van de casa porque y cuando quieren para vivir una vida libre, así­ reacciona Marvel.

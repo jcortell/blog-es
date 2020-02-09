@@ -4,7 +4,7 @@ title: Vandalismo polí­tico
 date: 2006-02-06T20:01:18+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/02/06/vandalismo-politico/
+guid: https://www.cortell.net/2006/02/06/vandalismo-politico/
 permalink: /2006/02/06/vandalismo-politico/
 categories:
   - CiberDerechos
@@ -15,7 +15,7 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-[Leo en Red Herring](http://www.redherring.com/Article.aspx?a=15576&hed=Wikipedia%20Hit%20by%20â€˜Vandalsâ€™) que los polí­ticos norteamericanos están practicando vandalismo online (entrando desde el Senado y el Congreso norteamericanos a páginas de Wikipedia sobre sus rivales para cambiar las definiciones y llenarlas de insultos).
+[Leo en Red Herring](https://www.redherring.com/Article.aspx?a=15576&hed=Wikipedia%20Hit%20by%20â€˜Vandalsâ€™) que los polí­ticos norteamericanos están practicando vandalismo online (entrando desde el Senado y el Congreso norteamericanos a páginas de Wikipedia sobre sus rivales para cambiar las definiciones y llenarlas de insultos).
 
 Vergonzoso.
 

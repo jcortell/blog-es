@@ -4,7 +4,7 @@ title: Apuntes desde Bogotá 1
 date: 2009-05-12T00:20:55+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1888
+guid: https://cortell.net/blog/?p=1888
 permalink: /2009/05/12/apuntes-desde-bogota-1/
 categories:
   - General
@@ -21,4 +21,4 @@ Resuelto el entuerto, llego al aeropuerto, y lo encuentro increíblemente vacío
 
 Una hora para conexión internacional, con cambio de terminal en Madrid. Del final de la H al final de la R (incluído trenecito al satélite y control de pasaportes, claro). Menos mal que no es CDG, pero aun así he tenido que correr de lo lindo. Lo increíble es que la maleta haya llegado (y además ha salido por la cinta la primera, como si hubiese corrido como yo).
 
-Ahora a cenar, aunque sea unas arepas con jugo de guanábana, y a <a title="http://www.celebritiessuites.com/es/" href="http://www.celebritiessuites.com/es/" target="_blank">dormir</a>, que estoy reventado.
+Ahora a cenar, aunque sea unas arepas con jugo de guanábana, y a <a title="https://www.celebritiessuites.com/es/" href="https://www.celebritiessuites.com/es/" target="_blank">dormir</a>, que estoy reventado.

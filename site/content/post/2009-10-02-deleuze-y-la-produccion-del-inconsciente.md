@@ -4,7 +4,7 @@ title: Deleuze y la producción del inconsciente
 date: 2009-10-02T11:15:45+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2190
+guid: https://cortell.net/blog/?p=2190
 permalink: /2009/10/02/deleuze-y-la-produccion-del-inconsciente/
 categories:
   - ¿Por qué no? ¿Utopías?

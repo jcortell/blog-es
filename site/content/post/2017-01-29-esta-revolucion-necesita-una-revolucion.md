@@ -4,7 +4,7 @@ title: Esta Revolución necesita una Revolución
 date: 2017-01-29T11:00:53+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=6005
+guid: https://blog.cortell.net/es/?p=6005
 permalink: /2017/01/29/esta-revolucion-necesita-una-revolucion/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -56,7 +56,7 @@ Sino también por el tono paternalista de toda la exposición, aislando quirúrg
 
 <img class="aligncenter size-medium" src="https://c1.staticflickr.com/1/377/32176121130_67167375e0_z.jpg" alt="Origins of Personal Computers" width="360" height="640" />
 
-Me alegró y enhorgulleció contarle a mi hijo que su abuela estuvo en París lanzando adoquines a la policía en las revueltas estudiantiles de 1969; que su abuelo me llevó, cuando era niño, a ver una [obra de teatro](http://en.comunitatvalenciana.com/happening-now/valencia/calendar/joan-mirojoan-baixas-mori-el-merma-0) prohibida durante la transición democrática española, temiendo la represión de la policía secreta (los grises); que participé de pequeño en debates con adultos sobre anarquismo y comunismo, cuando ambos estaban proscritos en España; y que he participado en algunas de las revoluciones y protestas que se produjeron en las décadas posteriores.
+Me alegró y enhorgulleció contarle a mi hijo que su abuela estuvo en París lanzando adoquines a la policía en las revueltas estudiantiles de 1969; que su abuelo me llevó, cuando era niño, a ver una [obra de teatro](https://en.comunitatvalenciana.com/happening-now/valencia/calendar/joan-mirojoan-baixas-mori-el-merma-0) prohibida durante la transición democrática española, temiendo la represión de la policía secreta (los grises); que participé de pequeño en debates con adultos sobre anarquismo y comunismo, cuando ambos estaban proscritos en España; y que he participado en algunas de las revoluciones y protestas que se produjeron en las décadas posteriores.
 
 No estoy enojado porque hayan tomado "mis" revoluciones y las hayan reenvasado para facilitar su digestión acomodando a las masas. Eso era previsible, y un resultado obvio del imperio reinante del capitalismo consumista.
 

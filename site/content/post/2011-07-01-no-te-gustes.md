@@ -4,7 +4,7 @@ title: 'no te gustes...'
 date: 2011-07-01T09:16:22+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3298
+guid: https://cortell.net/blog/?p=3298
 permalink: /2011/07/01/no-te-gustes/
 wpsd_autopost:
   - "1"

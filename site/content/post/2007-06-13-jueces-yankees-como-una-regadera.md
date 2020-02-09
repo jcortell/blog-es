@@ -4,7 +4,7 @@ title: Jueces yankees como una regadera
 date: 2007-06-13T14:27:03+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/06/13/jueces-yankees-como-una-regadera/
+guid: https://www.cortell.net/2007/06/13/jueces-yankees-como-una-regadera/
 permalink: /2007/06/13/jueces-yankees-como-una-regadera/
 categories:
   - Filosofí­a
@@ -13,7 +13,7 @@ categories:
   - Otras cosas
   - Sociedad y polí­tica
 ---
-Si no era suficiente con <a target="_blank" title="WSJ" href="http://blogs.wsj.com/law/2007/06/06/judge-sues-dry-cleaners-for-54-million/">el caso de un juez de Washington D.C. que ha demandado a una tintorerí­a</a> por perder sus pantalones pese a tener un cartel que dice "satisfacción garantizada / servicio en 24 horas" y les pide 54 millones de dólares (en el juicio incluso ha llorado), ayer me contaron <a target="_blank" title="WP" href="http://www.washingtonpost.com/wp-dyn/content/article/2007/06/08/AR2007060802795.html?hpid=moreheadlines">el caso de unos padres que han sido sentenciados a dos años en la cárcel</a> por permitir a los amigos de sus hijos beber cerveza y vino en su fiesta de 16-º cumpleaños en su casa pese a que todos ellos se quedaban a dormir y ninguno iba a conducir.
+Si no era suficiente con <a target="_blank" title="WSJ" href="https://blogs.wsj.com/law/2007/06/06/judge-sues-dry-cleaners-for-54-million/">el caso de un juez de Washington D.C. que ha demandado a una tintorerí­a</a> por perder sus pantalones pese a tener un cartel que dice "satisfacción garantizada / servicio en 24 horas" y les pide 54 millones de dólares (en el juicio incluso ha llorado), ayer me contaron <a target="_blank" title="WP" href="https://www.washingtonpost.com/wp-dyn/content/article/2007/06/08/AR2007060802795.html?hpid=moreheadlines">el caso de unos padres que han sido sentenciados a dos años en la cárcel</a> por permitir a los amigos de sus hijos beber cerveza y vino en su fiesta de 16-º cumpleaños en su casa pese a que todos ellos se quedaban a dormir y ninguno iba a conducir.
 
 -¿Qué narices les pasa a los jueces de este paí­s? Y lo peor, -¿qué narices le pasa a toda esa gente que en webs y medios ultraconservadores (como Fox News) defienden a estos jueces?
 

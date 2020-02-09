@@ -4,7 +4,7 @@ title: 'Echelon @ home: donde las dan...'
 date: 2005-12-20T18:32:16+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/12/20/echelon-home-donde-las-dan/
+guid: https://www.cortell.net/2005/12/20/echelon-home-donde-las-dan/
 permalink: /2005/12/20/echelon-home-donde-las-dan/
 categories:
   - CiberDerechos
@@ -14,7 +14,7 @@ categories:
   - Privacidad
   - Sociedad y polí­tica
 ---
-En este [artí­culo](http://www.nytimes.com/2005/12/15/politics/15cnd-program.html?hp&ex=1134709200&en=0a4739ca3ab6d63b&ei=5094&partner=homepage) del New York Times (titulado _Bush Secretly Lifted Some Limits on Spying in US after 9/11, Officials Say_) James Risen y Eric Lichtblau desvelan cómo, aprovechándose de los poderes que el Congreso le dio para "luchar contra el terrorismo mediante acciones armadas, como Comandante en Jefe", **George W. Bush firmó una orden presidencial en 2002 para que la Agencia de Seguridad Nacional (NSA) espí­e las llamadas telefónicas y emails de ciudadanos norteamericanos**.
+En este [artí­culo](https://www.nytimes.com/2005/12/15/politics/15cnd-program.html?hp&ex=1134709200&en=0a4739ca3ab6d63b&ei=5094&partner=homepage) del New York Times (titulado _Bush Secretly Lifted Some Limits on Spying in US after 9/11, Officials Say_) James Risen y Eric Lichtblau desvelan cómo, aprovechándose de los poderes que el Congreso le dio para "luchar contra el terrorismo mediante acciones armadas, como Comandante en Jefe", **George W. Bush firmó una orden presidencial en 2002 para que la Agencia de Seguridad Nacional (NSA) espí­e las llamadas telefónicas y emails de ciudadanos norteamericanos**.
 
 > Ayer el mismo presidente reconoció públicamente que firmó tal orden, pero ha llamado al mencionado artí­culo que lo denunciaba "vergonzoso" y ha anunciado investigaciones (o sea, represalias) por ello ya que, según él, "ayuda al enemigo". Viva la libertad de prensa.
 
@@ -28,4 +28,4 @@ Pero todo tiene un lí­mite, y los mismos congresistas y senadores de EEUU que 
 
 Y -¿para qué? De vez en cuando portavoces del gobierno norteamericano dicen que han evitado un posible atentado con estas medidas. Pero no lo pueden demostrar, y cuando se piden más datos dicen que son "investigaciones secretas". En realidad estoy seguro que todas estas medidas tienen que ayudar a la lucha contra el terrorismo, sin duda. Pero también hay muchas otras (como el toque de queda, los campos de concentración, las torturas, la pena de muerte, etc) que el gobierno de EEUU impone, y que supongo que de algún modo deben ayudar en la lucha contra el terrorismo, y no por ello cualquiera que esté en su sano juicio y ame la libertad las defenderá.
 
-Como comenté en mi [ensayo](http://www.cortell.net/2005/10/26/harvard-midterm-paper-govt-e-1045/) de mid-term, y en este [otro](http://www.cortell.net/2005/12/14/against-police-search-profiling/) más reciente (para Harvard), los terroristas, por lo general, buscan desestabilizar a un gobierno o sociedad. Y si para "luchar" contra ellos modificamos las leyes, o nos las saltamos, dejando en un estado precario el estado de derecho, y recortando en el camino la libertad y los derechos de los ciudadanos, entonces los terroristas ya nos han ganado.
+Como comenté en mi [ensayo](https://www.cortell.net/2005/10/26/harvard-midterm-paper-govt-e-1045/) de mid-term, y en este [otro](https://www.cortell.net/2005/12/14/against-police-search-profiling/) más reciente (para Harvard), los terroristas, por lo general, buscan desestabilizar a un gobierno o sociedad. Y si para "luchar" contra ellos modificamos las leyes, o nos las saltamos, dejando en un estado precario el estado de derecho, y recortando en el camino la libertad y los derechos de los ciudadanos, entonces los terroristas ya nos han ganado.

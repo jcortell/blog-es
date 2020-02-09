@@ -4,7 +4,7 @@ title: 5 días en Chile
 date: 2016-12-17T16:39:40+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5982
+guid: https://blog.cortell.net/es/?p=5982
 permalink: /2016/12/17/5-dias-en-chile/
 categories:
   - General
@@ -17,7 +17,7 @@ Una mala coordinación con mis socios IBM y el cliente me obligaron a cambiar mi
 
 Tan pronto como llegué el domingo, mi distribuidor y amigo Germán me llevó a almorzar en Donde Augusto, dentro del Mercado Central, donde tomé Locos y zumo Chirimoya. Tras una agradable tertulia me llevó a mi hotel, donde trabajé un rato y me fui a dormir temprano. Me hubiera encantado nadar pero la piscina del hotel era bastante pequeña.
 
-A las 22:40  [hubo un terremoto de magnitud 5](http://www.sismologia.cl/) en la <a href = "https://en.wikipedia.org/wiki/ Richter\_magnitude\_scale "> escala de Richter</a>, lo que básicamente lo ubica entre la explosión de la central nuclear de Chernobyl y la bomba atómica Little Boy lanzada sobre Hiroshima. Pero no era mi primer terremoto (he experimentado bastantes, en California, Japón, Chile ...). Me sentí como en el mecer de un pequeño crucero, algo que disfruto bastante. Genial para irse a dormir. Además, no hay razón para preocuparse: Chile tiene la regulación de construcción antisísmica más estricta del mundo.
+A las 22:40  [hubo un terremoto de magnitud 5](https://www.sismologia.cl/) en la <a href = "https://en.wikipedia.org/wiki/ Richter\_magnitude\_scale "> escala de Richter</a>, lo que básicamente lo ubica entre la explosión de la central nuclear de Chernobyl y la bomba atómica Little Boy lanzada sobre Hiroshima. Pero no era mi primer terremoto (he experimentado bastantes, en California, Japón, Chile ...). Me sentí como en el mecer de un pequeño crucero, algo que disfruto bastante. Genial para irse a dormir. Además, no hay razón para preocuparse: Chile tiene la regulación de construcción antisísmica más estricta del mundo.
 
 Al día siguiente lo pasé completamente con IBM, preparando la presentación que haríamos el miércoles. Al menos estábamos en la 10ª planta con excelentes vistas de los Andes. Para comero fuimos a Juan y Medio, donde tomé pastel de choclo. Ya que cuando terminamos todos los museos estaban cerrados, di un paseo por el parque.
 

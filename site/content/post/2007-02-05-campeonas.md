@@ -4,7 +4,7 @@ title: Campeonas
 date: 2007-02-05T13:18:46+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/02/05/campeonas/
+guid: https://www.cortell.net/2007/02/05/campeonas/
 permalink: /2007/02/05/campeonas/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -18,6 +18,6 @@ Pues bien, que quede claro que igual o más importante que esos macro-evento-esp
 
 Ni este es un blog que hable de deporte, ni puedo hacer un listado exhaustivo de logros de equipos de base, de deportes "minoritarios" (TODOS deberí­an ser tratados igual), o de mujeres que merecen una portada.
 
-Pero unos cuantos ejemplos seguro que ilustran: -¿concéis a <a title="Gisela en Wikipedia" target="_blank" href="http://es.wikipedia.org/wiki/Gisela_Pulido">Gisela Pulido</a>?, -¿y a <a title="Campeonas de ciclismo" target="_blank" href="http://www.esciclismo.com/ampliada.asp?Id=3353">Mireia y Gemma Abant</a>?, -¿o a <a title="Superesquiadora" target="_blank" href="http://www.terra.es/deportes/articulo/html/dpo305089.htm">Carolina Ruiz</a>?
+Pero unos cuantos ejemplos seguro que ilustran: -¿concéis a <a title="Gisela en Wikipedia" target="_blank" href="https://es.wikipedia.org/wiki/Gisela_Pulido">Gisela Pulido</a>?, -¿y a <a title="Campeonas de ciclismo" target="_blank" href="https://www.esciclismo.com/ampliada.asp?Id=3353">Mireia y Gemma Abant</a>?, -¿o a <a title="Superesquiadora" target="_blank" href="https://www.terra.es/deportes/articulo/html/dpo305089.htm">Carolina Ruiz</a>?
   
 Lo dicho, son sólo un ejemplo, pero merecen nuestro aplauso, y reconocimiento.

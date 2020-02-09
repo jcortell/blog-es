@@ -4,7 +4,7 @@ title: Dí­a de la mujer, conferencia de Vandana Shiva
 date: 2006-03-08T11:33:08+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/03/08/dia-de-la-mujer-conferencia-de-vandana-shiva/
+guid: https://www.cortell.net/2006/03/08/dia-de-la-mujer-conferencia-de-vandana-shiva/
 permalink: /2006/03/08/dia-de-la-mujer-conferencia-de-vandana-shiva/
 categories:
   - General

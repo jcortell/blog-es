@@ -4,7 +4,7 @@ title: Administración irresponsable e ineficaz que paga el ciudadano
 date: 2009-06-25T17:05:18+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1987
+guid: https://cortell.net/blog/?p=1987
 permalink: /2009/06/25/administracion-irresponsable-e-ineficaz-que-paga-el-ciudadano/
 categories:
   - General

@@ -4,7 +4,7 @@ title: 'Spain – US business = Pride Vs Arrogance'
 date: 2012-02-18T20:17:54+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3849
+guid: https://cortell.net/blog/?p=3849
 permalink: /2012/02/18/spain-us-business-pride-vs-arrogance/
 wpsd_autopost:
   - "1"

@@ -4,7 +4,7 @@ title: Cuando la distancia sí­ es una ventaja
 date: 2007-10-26T18:04:47+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/10/26/cuando-la-distancia-si-es-una-ventaja/
+guid: https://www.cortell.net/2007/10/26/cuando-la-distancia-si-es-una-ventaja/
 permalink: /2007/10/26/cuando-la-distancia-si-es-una-ventaja/
 categories:
   - General

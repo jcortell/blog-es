@@ -4,7 +4,7 @@ title: Dormimos despiertos
 date: 2009-11-29T17:05:33+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2375
+guid: https://cortell.net/blog/?p=2375
 permalink: /2009/11/29/dormimos-despiertos/
 categories:
   - General

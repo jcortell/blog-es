@@ -4,7 +4,7 @@ title: 'Si te pido perdón por no haber sido...'
 date: 2011-08-02T20:48:47+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/2011/08/si-te-pido-perdon-por-no-haber-sido/
+guid: https://cortell.net/blog/2011/08/si-te-pido-perdon-por-no-haber-sido/
 permalink: /2011/08/02/si-te-pido-perdon-por-no-haber-sido/
 categories:
   - General

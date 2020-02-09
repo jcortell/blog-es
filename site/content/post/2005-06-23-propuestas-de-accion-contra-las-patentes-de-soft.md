@@ -4,7 +4,7 @@ title: Propuestas de acción contra las patentes de soft
 date: 2005-06-23T10:17:22+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/06/23/propuestas-de-accion-contra-las-patentes-de-soft/
+guid: https://www.cortell.net/2005/06/23/propuestas-de-accion-contra-las-patentes-de-soft/
 permalink: /2005/06/23/propuestas-de-accion-contra-las-patentes-de-soft/
 categories:
   - CiberDerechos
@@ -109,7 +109,7 @@ les facilito un enlace, que por lo menos a mi, me permitió entender lo
   
 extremo del asunto
 
-http://proinnova.hispalinux.es/
+https://proinnova.hispalinux.es/
 
 Muchisimas gracias por su atención.
 
@@ -137,19 +137,19 @@ que lo rellenen hagan llegar automáticamente por e-mail a más de 25
   
 eurodiputados su petición para que voten contra las patentes de software.
 
-Aquí­ tienes el [formulario](http://www.etecnos.com/noalaspatentes/evitarlo.php):
+Aquí­ tienes el [formulario](https://www.etecnos.com/noalaspatentes/evitarlo.php):
   
-http://www.etecnos.com/noalaspatentes/evitarlo.php
+https://www.etecnos.com/noalaspatentes/evitarlo.php
 
-Aquí­ mi [reflexión](http://www.etecnos.com/noalaspatentes/patentes.php) sobre las patentes:
+Aquí­ mi [reflexión](https://www.etecnos.com/noalaspatentes/patentes.php) sobre las patentes:
   
-http://www.etecnos.com/noalaspatentes/patentes.php
+https://www.etecnos.com/noalaspatentes/patentes.php
 
 Te agradecerí­a que publicaras el enlace al formulario en tu web para que
   
 se realice el máximo número de peticiones contra las patentes posible.
 
-**Por otro lado, otro lector de mi blog** ([Barbiudo](http://barbiudo.bitacoras.com/)) **propone** (gracias por avisarme Rafa S.):
+**Por otro lado, otro lector de mi blog** ([Barbiudo](https://barbiudo.bitacoras.com/)) **propone** (gracias por avisarme Rafa S.):
   
 [Nota: actualizado por tercera vez a petición del autor, espero no haber liado la cosa o haber confundido versiones y autores]
 
@@ -203,11 +203,11 @@ Cargo y empresa o titulación: \___\___\___\___\___\___\___\___\___\___\___\___\
 
 Enlaces de su interés:
   
-http://www.ffii.org/
+https://www.ffii.org/
   
-http://europarl.ffii.org/amendments.en.html
+https://europarl.ffii.org/amendments.en.html
   
-http://lucha.proinnova.org/
+https://lucha.proinnova.org/
 
 [Nota sobre la licencia del texto: 3-ª actualización, ahora en Dominio Público. juass, si esto de las licencias ya decí­a yo que es un coñazo. Lo mejor: la Suidad ;-)]
 
@@ -241,11 +241,11 @@ Cargo y empresa o titulación: \___\___\___\___\___\___\___\___\___\___\___\___\
 
 Enlaces de su interés:
   
-http://www.ffii.org/
+https://www.ffii.org/
   
-http://europarl.ffii.org/amendments.en.html
+https://europarl.ffii.org/amendments.en.html
   
-http://lucha.proinnova.org/
+https://lucha.proinnova.org/
   
 **
   

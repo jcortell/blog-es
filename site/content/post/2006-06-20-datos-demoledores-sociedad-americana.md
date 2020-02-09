@@ -4,16 +4,16 @@ title: 'Datos demoledores: sociedad americana'
 date: 2006-06-20T07:07:17+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/06/20/datos-demoledores-sociedad-americana/
+guid: https://www.cortell.net/2006/06/20/datos-demoledores-sociedad-americana/
 permalink: /2006/06/20/datos-demoledores-sociedad-americana/
 categories:
   - Filosofí­a
   - General
   - Sociedad y polí­tica
 ---
-Lo "malo" de ir a Nueva York es que me paso todo un dí­a en <a title="Strand" target="_blank" href="http://www.strandbooks.com/home/">mi tienda de libros favorita</a>, me dejo el sueldo en libros, y luego he de pagar sobrepeso en el aeropuerto.
+Lo "malo" de ir a Nueva York es que me paso todo un dí­a en <a title="Strand" target="_blank" href="https://www.strandbooks.com/home/">mi tienda de libros favorita</a>, me dejo el sueldo en libros, y luego he de pagar sobrepeso en el aeropuerto.
 
-Lo "bueno" es luego leer lo que se ha comprado. En el avión de vuelta a España, a parte de varias historias cortas de Chejov, he leí­do el número IX de <a title="Nozone Empire" target="_blank" href="http://www.papress.com/bookpage.tpl?isbn=156898457X&cart=11505299123066">Nozone</a>, una mezcla de libro/revista/fancine. Cada número es monográfico, y este se titula _Empire_. -¡Altamente recomendable! En él encontramos cosas tan increí­bles como:
+Lo "bueno" es luego leer lo que se ha comprado. En el avión de vuelta a España, a parte de varias historias cortas de Chejov, he leí­do el número IX de <a title="Nozone Empire" target="_blank" href="https://www.papress.com/bookpage.tpl?isbn=156898457X&cart=11505299123066">Nozone</a>, una mezcla de libro/revista/fancine. Cada número es monográfico, y este se titula _Empire_. -¡Altamente recomendable! En él encontramos cosas tan increí­bles como:
 
   * El número de coches en EEUU crece 3 veces más que la población.
   * En EEUU hay dos tarjetas de crédito por persona... y 32.9 millones de personas que viven por debajo del lí­mite de pobreza.

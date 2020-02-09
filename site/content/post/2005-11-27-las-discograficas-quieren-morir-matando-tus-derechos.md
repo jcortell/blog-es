@@ -4,7 +4,7 @@ title: Las discográficas quieren morir matando (tus derechos)
 date: 2005-11-27T20:19:39+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/11/27/las-discograficas-quieren-morir-matando-tus-derechos/
+guid: https://www.cortell.net/2005/11/27/las-discograficas-quieren-morir-matando-tus-derechos/
 permalink: /2005/11/27/las-discograficas-quieren-morir-matando-tus-derechos/
 categories:
   - CiberDerechos

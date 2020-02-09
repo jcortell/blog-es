@@ -4,7 +4,7 @@ title: Aventuras de aeropuerto
 date: 2008-11-09T11:05:10+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1375
+guid: https://www.cortell.net/?p=1375
 permalink: /2008/11/09/aventuras-de-aeropuerto/
 categories:
   - Filosofí­a

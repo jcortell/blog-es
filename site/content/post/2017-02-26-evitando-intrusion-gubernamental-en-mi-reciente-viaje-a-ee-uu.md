@@ -4,7 +4,7 @@ title: Evitando intrusión gubernamental en mi reciente viaje a EE. UU.
 date: 2017-02-26T15:06:46+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=6015
+guid: https://blog.cortell.net/es/?p=6015
 permalink: /2017/02/26/evitando-intrusion-gubernamental-en-mi-reciente-viaje-a-ee-uu/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -24,7 +24,7 @@ Cuando solicité la renovación de mi ESTA, noté un nuevo campo en el formulari
 Esto ha sido un [reto durante años](https://www.eff.org/deeplinks/2016/12/law-enforcement-uses-border-search-exception-fourth-amendment-loophole) (registro en la frontera, disputa sobre la revelación de contraseña forzada...), pero la atmósfera se ha vuelto completamente tóxica en las últimas semanas. Además de la infame "prohibición de viajar", unos días antes de mi partida, las siguientes noticias apuntaban a un aumento en este abuso del gobierno:
 
   * Quincy Larson: [Nunca volveré a llevar mi teléfono en un vuelo internacional. Tú tampoco deberías](https://medium.freecodecamp.com/ill-never-bring-my-phone-on-an-international-flight-again-neither-should-you-e9289cde0e5f#.l14ye8o77).
-  * The Verge: [Un científico de la NASA nacido en EE. UU. fue detenido en la frontera hasta que desbloqueó su teléfono](http://www.theverge.com/2017/2/12/14583124/nasa-sidd-bikkannavar-detained-cbp-phone-search-trump-travel-ban).
+  * The Verge: [Un científico de la NASA nacido en EE. UU. fue detenido en la frontera hasta que desbloqueó su teléfono](https://www.theverge.com/2017/2/12/14583124/nasa-sidd-bikkannavar-detained-cbp-phone-search-trump-travel-ban).
 
 Así que, siguiendo un consejo que leí online ([HCómo cruzar legalmente una frontera estadounidense (u otra) sin entregar datos y contraseñas](https://boingboing.net/2017/02/12/how-to-cross-a-us-or-other-b.html)) decidí ir a lo seguro:
 

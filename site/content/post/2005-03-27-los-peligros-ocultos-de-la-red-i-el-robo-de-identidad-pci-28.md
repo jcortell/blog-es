@@ -4,7 +4,7 @@ title: 'Los peligros ocultos de la Red I: El Robo de Identidad (PC&amp;I 28)'
 date: 2005-03-27T10:32:10+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/03/27/los-peligros-ocultos-de-la-red-i-el-robo-de-identidad-pci-28/
+guid: https://www.cortell.net/2005/03/27/los-peligros-ocultos-de-la-red-i-el-robo-de-identidad-pci-28/
 permalink: /2005/03/27/los-peligros-ocultos-de-la-red-i-el-robo-de-identidad-pci-28/
 categories:
   - 'Artí­culos escritos para la revista PC&amp;I'
@@ -28,4 +28,4 @@ El segundo motivo para la sencillez con que se puede perpetrar este crimen es la
 
 Pero al final, la mejor solución es la de toda la vida: estar al tanto a cualquier movimiento extraño de nuestras cuentas (sean de correo, bancarias, o lo que sea), o cualquier comunicación anómala de nuestra empresa de seguros, o del concesionario de coches, etc, e investigar ante el más mí­nimo indicio, pues si el Robo de Identidad se detecta pronto, el daño es mucho menor.
 
-[<img src="http://tira.escomposlinux.org/ecol-203.png" alt="tira es.comp.os.linux" border="0" />](http://tira.escomposlinux.org/ecol-203.png)
+[<img src="https://tira.escomposlinux.org/ecol-203.png" alt="tira es.comp.os.linux" border="0" />](https://tira.escomposlinux.org/ecol-203.png)

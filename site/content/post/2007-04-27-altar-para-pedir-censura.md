@@ -4,7 +4,7 @@ title: Altar para pedir censura
 date: 2007-04-27T16:47:17+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/04/27/altar-para-pedir-censura/
+guid: https://www.cortell.net/2007/04/27/altar-para-pedir-censura/
 permalink: /2007/04/27/altar-para-pedir-censura/
 categories:
   - General

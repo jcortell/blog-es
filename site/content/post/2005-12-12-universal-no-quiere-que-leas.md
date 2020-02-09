@@ -4,7 +4,7 @@ title: Universal no quiere que leas
 date: 2005-12-12T18:00:45+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/12/12/universal-no-quiere-que-leas/
+guid: https://www.cortell.net/2005/12/12/universal-no-quiere-que-leas/
 permalink: /2005/12/12/universal-no-quiere-que-leas/
 categories:
   - CiberDerechos
@@ -17,7 +17,7 @@ Siempre hablamos de las discográficas, y de "la música enlatada o digital".
 
 Pero existen muchas vertientes en el "negocio de la música". Hoy tengo un triste ejemplo que comentar: la edición.
 
-Como [comenta](http://loucypher.bitacoras.com/archivos/2005/12/12/mpagas-o-te-vas-a-enterar) Lou en su blog, y ha sido [publicado](http://news.bbc.co.uk/2/hi/entertainment/4508158.stm) por la BBC, Universal music ha enviado varias de esas aterradoras cartas de _cease and desist_ ("para y déjalo", aunque mejor serí­a traducirlo por "para o paga") a websites y a un desarrollador de FREEWARE (o sea, GRATIS) apodado PearWorks. El "delito" del que se acusa a PearWorks ([leedlo](http://www.pearworks.com/pages/pearLyrics.html) de su puño y letra, que no tiene desperdicio) es el de programar y poner a disposición de todo el mundo un añadido (plug-in) al programa iTunes de Apple que al reproducir una canción, busca en internet páginas que contengan la letra o partitura de dicha canción y las muestra en pantalla.
+Como [comenta](https://loucypher.bitacoras.com/archivos/2005/12/12/mpagas-o-te-vas-a-enterar) Lou en su blog, y ha sido [publicado](https://news.bbc.co.uk/2/hi/entertainment/4508158.stm) por la BBC, Universal music ha enviado varias de esas aterradoras cartas de _cease and desist_ ("para y déjalo", aunque mejor serí­a traducirlo por "para o paga") a websites y a un desarrollador de FREEWARE (o sea, GRATIS) apodado PearWorks. El "delito" del que se acusa a PearWorks ([leedlo](https://www.pearworks.com/pages/pearLyrics.html) de su puño y letra, que no tiene desperdicio) es el de programar y poner a disposición de todo el mundo un añadido (plug-in) al programa iTunes de Apple que al reproducir una canción, busca en internet páginas que contengan la letra o partitura de dicha canción y las muestra en pantalla.
 
 Vamos a ver:
 
@@ -39,4 +39,4 @@ _Your failed business model is not my problem.
   
 Resistance is futile._****
 
-[[Actualización](http://www.cortell.net/2005/12/20/actualizacion-warner-es-inteligente-la-sociedad-de-gestion-no/): Warner decide rectificar (pero la sociedad de gestión no)]
+[[Actualización](https://www.cortell.net/2005/12/20/actualizacion-warner-es-inteligente-la-sociedad-de-gestion-no/): Warner decide rectificar (pero la sociedad de gestión no)]

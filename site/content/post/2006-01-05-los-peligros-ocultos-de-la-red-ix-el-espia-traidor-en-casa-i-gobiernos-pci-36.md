@@ -4,7 +4,7 @@ title: 'Los peligros ocultos de la Red IX: El espí­a traidor en casa I (gobier
 date: 2006-01-05T10:08:05+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/01/05/los-peligros-ocultos-de-la-red-ix-el-espia-traidor-en-casa-i-gobiernos-pci-36/
+guid: https://www.cortell.net/2006/01/05/los-peligros-ocultos-de-la-red-ix-el-espia-traidor-en-casa-i-gobiernos-pci-36/
 permalink: /2006/01/05/los-peligros-ocultos-de-la-red-ix-el-espia-traidor-en-casa-i-gobiernos-pci-36/
 categories:
   - 'Artí­culos escritos para la revista PC&amp;I'
@@ -18,7 +18,7 @@ Ya desde hace varias versiones de Adobe Photoshop no es posible escanear y edita
 
 > Aquellos que creen que estos escenarios de gobiernos controlando ciudadanos a través de los fabricantes de software son exagerados o catastrofistas deberí­an saber que el gobierno de EEUU ha hecho pública su intención de controlar, independientemente de la voluntad o el conocimiento del consumidor, cosas tales como la placa base (con el CipherChip del FBI), el correo electrónico (como a través del Carnivore del FBI), o la telefoní­a sobre internet (aprobado por la Federal Communications Comisión para el 2007 a través de CALEA). Y si esto no les inquieta, hay un caso muy bien documentado que servirá de ilustración.
 
-En efecto, se sospechaba desde hací­a tiempo que los fabricantes de impresoras laser color incluí­an, a "petición" del Servicio Secreto Norteamericano (NSA), en sus equipos la "funcionalidad no anunciada ni documentada" de introducir, en cada página impresa, unos micropuntos que conforman un código secreto que identifica la máquina, fecha, y posiblemente hasta el usuario. Pero tan sólo hace unos dí­as que los compañeros de la Electronic Frontier Foundation han conseguido descifrar estos micropuntos y documentarlo todo muy bien en [esta web](http://www.eff.org/Privacy/printers). Canon y Epson ya lo han admitido, HP y Konica Minolta guardan silencio.
+En efecto, se sospechaba desde hací­a tiempo que los fabricantes de impresoras laser color incluí­an, a "petición" del Servicio Secreto Norteamericano (NSA), en sus equipos la "funcionalidad no anunciada ni documentada" de introducir, en cada página impresa, unos micropuntos que conforman un código secreto que identifica la máquina, fecha, y posiblemente hasta el usuario. Pero tan sólo hace unos dí­as que los compañeros de la Electronic Frontier Foundation han conseguido descifrar estos micropuntos y documentarlo todo muy bien en [esta web](https://www.eff.org/Privacy/printers). Canon y Epson ya lo han admitido, HP y Konica Minolta guardan silencio.
 
 Para los que aún no vean en ello un problema ("sólo los falsificadores de billetes, narcotraficantes, secuestradores, o terroristas se deberí­an preocupar de esas cosas, a los demás no nos afecta") quizá les interese saber que **el FBI ha recopilado desde 2001 más de 1.100 páginas impresas por grupos activistas pací­ficos como la American Civil Liberties Union, Greenpeace, o United for Peace**.
 
@@ -28,4 +28,4 @@ Así­ que ya sabéis, si les dejamos hacer, y si somos cómplices en este encub
 
 -¿Excesivas mis previsiones? Quizá una última información os convenza: la Federal Communications Commission (FCC) de EEUU, el 23 de septiembre 2005 publicó un documento de tres páginas que, tal y como denunció Declan McCullagh en news.com.com, establece que **los usuarios sólo podrán usar software que el FBI apruebe**. En principio esto sólo afecta a los norteamericanos, pero vista su polí­tica de intervencionismo, y sus acciones transfronterizas, como los juicios P2P y la red Echelon, es de esperar que termine afectando a todo el mundo. Añadiendo a esto las **normas de intervención de telefoní­a IP (por internet)**, tenemos que **la privacidad, y los derechos de los consumidores son vulnerados descarada, frecuente, e ilegalmente por los gobiernos**. Pero por desgracia eso no es todo, y el mes que viene veremos cómo muchas grandes empresas hacen lo mismo.
 
-[<img src="http://tira.escomposlinux.org/ecol-224.png" alt="tira es.comp.os.linux" border="0" />](http://tira.escomposlinux.org)
+[<img src="https://tira.escomposlinux.org/ecol-224.png" alt="tira es.comp.os.linux" border="0" />](https://tira.escomposlinux.org)

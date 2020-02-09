@@ -4,7 +4,7 @@ title: 'App store: más capas de abstracción = menos control nuestro = más nos
 date: 2011-01-07T12:09:19+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2853
+guid: https://cortell.net/blog/?p=2853
 permalink: /2011/01/07/app-store-mas-capas-de-abstraccion-menos-control-nuestro-mas-nos-controlan-sin-saberlo/
 categories:
   - CiberDerechos

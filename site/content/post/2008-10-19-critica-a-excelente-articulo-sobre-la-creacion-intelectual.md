@@ -4,12 +4,12 @@ title: Crítica a excelente artículo sobre la creación intelectual
 date: 2008-10-19T05:01:21+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1349
+guid: https://www.cortell.net/?p=1349
 permalink: /2008/10/19/critica-a-excelente-articulo-sobre-la-creacion-intelectual/
 categories:
   - General
 ---
-Fernando me envió hace tiempo un <a title="http://dev.www.reprap.org/bin/view/Main/EndOfIntellectualProperty" href="http://dev.www.reprap.org/bin/view/Main/EndOfIntellectualProperty" target="_blank">enlace</a> a un artículo que puse entre mis "imprescindibles". No obstante, llevaba tiempo con ganas de hincarle el diente, y a bote pronto se me ocurre:
+Fernando me envió hace tiempo un <a title="https://dev.www.reprap.org/bin/view/Main/EndOfIntellectualProperty" href="https://dev.www.reprap.org/bin/view/Main/EndOfIntellectualProperty" target="_blank">enlace</a> a un artículo que puse entre mis "imprescindibles". No obstante, llevaba tiempo con ganas de hincarle el diente, y a bote pronto se me ocurre:
 
 "End of intellectual property (why we create, and how we can all do it)" + Zizek se equivocan sobre el pasado y el presente (no la technología) = debemos retomar la política y el capital (si es que alguna vez fueron nuestros).
 

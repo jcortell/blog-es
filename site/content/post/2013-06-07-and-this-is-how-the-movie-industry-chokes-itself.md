@@ -4,7 +4,7 @@ title: And this is how the movie industry chokes itself
 date: 2013-06-07T16:32:50+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4738
+guid: https://cortell.net/blog/?p=4738
 permalink: /2013/06/07/and-this-is-how-the-movie-industry-chokes-itself/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -31,9 +31,9 @@ Es una fórmula. Una industria. Retornos predecibles (o lo que les gusta pensar 
 
 ¿Has notado cómo algunos "amigos" hacen película tras película juntos? ¿Crees que es porque tienen "química"?
 
-<a title="http://online.wsj.com/article/SB10001424127887324787004578497341587629644.html" href="http://online.wsj.com/article/SB10001424127887324787004578497341587629644.html" target="_blank">Entonces esta gente se reune, derrocha</a> y luego exigen que se les "defienda", ya que "crean empleos". Al igual que cualquier organización criminal, o partido político, o cualquier otro grupo involucrado en intercambio monetario.
+<a title="https://online.wsj.com/article/SB10001424127887324787004578497341587629644.html" href="https://online.wsj.com/article/SB10001424127887324787004578497341587629644.html" target="_blank">Entonces esta gente se reune, derrocha</a> y luego exigen que se les "defienda", ya que "crean empleos". Al igual que cualquier organización criminal, o partido político, o cualquier otro grupo involucrado en intercambio monetario.
 
-> Tenemos que sufrir copyright y restricciones DRM a nuestros derechos y al acceso a la cultura para que puedan crear su (en su mayoría) basura y obligar a acuerdos agrupados de distribución ilegales. **Tenemos que sufrir anuncios engañosos en el metro diciendo "La producción cinematográfica genera $ 400 millones en ingresos fiscales para NY, que equivale al salario de miles de bomberos", mientras que ocultan el hecho de que la industria cinematográfica recibió <a title="http://artmoneynyc.tumblr.com/post/16032952633/should-new-york-say-cut-to-expensive-film-industry" href="http://artmoneynyc.tumblr.com/post/16032952633/should-new-york-say-cut-to-expensive-film-industry" target="_blank">$420 millones de "incentivos" de impuestos en New York</a>.**
+> Tenemos que sufrir copyright y restricciones DRM a nuestros derechos y al acceso a la cultura para que puedan crear su (en su mayoría) basura y obligar a acuerdos agrupados de distribución ilegales. **Tenemos que sufrir anuncios engañosos en el metro diciendo "La producción cinematográfica genera $ 400 millones en ingresos fiscales para NY, que equivale al salario de miles de bomberos", mientras que ocultan el hecho de que la industria cinematográfica recibió <a title="https://artmoneynyc.tumblr.com/post/16032952633/should-new-york-say-cut-to-expensive-film-industry" href="https://artmoneynyc.tumblr.com/post/16032952633/should-new-york-say-cut-to-expensive-film-industry" target="_blank">$420 millones de "incentivos" de impuestos en New York</a>.**
 
 Y así es como la propia industria (se) ahoga. Concentrarse en el dinero, los ingresos y el retorno, y exigiendo "protección", en lugar de ofrecer innovación, acceso y calidad.
 

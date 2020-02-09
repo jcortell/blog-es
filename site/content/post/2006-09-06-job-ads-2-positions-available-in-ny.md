@@ -4,7 +4,7 @@ title: JOB ADs (2 positions available in NY)
 date: 2006-09-06T09:07:24+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/09/06/job-ads-2-positions-available-in-ny/
+guid: https://www.cortell.net/2006/09/06/job-ads-2-positions-available-in-ny/
 permalink: /2006/09/06/job-ads-2-positions-available-in-ny/
 categories:
   - General
@@ -13,9 +13,9 @@ categories:
 ---
 Do you believe in free-software? Are you related to the HealthCare Industry? Are you looking for a Management or an IT job in New York? Do you know someone who is?
 
-I have just posted the following ads in the jobs mailing list of nycbug.org, in a metromac forum <a title="metromac forum entry job ad" target="_blank" href="http://metromac.org/forum/index.php?showtopic=2029">entry</a>, and in an <a title="Ad at Newyorkjobs" target="_blank" href="http://www.newyorkjobs.com/jobdetails.cfm?jid=202389">ad</a> at newyorkjobs.com:
+I have just posted the following ads in the jobs mailing list of nycbug.org, in a metromac forum <a title="metromac forum entry job ad" target="_blank" href="https://metromac.org/forum/index.php?showtopic=2029">entry</a>, and in an <a title="Ad at Newyorkjobs" target="_blank" href="https://www.newyorkjobs.com/jobdetails.cfm?jid=202389">ad</a> at newyorkjobs.com:
 
-<a target="_blank" title="Kanteron Systems website" href="http://www.kanteron.com/">Kanteron Systems</a> is a Spanish Free-Software company (vertical markets, mainly medical and image servers).
+<a target="_blank" title="Kanteron Systems website" href="https://www.kanteron.com/">Kanteron Systems</a> is a Spanish Free-Software company (vertical markets, mainly medical and image servers).
 
 _Position_: Branch Manager
   

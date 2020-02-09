@@ -4,7 +4,7 @@ title: Pretenciosidad en los artistas de la academia cibernética
 date: 2009-04-27T11:05:27+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1826
+guid: https://cortell.net/blog/?p=1826
 permalink: /2009/04/27/pretenciosidad-en-los-artistas-de-la-academia-cibernetica/
 categories:
   - Arte
@@ -15,7 +15,7 @@ categories:
 ---
 Achaquémoslo a mi ignorancia, así nadie se sentirá ofendido ni tendrá que asumir responsabilidades. Pero si no lo digo, reviento.
 
-El viernes 24 de abril mi chica y yo asistimos a las conferencias "<a title="http://www.salaparpallo.es/ficha_nnmm.html?cnt_id=1712" href="http://www.salaparpallo.es/ficha_nnmm.html?cnt_id=1712" target="_blank">Más allá de Darwin: El camino co-evolucionario del arte, la tecnología y la consciencia</a>" que impartían miembros del Planetary Collegium, y organizaba <a title="http://www.salaparpallo.es/nuevos_medios.html" href="http://www.salaparpallo.es/nuevos_medios.html" target="_blank">Nuevos Medios</a> de la <a title="http://www.salaparpallo.es" href="http://www.salaparpallo.es" target="_blank">Sala Parpalló</a> en el Centro Cultural de la Beneficencia.
+El viernes 24 de abril mi chica y yo asistimos a las conferencias "<a title="https://www.salaparpallo.es/ficha_nnmm.html?cnt_id=1712" href="https://www.salaparpallo.es/ficha_nnmm.html?cnt_id=1712" target="_blank">Más allá de Darwin: El camino co-evolucionario del arte, la tecnología y la consciencia</a>" que impartían miembros del Planetary Collegium, y organizaba <a title="https://www.salaparpallo.es/nuevos_medios.html" href="https://www.salaparpallo.es/nuevos_medios.html" target="_blank">Nuevos Medios</a> de la <a title="https://www.salaparpallo.es" href="https://www.salaparpallo.es" target="_blank">Sala Parpalló</a> en el Centro Cultural de la Beneficencia.
 
 Con un programa tan interesante, tantas ponencias, y una  presentación por parte de las responsables de Nuevos Medios y de la Sala Parpalló en la línea de "el acto más importante de la temporada" "nuevo paradigma" "imprescindible" estaba claro que interesante tenía que ser.
 

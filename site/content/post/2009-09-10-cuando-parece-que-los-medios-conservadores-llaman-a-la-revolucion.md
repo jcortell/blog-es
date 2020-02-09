@@ -4,7 +4,7 @@ title: 'Cuando PARECE que los medios conservadores llaman a la revolución...'
 date: 2009-09-10T09:08:10+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2138
+guid: https://cortell.net/blog/?p=2138
 permalink: /2009/09/10/cuando-parece-que-los-medios-conservadores-llaman-a-la-revolucion/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -13,7 +13,7 @@ categories:
 ---
 Cualquiera que lo lea y no piense un poco se quedaría asombrado.
 
-Daniel Henninger ha escrito el pasado día 3 (perdón por el retraso, pero llevo una semana de trabajo de locos, supongo que se nota en la escasez de posts) un editorial para el Wall Street Journal titulado "<a title="http://online.wsj.com/article/SB40001424052970204731804574388562244518116.html" href="http://online.wsj.com/article/SB40001424052970204731804574388562244518116.html" target="_blank">The Lumpen Bureaucratariat</a>" que no tiene desperdicio.
+Daniel Henninger ha escrito el pasado día 3 (perdón por el retraso, pero llevo una semana de trabajo de locos, supongo que se nota en la escasez de posts) un editorial para el Wall Street Journal titulado "<a title="https://online.wsj.com/article/SB40001424052970204731804574388562244518116.html" href="https://online.wsj.com/article/SB40001424052970204731804574388562244518116.html" target="_blank">The Lumpen Bureaucratariat</a>" que no tiene desperdicio.
 
 Relata el hartazgo del electorado global con los burócratas, la deuda, y el estancamiento de la clase política.
 

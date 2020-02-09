@@ -4,7 +4,7 @@ title: Cómo seguir haciendo Copias Privadas, diga lo que diga la ley
 date: 2006-06-22T16:39:43+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/06/22/como-seguir-haciendo-copias-privadas-diga-lo-que-diga-la-ley/
+guid: https://www.cortell.net/2006/06/22/como-seguir-haciendo-copias-privadas-diga-lo-que-diga-la-ley/
 permalink: /2006/06/22/como-seguir-haciendo-copias-privadas-diga-lo-que-diga-la-ley/
 categories:
   - CiberDerechos
@@ -21,7 +21,7 @@ Por lo general estoy dispuesto a acatar las leyes (en muchos casos coincido apro
 
 Como puede que no sea el único que piense así­, comparto en este post un caso muy particular: la Copia Privada bajo la reforma de la Ley de Propiedad Intelectual aprobada hoy.
 
-<a title="20minutos" target="_blank" href="http://www.20minutos.es/noticia/133768/0/lpi/congreso/canon/">Según parece</a>, la Copia Privada (algo que en anterior texto era ejercible por cualquiera, en cualquier circunstancia simepre que el soporte esuviese sujeto a canon, no se hiciese con ánimo de lucro, y no se tratase de copia de seguridad) ha pasado a estar sujeta a estas condiciones:
+<a title="20minutos" target="_blank" href="https://www.20minutos.es/noticia/133768/0/lpi/congreso/canon/">Según parece</a>, la Copia Privada (algo que en anterior texto era ejercible por cualquiera, en cualquier circunstancia simepre que el soporte esuviese sujeto a canon, no se hiciese con ánimo de lucro, y no se tratase de copia de seguridad) ha pasado a estar sujeta a estas condiciones:
 
 > El proyecto aprobado aclara que la "copia privada" de una obra debe ser realizada por una persona fí­sica para uso privado y a partir del original.
 
@@ -35,6 +35,6 @@ Si lo que se quiere es evitar pagar canon, para no sufragar más mentiras y mani
 
 Si lo que querí­an era matar definitivamente los discos, lo han conseguido. **TODOS A LA TRINCHERA DIGITAL, A DEFENDER LA PRESUNCION DE INOCENCIA.**
 
-Y que empiece la lucha de una puñetera vez: <a title="Fundación Copyleft" target="_blank" href="http://fundacioncopyleft.org/">Fundación Copyleft</a>, <a title="Asociación Cultura Libre" target="_blank" href="http://estalella.wordpress.com/2006/05/19/sin-portavoces-legitimos-en-la-batalla-del-copyright/">Asociación Por Una Cultura Libre</a> (<a title="principios" target="_blank" href="http://www.escolar.net/wiki/index.php/Principios">principios</a>, <a title="Impulsores" target="_blank" href="http://www.escolar.net/wiki/index.php/Lista_impulsores">impulsores</a>), y sobretodo, pronto, SUIDAD )S(
+Y que empiece la lucha de una puñetera vez: <a title="Fundación Copyleft" target="_blank" href="https://fundacioncopyleft.org/">Fundación Copyleft</a>, <a title="Asociación Cultura Libre" target="_blank" href="https://estalella.wordpress.com/2006/05/19/sin-portavoces-legitimos-en-la-batalla-del-copyright/">Asociación Por Una Cultura Libre</a> (<a title="principios" target="_blank" href="https://www.escolar.net/wiki/index.php/Principios">principios</a>, <a title="Impulsores" target="_blank" href="https://www.escolar.net/wiki/index.php/Lista_impulsores">impulsores</a>), y sobretodo, pronto, SUIDAD )S(
   
-![Einstein Copyleft](http://static.flickr.com/55/127001303_87111810e2.jpg "Einstein Copyleft")
+![Einstein Copyleft](https://static.flickr.com/55/127001303_87111810e2.jpg "Einstein Copyleft")

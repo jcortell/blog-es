@@ -4,7 +4,7 @@ title: 'El estado de la lucha (contra la patentabilidad del software): Bruselas 
 date: 2005-06-08T08:08:07+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=32
+guid: https://www.cortell.net/?p=32
 permalink: /2005/06/08/el-estado-de-la-lucha-contra-la-patentabilidad-del-software-bruselas-1-junio-2005/
 categories:
   - General
@@ -55,10 +55,10 @@ Así­ que, por quemar el último cartucho, y "morir con las botas puestas", aqu
 
 Más información:
   
-[Proinnova](http://proinnova.hispalinux.es/) (mucha información y cosas para hacer, en Español)
+[Proinnova](https://proinnova.hispalinux.es/) (mucha información y cosas para hacer, en Español)
   
-[FFII](http://www.ffii.org/index.es.html) (en Español)
+[FFII](https://www.ffii.org/index.es.html) (en Español)
   
-[Documentación](http://wiki.ffii.org/ConfDoc050601En) (en inglés) de FFII
+[Documentación](https://wiki.ffii.org/ConfDoc050601En) (en inglés) de FFII
 
-Contacto de [eurodiputados](http://wwwdb.europarl.eu.int/ep6/owa/p_meps.short_list?ilg=ES&ictry=ES&ipolgrp=&iorig=) españoles
+Contacto de [eurodiputados](https://wwwdb.europarl.eu.int/ep6/owa/p_meps.short_list?ilg=ES&ictry=ES&ipolgrp=&iorig=) españoles

@@ -4,7 +4,7 @@ title: ¿Aceleración del cambio implica irrelevancia generacional?
 date: 2010-11-14T12:17:19+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2703
+guid: https://cortell.net/blog/?p=2703
 permalink: /2010/11/14/aceleracion-del-cambio-implica-irrelevancia-generacional/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -14,7 +14,7 @@ categories:
   - Sociedad y polí­tica
   - Technology
 ---
-De Ulam a Kurzweil llevamos más de medio siglo debatiendo sobre lo obvio y aparente: la <a title="http://en.wikipedia.org/wiki/Accelerating_change" href="http://en.wikipedia.org/wiki/Accelerating_change" target="_blank">aceleración del cambio</a>.
+De Ulam a Kurzweil llevamos más de medio siglo debatiendo sobre lo obvio y aparente: la <a title="https://en.wikipedia.org/wiki/Accelerating_change" href="https://en.wikipedia.org/wiki/Accelerating_change" target="_blank">aceleración del cambio</a>.
 
 Se puede estar más o menos de acuerdo. Se puede ser más conservador o catastrofista con las predicciones. Pero lo que no se puede es negar el impacto que la aceleración del cambio, y la temida y anticipada singularidad, están teniendo en nuestra sociedad. Muchos, como Toffler o Naisbitt, se aventuran a especular sobre las sociedades post-industriales.
 

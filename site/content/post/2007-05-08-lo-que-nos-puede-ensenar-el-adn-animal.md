@@ -4,7 +4,7 @@ title: Lo que nos puede enseñar el ADN animal
 date: 2007-05-08T05:36:49+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/05/08/lo-que-nos-puede-ensenar-el-adn-animal/
+guid: https://www.cortell.net/2007/05/08/lo-que-nos-puede-ensenar-el-adn-animal/
 permalink: /2007/05/08/lo-que-nos-puede-ensenar-el-adn-animal/
 categories:
   - General

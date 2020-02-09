@@ -4,7 +4,7 @@ title: Talibanes del Copyright (tristes ejemplos)
 date: 2005-10-26T16:54:53+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/10/26/talibanes-del-copyright-tristes-ejemplos/
+guid: https://www.cortell.net/2005/10/26/talibanes-del-copyright-tristes-ejemplos/
 permalink: /2005/10/26/talibanes-del-copyright-tristes-ejemplos/
 categories:
   - CiberDerechos
@@ -16,7 +16,7 @@ Por desconocimiento, por adoctrinamiento / condicionamiento, o por oscuros inter
 
 Pero más inquietante todaví­a es la inexplicable actitud de quien, parapetado en las leyes de Propiedad Intelectual, obligan a otro a desistir de una actividad que aporta un bien a los demás, sin hacerle daño a nadie, como ilustra este primer ejemplo:
 
-La historia apareció en un [artí­culo](http://www.wired.com/news/mac/0,2125,68967,00.html?tw=rss.TOP) de la revista Wired el 26 de septiembre. En dicho artí­culo se explicaba cómo en la web de ipodsubwaymaps.com su autor, William Bright, colocaba mapas de metro de diversas ciudades para que la gente se los descargase y los pudiese consultar en su ipod foto o ipod nano, sin pagar nada. Más de 9000 personas lo hicieron, y estoy seguro que muchos de ellos le están agradecidos por prestar un servicio a la comunidad a cambio de nada. Pero los procelosos guardianes de la integridad del copyright y la concentración y limitación de la difusión del conocimiento se pusieron en contacto con él personificados en esta ocasión en los responsables del metro de Nueva York (NY-MTA) y del metro de Sand Francisco (BART).
+La historia apareció en un [artí­culo](https://www.wired.com/news/mac/0,2125,68967,00.html?tw=rss.TOP) de la revista Wired el 26 de septiembre. En dicho artí­culo se explicaba cómo en la web de ipodsubwaymaps.com su autor, William Bright, colocaba mapas de metro de diversas ciudades para que la gente se los descargase y los pudiese consultar en su ipod foto o ipod nano, sin pagar nada. Más de 9000 personas lo hicieron, y estoy seguro que muchos de ellos le están agradecidos por prestar un servicio a la comunidad a cambio de nada. Pero los procelosos guardianes de la integridad del copyright y la concentración y limitación de la difusión del conocimiento se pusieron en contacto con él personificados en esta ocasión en los responsables del metro de Nueva York (NY-MTA) y del metro de Sand Francisco (BART).
 
 Aquí­ tenéis una copia de los mensajes que recibió:
 
@@ -86,13 +86,13 @@ Re: Unauthorized reproduction of BART website content
 
 Dear Mr. Bright:
   
-I am the Website Manager for the San Francisco Bay Area Rapid Transit District (BART). It has recently come to BART‘s attention that a website you operate at http://www.ipodsubwaymaps.com/ includes a copy of the BART System Map in various presentations.
+I am the Website Manager for the San Francisco Bay Area Rapid Transit District (BART). It has recently come to BART‘s attention that a website you operate at https://www.ipodsubwaymaps.com/ includes a copy of the BART System Map in various presentations.
   
 There is a widespread belief that materials published by public agencies such as BART are in the public domain. This belief is incorrect. It is illegal to copy images from the BART website without permission. The BART website, www.bart.gov, including the BART Logo, the BART System Map and other BART Intellectual Property is protected against unauthorized copying under federal copyright and trademark laws, 17 U.S.C. s 100 et seq. (copyright); and/or 15 U.S.C. s 1115 et seq. (trademark and unfair competition).
   
 It is BART‘s policy not to allow the copying of BART content on third party websites. Please see our copyright policy at www.bart.gov/siteInfo/copyright.asp. BART is concerned that the unauthorized copying of content from the BART website will mislead consumers by providing inaccurate information with the implication that it is official BART information. In fact, the BART System Map on your website is out of date.
   
-In keeping with this policy, we demand that you remove any and all images containing the BART System Map, in whole or in part, from http://www.ipodsubwaymaps.com/. This includes images within http://www.ipodsubwaymaps.com/maps/sanfrancisco/sanfrancisco.zip, at http://www.ipodsubwaymaps.com/maps/sanfrancisco/SanFran01.jpg at http://www.ipodsubwaymaps.com/maps/sanfrancisco/breakdown.jpg and any other BART website content that may appear on your site.
+In keeping with this policy, we demand that you remove any and all images containing the BART System Map, in whole or in part, from https://www.ipodsubwaymaps.com/. This includes images within https://www.ipodsubwaymaps.com/maps/sanfrancisco/sanfrancisco.zip, at https://www.ipodsubwaymaps.com/maps/sanfrancisco/SanFran01.jpg at https://www.ipodsubwaymaps.com/maps/sanfrancisco/breakdown.jpg and any other BART website content that may appear on your site.
   
 We understand that your misuse of BART‘s Intellectual Property may not have been intentional infringement. We trust that we can depend upon your good faith cooperation and prompt compliance with this request. Please contact me within the next two weeks to confirm that you have done so.
   
@@ -148,7 +148,7 @@ Bruneleski (o sus guionistas) un cretino. Y Christina Brown (o su traductor / ed
 
 Y para concluir están los tí­picos comunicados de prensa beligerantes y amenazadores de esa liga de superhéroes de la cultura que luchan contra los villanos piratas (mucho sarcasmo e ironí­a incluí­dos ;-)).
 
-Aquí­ tenéis dos. El primero es de Universal Pictures, sacado de [Terra](http://actualidad.terra.es/cultura/articulo/universal_pictures_espana_505731.htm):
+Aquí­ tenéis dos. El primero es de Universal Pictures, sacado de [Terra](https://actualidad.terra.es/cultura/articulo/universal_pictures_espana_505731.htm):
 
 ======================
   
@@ -178,7 +178,7 @@ Lo del inicio del proceso judicial, eso tengo ganas de verlo.
 
 Y en cuanto a lo de colgar "trampas": muchas gracias por congestionar la red con archivos inútiles y por desaprovechar la gran oportunidad que no son capaces de ver ni aunque les atropelle a toda velocidad. Que es lo que va a pasar. Luego no vengan llorando que no vieron la oportunidad de negocio, cuando les está golpeando en la cabeza como un mazo.
 
-[Aquí­](http://www.theregister.co.uk/2005/09/26/limewire_piracy_prevention/) tenéis otro ejemplo (la Industria presionando a LimeWire para que habilite medidas tecnológicas que eviten el compartir archivos protegidos por copyright).
+[Aquí­](https://www.theregister.co.uk/2005/09/26/limewire_piracy_prevention/) tenéis otro ejemplo (la Industria presionando a LimeWire para que habilite medidas tecnológicas que eviten el compartir archivos protegidos por copyright).
   
 **
   

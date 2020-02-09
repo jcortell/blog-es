@@ -4,7 +4,7 @@ title: 'Jacques-Alain Miller sobre &quot;Avatar&quot;'
 date: 2011-04-10T07:05:54+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3052
+guid: https://cortell.net/blog/?p=3052
 permalink: /2011/04/10/jacques-alain-miller-sobre-avatar/
 categories:
   - Arte

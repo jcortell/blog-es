@@ -4,7 +4,7 @@ title: En la cama con el diablo (esponsorizaciones sospechosas)
 date: 2006-06-17T09:02:20+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/06/17/en-la-cama-con-el-diablo-esponsorizaciones-sospechosas/
+guid: https://www.cortell.net/2006/06/17/en-la-cama-con-el-diablo-esponsorizaciones-sospechosas/
 permalink: /2006/06/17/en-la-cama-con-el-diablo-esponsorizaciones-sospechosas/
 categories:
   - CiberDerechos
@@ -14,9 +14,9 @@ categories:
   - Rants
   - Technology
 ---
-Ya es extraño que Microsoft y America Online figuren entre los espónsors de la decimosexta conferencia anual sobre ordenadores, libertad y privacidad <a target="_blank" title="CFP2006" href="http://www.cfp2006.org/">CFP 2006</a> (_Life, Liberty and Digital Rights_, Washington DC, celebrada del 2-5 mayo 2006).
+Ya es extraño que Microsoft y America Online figuren entre los espónsors de la decimosexta conferencia anual sobre ordenadores, libertad y privacidad <a target="_blank" title="CFP2006" href="https://www.cfp2006.org/">CFP 2006</a> (_Life, Liberty and Digital Rights_, Washington DC, celebrada del 2-5 mayo 2006).
 
-Pero lo de la <a target="_blank" title="SGAE en CP2006" href="http://web6.campus-party.org//index.php3?action=PATROCINADORES&checksum=82d69eab40bdd8b25f180e1190494847">SGAE esponsorizando</a> la CampusParty 2006 ya es como para no creérselo.
+Pero lo de la <a target="_blank" title="SGAE en CP2006" href="https://web6.campus-party.org//index.php3?action=PATROCINADORES&checksum=82d69eab40bdd8b25f180e1190494847">SGAE esponsorizando</a> la CampusParty 2006 ya es como para no creérselo.
 
 -¿Soy un paranóico? -¿es legí­timo desconfiar de estas alianzas que en principio parecen contra natura?
 

@@ -4,7 +4,7 @@ title: 'Ser ejecutivo: no es oro todo lo que reluce'
 date: 2005-12-22T09:11:26+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/12/22/ser-ejecutivo-no-es-oro-todo-lo-que-reluce/
+guid: https://www.cortell.net/2005/12/22/ser-ejecutivo-no-es-oro-todo-lo-que-reluce/
 permalink: /2005/12/22/ser-ejecutivo-no-es-oro-todo-lo-que-reluce/
 categories:
   - General

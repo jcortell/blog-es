@@ -4,7 +4,7 @@ title: 'Cancelando un viaje a India por burrocracia... me voy a Tokio'
 date: 2014-09-02T19:41:44+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5265
+guid: https://blog.cortell.net/es/?p=5265
 permalink: /2014/09/02/cancelando-un-viaje-a-india-por-burrocracia-me-voy-a-tokio/
 categories:
   - General

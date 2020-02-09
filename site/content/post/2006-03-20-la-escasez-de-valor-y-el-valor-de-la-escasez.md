@@ -4,7 +4,7 @@ title: La escasez de valor y el valor de la escasez
 date: 2006-03-20T18:52:33+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/03/20/la-escasez-de-valor-y-el-valor-de-la-escasez/
+guid: https://www.cortell.net/2006/03/20/la-escasez-de-valor-y-el-valor-de-la-escasez/
 permalink: /2006/03/20/la-escasez-de-valor-y-el-valor-de-la-escasez/
 categories:
   - CiberDerechos

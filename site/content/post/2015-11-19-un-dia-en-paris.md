@@ -4,7 +4,7 @@ title: Un día en París
 date: 2015-11-19T10:30:25+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5672
+guid: https://blog.cortell.net/es/?p=5672
 permalink: /2015/11/19/un-dia-en-paris/
 categories:
   - General

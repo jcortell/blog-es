@@ -4,7 +4,7 @@ title: 'Algunas reuniones en Londres y París: del Ministro de Sanidad del Reino
 date: 2016-10-29T17:06:34+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5929
+guid: https://blog.cortell.net/es/?p=5929
 permalink: /2016/10/29/algunas-reuniones-en-londres-y-paris-del-ministro-de-sanidad-del-reino-unido-al-ceo-de-microsoft/
 categories:
   - General

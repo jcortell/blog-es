@@ -4,7 +4,7 @@ title: Consellerí­a de Cultura de Valencia denuncia web por comentarios crí­
 date: 2006-05-25T23:59:51+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/05/25/conselleria-de-cultura-de-valencia-denuncia-web-por-comentarios-criticos-anonimos/
+guid: https://www.cortell.net/2006/05/25/conselleria-de-cultura-de-valencia-denuncia-web-por-comentarios-criticos-anonimos/
 permalink: /2006/05/25/conselleria-de-cultura-de-valencia-denuncia-web-por-comentarios-criticos-anonimos/
 categories:
   - CiberDerechos
@@ -44,6 +44,6 @@ Tras el éxito de e-valencia, vinieron otras plataformas similares como e-barcel
 
 > -¿Más información sobre e-valencia.org?
 
-La _Wí¼rttembergischer Kunstverein_ de Stuttgart <a target="_blank" title="sobre eValencia" href="http://www.e-wac.org/modules.php?name=UpDownload&req=getit&lid=18">publicó</a> un número especial sobre e-valencia.org como parte del proyecto _On Difference #1_ (en inglés).
+La _Wí¼rttembergischer Kunstverein_ de Stuttgart <a target="_blank" title="sobre eValencia" href="https://www.e-wac.org/modules.php?name=UpDownload&req=getit&lid=18">publicó</a> un número especial sobre e-valencia.org como parte del proyecto _On Difference #1_ (en inglés).
 
 [...]

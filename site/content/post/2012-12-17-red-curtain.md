@@ -4,7 +4,7 @@ title: Red curtain
 date: 2012-12-17T20:02:41+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4486
+guid: https://cortell.net/blog/?p=4486
 permalink: /2012/12/17/red-curtain/
 wpsd_autopost:
   - "1"

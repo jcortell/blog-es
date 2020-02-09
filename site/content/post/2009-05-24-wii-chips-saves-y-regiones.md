@@ -4,7 +4,7 @@ title: Wii chips saves y regiones
 date: 2009-05-24T08:38:07+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1927
+guid: https://cortell.net/blog/?p=1927
 permalink: /2009/05/24/wii-chips-saves-y-regiones/
 categories:
   - CiberDerechos
@@ -25,6 +25,6 @@ Así que la solución para defender nuestros derechos como consumidores pasa por
 
 Con eso ya puedes jugar a juegos de otras regiones, y puedes hacer copias de seguridad de tus juegos. 
 
-Luego, un día, tu hijo le da al botón "Borrar" en vez de "Cargar" al jugar a SuperMario Paper, eliminando así 38 horas de dedicación, en el nivel 8-3, a punto de enfrentarte al temido Conde Bleck... y tras la lógica desesperación, acudes a: Internet (¿a dónde si no?). Y en <a title="http://www.wiisave.com/faq/" href="http://www.wiisave.com/faq/" target="_blank">wiisave</a> encuentras a alguien que ya pasó por todo eso y fue tan amable de compartir sus avances. Y lógicamente eliges "región europea", sin pensar que el juego lo compré en EEUU. Así que introduces los códigos y no carga, y cambias la tarjeta SD (no HC, y menso de 4GB para el firmware inferior a 4, para que no inabilite el chipeo, claro) y nada. 
+Luego, un día, tu hijo le da al botón "Borrar" en vez de "Cargar" al jugar a SuperMario Paper, eliminando así 38 horas de dedicación, en el nivel 8-3, a punto de enfrentarte al temido Conde Bleck... y tras la lógica desesperación, acudes a: Internet (¿a dónde si no?). Y en <a title="https://www.wiisave.com/faq/" href="https://www.wiisave.com/faq/" target="_blank">wiisave</a> encuentras a alguien que ya pasó por todo eso y fue tan amable de compartir sus avances. Y lógicamente eliges "región europea", sin pensar que el juego lo compré en EEUU. Así que introduces los códigos y no carga, y cambias la tarjeta SD (no HC, y menso de 4GB para el firmware inferior a 4, para que no inabilite el chipeo, claro) y nada. 
 
 Moraleja: recuerda los trucos, las regiones, los códigos, las versiones...

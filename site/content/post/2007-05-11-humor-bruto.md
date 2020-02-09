@@ -4,7 +4,7 @@ title: Humor bruto
 date: 2007-05-11T10:41:27+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/05/11/humor-bruto/
+guid: https://www.cortell.net/2007/05/11/humor-bruto/
 permalink: /2007/05/11/humor-bruto/
 categories:
   - General

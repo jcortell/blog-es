@@ -4,7 +4,7 @@ title: Paseos por Manhattan y cena en Chefs Club by Food and Wine (dos veces)
 date: 2014-12-13T16:10:04+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5375
+guid: https://blog.cortell.net/es/?p=5375
 permalink: /2014/12/13/paseos-por-manhattan-y-cena-en-chefs-club-by-food-and-wine-dos-veces/
 categories:
   - General
@@ -14,11 +14,11 @@ categories:
 ---
 Durante unos días después de Acción de Gracias nos gustó tener a mis padres con nosotros en nuestro apartamento de Chelsea. Los visitantes son siempre una buena excusa para ir a esos lugares que son "demasiado turísticos" para ir por nuestra cuenta, incluso si nos gustan.
 
-Esta vez dedicamos casi todo un día (30 de noviembre) a Chinatown, donde disfrutamos de delicioso (y muy asequible) dim sum en  <a title="http://dimsumgogo.com/" href="http: // dimsumgogo. com / " target=" _ blank ">Dim Sum Go Go </a>.
+Esta vez dedicamos casi todo un día (30 de noviembre) a Chinatown, donde disfrutamos de delicioso (y muy asequible) dim sum en  <a title="https://dimsumgogo.com/" href="https: // dimsumgogo. com / " target=" _ blank ">Dim Sum Go Go </a>.
 
-También vimos la exposición de trenes de juguete para graffiti <a title="http://www.allcitystyle.com/" href="http://www.allcitystyle.com/" target="_blank">AllCityStyle</a> en la estación Grand Central, y disfrutamos de una gran comida en <a title=" http://www.davidburkekitchennyc.com/ " href=" http://www.davidburkekitchennyc.com/ " target=" _blank ">Kitchen de David Burke</a> de camino al 9/11 Memorial.
+También vimos la exposición de trenes de juguete para graffiti <a title="https://www.allcitystyle.com/" href="https://www.allcitystyle.com/" target="_blank">AllCityStyle</a> en la estación Grand Central, y disfrutamos de una gran comida en <a title=" https://www.davidburkekitchennyc.com/ " href=" https://www.davidburkekitchennyc.com/ " target=" _blank ">Kitchen de David Burke</a> de camino al 9/11 Memorial.
 
-Otra experiencia destacable fue finalmente probar un restaurante que realmente habíamos estado esperando:  <a title="http://www.chefsclub.com/new-york/" href="http://www.chefsclub.com/ nueva-york / " target=" _ blank ">Chefs Club by Food and Wine</a>.
+Otra experiencia destacable fue finalmente probar un restaurante que realmente habíamos estado esperando:  <a title="https://www.chefsclub.com/new-york/" href="https://www.chefsclub.com/ nueva-york / " target=" _ blank ">Chefs Club by Food and Wine</a>.
 
 Nuestro amigo Daniel dirige el lugar, y nos había hablado del proyecto. Es un gran concepto: los mejores nuevos chefs (según la revista Food & Wine) de todo el mundo ofrecen sus platos favoritos en el histórico Puck Building de Nueva York, en NOLITA. Impresionante ¿verdad?
 

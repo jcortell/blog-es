@@ -4,7 +4,7 @@ title: Visitando el Museo de Diseño de Londres
 date: 2016-11-30T09:00:55+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5970
+guid: https://blog.cortell.net/es/?p=5970
 permalink: /2016/11/30/visitando-el-museo-de-diseno-de-londres/
 categories:
   - Arte

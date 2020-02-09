@@ -31,7 +31,7 @@ Jueves 25 de octubre
 - La validación de un nuevo kit de prueba requiere más de 100.000 muestras.
 - Más información: [NIH HMP] (https://commonfund.nih.gov/hmp)
 
-Visita al [laboratorio Karp](http://www.karplab.net/) con Jeffrey Karp, profesor de medicina en Brigham and Women's Hospital Facultad de Medicina de Harvard, donde se nos mostraron varios proyectos de investigación en curso, con prototipos: desde adhesivos biodegradables para reparar el corazón, a bloqueadores temporales de la absorción estomacal. Una vez más, SUPER interesante, especialmente el enfoque de ingeniería aplicado a la innovación médica. Echa un vistazo a sus proyectos de investigación en su página web.
+Visita al [laboratorio Karp](https://www.karplab.net/) con Jeffrey Karp, profesor de medicina en Brigham and Women's Hospital Facultad de Medicina de Harvard, donde se nos mostraron varios proyectos de investigación en curso, con prototipos: desde adhesivos biodegradables para reparar el corazón, a bloqueadores temporales de la absorción estomacal. Una vez más, SUPER interesante, especialmente el enfoque de ingeniería aplicado a la innovación médica. Echa un vistazo a sus proyectos de investigación en su página web.
 
 [Acelerador de innovación y salud digital del Hospital Pediátrico de Boston,](https://accelerator.childrenshospital.org/) "Catalizando la innovación y las empresas emergentes de un hospital líder en el mundo" con John Brownstein, Director de Innovación del Hospital Pediátrico de Boston, (asombroso qué pueden hacer un montón de aplicaciones y pequeños dispositivos útiles en un entorno médico, que naturalmente proviene del personal de salud, inspirado en su trabajo cotidiano).
 
@@ -70,7 +70,7 @@ Viernes 26 de octubre
 - Los pacientes prefieren las tecnologías de "humanización" (por ejemplo, poder compartir fotos de flores y cachorros, no solo 140 caracteres o foros anónimos)
 - Aunque funciona, Crizotinib no está cubierto por el NHS porque no hubo un ensayo clínico doble ciego
 
-"Lo siguiente en salud digital: lecciones de todo el mundo" [John D. Halamka](http://geekdoctor.blogspot.com/), Director de información del Centro médico Beth Israel Deaconess, Director de información y Decano de tecnología en la Facultad de Medicina de Harvard, médico de emergencia en ejercicio (daré [una charla con él el mes que viene en Oslo](http://ehin.no/en/highlights/))
+"Lo siguiente en salud digital: lecciones de todo el mundo" [John D. Halamka](https://geekdoctor.blogspot.com/), Director de información del Centro médico Beth Israel Deaconess, Director de información y Decano de tecnología en la Facultad de Medicina de Harvard, médico de emergencia en ejercicio (daré [una charla con él el mes que viene en Oslo](https://ehin.no/en/highlights/))
 
 - Hizo el Historial Clínico Electrónico (EMR) de su hospital
 - Es el mejor experto del mundo en hongos tóxicos (recibió una consulta, durante su discurso, sobre un grupo de recolectores de hongos rusos que se comieron uno equivocado mientras estaba en Boston) recibiendo 900 teleconsultas por año

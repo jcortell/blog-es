@@ -4,7 +4,7 @@ title: Invitados a la fiesta de TechHub en Londres
 date: 2015-07-11T16:37:02+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5559
+guid: https://blog.cortell.net/es/?p=5559
 permalink: /2015/07/11/invitados-a-la-fiesta-de-techhub-en-londres/
 categories:
   - Geek Fun

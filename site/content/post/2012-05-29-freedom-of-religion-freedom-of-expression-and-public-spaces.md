@@ -4,7 +4,7 @@ title: Freedom of religion, freedom of expression, and public spaces
 date: 2012-05-29T17:35:18+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4163
+guid: https://cortell.net/blog/?p=4163
 permalink: /2012/05/29/freedom-of-religion-freedom-of-expression-and-public-spaces/
 wpsd_autopost:
   - "1"

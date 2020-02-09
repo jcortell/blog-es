@@ -4,7 +4,7 @@ title: '¿Conclusión: consumir?'
 date: 2008-12-15T17:37:10+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/?p=1414
+guid: https://www.cortell.net/?p=1414
 permalink: /2008/12/15/conclusion-consumir/
 categories:
   - ¿Por qué no? ¿Utopías?

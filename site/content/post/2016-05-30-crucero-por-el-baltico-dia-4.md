@@ -4,7 +4,7 @@ title: Crucero por el Báltico, día 4
 date: 2016-05-30T10:43:52+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/es/?p=5787
+guid: https://blog.cortell.net/es/?p=5787
 permalink: /2016/05/30/crucero-por-el-baltico-dia-4/
 categories:
   - Arte

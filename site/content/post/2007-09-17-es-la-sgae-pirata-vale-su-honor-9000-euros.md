@@ -4,7 +4,7 @@ title: '-¿Es la SGAE &quot;pirata&quot;? -¿Vale su &quot;honor&quot; 9000 euro
 date: 2007-09-17T19:09:53+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2007/09/17/%c2%bfes-la-sgae-pirata-%c2%bfvale-su-honor-9000-euros/'
+guid: 'https://www.cortell.net/2007/09/17/%c2%bfes-la-sgae-pirata-%c2%bfvale-su-honor-9000-euros/'
 permalink: /2007/09/17/es-la-sgae-pirata-vale-su-honor-9000-euros/
 categories:
   - CiberDerechos
@@ -15,7 +15,7 @@ categories:
   - Rants
   - Sociedad y polí­tica
 ---
-Partiendo de la <a target="_blank" title="noticia en Internautas" href="http://www.internautas.org/html/4468.html">noticia</a> que me enví­a David, sobre un artí­culo (no os lo perdáis) de la revista Quimera (disponible <a target="_blank" title="Artí­culo original reposteado" href="http://www.libertaddigital.com/noticias/noticia_1276313236.html">aquí­</a> en Libertad Digital), en la que su autor Trebor Escargot llama "piratas" a la $GAâ‚¬, me planteo las siguientes dudas:
+Partiendo de la <a target="_blank" title="noticia en Internautas" href="https://www.internautas.org/html/4468.html">noticia</a> que me enví­a David, sobre un artí­culo (no os lo perdáis) de la revista Quimera (disponible <a target="_blank" title="Artí­culo original reposteado" href="https://www.libertaddigital.com/noticias/noticia_1276313236.html">aquí­</a> en Libertad Digital), en la que su autor Trebor Escargot llama "piratas" a la $GAâ‚¬, me planteo las siguientes dudas:
 
 -¿Es la SGAE "pirata"?
 
@@ -41,9 +41,9 @@ Según la RAE:
   
 3. adj. Sangriento, **duro**, **violento**. _Batalla, golpe cruel._)
   
-Con lo que podemos deducir que por todo lo enfatizado en negrilla (**bold**), o sea tanto por clandestino como por cruel, que sí­ parece ajustarse esta definición a la gente que <a target="_blank" title="noticia en Barrapunto" href="http://ciberderechos.barrapunto.com/article.pl?sid=06/04/05/2320243">acusa a Google de Fascista</a> (insufrible, excesivo, violento), o que <a target="_blank" title="Noticia en Libertad Digital" href="http://www.libertaddigital.com/index.php?action=desanoti&cpn=1276207151">llama pendejo electrónico a los internautas españoles</a> (insufrible, excesivo, violento), o que no hace públicas sus cuentas o auditorí­as (clandestinas) pese a manejar dinero de todos los españoles (impuestos a CDs, conciertos, etc).
+Con lo que podemos deducir que por todo lo enfatizado en negrilla (**bold**), o sea tanto por clandestino como por cruel, que sí­ parece ajustarse esta definición a la gente que <a target="_blank" title="noticia en Barrapunto" href="https://ciberderechos.barrapunto.com/article.pl?sid=06/04/05/2320243">acusa a Google de Fascista</a> (insufrible, excesivo, violento), o que <a target="_blank" title="Noticia en Libertad Digital" href="https://www.libertaddigital.com/index.php?action=desanoti&cpn=1276207151">llama pendejo electrónico a los internautas españoles</a> (insufrible, excesivo, violento), o que no hace públicas sus cuentas o auditorí­as (clandestinas) pese a manejar dinero de todos los españoles (impuestos a CDs, conciertos, etc).
   
-Por cierto, <a target="_blank" title="declaraciones Libertad Digital" href="http://www.libertaddigital.com/index.php?action=desanoti&cpn=1276207151">según</a> el ex-presidente de la SGAE (**Teddy Flautista**), "_La campaña del precio de los discos la han montado **los piratas, que no son tan tontos como parece**_". Si los piratas no son tan tontos como parece, -¿por qué llamarle pirata atenta contra su honor? **-¿tendrá a gala ser tonto?**
+Por cierto, <a target="_blank" title="declaraciones Libertad Digital" href="https://www.libertaddigital.com/index.php?action=desanoti&cpn=1276207151">según</a> el ex-presidente de la SGAE (**Teddy Flautista**), "_La campaña del precio de los discos la han montado **los piratas, que no son tan tontos como parece**_". Si los piratas no son tan tontos como parece, -¿por qué llamarle pirata atenta contra su honor? **-¿tendrá a gala ser tonto?**
 
 -¿Vale su "honor" 9000 euros?
 

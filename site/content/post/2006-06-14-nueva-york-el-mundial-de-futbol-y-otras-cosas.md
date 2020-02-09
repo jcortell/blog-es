@@ -4,7 +4,7 @@ title: Nueva York, el mundial de fútbol, y otras cosas
 date: 2006-06-14T15:40:26+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/06/14/nueva-york-el-mundial-de-futbol-y-otras-cosas/
+guid: https://www.cortell.net/2006/06/14/nueva-york-el-mundial-de-futbol-y-otras-cosas/
 permalink: /2006/06/14/nueva-york-el-mundial-de-futbol-y-otras-cosas/
 categories:
   - General

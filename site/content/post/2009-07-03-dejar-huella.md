@@ -4,7 +4,7 @@ title: ¿Dejar huella?
 date: 2009-07-03T23:33:11+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2000
+guid: https://cortell.net/blog/?p=2000
 permalink: /2009/07/03/dejar-huella/
 categories:
   - Filosofí­a

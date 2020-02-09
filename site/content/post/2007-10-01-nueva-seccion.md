@@ -4,7 +4,7 @@ title: Nueva sección
 date: 2007-10-01T11:51:20+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2007/10/01/nueva-seccion/
+guid: https://www.cortell.net/2007/10/01/nueva-seccion/
 permalink: /2007/10/01/nueva-seccion/
 categories:
   - General

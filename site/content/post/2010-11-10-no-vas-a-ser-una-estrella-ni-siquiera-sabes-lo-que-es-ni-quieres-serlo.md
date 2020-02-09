@@ -4,7 +4,7 @@ title: NO vas a ser una estrella. Ni siquiera sabes lo que es, ni quieres serlo.
 date: 2010-11-10T11:00:09+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=2695
+guid: https://cortell.net/blog/?p=2695
 permalink: /2010/11/10/no-vas-a-ser-una-estrella-ni-siquiera-sabes-lo-que-es-ni-quieres-serlo/
 categories:
   - General
@@ -12,7 +12,7 @@ categories:
   - Psicología
   - Sociedad y polí­tica
 ---
-Las canciones te lo proponen (Actualización, gracias Ana, aquí le va perfecta la burla de Eminem en <a title="http://www.youtube.com/watch?v=RSdKmX2BH7o&feature=related" href="http://www.youtube.com/watch?v=RSdKmX2BH7o&feature=related" target="_blank">este vídeo</a>), los anuncios hacen que lo desees. Los programas de TV te lo muestran como si pasase todos los días. Pero NO. No vas a ser una estrella. Ni de cine, ni en la pasarela, ni con la guitarra, ni sobre el césped.
+Las canciones te lo proponen (Actualización, gracias Ana, aquí le va perfecta la burla de Eminem en <a title="https://www.youtube.com/watch?v=RSdKmX2BH7o&feature=related" href="https://www.youtube.com/watch?v=RSdKmX2BH7o&feature=related" target="_blank">este vídeo</a>), los anuncios hacen que lo desees. Los programas de TV te lo muestran como si pasase todos los días. Pero NO. No vas a ser una estrella. Ni de cine, ni en la pasarela, ni con la guitarra, ni sobre el césped.
 
 Los niños crecen pensando que van a ser estrellas de la pantalla, de la cancha, o de la pasarela. Despertad. No va a ocurrir. No sólo porque la probabilidad es infinitesimal. Sino porque no lo queréis.
 

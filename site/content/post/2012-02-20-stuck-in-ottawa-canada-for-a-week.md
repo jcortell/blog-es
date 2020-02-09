@@ -4,7 +4,7 @@ title: '&quot;Stuck&quot; in Ottawa (Canada) for a week'
 date: 2012-02-20T19:19:48+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3857
+guid: https://cortell.net/blog/?p=3857
 permalink: /2012/02/20/stuck-in-ottawa-canada-for-a-week/
 wpsd_autopost:
   - "1"
@@ -16,7 +16,7 @@ categories:
 ---
 Por culpa del laaaargo y curioso (tanto que merece un post a parte) proceso de obtención de mi visado estadounidense, he estado "atrapado" en Ottawa (Canadá) durante una semana.
 
-Supongo que Canadá no es un destino prioritario de los viajes de invierno (particularmente si, como yo, no puedes esquiar o patinar sobre hielo). Pero ya que estoy aquí, saquemos lo mejor de la situación: <a title="http://www.gallery.ca/en/" href="http://www.gallery.ca/en/" target="_blank">La Galería Nacional</a>, <a title="http://www.civilization.ca/" href="http://www.civilization.ca/" target="_blank">Museo de las Civilizaciones</a>, <a title="http://www.warmuseum.ca/home/" href="http://www.warmuseum.ca/home/" target="_blank">Museo de la Guerra</a>, <a title="http://www.canadascapital.gc.ca/celebrate/winterlude" href="http://www.canadascapital.gc.ca/celebrate/winterlude" target="_blank">Winterlude</a>, unos cuantos lugares de comida adorables (como <a title="http://www.teastore.ca/" href="http://www.teastore.ca/" target="_blank">The Tea Store</a>, <a title="http://www.yelp.ca/biz/memories-restaurant-ottawa" href="http://www.yelp.ca/biz/memories-restaurant-ottawa" target="_blank">Memories</a>, u <a title="http://www.yelp.ca/biz/oh-so-good-desserts-and-coffee-house-ottawa" href="http://www.yelp.ca/biz/oh-so-good-desserts-and-coffee-house-ottawa" target="_blank">Oh So Good</a>) y un montón mediocres, mientras uno se hospeda en un <a title="http://www.fairmont.com/laurier" href="http://www.fairmont.com/laurier" target="_blank">hotel/castillo muy bonito</a> (con piscina climatizada y gimnasio), servirá 😉
+Supongo que Canadá no es un destino prioritario de los viajes de invierno (particularmente si, como yo, no puedes esquiar o patinar sobre hielo). Pero ya que estoy aquí, saquemos lo mejor de la situación: <a title="https://www.gallery.ca/en/" href="https://www.gallery.ca/en/" target="_blank">La Galería Nacional</a>, <a title="https://www.civilization.ca/" href="https://www.civilization.ca/" target="_blank">Museo de las Civilizaciones</a>, <a title="https://www.warmuseum.ca/home/" href="https://www.warmuseum.ca/home/" target="_blank">Museo de la Guerra</a>, <a title="https://www.canadascapital.gc.ca/celebrate/winterlude" href="https://www.canadascapital.gc.ca/celebrate/winterlude" target="_blank">Winterlude</a>, unos cuantos lugares de comida adorables (como <a title="https://www.teastore.ca/" href="https://www.teastore.ca/" target="_blank">The Tea Store</a>, <a title="https://www.yelp.ca/biz/memories-restaurant-ottawa" href="https://www.yelp.ca/biz/memories-restaurant-ottawa" target="_blank">Memories</a>, u <a title="https://www.yelp.ca/biz/oh-so-good-desserts-and-coffee-house-ottawa" href="https://www.yelp.ca/biz/oh-so-good-desserts-and-coffee-house-ottawa" target="_blank">Oh So Good</a>) y un montón mediocres, mientras uno se hospeda en un <a title="https://www.fairmont.com/laurier" href="https://www.fairmont.com/laurier" target="_blank">hotel/castillo muy bonito</a> (con piscina climatizada y gimnasio), servirá 😉
 
 [mudslide:picasa,0,111219615350942087056,5711074454769773217]
 

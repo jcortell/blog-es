@@ -4,7 +4,7 @@ title: ¡Que me quiten esta filosofía demoníaca de encima!
 date: 2011-04-02T09:17:51+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3039
+guid: https://cortell.net/blog/?p=3039
 permalink: /2011/04/02/que-me-quiten-esta-filosofia-demoniaca-de-encima/
 categories:
   - ¿Por qué no? ¿Utopías?
@@ -24,7 +24,7 @@ De lo que no me daba cuenta es que no se trata de una visión de la política, e
 
 Existen filosofías totalitaristas ante las que nos ponemos automáticamente en guardia tras sufrir la "vacuna" de los fascismos totalitarios del siglo pasado. Existen filosofías tan duras de tragar, como la de Kant, que simplemente no nos pasan por la garganta. Pero el verdadero peligro es esa filosofía que desde los titulares de periódico, las escuelas, las charlas de bar, y las películas, se da por sentado y nadie se atreve a criticar a riesgo de que le llamen [póngase aquí el epíteto que se tema más].
 
-Esa filosofía, de la que todos en occidente hemos oído hablar, participado y defendido de un modo u otro, aunque la mayoría no conocen su nombre, se llama "[Objetivismo](http://es.wikipedia.org/wiki/Objetivismo)" (aunque emplea y mancha ideas y conceptos como: izquierda, romanticismo, racionalismo...) y pese a que le dio cuerpo Ayn Rand, en realidad creo que parte de las escisiones eclesiásticas que dieron paso al Calvinismo, Reformismo, Luteranismo, Protestantismo, etc, arropado con toques de ilustración, capitalismo de libre mercado, enciclopedismo, racionalismo... vamos, de hace ya más de tres siglos.<img class="aligncenter" src="http://farm4.static.flickr.com/3163/3144335090_2d75f28c5d.jpg" alt="Atlas" />
+Esa filosofía, de la que todos en occidente hemos oído hablar, participado y defendido de un modo u otro, aunque la mayoría no conocen su nombre, se llama "[Objetivismo](https://es.wikipedia.org/wiki/Objetivismo)" (aunque emplea y mancha ideas y conceptos como: izquierda, romanticismo, racionalismo...) y pese a que le dio cuerpo Ayn Rand, en realidad creo que parte de las escisiones eclesiásticas que dieron paso al Calvinismo, Reformismo, Luteranismo, Protestantismo, etc, arropado con toques de ilustración, capitalismo de libre mercado, enciclopedismo, racionalismo... vamos, de hace ya más de tres siglos.<img class="aligncenter" src="https://farm4.static.flickr.com/3163/3144335090_2d75f28c5d.jpg" alt="Atlas" />
 
 > My philosophy, in essence, is the concept of man as a heroic being, with his own happiness as the moral purpose of his life, with productive achievement as his noblest activity, and reason as his only absolute.
   

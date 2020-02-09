@@ -4,7 +4,7 @@ title: Semana intensa
 date: 2005-07-25T02:12:47+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2005/07/25/semana-intensa/
+guid: https://www.cortell.net/2005/07/25/semana-intensa/
 permalink: /2005/07/25/semana-intensa/
 categories:
   - CiberDerechos
@@ -12,9 +12,9 @@ categories:
   - General
   - Noticias
 ---
-En la [Campus Party](http://www.campus-party.org) de este año va a haber muchas actividades interesantes. Yo preparo 4:
+En la [Campus Party](https://www.campus-party.org) de este año va a haber muchas actividades interesantes. Yo preparo 4:
 
-Exposición de cuadros (temática hacker, colección Global KOS) bajo Creative Commons del artista [Claudio Zirotti](http://www.claudio-zirotti.com/), con concurso de obras derivadas y coloquio.
+Exposición de cuadros (temática hacker, colección Global KOS) bajo Creative Commons del artista [Claudio Zirotti](https://www.claudio-zirotti.com/), con concurso de obras derivadas y coloquio.
 
 **Miércoles 27 de 20:00 a 22:00**
   

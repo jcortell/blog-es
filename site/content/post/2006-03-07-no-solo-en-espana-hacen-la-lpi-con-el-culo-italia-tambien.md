@@ -4,7 +4,7 @@ title: 'No sólo en España hacen la LPI con el culo: Italia también'
 date: 2006-03-07T19:52:33+00:00
 author: Jorge Cortell
 layout: post
-guid: http://www.cortell.net/2006/03/07/no-solo-en-espana-hacen-la-lpi-con-el-culo-italia-tambien/
+guid: https://www.cortell.net/2006/03/07/no-solo-en-espana-hacen-la-lpi-con-el-culo-italia-tambien/
 permalink: /2006/03/07/no-solo-en-espana-hacen-la-lpi-con-el-culo-italia-tambien/
 categories:
   - CiberDerechos
@@ -23,6 +23,6 @@ En Italia se está debatiendo en el Parlamento una nueva LPI con una redacción 
 
 Además la ley propuesta no incluye ninguna compensación para aquellos a los que se lleve a juicio por infringirla presuntamente y luego sean declarados inocentes.
 
-Más [info](http://www.alcei.org/index.php/archives/108) en Alcei (en Italiano, 13.02.2006, y [17.02.2006](http://www.alcei.org/index.php/archives/112))
+Más [info](https://www.alcei.org/index.php/archives/108) en Alcei (en Italiano, 13.02.2006, y [17.02.2006](https://www.alcei.org/index.php/archives/112))
 
 Todo por la transposición de la Directiva UE 2004/48, con origen en la OMPI, los EEUU, discográficas multinacionales, productores de cine norteamericanos, y Suciedades de Gestión europeas. Y encima nos dicen que es para "defender nuestra cultura". _Manda huevos_. Eso sí­ es cultura y castiza.

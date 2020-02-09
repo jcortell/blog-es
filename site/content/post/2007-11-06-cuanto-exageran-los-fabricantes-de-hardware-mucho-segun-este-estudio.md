@@ -4,7 +4,7 @@ title: -¿Cuánto exageran los fabricantes de hardware? Mucho según este estudi
 date: 2007-11-06T18:41:23+00:00
 author: Jorge Cortell
 layout: post
-guid: 'http://www.cortell.net/2007/11/06/%c2%bfcuanto-exageran-los-fabricantes-de-hardware-mucho-segun-este-estudio/'
+guid: 'https://www.cortell.net/2007/11/06/%c2%bfcuanto-exageran-los-fabricantes-de-hardware-mucho-segun-este-estudio/'
 permalink: /2007/11/06/cuanto-exageran-los-fabricantes-de-hardware-mucho-segun-este-estudio/
 categories:
   - CiberDerechos
@@ -18,5 +18,5 @@ En la comparativa realizada por Personal Computer e Internet, n-º58, pág. 51, 
 Entre Dell (que exagera multiplicando por 7‘5) hasta LG (que "sólamente" dobla sus cifras) todos exageran y mucho. Excepto Apple (se agradece la sinceridad).
 
 <div style="text-align: center">
-  <img alt="Gráfica" title="Gráfica" src="http://farm3.static.flickr.com/2152/1890777616_5d8e794f75.jpg?v=0" />
+  <img alt="Gráfica" title="Gráfica" src="https://farm3.static.flickr.com/2152/1890777616_5d8e794f75.jpg?v=0" />
 </div>

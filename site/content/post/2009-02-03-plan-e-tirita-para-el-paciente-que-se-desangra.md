@@ -4,7 +4,7 @@ title: 'Plan E: tirita para el paciente que se desangra'
 date: 2009-02-03T18:15:15+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=1510
+guid: https://cortell.net/blog/?p=1510
 permalink: /2009/02/03/plan-e-tirita-para-el-paciente-que-se-desangra/
 categories:
   - General
@@ -12,7 +12,7 @@ categories:
 ---
 Me enfurece. Como ciudadano, como empresario, como trabajador, como deudor, como acreedor, como contribuyente...
 
-> ZP propone un <a title="http://www.plane.gob.es/" href="http://www.plane.gob.es/" target="_blank">plan</a> de estímulo económico que es una verdadera burla: a base de déficit, obra pública. Eso genera empleo no cualificado, a corto plazo, en un sector no productivo, dominado por especuladores. Perfecto. Muchas gracias.
+> ZP propone un <a title="https://www.plane.gob.es/" href="https://www.plane.gob.es/" target="_blank">plan</a> de estímulo económico que es una verdadera burla: a base de déficit, obra pública. Eso genera empleo no cualificado, a corto plazo, en un sector no productivo, dominado por especuladores. Perfecto. Muchas gracias.
 
 ¿Qué tal apostar por educación, recorte de gastos, optimización y control de los mercados financieros, I+D+i (no publicaciones y patentes), internacionalización, etc? Claro, se me olvidaba, todas esas medidas son a medio/largo plazo, y la legislatura se habrá acabado para cuando surjan efecto. ¿Quizá se tenían que haber aplicado ANTES?
 
