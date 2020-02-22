@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2020-02-21T01:50:28+00:00
+date: 2020-02-22T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -21,6 +21,7 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 * **03-24/04/20, Papeete (Tahití), Moorea, Raiatea, Bora Bora, Rangiroa, Fakarava (Polinesia Francesa), Hanga Roa (Isla de Pascua - Chile), Lima (Perú)**, Viaje personal (invitado a [navegar en el Regent Seven Seas Navigator](https://www.rssc.com/cruises/NAV200407/summary))
 * **24-28/04/20, Lima (Perú)**, Viaje de negocios
 * **26-28/05/20, Helsinki (Finlandia)**, Viaje de negocios (Ponente en HIMSS Europa)
+* **16-24/06/20, Orlando (EE. UU.)**, Viaje personal
 
 
 **ANTERIORES:**
