@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2020-02-22T01:50:28+00:00
+date: 2020-02-25T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,7 +12,6 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2020**
 
-* **23-29/02/20, Bangkok (Tailandia)**, Viaje de negocios (Ponente en el Congreso Tailandés de Patología)
 * **05-06/03/20, Zurich (Suiza)**, Viaje de negocios (UBS [Industry Leaders Network event](https://uhnw.ubs.com/wmex-iln-switzerland-2020))
 * **07-09/03/20, Nueva York (EE. UU.)**, Viaje personal (invitado al Crucero Inaugural de [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady))
 * **09-13/03/20, Orlando (EE. UU.)**, Viaje de negocios (HIMSS)
@@ -34,6 +33,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2020**
 
+* **23-29/02/20, Bangkok (Tailandia)**, Viaje de negocios (Ponente en el Congreso Tailandés de Patología)
 * **24/01/ - 11/02/20, Fort Erie (Canadá)**, Viaje personal
 * **29-31/01/20, Bogotá (Colombia)**, Viaje de negocios
 * **28/01/20, Dallas Ft. Worth (EE. UU.)**, Viaje de negocios
