@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2020-02-25T01:50:28+00:00
+date: 2020-02-28T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -15,7 +15,7 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 * **05-06/03/20, Zurich (Suiza)**, Viaje de negocios (UBS [Industry Leaders Network event](https://uhnw.ubs.com/wmex-iln-switzerland-2020))
 * **07-09/03/20, Nueva York (EE. UU.)**, Viaje personal (invitado al Crucero Inaugural de [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady))
 * **09-13/03/20, Orlando (EE. UU.)**, Viaje de negocios (HIMSS)
-* **14-19/03/20, Tokio (Japón)**, Viaje de negocios (Medtec Japan)
+* ~~14-19/03/20, Tokio (Japón), Viaje de negocios (Medtec Japan, ACTUALIZACIÓN: Cancelado por CoVi-19)~~
 * **02-03/04/20, París (Francia)**, Viaje personal
 * **03-24/04/20, Papeete (Tahití), Moorea, Raiatea, Bora Bora, Rangiroa, Fakarava (Polinesia Francesa), Hanga Roa (Isla de Pascua - Chile), Lima (Perú)**, Viaje personal (invitado a [navegar en el Regent Seven Seas Navigator](https://www.rssc.com/cruises/NAV200407/summary))
 * **24-28/04/20, Lima (Perú)**, Viaje de negocios
