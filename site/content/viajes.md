@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2020-03-31T01:50:28+00:00
+date: 2020-04-02T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -14,6 +14,8 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 * **16-24/06/20, Orlando (EE. UU.)**, Viaje personal
 * **07-09/09/20, Helsinki (Finlandia)**, Viaje de negocios (Ponente en HIMSS Europa)
+* **22-27/11/20, Miami (EE. UU.), Puerto Plata (República Dominicana), The Beach Club, Miami (EE. UU.)**, Viaje personal (invitado a un Crucero en el [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady))
+
 
 **ANTERIORES:**
 
