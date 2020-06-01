@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2020-05-20T01:50:28+00:00
+date: 2020-06-01T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,11 +12,13 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2020**
 
-* **22/05/20**, Valencia (España), Ponente (online) XII Jornadas de Ingeniería Biomédica
 * **16/06/20**, Elche, Alicante (España), Ponente (online) Jornada Digital TICs e IA aplicada al sector de la Salud
 * **07-09/09/20**, ~~Helsinki (Finlandia)~~, Online (Ponente en HIMSS Europa)
 * **24/11-17/12/20, Miami (EE. UU.), Costa Maya ((México), The Beach Club, Miami (EE. UU.)**, Viaje personal (invitado a un Crucero en el [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady))
 
+**2021**
+
+* **10-20/06/21, Atenas, Mykonos, Santorini, Heraklion-Creta, Bodrum, Antalya, Rodas (Grecia), Éfeso-Kusadasi, Pérgamo-Dikili, Estambul (Turquía)**, Viaje personal (invitado a un crucero en el [Regent Seven Seas Mariner](https://www.rssc.com/ships/seven_seas_mariner))
 
 **ANTERIORES:**
 
@@ -29,6 +31,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 **2020**
 
 * ~~16-24/06/20, Orlando (EE. UU.)**, Viaje personal~~
+* * **22/05/20**, Valencia (España), Ponente (online) XII Jornadas de Ingeniería Biomédica
 * ~~24-28/04/20, Lima (Perú), Viaje de negocios~~
 * ~~03-24/04/20, Papeete (Tahití), Moorea, Raiatea, Bora Bora, Rangiroa, Fakarava (Polinesia Francesa), Hanga Roa (Isla de Pascua - Chile), Lima (Perú)**, Viaje personal (invitado a [navegar en el Regent Seven Seas Navigator](https://www.rssc.com/cruises/NAV200407/summary))~~
 * ~~02-03/04/20, París (Francia), Viaje personal~~
