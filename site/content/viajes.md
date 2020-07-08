@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2020-06-01T01:50:28+00:00
+date: 2020-07-08T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,9 +12,12 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2020**
 
-* **16/06/20**, Elche, Alicante (España), Ponente (online) Jornada Digital TICs e IA aplicada al sector de la Salud
+* 01-07/09/20, Singapur (Singapur) y Bangkok (Tailandia), Viaje de negocios
 * **07-09/09/20**, ~~Helsinki (Finlandia)~~, Online (Ponente en HIMSS Europa)
-* **24/11-17/12/20, Miami (EE. UU.), Costa Maya ((México), The Beach Club, Miami (EE. UU.)**, Viaje personal (invitado a un Crucero en el [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady))
+* **07-10/12/20, Canes (Francia)**, Viaje personal (invitado a asistir al evento de Turismo de Lujo [ILTM](https://www.iltm.com/cannes/))
+* **11-16/12/20, Miami (EE. UU.), Costa Maya ((México), The Beach Club, Miami (EE. UU.)**, Viaje personal (invitado a un Crucero en el [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady))
+* **17-24/12/20, Fort Erie (Canadá) y Búfalo (EE. UU.)**, Viaje personal
+
 
 **2021**
 
@@ -30,6 +33,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2020**
 
+* **16/06/20**, Elche, Alicante (España), Ponente (online) Jornada Digital TICs e IA aplicada al sector de la Salud
 * ~~16-24/06/20, Orlando (EE. UU.)**, Viaje personal~~
 * * **22/05/20**, Valencia (España), Ponente (online) XII Jornadas de Ingeniería Biomédica
 * ~~24-28/04/20, Lima (Perú), Viaje de negocios~~
