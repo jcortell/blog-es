@@ -35,7 +35,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 * **16/06/20**, Elche, Alicante (España), Ponente (online) Jornada Digital TICs e IA aplicada al sector de la Salud
 * ~~16-24/06/20, Orlando (EE. UU.)**, Viaje personal~~
-* * **22/05/20**, Valencia (España), Ponente (online) XII Jornadas de Ingeniería Biomédica
+* **22/05/20**, Valencia (España), Ponente (online) XII Jornadas de Ingeniería Biomédica
 * ~~24-28/04/20, Lima (Perú), Viaje de negocios~~
 * ~~03-24/04/20, Papeete (Tahití), Moorea, Raiatea, Bora Bora, Rangiroa, Fakarava (Polinesia Francesa), Hanga Roa (Isla de Pascua - Chile), Lima (Perú)**, Viaje personal (invitado a [navegar en el Regent Seven Seas Navigator](https://www.rssc.com/cruises/NAV200407/summary))~~
 * ~~02-03/04/20, París (Francia), Viaje personal~~
