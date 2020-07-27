@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.74.3 with theme Tranquilpeak 0.4.8-BETA">
+<meta name="author" content="Jorge Cortell">
+<meta name="keywords" content="">
+<meta name="description" content="Un hacker (ver wikipedia.org) es un experto, o aficionado, que busca defectos para mejorar la seguridad y prevenir posibles errores futuros. Pekka Himanen en su excelente libro &ldquo;La ética del hacker&rdquo;, propone incluso hacer extensiva esta definición a ámbitos más allá de la informática (entusiastas, autodidactas, o curiosos). A los &ldquo;hackers malos&rdquo; se les debe llamar &ldquo;crakers&rdquo;.
+Así­ pues, -¿por qué titulo este artí­culo &ldquo;Los hackers que sabí­an demasiado&rdquo;? -¿Se puede &ldquo;saber demasiado&rdquo;?">
+
+
+<meta property="og:description" content="Un hacker (ver wikipedia.org) es un experto, o aficionado, que busca defectos para mejorar la seguridad y prevenir posibles errores futuros. Pekka Himanen en su excelente libro &ldquo;La ética del hacker&rdquo;, propone incluso hacer extensiva esta definición a ámbitos más allá de la informática (entusiastas, autodidactas, o curiosos). A los &ldquo;hackers malos&rdquo; se les debe llamar &ldquo;crakers&rdquo;.
+Así­ pues, -¿por qué titulo este artí­culo &ldquo;Los hackers que sabí­an demasiado&rdquo;? -¿Se puede &ldquo;saber demasiado&rdquo;?">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Los hackers que sabí­an demasiado (PC&amp;amp;I 26)">
+<meta name="twitter:title" content="Los hackers que sabí­an demasiado (PC&amp;amp;I 26)">
+<meta property="og:url" content="https://bloges.cortell.net/2005/01/los-hackers-que-sab%C3%ADan-demasiado-pcampi-26/">
+<meta property="twitter:url" content="https://bloges.cortell.net/2005/01/los-hackers-que-sab%C3%ADan-demasiado-pcampi-26/">
+<meta property="og:site_name" content="Blog de Jorge Cortell en Castellano">
+<meta property="og:description" content="Un hacker (ver wikipedia.org) es un experto, o aficionado, que busca defectos para mejorar la seguridad y prevenir posibles errores futuros. Pekka Himanen en su excelente libro &ldquo;La ética del hacker&rdquo;, propone incluso hacer extensiva esta definición a ámbitos más allá de la informática (entusiastas, autodidactas, o curiosos). A los &ldquo;hackers malos&rdquo; se les debe llamar &ldquo;crakers&rdquo;.
+Así­ pues, -¿por qué titulo este artí­culo &ldquo;Los hackers que sabí­an demasiado&rdquo;? -¿Se puede &ldquo;saber demasiado&rdquo;?">
+<meta name="twitter:description" content="Un hacker (ver wikipedia.org) es un experto, o aficionado, que busca defectos para mejorar la seguridad y prevenir posibles errores futuros. Pekka Himanen en su excelente libro &ldquo;La ética del hacker&rdquo;, propone incluso hacer extensiva esta definición a ámbitos más allá de la informática (entusiastas, autodidactas, o curiosos). A los &ldquo;hackers malos&rdquo; se les debe llamar &ldquo;crakers&rdquo;.
+Así­ pues, -¿por qué titulo este artí­culo &ldquo;Los hackers que sabí­an demasiado&rdquo;? -¿Se puede &ldquo;saber demasiado&rdquo;?">
+<meta property="og:locale" content="es-es">
+
+  
+    <meta property="article:published_time" content="2005-01-31T10:39:30">
+  
+  
+    <meta property="article:modified_time" content="2005-01-31T10:39:30">
+  
+  
+  
+    
+      <meta property="article:section" content="Artí­culos escritos para la revista PC&amp;amp;I">
+    
+      <meta property="article:section" content="CiberDerechos">
+    
+      <meta property="article:section" content="General">
+    
+      <meta property="article:section" content="Hacking">
+    
+      <meta property="article:section" content="Rants">
+    
+  
+  
+
+
+<meta name="twitter:card" content="summary">
+
+  <meta name="twitter:site" content="@jorgecortell">
+
+
+  <meta name="twitter:creator" content="@jorgecortell">
+
+
+
+
+
+
+
+
+
+
+  <meta property="og:image" content="https://www.gravatar.com/avatar/9269e405983cdf2599d1b1ddc9d4a2ba?s=640">
+  <meta property="twitter:image" content="https://www.gravatar.com/avatar/9269e405983cdf2599d1b1ddc9d4a2ba?s=640">
+
+
+    <title>Los hackers que sabí­an demasiado (PC&amp;amp;I 26)</title>
+
+    <link rel="icon" href="https://bloges.cortell.net/favicon.png">
+    
+
+    
+
+    <link rel="canonical" href="https://bloges.cortell.net/2005/01/los-hackers-que-sab%C3%ADan-demasiado-pcampi-26/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.css" integrity="sha256-vuXZ9LGmmwtjqFX1F+EKin1ThZMub58gKULUyf0qECk=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
+    
+    
+    <link rel="stylesheet" href="https://bloges.cortell.net/css/style-twzjdbqhmnnacqs0pwwdzcdbt8yhv8giawvjqjmyfoqnvazl0dalmnhdkvp7.min.css" />
+    
+    
+
+    
+      
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-51273041-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="5">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="https://bloges.cortell.net/">Blog de Jorge Cortell en Castellano</a>
+  </div>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="5">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="https://web.cortell.net">
+          <img class="sidebar-profile-picture" src="https://www.gravatar.com/avatar/9269e405983cdf2599d1b1ddc9d4a2ba?s=110" alt="Foto de autor" />
+        </a>
+        <h4 class="sidebar-profile-name">Jorge Cortell</h4>
+        
+          <h5 class="sidebar-profile-bio">Viviendo</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+      
+      <span class="sidebar-button-desc">Inicio</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/viajes/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-plane"></i>
+      
+      <span class="sidebar-button-desc">Viajes</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/categories">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-bookmark"></i>
+      
+      <span class="sidebar-button-desc">Categorías</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/tags">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
+      
+      <span class="sidebar-button-desc">Etiquetas</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/archives">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-archive"></i>
+      
+      <span class="sidebar-button-desc">Archivos</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://web.cortell.net" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-question"></i>
+      
+      <span class="sidebar-button-desc">Acerca de</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/index.xml">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-rss"></i>
+      
+      <span class="sidebar-button-desc">RSS</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://www.linkedin.com/in/jcortell/" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-linkedin"></i>
+      
+      <span class="sidebar-button-desc">LinkedIn</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://twitter.com/jorgecortell" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-twitter"></i>
+      
+      <span class="sidebar-button-desc">Twitter</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://mas.to/@uno" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-retweet"></i>
+      
+      <span class="sidebar-button-desc">Mastodon</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/jcortell" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-github"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://jcortell.tumblr.com/" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tumblr"></i>
+      
+      <span class="sidebar-button-desc">Tumblr</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://blog.cortell.net" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-flag-o"></i>
+      
+      <span class="sidebar-button-desc">English</span>
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</nav>
+
+      
+
+      <div id="main" data-behavior="5"
+        class="
+               hasCoverMetaIn
+               ">
+        <article class="post" itemscope itemType="http://schema.org/BlogPosting">
+          
+          
+            <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title" itemprop="headline">
+      Los hackers que sabí­an demasiado (PC&amp;amp;I 26)
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2005-01-31T10:39:30Z">
+        
+  
+  
+  
+  
+    31 Enero 2005
+  
+
+      </time>
+    
+    
+  
+  
+    <span>en</span>
+    
+      <a class="category-link" href="https://bloges.cortell.net/categories/art%c3%adculos-escritos-para-la-revista-pcampi">Artí­culos escritos para la revista PC&amp;amp;I</a>, 
+    
+      <a class="category-link" href="https://bloges.cortell.net/categories/ciberderechos">CiberDerechos</a>, 
+    
+      <a class="category-link" href="https://bloges.cortell.net/categories/general">General</a>, 
+    
+      <a class="category-link" href="https://bloges.cortell.net/categories/hacking">Hacking</a>, 
+    
+      <a class="category-link" href="https://bloges.cortell.net/categories/rants">Rants</a>
+    
+  
+
+  </div>
+
+</div>
+          
+          <div class="post-content markdown" itemprop="articleBody">
+            <div class="main-content-wrap">
+              <p>Un hacker (ver wikipedia.org) es un experto, o aficionado, que busca defectos para mejorar la seguridad y prevenir posibles errores futuros. Pekka Himanen en su excelente libro &ldquo;La ética del hacker&rdquo;, propone incluso hacer extensiva esta definición a ámbitos más allá de la informática (entusiastas, autodidactas, o curiosos). A los &ldquo;hackers malos&rdquo; se les debe llamar &ldquo;crakers&rdquo;.</p>
+<p>Así­ pues, -¿por qué titulo este artí­culo &ldquo;Los hackers que sabí­an demasiado&rdquo;? -¿Se puede &ldquo;saber demasiado&rdquo;?</p>
+<p>Hay muchos ejemplos de hackers que, por haber descubierto lo que otros no querí­an que se supiese (o incluso porque se pensó que lo hicieron), tuvieron que pagar un precio muy elevado. El documental &ldquo;Freedom Downtime&rdquo; (producido por 2600) nos relata varios casos:</p>
+<p>&ldquo;Phiber Optik&rdquo; (Mark Abene) fue arrestado por primera vez en 1990 (y todo su material informático confiscado) tras la caí­da del sistema telefónico de AT&amp;T. Posteriormente se demostró que fue un fallo del software de la empresa, y que ningún hacker tuvo nada que ver, pero este incidente desencadenó una corriente de pánico entre las autoridades hacia los hackers.</p>
+<p>En 1991 fue arrestado de nuevo y acusado de &ldquo;manipular ordenadores y allanamiento informático en primer grado&rdquo; (de lo que se declaró inocente) y de una falta de &ldquo;robo de servicio por no pagar llamadas telefónicas&rdquo; (de lo que se declaró culpable) por lo que fue sentenciado a 35 horas de trabajos comunitarios.</p>
+<p>En diciembre de ese mismo año fue arrestado de nuevo (en plena paranoia de las autoridades por el caso AT&amp;T, que tuvo como consecuencia multitud de redadas e investigaciones como las operaciones &ldquo;Sundevil&rdquo; y &ldquo;Crackdown Redux&rdquo;), y fue acusado en julio de 1992 de 11 delitos. Se declaró inocente de 9 de ellos, y culpable de 2 (&ldquo;conspiración y acceso no autorizado a computadoras de interés federal&rdquo;). &ldquo;Conspiración&rdquo; se definió como darle a un amigo información de cómo desviar una llamada y acceder a la página de Educational Broadcasting Company y dejarles un mensaje. &ldquo;Acceso no autorizado a computadoras de interés federal&rdquo; se definió como acceso no autorizado a los ordenadores de Southwestern Bell, causando 370.000$ en daños. Responsables de la propia Southwestern Bell reconocen en el documental que no se causó daño alguno. Por ello la fiscalí­a pidió 50 años de cárcel y dos millones y medio de dólares de multa. Fue sentenciado (pese a no haber pruebas y ser un menor) a un año y un dí­a de prisión, 3 años de libertad condicional, y 600 horas de trabajo comunitario. El propio juez reconoció que se trataba de una sentencia &ldquo;para dar ejemplo&rdquo;. Salió de prisión en noviembre de 1994.</p>
+<p>&ldquo;Bernie S.&rdquo; (Edward Cummings) fue acusado de poseer un marcador de teléfono modificado (caja roja) y un ordenador con software para modificar un teléfono móvil. Por ello fue a la cárcel desde el 14/3/95 hasta el 13/10/95. Salió en libertad condicional.</p>
+<p>El 12/1/96, en la vista oral de su libertad condicional, se le acusó de &ldquo;manipular pruebas&rdquo; (por quitar las pilas a un marcador de teléfono, cosa que en realidad hizo un amigo que iba con él). Además el agente del Servicio Secreto Tom Varney le dijo al juez que consideraba a Bernie S. un gran riesgo para la sociedad, ya que en su casa habí­an encontrado libros como el &ldquo;Anarchist Cookbook&rdquo;, un <a href="https://www.2600.com/secret/more/freq.html">listado</a> de frecuencias y <a href="https://www.2600.com/secret/more/codes.html">códigos</a> del Servicio Secreto disponibles libremente en Internet y una sustancia que parecí­a explosivo C4 (aunque reconoció que en realidad sólo era material de dentistas para hacer empastes). Por ello el juez lo envió a prisión hasta el 13/9/96, y le impuso una fianza de 250.000$ (ese mismo juez, ese mismo dí­a, impuso una fianza de 50.000$ a una persona reincidente que atropelló y mató a otra mientras conducí­a ebrio). Durante el tiempo en prisión (pasó por varias, la mayorí­a de máxima seguridad) fue apaleado por otro prisionero, le negaron analgésicos y medicación, lo encerraron en una celda de aislamiento la mayor parte del tiempo&hellip; Todo oficialmente por quitar una pila a un marcador de teléfonos.</p>
+<p>En realidad, como relata él mismo en el documental, la verdadera razón de esta campaña de difamación y abuso a la que ha sido sometido fue que publicó en su web las <a href="https://www.2600.com/secret/more/photo.html">fotos</a> de dos agentes del servicio secreto registrando su despacho, uno de ellos metiéndose el dedo en la nariz. Ese agente era Tom Varney.</p>
+<p>Kevin Mitnik (quien nos enseñó a muchos lo que es la ingenierí­a social) estuvo 5 años en prisión por, supuestamente, haber accedido a ordenadores de empresas norteamericanas y haber causado millones de dólares en daños (daños que nadie fue capaz de probar, pero no fue necesario: el juez estaba tan presionado, y asustado, como reconoció posteriormente, que hasta le prohibió acercarse a un teléfono público). Kevin sólo querí­a aprender cómo funcionaban dichos sistemas.</p>
+<p>Pero hay quien ha pagado un precio aun mayor por acceder a un conocimiento que &ldquo;no debí­a&rdquo; (-¿no deberí­a ser todo el conocimiento susceptible de ser accedido y compartido, mientras no se trate de datos personales?).</p>
+<p>Boris Floricic (&ldquo;Tron&rdquo;), era un alemán que lo sabí­a todo sobre códigos de tarjetas de crédito y telefónicas, y que inventó un teléfono encriptado que superaba las medidas de vigilancia de las redes policiales y de espionaje internacionales (como Echelon). El 17 de octubre de 1998 su familia denunció su desaparición. La policí­a no empezó a buscarlo hasta después de ponerle una denuncia por fraude informático, para poder así­ requisar su portátil y archivos. Apareció muerto 8 dí­as después (además, no pudo estar colgado &ldquo;suicidado&rdquo; 8 dí­as en un parque público sin que nadie le viese). Entre sus pertenencias encontraron una carta de NDS (la empresa de Peter Murdoch -propietario de News Corporation- que hace las tarjetas de los terminales de televisión satélite digital). Canal Plus acusó a NDS de intentar crackear, con la ayuda de &ldquo;Tron&rdquo;, Nagra (la smart card del grupo suizo Kudelski) para que EchoStar cambiara de proveedor de smart cards por la falta de seguridad. Nunca llegaremos a saber qué es lo que tramaban. Pero sí­ lo que habí­a detrás de todo ello: mucho dinero y poder.</p>
+<p>Hay muchos más casos de hackers encarcelados injustamente, o asesinados. A algunos de ellos los conocí­ personalmente (online) y sé que eran todos personas interesadas en aprender, no en hacer el mal a nadie. -¿Por qué fueron a por ellos? Porque sabí­an demasiado, y sobretodo porque en su paranoia no se lo contaron a nadie.</p>
+<p>Así­ que el mejor consejo que se le puede dar a un hacker que trabaja sobre algo interesante pero potencialmente peligroso (como las emisoras de radio que desde hace décadas emiten una serie de números recitados por una persona; los informes de la empresa que fabrica las máquinas de voto electrónico de EEUU y que demuestran que son muy fáciles de manipular; cómo romper el algoritmo de encriptación SHA0; los planes del Pentágono de invadir la triple frontera Argentina/Brasil/Paraguay tras el 11-S, o los contratos que se otorgaron a Haliburton para repartirse el petróleo de Iraq mucho antes de invadirse aquel paí­s e incluso antes del 11-S, o sus informes secretos sobre torturas a prisioneros militares; o cómo acceder a cámaras de seguridad y otros dispositivos &ldquo;seguros&rdquo; a través de Google) es que difunda esa información lo más amplia y rápidamente posible. Así­, además de asegurarse de no ser el único que lo sabe &ldquo;y no deberí­a&rdquo;, nos ayudarán a todos a comprender mejor este mundo en el que vivimos, y de paso a hacerlo más seguro, pudiendo corregir los fallos de seguridad que nos rodean y que son la verdadera amenaza.</p>
+<p><a href="https://tira.escomposlinux.org/ecol-199.png"><!-- raw HTML omitted --></a></p>
+
+              
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+            
+            <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://bloges.cortell.net/2005/03/atr%C3%A9vete-a-crear-es-muy-f%C3%A1cil-pci-27/" data-tooltip="Atrévete a crear (es MUY fácil) (PCI 27)">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">SIGUIENTE</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://bloges.cortell.net/2004/12/el-poder-es-tuyo-...-c%C3%B3gelo-pcampi-25/" data-tooltip="El poder es tuyo ... -¡cógelo! (PC&amp;amp;I 25)">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">ANTERIOR</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://bloges.cortell.net/2005/01/los-hackers-que-sab%C3%ADan-demasiado-pcampi-26/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://bloges.cortell.net/2005/01/los-hackers-que-sab%C3%ADan-demasiado-pcampi-26/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.reddit.com/submit?url=https://bloges.cortell.net/2005/01/los-hackers-que-sab%C3%ADan-demasiado-pcampi-26/">
+              <i class="fa fa-reddit"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://news.ycombinator.com/submitlink?u=https://bloges.cortell.net/2005/01/los-hackers-que-sab%C3%ADan-demasiado-pcampi-26/">
+              <i class="fa fa-hacker-news"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+            
+              
+                <div id="disqus_thread">
+  <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+              
+            
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2020 CC0 Copyleft - Comparte. Todos los derechos reservados
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="5">
+        <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://bloges.cortell.net/2005/03/atr%C3%A9vete-a-crear-es-muy-f%C3%A1cil-pci-27/" data-tooltip="Atrévete a crear (es MUY fácil) (PCI 27)">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">SIGUIENTE</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://bloges.cortell.net/2004/12/el-poder-es-tuyo-...-c%C3%B3gelo-pcampi-25/" data-tooltip="El poder es tuyo ... -¡cógelo! (PC&amp;amp;I 25)">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">ANTERIOR</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://bloges.cortell.net/2005/01/los-hackers-que-sab%C3%ADan-demasiado-pcampi-26/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://bloges.cortell.net/2005/01/los-hackers-que-sab%C3%ADan-demasiado-pcampi-26/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.reddit.com/submit?url=https://bloges.cortell.net/2005/01/los-hackers-que-sab%C3%ADan-demasiado-pcampi-26/">
+              <i class="fa fa-reddit"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://news.ycombinator.com/submitlink?u=https://bloges.cortell.net/2005/01/los-hackers-que-sab%C3%ADan-demasiado-pcampi-26/">
+              <i class="fa fa-hacker-news"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+      </div>
+      <div id="share-options-bar" class="share-options-bar" data-behavior="5">
+  <i id="btn-close-shareoptions" class="fa fa-close"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbloges.cortell.net%2F2005%2F01%2Flos-hackers-que-sab%25C3%25ADan-demasiado-pcampi-26%2F">
+          <i class="fa fa-facebook-official"></i><span>Compartir en Facebook</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fbloges.cortell.net%2F2005%2F01%2Flos-hackers-que-sab%25C3%25ADan-demasiado-pcampi-26%2F">
+          <i class="fa fa-twitter"></i><span>Compartir en Twitter</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.reddit.com/submit?url=https%3A%2F%2Fbloges.cortell.net%2F2005%2F01%2Flos-hackers-que-sab%25C3%25ADan-demasiado-pcampi-26%2F">
+          <i class="fa fa-reddit"></i><span>Compartir en Reddit</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fbloges.cortell.net%2F2005%2F01%2Flos-hackers-que-sab%25C3%25ADan-demasiado-pcampi-26%2F">
+          <i class="fa fa-hacker-news"></i><span>Compartir en HackerNews</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-remove"></i>
+    </div>
+    
+      <img id="about-card-picture" src="https://www.gravatar.com/avatar/9269e405983cdf2599d1b1ddc9d4a2ba?s=110" alt="Foto de autor" />
+    
+    <h4 id="about-card-name">Jorge Cortell</h4>
+    
+      <div id="about-card-bio">Viviendo</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        Curador de Arte - Fundador y Director General de Kanteron Systems
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker"></i>
+        <br/>
+        Valencia (España)
+      </div>
+    
+  </div>
+</div>
+
+    
+
+    
+  
+    <div id="cover" style="background-image:url('https://res.cloudinary.com/jcortell/image/upload/v1578019207/Personal/cover.jpg');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
+
+
+<script src="https://bloges.cortell.net/js/script-pcw6v3xilnxydl1vddzazdverrnn9ctynvnxgwho987mfyqkuylcb1nlt.min.js"></script>
+
+
+<script lang="javascript">
+window.onload = updateMinWidth;
+window.onresize = updateMinWidth;
+document.getElementById("sidebar").addEventListener("transitionend", updateMinWidth);
+function updateMinWidth() {
+  var sidebar = document.getElementById("sidebar");
+  var main = document.getElementById("main");
+  main.style.minWidth = "";
+  var w1 = getComputedStyle(main).getPropertyValue("min-width");
+  var w2 = getComputedStyle(sidebar).getPropertyValue("width");
+  var w3 = getComputedStyle(sidebar).getPropertyValue("left");
+  main.style.minWidth = `calc(${w1} - ${w2} - ${w3})`;
+}
+</script>
+
+
+  
+    
+      <script>
+        var disqus_config = function () {
+          this.page.url = 'https:\/\/bloges.cortell.net\/2005\/01\/los-hackers-que-sab%C3%ADan-demasiado-pcampi-26\/';
+          
+            this.page.identifier = '\/2005\/01\/los-hackers-que-sab%C3%ADan-demasiado-pcampi-26\/'
+          
+        };
+        (function() {
+          
+          
+          if (window.location.hostname == "localhost") {
+            return;
+          }
+          var d = document, s = d.createElement('script');
+          var disqus_shortname = 'jorge_cortell';
+          s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+        })();
+      </script>
+    
+  
+
+
+
+
+    
+  </body>
+</html>
+

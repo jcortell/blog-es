@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Valencia on Blog de Jorge Cortell en Castellano</title>
+    <link>https://bloges.cortell.net/tags/valencia/</link>
+    <description>Recent content in Valencia on Blog de Jorge Cortell en Castellano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Aug 2017 18:54:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://bloges.cortell.net/tags/valencia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Día de arte en Valencia</title>
+      <link>https://bloges.cortell.net/2017/08/d%C3%ADa-de-arte-en-valencia/</link>
+      <pubDate>Tue, 01 Aug 2017 18:54:24 +0200</pubDate>
+      
+      <guid>https://bloges.cortell.net/2017/08/d%C3%ADa-de-arte-en-valencia/</guid>
+      <description>&lt;p&gt;El martes fuimos a Valencia a disfrutar de exposiciones de arte.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

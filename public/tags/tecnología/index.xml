@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tecnología on Blog de Jorge Cortell en Castellano</title>
+    <link>https://bloges.cortell.net/tags/tecnolog%C3%ADa/</link>
+    <description>Recent content in tecnología on Blog de Jorge Cortell en Castellano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Feb 2020 01:00:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://bloges.cortell.net/tags/tecnolog%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Procesando miles de archivos con un comando de terminal</title>
+      <link>https://bloges.cortell.net/2020/02/procesando-miles-de-archivos-con-un-comando-de-terminal/</link>
+      <pubDate>Sun, 02 Feb 2020 01:00:24 +0200</pubDate>
+      
+      <guid>https://bloges.cortell.net/2020/02/procesando-miles-de-archivos-con-un-comando-de-terminal/</guid>
+      <description>&lt;p&gt;¿Cómo solucionar un problema que afecta a más de dos mil archivos sin pasar días con un procesador de textos? CLI al rescate.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Horas de análisis de código para arreglar una errata</title>
+      <link>https://bloges.cortell.net/2020/01/horas-de-an%C3%A1lisis-de-c%C3%B3digo-para-arreglar-una-errata/</link>
+      <pubDate>Thu, 02 Jan 2020 18:54:24 +0200</pubDate>
+      
+      <guid>https://bloges.cortell.net/2020/01/horas-de-an%C3%A1lisis-de-c%C3%B3digo-para-arreglar-una-errata/</guid>
+      <description>&lt;p&gt;Hace tiempo noté que cuando compartía las publicaciones de mi blog en las redes sociales, la imagen de la publicación no aparecía. Finalmente decidí investigarlo &amp;hellip; ¡no sabía en qué agujero negro me estaba metiendo!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Considerado en el Top 10% de programadores del mundo... ya</title>
+      <link>https://bloges.cortell.net/2019/12/considerado-en-el-top-10-de-programadores-del-mundo...-ya/</link>
+      <pubDate>Fri, 06 Dec 2019 18:54:24 +0200</pubDate>
+      
+      <guid>https://bloges.cortell.net/2019/12/considerado-en-el-top-10-de-programadores-del-mundo...-ya/</guid>
+      <description>&lt;p&gt;Según &lt;a href=&#34;https://profile.codersrank.io/user/jcortell&#34;&gt;CodersRank&lt;/a&gt; estoy considerado entre el Top 10% de programadores del mundo (tras analizar a más de 29.000 programadores), con un &amp;ldquo;Senior Rank&amp;rdquo; y puntuación de 516&amp;hellip; ¡pese a que sólo programo en mi tiempo libre!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Regreso a Emacs</title>
+      <link>https://bloges.cortell.net/2018/07/regreso-a-emacs/</link>
+      <pubDate>Wed, 25 Jul 2018 18:54:24 +0200</pubDate>
+      
+      <guid>https://bloges.cortell.net/2018/07/regreso-a-emacs/</guid>
+      <description>&lt;p&gt;Al igual que sucedió con el sistema operativo, cuando migré de OSX a GNU-Linux Debian, he decidido volver a Emacs para la mayoría de cosas, desde publicaciones del blog a programación.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Instalando Debian 9 en un Dell XPS13</title>
+      <link>https://bloges.cortell.net/2018/05/instalando-debian-9-en-un-dell-xps13/</link>
+      <pubDate>Tue, 08 May 2018 18:54:24 +0200</pubDate>
+      
+      <guid>https://bloges.cortell.net/2018/05/instalando-debian-9-en-un-dell-xps13/</guid>
+      <description>&lt;p&gt;Tengo un portátil Dell XPS nuevo, así que decidí instalar Debian 9. Aquí van algunas lecciones aprendidas:&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

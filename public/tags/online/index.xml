@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>online on Blog de Jorge Cortell en Castellano</title>
+    <link>https://bloges.cortell.net/tags/online/</link>
+    <description>Recent content in online on Blog de Jorge Cortell en Castellano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 18:54:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://bloges.cortell.net/tags/online/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Forzado a usar Facebook, libre para dejarlo</title>
+      <link>https://bloges.cortell.net/2019/01/forzado-a-usar-facebook-libre-para-dejarlo/</link>
+      <pubDate>Tue, 01 Jan 2019 18:54:24 +0200</pubDate>
+      
+      <guid>https://bloges.cortell.net/2019/01/forzado-a-usar-facebook-libre-para-dejarlo/</guid>
+      <description>&lt;p&gt;Hace años me vi obligado a unirme a Facebook. Ahora finalmente soy libre de dejarlo, así que lo he hecho.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>IA Autocoloreado</title>
+      <link>https://bloges.cortell.net/2017/10/ia-autocoloreado/</link>
+      <pubDate>Sun, 01 Oct 2017 18:54:24 +0200</pubDate>
+      
+      <guid>https://bloges.cortell.net/2017/10/ia-autocoloreado/</guid>
+      <description>&lt;p&gt;Los investigadores de Inteligencia Artificial (IA) / Aprendizaje Automático están produciendo herramientas asombrosas, y las hacen fáciles de usar. He aquí un ejemplo:&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

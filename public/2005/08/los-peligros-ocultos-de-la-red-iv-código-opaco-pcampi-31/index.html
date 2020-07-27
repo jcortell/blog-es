@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.74.3 with theme Tranquilpeak 0.4.8-BETA">
+<meta name="author" content="Jorge Cortell">
+<meta name="keywords" content="">
+<meta name="description" content="Este es el cuarto de los artí­culos en los que trataré de enumerar &ldquo;los peligros ocultos de la Red&rdquo;. Los llamo &ldquo;ocultos&rdquo; porque reciben poca atención de los medios de comunicación y las autoridades, comparados con otros &ldquo;peligros&rdquo; (como puedan ser los virus, el spam, las estafas, etc), pero no por ello son menos dañinos.
+Internet fue una revolución, pero realmente dos de sus aplicaciones (correo electrónico y web) fueron los catalizadores para que su uso se generalizara.">
+
+
+<meta property="og:description" content="Este es el cuarto de los artí­culos en los que trataré de enumerar &ldquo;los peligros ocultos de la Red&rdquo;. Los llamo &ldquo;ocultos&rdquo; porque reciben poca atención de los medios de comunicación y las autoridades, comparados con otros &ldquo;peligros&rdquo; (como puedan ser los virus, el spam, las estafas, etc), pero no por ello son menos dañinos.
+Internet fue una revolución, pero realmente dos de sus aplicaciones (correo electrónico y web) fueron los catalizadores para que su uso se generalizara.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Los peligros ocultos de la Red IV: Código Opaco (PC&amp;amp;I 31)">
+<meta name="twitter:title" content="Los peligros ocultos de la Red IV: Código Opaco (PC&amp;amp;I 31)">
+<meta property="og:url" content="https://bloges.cortell.net/2005/08/los-peligros-ocultos-de-la-red-iv-c%C3%B3digo-opaco-pcampi-31/">
+<meta property="twitter:url" content="https://bloges.cortell.net/2005/08/los-peligros-ocultos-de-la-red-iv-c%C3%B3digo-opaco-pcampi-31/">
+<meta property="og:site_name" content="Blog de Jorge Cortell en Castellano">
+<meta property="og:description" content="Este es el cuarto de los artí­culos en los que trataré de enumerar &ldquo;los peligros ocultos de la Red&rdquo;. Los llamo &ldquo;ocultos&rdquo; porque reciben poca atención de los medios de comunicación y las autoridades, comparados con otros &ldquo;peligros&rdquo; (como puedan ser los virus, el spam, las estafas, etc), pero no por ello son menos dañinos.
+Internet fue una revolución, pero realmente dos de sus aplicaciones (correo electrónico y web) fueron los catalizadores para que su uso se generalizara.">
+<meta name="twitter:description" content="Este es el cuarto de los artí­culos en los que trataré de enumerar &ldquo;los peligros ocultos de la Red&rdquo;. Los llamo &ldquo;ocultos&rdquo; porque reciben poca atención de los medios de comunicación y las autoridades, comparados con otros &ldquo;peligros&rdquo; (como puedan ser los virus, el spam, las estafas, etc), pero no por ello son menos dañinos.
+Internet fue una revolución, pero realmente dos de sus aplicaciones (correo electrónico y web) fueron los catalizadores para que su uso se generalizara.">
+<meta property="og:locale" content="es-es">
+
+  
+    <meta property="article:published_time" content="2005-08-03T22:10:04">
+  
+  
+    <meta property="article:modified_time" content="2005-08-03T22:10:04">
+  
+  
+  
+    
+      <meta property="article:section" content="Artí­culos escritos para la revista PC&amp;amp;I">
+    
+      <meta property="article:section" content="General">
+    
+  
+  
+
+
+<meta name="twitter:card" content="summary">
+
+  <meta name="twitter:site" content="@jorgecortell">
+
+
+  <meta name="twitter:creator" content="@jorgecortell">
+
+
+
+
+
+
+
+
+
+
+  <meta property="og:image" content="https://www.gravatar.com/avatar/9269e405983cdf2599d1b1ddc9d4a2ba?s=640">
+  <meta property="twitter:image" content="https://www.gravatar.com/avatar/9269e405983cdf2599d1b1ddc9d4a2ba?s=640">
+
+
+    <title>Los peligros ocultos de la Red IV: Código Opaco (PC&amp;amp;I 31)</title>
+
+    <link rel="icon" href="https://bloges.cortell.net/favicon.png">
+    
+
+    
+
+    <link rel="canonical" href="https://bloges.cortell.net/2005/08/los-peligros-ocultos-de-la-red-iv-c%C3%B3digo-opaco-pcampi-31/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.css" integrity="sha256-vuXZ9LGmmwtjqFX1F+EKin1ThZMub58gKULUyf0qECk=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
+    
+    
+    <link rel="stylesheet" href="https://bloges.cortell.net/css/style-twzjdbqhmnnacqs0pwwdzcdbt8yhv8giawvjqjmyfoqnvazl0dalmnhdkvp7.min.css" />
+    
+    
+
+    
+      
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-51273041-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="5">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="https://bloges.cortell.net/">Blog de Jorge Cortell en Castellano</a>
+  </div>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="5">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="https://web.cortell.net">
+          <img class="sidebar-profile-picture" src="https://www.gravatar.com/avatar/9269e405983cdf2599d1b1ddc9d4a2ba?s=110" alt="Foto de autor" />
+        </a>
+        <h4 class="sidebar-profile-name">Jorge Cortell</h4>
+        
+          <h5 class="sidebar-profile-bio">Viviendo</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+      
+      <span class="sidebar-button-desc">Inicio</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/viajes/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-plane"></i>
+      
+      <span class="sidebar-button-desc">Viajes</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/categories">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-bookmark"></i>
+      
+      <span class="sidebar-button-desc">Categorías</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/tags">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
+      
+      <span class="sidebar-button-desc">Etiquetas</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/archives">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-archive"></i>
+      
+      <span class="sidebar-button-desc">Archivos</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://web.cortell.net" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-question"></i>
+      
+      <span class="sidebar-button-desc">Acerca de</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/index.xml">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-rss"></i>
+      
+      <span class="sidebar-button-desc">RSS</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://www.linkedin.com/in/jcortell/" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-linkedin"></i>
+      
+      <span class="sidebar-button-desc">LinkedIn</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://twitter.com/jorgecortell" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-twitter"></i>
+      
+      <span class="sidebar-button-desc">Twitter</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://mas.to/@uno" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-retweet"></i>
+      
+      <span class="sidebar-button-desc">Mastodon</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/jcortell" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-github"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://jcortell.tumblr.com/" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tumblr"></i>
+      
+      <span class="sidebar-button-desc">Tumblr</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://blog.cortell.net" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-flag-o"></i>
+      
+      <span class="sidebar-button-desc">English</span>
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</nav>
+
+      
+
+      <div id="main" data-behavior="5"
+        class="
+               hasCoverMetaIn
+               ">
+        <article class="post" itemscope itemType="http://schema.org/BlogPosting">
+          
+          
+            <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title" itemprop="headline">
+      Los peligros ocultos de la Red IV: Código Opaco (PC&amp;amp;I 31)
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2005-08-03T22:10:04Z">
+        
+  
+  
+  
+  
+    3 Agosto 2005
+  
+
+      </time>
+    
+    
+  
+  
+    <span>en</span>
+    
+      <a class="category-link" href="https://bloges.cortell.net/categories/art%c3%adculos-escritos-para-la-revista-pcampi">Artí­culos escritos para la revista PC&amp;amp;I</a>, 
+    
+      <a class="category-link" href="https://bloges.cortell.net/categories/general">General</a>
+    
+  
+
+  </div>
+
+</div>
+          
+          <div class="post-content markdown" itemprop="articleBody">
+            <div class="main-content-wrap">
+              <p>Este es el cuarto de los artí­culos en los que trataré de enumerar &ldquo;los peligros ocultos de la Red&rdquo;. Los llamo &ldquo;ocultos&rdquo; porque reciben poca atención de los medios de comunicación y las autoridades, comparados con otros &ldquo;peligros&rdquo; (como puedan ser los virus, el spam, las estafas, etc), pero no por ello son menos dañinos.</p>
+<p>Internet fue una revolución, pero realmente dos de sus aplicaciones (correo electrónico y web) fueron los catalizadores para que su uso se generalizara. -¿Cual es el secreto de estas aplicaciones? Que son &ldquo;transparentes&rdquo;: se basan en estándares, tienen una estructura &ldquo;simple&rdquo;, y por supuesto son fáciles de usar.</p>
+<p>El Software Libre (e incluso, hasta cierto punto el software de Código Abierto) representa otra revolución. Una de sus principales claves es la posibilidad de acceder al código fuente del programa en cuestión, para poder estudiarlo, verificarlo, y repararlo o mejorarlo. Todo esto que suena a &ldquo;tecnicismo&rdquo; o que no parece tener tanta importancia la tiene y mucho.</p>
+<p>En nuestra sociedad, y a lo largo de toda la historia, el &ldquo;acceso al código fuente&rdquo; (el saber cómo funcionan las cosas por dentro, sea una institución, una máquina, o un lenguaje) estaba reservado a una élite que guardaba el acceso a ese saber celosamente. Salvando contadas excepciones (como el Empirismo y el Enciclopedismo de la Ilustración), esa élite veí­a como fundamental para mantener su posición de privilegio el no permitir a nadie ajeno el acceso a &ldquo;su&rdquo; conocimiento.</p>
+<p>Pero hoy en dí­a todo está intercomunicado, todo es global, nada ni nadie es una isla. Por lo tanto, la &ldquo;economí­a en red&rdquo; y el &ldquo;conocimiento compartido&rdquo; abren un mundo de posibilidades a nuestro alcance, que hasta hace unos pocos años no podí­amos ni soñar (la web, la computación distribuí­da, el teletrabajo, las redes de pares, etc). Hoy en dí­a no tiene sentido el excluir a los demás de la posibilidad de participar y de conocer. Es mas, eso puede ser muy peligroso. Un par de ejemplos bastarán para comprender hasta qué punto esto es así­:</p>
+<p>– En EE.UU., durante las elecciones presidenciales anteriores, se acusó a George W. Bush de haber manipulado los resultados. -¿Recuerdan el recuento de Florida, las papeletas de voto confusas, etc? En estas elecciones la acusación ha sido menos difundida (lo cual es comprensible, por otro lado, ya que se trata del Presidente de los EE.UU., cuando anteriormente era &ldquo;sólo&rdquo; un candidato, y por lo tanto su control sobre los medios es muchí­simo mayor), pero el escándalo ha sido mucho mayor. Diebold empresa norteamericana que fabrica la mayorí­a de máquinas de voto electrónico del paí­s, y una de las mayores contribuyentes a la campaña de George W. Bush (no solo a nivel de empresa, sino sus directivos y empleados), se hizo famosa por los &ldquo;Halloween Memos&rdquo;, informes internos en los que técnicos de la empresa detallaban vulnerabilidades internas en la seguridad del software de la máquina, y a los que la empresa respondí­a que no pensaban hacer nada para solucionarlos. Unos estudiantes (Nelson Pavlosky y Luke Smith) encontraron dichos informes, los difundieron por internet, y Diebold los llevó a juicio por infringir su copyright (no es la primera vez que el copyright se emplea como arma de censura). Lo importante es que el mundo entero pudo saber que esas máquinas de voto electrónico eran inseguras, y que ello podí­a alterar el resultado de las elecciones&hellip; -¡y vaya si lo hizo! Entre el año 1998 y el año 2000 un estudio del MIT determinó que el 8‘2% de los votos emitidos en máquinas de voto electrónico se perdí­an. Pero en las elecciones presidenciales de 2004 (tal y como atestiguaron el investigador independiente británico Gregory Palast y se puede ver con todo lujo de detalles en <a href="https://blackboxvoting.com">https://blackboxvoting.com</a> y en las webs de los colegios electorales de cada distrito) cientos de miles de votos (algunas fuentes hablan de millones de votos) fueron &ldquo;robados&rdquo; electrónicamente, dando la victoria a George W. Bush. Como era de esperar (los favores se pagan, y caros) el presidente Bush ha autorizado un programa de &ldquo;actualización&rdquo; de las máquinas de voto electrónico para el año que viene, con un presupuesto de 3.800 millones de dólares. -¿A que no saben a qué empresa va a ir a parar la mayor parte de ese dinero?</p>
+<p>El hecho de que dichas máquinas no corran sobre software de código abierto (de hecho ni siquiera emiten un justificante en papel para poder comprobar el voto), las convierte en un peligro inmenso para la libertad y la democracia.</p>
+<p>– Otro ejemplo de peligro derivado de el uso de código cerrado en aplicaciones vitales (y de hecho, hasta una inocente hoja de cálculo puede serlo si se trata, por ejemplo, de los presupuestos generales del estado) es la decisión de la Royal Navy británica de emplear una versión &ldquo;modificada&rdquo; de Microsoft Windows 2000 como sistema operativo que controlará los ordenadores de sus destructores Type45 (los cuales están equipados con, entre otras armas, misiles nucleares balí­sticos intercontinentales Trident). Esto puede darle un nuevo significado a la famosa &ldquo;pantalla azul de la muerte&rdquo;. -¿Se imaginan detectar un error en unas maniobras, o en combate, y no poder acceder al código fuente del sistema para arreglarlo? -¿Se imaginan tener que llamar al soporte técnico de Microsoft en medio de una crisis nuclear? Que Dios (si existe) no salve a la reina&hellip; que nos salve a todos.</p>
+<p>De hecho, según la Ley Orgánica de Protección de Datos (y demás directivas comunitarias), se podrí­a argumentar que emplear software de código cerrado para manejar datos personales (especialmente de alta seguridad, como los médicos, financieros, de afiliación polí­tica, etc) podrí­a constituir un delito al no poder garantizar su responsable la seguridad e integridad de los mismos. -¿Se imaginan a miles de funcionarios y altos cargos del gobierno en la cárcel por haber elegido Microsoft Windows y Access para manejar nuestros datos? Quizá eso no serí­a una consecuencia tan negativa 😉</p>
+<p>Las patentes tampoco ayudan en nada a esta situación, de hecho la complican</p>
+<p><a href="https://tira.escomposlinux.org/ecol-216.png"><!-- raw HTML omitted --></a></p>
+
+              
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+            
+            <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://bloges.cortell.net/2005/08/ipred-otra-directiva-europea-contra-la-que-luchar/" data-tooltip="IPRED, otra directiva europea contra la que luchar">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">SIGUIENTE</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://bloges.cortell.net/2005/08/mientras-estamos-offline-de-vacaciones-piensa-en-esto.../" data-tooltip="Mientras estamos offline de vacaciones piensa en esto...">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">ANTERIOR</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://bloges.cortell.net/2005/08/los-peligros-ocultos-de-la-red-iv-c%C3%B3digo-opaco-pcampi-31/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://bloges.cortell.net/2005/08/los-peligros-ocultos-de-la-red-iv-c%C3%B3digo-opaco-pcampi-31/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.reddit.com/submit?url=https://bloges.cortell.net/2005/08/los-peligros-ocultos-de-la-red-iv-c%C3%B3digo-opaco-pcampi-31/">
+              <i class="fa fa-reddit"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://news.ycombinator.com/submitlink?u=https://bloges.cortell.net/2005/08/los-peligros-ocultos-de-la-red-iv-c%C3%B3digo-opaco-pcampi-31/">
+              <i class="fa fa-hacker-news"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+            
+              
+                <div id="disqus_thread">
+  <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+              
+            
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2020 CC0 Copyleft - Comparte. Todos los derechos reservados
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="5">
+        <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://bloges.cortell.net/2005/08/ipred-otra-directiva-europea-contra-la-que-luchar/" data-tooltip="IPRED, otra directiva europea contra la que luchar">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">SIGUIENTE</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://bloges.cortell.net/2005/08/mientras-estamos-offline-de-vacaciones-piensa-en-esto.../" data-tooltip="Mientras estamos offline de vacaciones piensa en esto...">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">ANTERIOR</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://bloges.cortell.net/2005/08/los-peligros-ocultos-de-la-red-iv-c%C3%B3digo-opaco-pcampi-31/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://bloges.cortell.net/2005/08/los-peligros-ocultos-de-la-red-iv-c%C3%B3digo-opaco-pcampi-31/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.reddit.com/submit?url=https://bloges.cortell.net/2005/08/los-peligros-ocultos-de-la-red-iv-c%C3%B3digo-opaco-pcampi-31/">
+              <i class="fa fa-reddit"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://news.ycombinator.com/submitlink?u=https://bloges.cortell.net/2005/08/los-peligros-ocultos-de-la-red-iv-c%C3%B3digo-opaco-pcampi-31/">
+              <i class="fa fa-hacker-news"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+      </div>
+      <div id="share-options-bar" class="share-options-bar" data-behavior="5">
+  <i id="btn-close-shareoptions" class="fa fa-close"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbloges.cortell.net%2F2005%2F08%2Flos-peligros-ocultos-de-la-red-iv-c%25C3%25B3digo-opaco-pcampi-31%2F">
+          <i class="fa fa-facebook-official"></i><span>Compartir en Facebook</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fbloges.cortell.net%2F2005%2F08%2Flos-peligros-ocultos-de-la-red-iv-c%25C3%25B3digo-opaco-pcampi-31%2F">
+          <i class="fa fa-twitter"></i><span>Compartir en Twitter</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.reddit.com/submit?url=https%3A%2F%2Fbloges.cortell.net%2F2005%2F08%2Flos-peligros-ocultos-de-la-red-iv-c%25C3%25B3digo-opaco-pcampi-31%2F">
+          <i class="fa fa-reddit"></i><span>Compartir en Reddit</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fbloges.cortell.net%2F2005%2F08%2Flos-peligros-ocultos-de-la-red-iv-c%25C3%25B3digo-opaco-pcampi-31%2F">
+          <i class="fa fa-hacker-news"></i><span>Compartir en HackerNews</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-remove"></i>
+    </div>
+    
+      <img id="about-card-picture" src="https://www.gravatar.com/avatar/9269e405983cdf2599d1b1ddc9d4a2ba?s=110" alt="Foto de autor" />
+    
+    <h4 id="about-card-name">Jorge Cortell</h4>
+    
+      <div id="about-card-bio">Viviendo</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        Curador de Arte - Fundador y Director General de Kanteron Systems
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker"></i>
+        <br/>
+        Valencia (España)
+      </div>
+    
+  </div>
+</div>
+
+    
+
+    
+  
+    <div id="cover" style="background-image:url('https://res.cloudinary.com/jcortell/image/upload/v1578019207/Personal/cover.jpg');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
+
+
+<script src="https://bloges.cortell.net/js/script-pcw6v3xilnxydl1vddzazdverrnn9ctynvnxgwho987mfyqkuylcb1nlt.min.js"></script>
+
+
+<script lang="javascript">
+window.onload = updateMinWidth;
+window.onresize = updateMinWidth;
+document.getElementById("sidebar").addEventListener("transitionend", updateMinWidth);
+function updateMinWidth() {
+  var sidebar = document.getElementById("sidebar");
+  var main = document.getElementById("main");
+  main.style.minWidth = "";
+  var w1 = getComputedStyle(main).getPropertyValue("min-width");
+  var w2 = getComputedStyle(sidebar).getPropertyValue("width");
+  var w3 = getComputedStyle(sidebar).getPropertyValue("left");
+  main.style.minWidth = `calc(${w1} - ${w2} - ${w3})`;
+}
+</script>
+
+
+  
+    
+      <script>
+        var disqus_config = function () {
+          this.page.url = 'https:\/\/bloges.cortell.net\/2005\/08\/los-peligros-ocultos-de-la-red-iv-c%C3%B3digo-opaco-pcampi-31\/';
+          
+            this.page.identifier = '\/2005\/08\/los-peligros-ocultos-de-la-red-iv-c%C3%B3digo-opaco-pcampi-31\/'
+          
+        };
+        (function() {
+          
+          
+          if (window.location.hostname == "localhost") {
+            return;
+          }
+          var d = document, s = d.createElement('script');
+          var disqus_shortname = 'jorge_cortell';
+          s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+        })();
+      </script>
+    
+  
+
+
+
+
+    
+  </body>
+</html>
+

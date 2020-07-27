@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.74.3 with theme Tranquilpeak 0.4.8-BETA">
+<meta name="author" content="">
+<meta name="keywords" content="">
+<meta name="description" content="Hace tiempo noté que cuando compartía las publicaciones de mi blog en las redes sociales, la imagen de la publicación no aparecía. Finalmente decidí investigarlo &hellip; ¡no sabía en qué agujero negro me estaba metiendo!">
+
+
+<meta property="og:description" content="Hace tiempo noté que cuando compartía las publicaciones de mi blog en las redes sociales, la imagen de la publicación no aparecía. Finalmente decidí investigarlo &hellip; ¡no sabía en qué agujero negro me estaba metiendo!">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Horas de análisis de código para arreglar una errata">
+<meta name="twitter:title" content="Horas de análisis de código para arreglar una errata">
+<meta property="og:url" content="http://example.org/post/2020-01-02-blog-codigo/">
+<meta property="twitter:url" content="http://example.org/post/2020-01-02-blog-codigo/">
+<meta property="og:site_name" content="My New Hugo Site">
+<meta property="og:description" content="Hace tiempo noté que cuando compartía las publicaciones de mi blog en las redes sociales, la imagen de la publicación no aparecía. Finalmente decidí investigarlo &hellip; ¡no sabía en qué agujero negro me estaba metiendo!">
+<meta name="twitter:description" content="Hace tiempo noté que cuando compartía las publicaciones de mi blog en las redes sociales, la imagen de la publicación no aparecía. Finalmente decidí investigarlo &hellip; ¡no sabía en qué agujero negro me estaba metiendo!">
+<meta property="og:locale" content="en">
+
+  
+    <meta property="article:published_time" content="2020-01-02T18:54:24">
+  
+  
+    <meta property="article:modified_time" content="2020-01-02T18:54:24">
+  
+  
+  
+  
+    
+      <meta property="article:tag" content="geek">
+    
+      <meta property="article:tag" content="tecnología">
+    
+  
+
+
+<meta name="twitter:card" content="summary">
+
+
+
+
+
+
+
+  <meta property="og:image" content="https://cdn.pixabay.com/photo/2016/11/18/00/32/programming-1833058_960_720.png">
+  <meta property="twitter:image" content="https://cdn.pixabay.com/photo/2016/11/18/00/32/programming-1833058_960_720.png">
+
+
+  <meta property="og:image" content="https://cdn.pixabay.com/photo/2016/11/18/00/32/programming-1833058_960_720.png">
+  <meta property="twitter:image" content="https://cdn.pixabay.com/photo/2016/11/18/00/32/programming-1833058_960_720.png">
+
+
+
+
+
+    <title>Horas de análisis de código para arreglar una errata</title>
+
+    <link rel="icon" href="/favicon.png">
+    
+
+    
+
+    <link rel="canonical" href="http://example.org/post/2020-01-02-blog-codigo/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.css" integrity="sha256-vuXZ9LGmmwtjqFX1F+EKin1ThZMub58gKULUyf0qECk=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
+    
+    
+    <link rel="stylesheet" href="/css/style-twzjdbqhmnnacqs0pwwdzcdbt8yhv8giawvjqjmyfoqnvazl0dalmnhdkvp7.min.css" />
+    
+    
+
+    
+      
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="/">My New Hugo Site</a>
+  </div>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="">
+  <div class="sidebar-container">
+    
+    <ul class="sidebar-buttons">
+      
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+
+    </ul>
+  </div>
+</nav>
+
+      
+  <div class="post-header-cover
+              text-center
+              "
+       style="background-image:url('https://cdn.pixabay.com/photo/2016/11/18/00/32/programming-1833058_960_720.png')"
+       data-behavior="">
+    
+  </div>
+
+
+      <div id="main" data-behavior=""
+        class="hasCover
+               hasCoverMetaOut
+               ">
+        <article class="post" itemscope itemType="http://schema.org/BlogPosting">
+          
+          
+            <div class="post-header main-content-wrap text-center">
+  
+    <h1 class="post-title" itemprop="headline">
+      Horas de análisis de código para arreglar una errata
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2020-01-02T18:54:24&#43;02:00">
+        
+   2, 2020
+
+      </time>
+    
+    
+  </div>
+
+</div>
+          
+          <div class="post-content markdown" itemprop="articleBody">
+            <div class="main-content-wrap">
+              <p>Hace tiempo noté que cuando compartía las publicaciones de mi blog en las redes sociales, la imagen de la publicación no aparecía. Finalmente decidí investigarlo &hellip; ¡no sabía en qué agujero negro me estaba metiendo!</p>
+<p>Para resumir una historia larga, y para que no sea demasiado técnica, mi blog está escrito usando varias tecnologías diferentes, la principal es <a href="https://gohugo.io/">Hugo</a>.</p>
+<p>Hugo es un blog estático y generador de webs escrito en el lenguaje Go. Go es un lenguaje fundado por Google de tipeado estático. Hugo es el más rápido y no tiene dependencias como Octopress o Hexo. Estoy muy contento con él y con toda la configuración que he tenido durante años (control de versiones de Git en GitHub, implementación de Netlify, CDN Cloudinary, etc.).</p>
+<p>Cuando comencé a investigar por qué cuando compartía las publicaciones de mi blog en las redes sociales, la imagen de la publicación no aparecía, TODOS los resultados de búsqueda que encontré apuntaban en la dirección del funcionamiento interno de Hugo. Cuanto más leía, más tenía que profundizar en su funcionamiento interno, lidiar con las Plantillas Parciales Internas y tener que revisar y volver a codificar y parchear muchos elementos de su estructura interna. Adelante, busca y verás. Es una locura. La mayoría de las publicaciones y tutoriales sobre el tema dicen que tienes que lidiar con el diseño base, parcial, meta, open graph, tarjeta Twitter y configuración.</p>
+<p>Sugieren añadir y modificar código como este para Open Graph:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;og:title&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .Title }}&#34;</span> <span style="color:#f92672">/&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;og:description&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}&#34;</span> <span style="color:#f92672">/&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;og:type&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ if .IsPage }}article{{ else }}website{{ end }}&#34;</span> <span style="color:#f92672">/&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;og:url&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .Permalink }}&#34;</span> <span style="color:#f92672">/&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;og:image&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ with .Param &#34;</span><span style="color:#a6e22e">lua</span>.<span style="color:#a6e22e">image</span><span style="color:#e6db74">&#34; }}{{ .url | absURL }}{{ else }}{{ with .Site.Params.image }}{{ .url | absURL }}{{ end }}{{ end }}&#34;</span> <span style="color:#f92672">/&gt;</span>
+{{ <span style="color:#66d9ef">with</span> .<span style="color:#a6e22e">Site</span>.<span style="color:#a6e22e">Language</span> }}<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;og:locale&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .Lang }}&#34;</span> <span style="color:#f92672">/&gt;</span>{{ <span style="color:#a6e22e">end</span> }}
+{{ <span style="color:#66d9ef">with</span> .<span style="color:#a6e22e">Site</span>.<span style="color:#a6e22e">Params</span>.<span style="color:#a6e22e">facebook</span>.<span style="color:#a6e22e">appid</span> }}<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;fb:app_id&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ . }}&#34;</span> <span style="color:#f92672">/&gt;</span>{{ <span style="color:#a6e22e">end</span> }}
+</code></pre></div><p>O este para Twitter Card:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;twitter:title&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .Title }}&#34;</span><span style="color:#f92672">/&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;twitter:description&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}&#34;</span><span style="color:#f92672">/&gt;</span>
+{{ <span style="color:#66d9ef">if</span> .<span style="color:#a6e22e">IsHome</span> <span style="color:#f92672">-</span>}}
+  {{ <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">ge</span> .<span style="color:#a6e22e">Site</span>.<span style="color:#a6e22e">Params</span>.<span style="color:#a6e22e">image</span>.<span style="color:#a6e22e">width</span> <span style="color:#ae81ff">300</span> <span style="color:#f92672">-</span>}}
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;twitter:card&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;summary_large_image&#34;</span><span style="color:#f92672">/&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;twitter:image&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .Site.Params.image.url | absURL }}&#34;</span><span style="color:#f92672">/&gt;</span>
+  {{<span style="color:#f92672">-</span> <span style="color:#66d9ef">else</span> <span style="color:#f92672">-</span>}}
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;twitter:card&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;summary&#34;</span><span style="color:#f92672">/&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;twitter:image&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ with .Site.Params.image }}{{ .url | absURL }}{{ else }}{{ with .Site.Params.logo }}{{ .url | absURL }}{{ end }}{{ end }}&#34;</span> <span style="color:#f92672">/&gt;</span>
+  {{<span style="color:#f92672">-</span> <span style="color:#a6e22e">end</span> }}
+{{<span style="color:#f92672">-</span> <span style="color:#66d9ef">else</span> <span style="color:#f92672">-</span>}}
+  {{ <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">ge</span> (.<span style="color:#a6e22e">Param</span> <span style="color:#e6db74">&#34;lua.image.width&#34;</span>) <span style="color:#ae81ff">300</span> <span style="color:#f92672">-</span>}}
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;twitter:card&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;summary_large_image&#34;</span><span style="color:#f92672">/&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;twitter:image&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .Param &#34;</span><span style="color:#a6e22e">lua</span>.<span style="color:#a6e22e">image</span>.<span style="color:#a6e22e">url</span><span style="color:#e6db74">&#34; | absURL }}&#34;</span><span style="color:#f92672">/&gt;</span>
+  {{<span style="color:#f92672">-</span> <span style="color:#66d9ef">else</span> <span style="color:#f92672">-</span>}}
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;twitter:card&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;summary&#34;</span><span style="color:#f92672">/&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;twitter:image&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ with .Param &#34;</span><span style="color:#a6e22e">lua</span>.<span style="color:#a6e22e">image</span><span style="color:#e6db74">&#34; }}{{ .url | absURL }}{{ else }}{{ with .Site.Params.logo }}{{ .url | absURL }}{{ end }}{{ end }}&#34;</span> <span style="color:#f92672">/&gt;</span>
+  {{<span style="color:#f92672">-</span> <span style="color:#a6e22e">end</span> }}
+{{<span style="color:#f92672">-</span> <span style="color:#a6e22e">end</span> }}
+{{ <span style="color:#66d9ef">with</span> .<span style="color:#a6e22e">Site</span>.<span style="color:#a6e22e">Params</span>.<span style="color:#a6e22e">twitter</span> <span style="color:#f92672">-</span>}}
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;twitter:site&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;@{{ .username }}&#34;</span><span style="color:#f92672">/&gt;</span>
+{{<span style="color:#f92672">-</span> <span style="color:#a6e22e">end</span> }}
+</code></pre></div><p>O estas metatags para la cabecera de HTML:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;title&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Page Title for Search Engines Results | Website Name&#34;</span> <span style="color:#f92672">/&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;description&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Page Description for Search Engine Results&#34;</span> <span style="color:#f92672">/&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;og:title&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Page Title for Facebook&#34;</span> <span style="color:#f92672">/&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;og:description&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Page Description for Facebook&#34;</span> <span style="color:#f92672">/&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;og:image&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://www.sitename.com/image-for-facebook.png&#34;</span> <span style="color:#f92672">/&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;twitter:card&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;summary&#34;</span> <span style="color:#f92672">/&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;twitter:description&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Page Description for Twitter.&#34;</span> <span style="color:#f92672">/&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;twitter:title&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Page Title for Twitter&#34;</span> <span style="color:#f92672">/&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;twitter:image&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://www.sitename.com/image-for-twitter.png&#34;</span> <span style="color:#f92672">/&gt;</span>
+</code></pre></div><p>Mientras programaba, volvía a programar y parcheaba &hellip; todo me pareció extraño y excesivo. Tenía que haber una mejor manera. La mayoría de las personas que usan Hugo para blogs no tienen el conocimiento técnico para hacer todo esto, sin embargo, no tienen el mismo problema con sus imágenes cuando comparten una publicación, por lo que tenía que ser otra cosa.</p>
+<p>Efectivamente, cuando presté más atención a las estructuras y códigos de otras personas, y lo comparé con el mío, noté algo.</p>
+<p><em>Front matter</em> permite mantener los metadatos adjuntos a una instancia de un tipo de contenido, es decir, incrustado dentro de un archivo de contenido, y es una de las muchas características que le da fuerza a Hugo. Hugo permite agregar <em>front matter</em> en yaml, toml o json a sus archivos de contenido.</p>
+<p>Noté que en mi <em>front matter</em>, en la línea 7, después de <em>title</em> y <em>tags</em> y antes de <em>comments</em>, tenía <em>image</em>, mientras que todos los demás tenían <em>images</em>. Una letra. Una errata de cuando configuré toda la estructura. ¿Podría ser eso?</p>
+<p>Efectivamente, seguí adelante y lo probé en <a href="https://developers.facebook.com/tools/debug/og/object/">FaceBook OpenGraph Debugger</a> y [Twitter Card Validator](https://cards- dev.twitter.com/validator).</p>
+<p>Horas &ldquo;invertidas&rdquo; (nunca &ldquo;desperdiciadas&rdquo;). Una errata. Odio el código Me encanta el código.</p>
+              
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+                
+                
+                  <div class="post-footer-tags">
+                    <span class="text-color-light text-small"></span><br/>
+                    
+  <a class="tag tag--primary tag--small" href="/tags/geek/">geek</a>
+
+  <a class="tag tag--primary tag--small" href="/tags/tecnolog%C3%ADa/">tecnología</a>
+
+                  </div>
+                
+              
+            
+            <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="/post/2020-01-17-dos-dias-bruselas/" data-tooltip="Dos días en Bruselas">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml"></span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="/post/2020-01-01-moa-vancouver/" data-tooltip="MoA Vancouver">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr"></span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+      
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+            
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2020 My New Hugo Site. 
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="">
+        <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="/post/2020-01-17-dos-dias-bruselas/" data-tooltip="Dos días en Bruselas">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml"></span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="/post/2020-01-01-moa-vancouver/" data-tooltip="MoA Vancouver">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr"></span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+      
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+      </div>
+      <div id="share-options-bar" class="share-options-bar" data-behavior="">
+  <i id="btn-close-shareoptions" class="fa fa-close"></i>
+  <ul class="share-options">
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-remove"></i>
+    </div>
+    
+    <h4 id="about-card-name"></h4>
+    
+    
+    
+  </div>
+</div>
+
+    
+
+    
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
+
+
+<script src="/js/script-pcw6v3xilnxydl1vddzazdverrnn9ctynvnxgwho987mfyqkuylcb1nlt.min.js"></script>
+
+
+<script lang="javascript">
+window.onload = updateMinWidth;
+window.onresize = updateMinWidth;
+document.getElementById("sidebar").addEventListener("transitionend", updateMinWidth);
+function updateMinWidth() {
+  var sidebar = document.getElementById("sidebar");
+  var main = document.getElementById("main");
+  main.style.minWidth = "";
+  var w1 = getComputedStyle(main).getPropertyValue("min-width");
+  var w2 = getComputedStyle(sidebar).getPropertyValue("width");
+  var w3 = getComputedStyle(sidebar).getPropertyValue("left");
+  main.style.minWidth = `calc(${w1} - ${w2} - ${w3})`;
+}
+</script>
+
+
+  
+
+
+
+
+    
+  </body>
+</html>
+

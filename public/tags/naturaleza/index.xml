@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>naturaleza on Blog de Jorge Cortell en Castellano</title>
+    <link>https://bloges.cortell.net/tags/naturaleza/</link>
+    <description>Recent content in naturaleza on Blog de Jorge Cortell en Castellano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2018 18:54:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://bloges.cortell.net/tags/naturaleza/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Andando sobre el Lago Erie</title>
+      <link>https://bloges.cortell.net/2018/01/andando-sobre-el-lago-erie/</link>
+      <pubDate>Sun, 14 Jan 2018 18:54:24 +0200</pubDate>
+      
+      <guid>https://bloges.cortell.net/2018/01/andando-sobre-el-lago-erie/</guid>
+      <description>&lt;p&gt;Hoy fuimos a andar sobre el Lago Erie.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Snowboard</title>
+      <link>https://bloges.cortell.net/2018/01/snowboard/</link>
+      <pubDate>Sun, 07 Jan 2018 18:54:24 +0200</pubDate>
+      
+      <guid>https://bloges.cortell.net/2018/01/snowboard/</guid>
+      <description>&lt;p&gt;El 7 de enero decidimos enfrentarnos al &lt;em&gt;Ciclón Bomba&lt;/em&gt; e ir a hacer snowboard en &lt;a href=&#34;https://gleneden.on.ca/&#34;&gt;Glen Eden&lt;/a&gt;, cerca de Toronto.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

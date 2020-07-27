@@ -1,0 +1,1933 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Free Software on Blog de Jorge Cortell en Castellano</title>
+    <link>https://bloges.cortell.net/categories/free-software/</link>
+    <description>Recent content in Free Software on Blog de Jorge Cortell en Castellano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 May 2017 09:05:16 +0000</lastBuildDate>
+    
+	<atom:link href="https://bloges.cortell.net/categories/free-software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estupendas presentaciones online con software libre</title>
+      <link>https://bloges.cortell.net/2017/05/estupendas-presentaciones-online-con-software-libre/</link>
+      <pubDate>Fri, 26 May 2017 09:05:16 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2017/05/estupendas-presentaciones-online-con-software-libre/</guid>
+      <description>Ha pasado ya tiempo desde que escribí un tutorial de Compartir la riqueza – STW, así que ya es hora de compartir algunos conocimientos prácticos (aunque sean básicos) más allá de la publicación de un enlace.
+Durante años he tenido un proyecto en la lista &amp;ldquo;por hacer&amp;rdquo;: crear presentaciones sin la necesidad de software dedicado, sea privativo (como PowerPoint o Keynote), o libre (como LibreOffice u OpenOffice). De esa manera podría evitar traer mi computadora a una conferencia, y no preocuparme acerca de qué sistema informático estará disponible en el auditorio.</description>
+    </item>
+    
+    <item>
+      <title>Gano el hackathon de política anti-patentes</title>
+      <link>https://bloges.cortell.net/2016/09/gano-el-hackathon-de-pol%C3%ADtica-anti-patentes/</link>
+      <pubDate>Thu, 15 Sep 2016 02:59:38 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2016/09/gano-el-hackathon-de-pol%C3%ADtica-anti-patentes/</guid>
+      <description>El 13 de septiembre, Mind the Bridgeorganizó un hackathon de política patrocinado por Dell en el Centro de Innovación de MTB en San Francisco. El Dell PolicyHack™reunió a empresarios y expertos EE. UU./EU para resolver problemas de política. El objetivo era intercambiar ideas de manera productiva y proporcionar ideas que puede inspirar y servir como base para desarrollar e implementar políticas de pleno derecho.
+Mi equipo estaba formado por:</description>
+    </item>
+    
+    <item>
+      <title>Re-diseñando un interfaz de la NASA</title>
+      <link>https://bloges.cortell.net/2016/07/re-dise%C3%B1ando-un-interfaz-de-la-nasa/</link>
+      <pubDate>Sun, 10 Jul 2016 14:31:54 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2016/07/re-dise%C3%B1ando-un-interfaz-de-la-nasa/</guid>
+      <description>Estoy interesado en muchas cosas. Una de las principales es la tecnología. Y dentro de la tecnología, el desarrollo de software para ver datos de telemetría de diferentes maneras, dentro de la misma aplicación.
+Respondiendo a la llamada de la NASA para ayudar a contribuir a la exploración del sistema solar, me han dado acceso a su marco de control de misión de próxima generación que está siendo desarrollado en el Centro de Investigación Ames de la NASA en Silicon Valley que se utiliza para la planificación y las operaciones de la misión en el período previo a la misión Resource Prospector, y en el Jet Propulsion Laboratory de la NASA para ver los datos del Curiosity Rover.</description>
+    </item>
+    
+    <item>
+      <title>Invitado a la Conferencia Amazon Web Services</title>
+      <link>https://bloges.cortell.net/2016/07/invitado-a-la-conferencia-amazon-web-services/</link>
+      <pubDate>Sat, 09 Jul 2016 08:11:22 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2016/07/invitado-a-la-conferencia-amazon-web-services/</guid>
+      <description>El miércoles y jueves fui invitado a la Conferencia Amazon Web Services en el Excel centre de Londres.
+A parte de una zona de exposicion con muchas empresas (algunas de ellas ya son proveedoras de mi empresa) como NewRelic, DataDog, GitHub, Chef, Alscient, Teradici, DataPipe, Ruxit, CloudCheckr, Amazon Activate, Elastic, Redis, etc, todas con sus excelentes regalos (la mayoría camisetas y adhesivos, pero muchas con rifas desde drones a iWatches), lo más sobresaliente fueron las conferencias.</description>
+    </item>
+    
+    <item>
+      <title>Festival of Genomics Boston</title>
+      <link>https://bloges.cortell.net/2016/06/festival-of-genomics-boston/</link>
+      <pubDate>Thu, 30 Jun 2016 15:46:36 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2016/06/festival-of-genomics-boston/</guid>
+      <description>El 28 y 29 de junio asistí, junto a mi amigo John Memarian, Presidente y CCO de mi empresa Kanteron Systems, al Festival of Genomics Boston, como partner de Microsoft Genomics Group .
+Aunque el evento no es muy grande, ha sido una gran oportunidad para entablar relación con expertos del sector (desde profesores de Harvard hasta ejecutivos de Illumina) y aprender.
+Desde posters científicos a las últimas tecnologías de secuenciación, desde brazos robóticos hasta experimentos de genómica en el espacio, ha sido verdadero #geekfun.</description>
+    </item>
+    
+    <item>
+      <title>El mejor regalo del día del padre: construir una Picade con mi hijo</title>
+      <link>https://bloges.cortell.net/2016/06/el-mejor-regalo-del-d%C3%ADa-del-padre-construir-una-picade-con-mi-hijo/</link>
+      <pubDate>Sun, 19 Jun 2016 13:46:23 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2016/06/el-mejor-regalo-del-d%C3%ADa-del-padre-construir-una-picade-con-mi-hijo/</guid>
+      <description>Como regalo del Día del Padre (vivimos en Londres, por lo que celebramos hoy, a diferencia de España, que es el 19 de marzo) mi esposa me ha dado el mejor regalo &amp;ldquo;Ultimate Father‘s Day&amp;rdquo;, de TechCamp UK. [¡gracias, cariño!]
+Consistía en un taller con otros &amp;ldquo;equipos&amp;rdquo; padre-hijo / padre-hija, en el Iron Yard (The Leathermarket – Londres), donde construimos una máquina de videojuegos en 5 horas (incluyendo la pausa de la comida), siguiendo las instrucciones de Tom y Tom, utilizando el conjunto un Picade, un sistema operativo personalizado, emuladores, ROMs, altavoces, fuente de alimentación, pantalla LCD Raspberry Pi, etc:</description>
+    </item>
+    
+    <item>
+      <title>Invitado con mi hijo al taller de desarrollo de videojuegos Intel Buzz</title>
+      <link>https://bloges.cortell.net/2016/06/invitado-con-mi-hijo-al-taller-de-desarrollo-de-videojuegos-intel-buzz/</link>
+      <pubDate>Sun, 05 Jun 2016 08:54:44 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2016/06/invitado-con-mi-hijo-al-taller-de-desarrollo-de-videojuegos-intel-buzz/</guid>
+      <description>Ayer me invitaron a asistir, junto con mi hijo, que a sus 14 años lleva desarrollando videojuegos varios años, al taller desarrollo de videojuegos Intel Buzz. ¡No sólo me lo pasé bomba, sino que fue maravilloso asistir con él!
+A pesar de ser un evento pequeño, resultó ser muy interesante, con un área para probar juegos independientes y nuevas tecnologías, y una larga lista de charlas y paneles, incluso sesiones uno-a-uno.</description>
+    </item>
+    
+    <item>
+      <title>Inmersión técnica de IBM en Kanteron España</title>
+      <link>https://bloges.cortell.net/2016/05/inmersi%C3%B3n-t%C3%A9cnica-de-ibm-en-kanteron-espa%C3%B1a/</link>
+      <pubDate>Sat, 28 May 2016 16:34:31 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2016/05/inmersi%C3%B3n-t%C3%A9cnica-de-ibm-en-kanteron-espa%C3%B1a/</guid>
+      <description>Durante un par de días (del 3 al 4 de mayo), ejecutivos de IBM de Suiza, Francia y España vinieron a la sede de mi empresa en España para una &amp;ldquo;inmersión técnica profunda&amp;rdquo;.
+Durante esas discusiones técnicas (bajo acuerdo de confidencialidad NDA, así que me temo que no puedo revelar nada de lo que se dijo) otros ejecutivos de IBM se unieron por teléfono desde sus respectivos países.
+Más allá de la ingeniería, el mercado y los debates corporativos, también tuvimos la oportunidad de divertirnos.</description>
+    </item>
+    
+    <item>
+      <title>Jugando en Londres… ¡hasta con Microsoft!</title>
+      <link>https://bloges.cortell.net/2015/09/jugando-en-londres-hasta-con-microsoft/</link>
+      <pubDate>Thu, 24 Sep 2015 09:05:47 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2015/09/jugando-en-londres-hasta-con-microsoft/</guid>
+      <description>Estos últimos días han sido bastante &amp;ldquo;juguetones”.
+Por un lado, acabo de descubrir, a la vuelta de la esquina de nuestro apartamento junto al Puente de Londres, un parque gratuito y público que tiene un campo de hockey de césped artificial, media cancha de baloncesto, 3 mesas de ping-pong y hasta una cancha de voleibol playa ¡con arena y todo! Así que, obviamente, al día siguiente fui con mi hijo a una tienda de artículos deportivos y compré un balón de fútbol, ​​palas y bolas de ping-pong, una pelota de baloncesto, una pelota de voleibol y raquetas y plumas de bádminton.</description>
+    </item>
+    
+    <item>
+      <title>Mi charla en el Circumvention Tech Festival, 4 de marzo</title>
+      <link>https://bloges.cortell.net/2015/04/mi-charla-en-el-circumvention-tech-festival-4-de-marzo/</link>
+      <pubDate>Sat, 18 Apr 2015 23:17:29 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2015/04/mi-charla-en-el-circumvention-tech-festival-4-de-marzo/</guid>
+      <description>Este invierno pasado me reuní con Sandy y James de Open ITP en Nueva York, y Pepe de Valencia. Estaban organizando el Circumvention Tech Festival que se celebró en Las Naves, Valencia (España) del 1-6 marzo.
+Me invitaron a dar una charla, que finalmente fue programada para el 4 de marzo a las 15:00. La titulé &amp;ldquo;Cuando privacidad no significa lo mismo para ti que para mí&amp;rdquo;. La idea es que se generara un debate, exponer los puntos de vista de otras personas, en lugar de ser un discurso unidireccional.</description>
+    </item>
+    
+    <item>
+      <title>Evento de Bitcoin – block chain en Nueva York</title>
+      <link>https://bloges.cortell.net/2015/02/evento-de-bitcoin-block-chain-en-nueva-york/</link>
+      <pubDate>Mon, 16 Feb 2015 16:09:24 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2015/02/evento-de-bitcoin-block-chain-en-nueva-york/</guid>
+      <description>El lunes 9 de febrero fui a un eventode Bitcoin – Blockchain con mi mujer en el bufet de abogados Latham &amp;amp; Watkins de Nueva York, organizado por Hedgeable.
+
+Más de 100 fans de bitcoin, inversores, periodistas, abogados, y emprendedores haciendo networking, con comida y bebida, demos por parte de:
+y una mesa redonda con expertos en innovación Bitcoin:
+Ya que me había puesto a investigar el tema del uso de tecnología block chain para sanidad, fue un evento bastante útil.</description>
+    </item>
+    
+    <item>
+      <title>Prueba del biosensor (wearable) Withings Pulse Ox, esfigmomanómetro BPM y báscula WiFi WS-30</title>
+      <link>https://bloges.cortell.net/2014/11/prueba-del-biosensor-wearable-withings-pulse-ox-esfigmoman%C3%B3metro-bpm-y-b%C3%A1scula-wifi-ws-30/</link>
+      <pubDate>Mon, 03 Nov 2014 20:02:06 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2014/11/prueba-del-biosensor-wearable-withings-pulse-ox-esfigmoman%C3%B3metro-bpm-y-b%C3%A1scula-wifi-ws-30/</guid>
+      <description>Debido al lanzamiento del módulo de biosensores de la solución de imagen y datos médicos de mi empresa, hace unos días la empresa Withings me envió un biosensor (wearable) Withings Pulse Ox, esfigmomanómetro BPM y báscula WiFi WS-30 para que los probara, y para realizar pruebas de integración de cara a unos proyectos nacionales que tenemos en a punto de firmar en Londres y Santiago de Chile.
+Los tres vinieron en embalajes de lujo, y fueron relativamente sencillos de conectar y configurar, por lo menos para un “trasteador” (hay gente a la que le molesta que emplee como sinónimo “hacker”, que lo es) como yo.</description>
+    </item>
+    
+    <item>
+      <title>Mi nuevo teléfono OnePlus One es una pasada</title>
+      <link>https://bloges.cortell.net/2014/10/mi-nuevo-tel%C3%A9fono-oneplus-one-es-una-pasada/</link>
+      <pubDate>Wed, 08 Oct 2014 22:12:12 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2014/10/mi-nuevo-tel%C3%A9fono-oneplus-one-es-una-pasada/</guid>
+      <description>Acabo de comprar un teléfono OnePlusOne, y he estado usándolo durante un par de días. Déjame decirte: es una PASADA.
+Si nunca has oído hablar de la empresa, no te preocupes, no estás solo. Pero definitivamente échale un vistazo, sus teléfonos son de una muy alta calidad, altas especificaciones y precios bajos (el mío, libre, me ha costado $349). &amp;ldquo;Sin trampa ni cartón&amp;rdquo;:
+ Qualcomm© Snapdragon™ 801 processor with 2.5GHz Quad-core CPUs Adreno 330 GPU, 578MHz 64 GB eMMC 5.</description>
+    </item>
+    
+    <item>
+      <title>Reseteando la red</title>
+      <link>https://bloges.cortell.net/2014/06/reseteando-la-red/</link>
+      <pubDate>Thu, 05 Jun 2014 14:02:23 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2014/06/reseteando-la-red/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invitado por Google a la presentación de Google Cloud Platform</title>
+      <link>https://bloges.cortell.net/2014/05/invitado-por-google-a-la-presentaci%C3%B3n-de-google-cloud-platform/</link>
+      <pubDate>Wed, 14 May 2014 20:34:32 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2014/05/invitado-por-google-a-la-presentaci%C3%B3n-de-google-cloud-platform/</guid>
+      <description>El 25 de marzo Google NY me invitó a la presentación de las novedades de Google Cloud Platformen sus oficinas de Chelsea, a 8 manzanas de mi apartamento.
+A parte de las interesantes novedades que presentaron (aquí están los vídeos), y del delicioso y saludable bufete que nos prepararon, hice bastantes contactos, y sobretodo me reí un rato viendo la mayor concentración de Google Glasses por persona que he visto hasta ahora.</description>
+    </item>
+    
+    <item>
+      <title>Chromecast &#43; Hola = Libertad Multimedia</title>
+      <link>https://bloges.cortell.net/2014/02/chromecast-hola-libertad-multimedia/</link>
+      <pubDate>Sat, 15 Feb 2014 18:22:51 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2014/02/chromecast-hola-libertad-multimedia/</guid>
+      <description>¿Cuántas veces has intentado acceder a contenido multimedia en línea que no estaba disponible en tu país? ¿Cuántas veces te has frustrado con los servicios proxy?
+¿Cuántas veces has deseado que hubiera una manera fácil de mostrar de forma inalámbrica contenido en línea en tu TV sin tener que pagar caros aparatos privativos?
+Démosle la bienvenida a Hola.org+ ChromecastHola es una extensión del navegador gratis utilizada por 14 millones de personas para acceder a contenido de medios de comunicación en línea geográficamente restringidos.</description>
+    </item>
+    
+    <item>
+      <title>The key to the use of cloud in healthcare</title>
+      <link>https://bloges.cortell.net/2013/09/the-key-to-the-use-of-cloud-in-healthcare/</link>
+      <pubDate>Sun, 08 Sep 2013 12:58:10 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2013/09/the-key-to-the-use-of-cloud-in-healthcare/</guid>
+      <description>En una sola palabra: seguridad.
+No hay duda acerca de las ventajas de la nube: fácil colaboración, escalabilidad, ubicuidad, sincronización, ahorro de costes (21 % de promedio, de acuerdo con AFCOM 2011, el 40 % de acuerdo a nuestros propios clientes), despliegue rápido, etc.
+Tampoco hay duda sobre la necesidad de avanzar hacia la nube en la asistencia sanitaria: según Enterprise Strategy Group , en 2015 se generarán un promedio de 665TB de datos por hospital .</description>
+    </item>
+    
+    <item>
+      <title>Anatomy of an FDA inspection</title>
+      <link>https://bloges.cortell.net/2013/06/anatomy-of-an-fda-inspection/</link>
+      <pubDate>Sun, 30 Jun 2013 15:19:10 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2013/06/anatomy-of-an-fda-inspection/</guid>
+      <description>El 25 de abril tuve mi primera inspección de la FDA (EE.UU. Food and Drug Administration) como establecimiento fabricante de equipamiento médico.
+La agente (Investigador) Kimberley A. Ricketts me llamó un par de días antes para hacerme saber que como empresa fabricante de equipamiento médico registrada, Kanteron Systems (la compañía que fundé en 2005) había sido seleccionada para una inspección del establecimiento. Era el &amp;ldquo;Aviso de inspección conforme a la Sección 704 (a) (1) de la Ley Federal de Alimentos, Medicamentos y Cosméticos Ley [21 USC 374 (a)] y la Ley de Servicio de Salud Pública F o G, Título III de la Parte [ 42 USC 262-264] &amp;ldquo;.</description>
+    </item>
+    
+    <item>
+      <title>Article in El Mundo &amp;quot;Innovators&amp;quot; special</title>
+      <link>https://bloges.cortell.net/2013/01/article-in-el-mundo-quotinnovatorsquot-special/</link>
+      <pubDate>Wed, 23 Jan 2013 14:34:47 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2013/01/article-in-el-mundo-quotinnovatorsquot-special/</guid>
+      <description>Aquí (PDF)tenéis un artículo de 3 páginas que el diario El Mundo publicó el lunes sobre mi empresa, Kanteron Systems, en su suplemento &amp;ldquo;Innovadores&amp;rdquo;. </description>
+    </item>
+    
+    <item>
+      <title>Testing WP update and plug-in incompatibility</title>
+      <link>https://bloges.cortell.net/2012/09/testing-wp-update-and-plug-in-incompatibility/</link>
+      <pubDate>Sun, 23 Sep 2012 12:13:32 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2012/09/testing-wp-update-and-plug-in-incompatibility/</guid>
+      <description>Me ha estado mareando una incompatibilidad entre WP y el plug-in que empleo para multi-idioma.
+Tan pronto como consiga solucionarlo, seguiré con mis posts.
+[Esto es una prueba, escrita en HTML porque el editor &amp;ldquo;WYSIWYG&amp;rdquo; ha desaparecido]</description>
+    </item>
+    
+    <item>
+      <title>Tech is a tool, people are stupid</title>
+      <link>https://bloges.cortell.net/2012/05/tech-is-a-tool-people-are-stupid/</link>
+      <pubDate>Sun, 27 May 2012 13:44:28 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2012/05/tech-is-a-tool-people-are-stupid/</guid>
+      <description>La tecnología se hace cada vez más fáci de emplear. Por ejemplo, las distros de GNU/Linux: cualquiera pueda hacer la suya. ¿Significa eso que todo el mundo debería hacerlo? ¿Por qué no? Pero por otra parte, terminamos con cosas como Ubuntu Satanic(y su Ubuntu SE 666.10 “Necrophiliac Neuromancer”), Hannah Montana Linux(¿hasta a dónde hay que llegar para atraer a los niños al software libre?), o Red Star OS(¿software libre para Corea del Norte, y navegación no libre?</description>
+    </item>
+    
+    <item>
+      <title>In 3D with Firefox‘s new TILT inspector</title>
+      <link>https://bloges.cortell.net/2012/04/in-3d-with-firefoxs-new-tilt-inspector/</link>
+      <pubDate>Mon, 09 Apr 2012 12:19:04 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2012/04/in-3d-with-firefoxs-new-tilt-inspector/</guid>
+      <description>Ahora ¿a diseñar webs en Lego? 😉</description>
+    </item>
+    
+    <item>
+      <title>Stop WordPress from removing your &amp;quot;p&amp;quot; and &amp;quot;br&amp;quot; tags</title>
+      <link>https://bloges.cortell.net/2012/03/stop-wordpress-from-removing-your-quotpquot-and-quotbrquot-tags/</link>
+      <pubDate>Thu, 08 Mar 2012 19:13:41 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2012/03/stop-wordpress-from-removing-your-quotpquot-and-quotbrquot-tags/</guid>
+      <description>Tras perder horas intentando meter espacios extra o insertar retornos de carro al escribir posts en WordPress para que luego WordPress filtre automáticamente el contenido y elimine esos espacios extra cuando le das al botón de &amp;ldquo;publicar&amp;rdquo;, he encontrado la solución (que no es tan obvia ni está fácilmente disponible en los foros de soporte) empleando el TinyMCE Advanced plugin, que añade funcionalidad adicional al editor por defecto de WordPress, incluyendo la habilidad de evitar que WordPress automáticamente elimine los tags “p” (párrafo) y “br” (retorno de carro).</description>
+    </item>
+    
+    <item>
+      <title>Better privacy through your browser</title>
+      <link>https://bloges.cortell.net/2012/03/better-privacy-through-your-browser/</link>
+      <pubDate>Thu, 01 Mar 2012 17:28:40 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2012/03/better-privacy-through-your-browser/</guid>
+      <description>¿Quieres mejorar tu privacidad online? Instálate HTTPSy Collusion.</description>
+    </item>
+    
+    <item>
+      <title>ArtHack Exhibit closing party in Brooklyn</title>
+      <link>https://bloges.cortell.net/2012/01/arthack-exhibit-closing-party-in-brooklyn/</link>
+      <pubDate>Mon, 30 Jan 2012 22:27:50 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2012/01/arthack-exhibit-closing-party-in-brooklyn/</guid>
+      <description>El pasado sábado fui a la fiesta de clausura del ArtHack Exhibiten 319 ScholesSt, Brooklyn (Nueva York).
+Ubicada en un polígono industrial en Brooklyn, de noche, a dos laaaargas manzanas del metro, graffiti por todas partes, puerta pequeña&amp;hellip; que conducía al paraíso: gente joven (yo era el hacker más viejo del lugar, pero no me sentía así) energética y feliz trasteando con tecnología y mostrando orgullosos sus &amp;ldquo;juguetes&amp;rdquo; (hacks, mashups, creaciones o lo que sea).</description>
+    </item>
+    
+    <item>
+      <title>RePress: fight online censorship with a WP Plug-In</title>
+      <link>https://bloges.cortell.net/2012/01/repress-fight-online-censorship-with-a-wp-plug-in/</link>
+      <pubDate>Mon, 30 Jan 2012 17:51:48 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2012/01/repress-fight-online-censorship-with-a-wp-plug-in/</guid>
+      <description>Acabo de instalar RePress: &amp;ldquo;Este plug-in permite mágicamente (sic) superar la censura de cualquier web en internet desde tu propia instalación de WordPress&amp;rdquo;. Por qué y cómo.</description>
+    </item>
+    
+    <item>
+      <title>Para los que no emplean el túnel</title>
+      <link>https://bloges.cortell.net/2011/10/para-los-que-no-emplean-el-t%C3%BAnel/</link>
+      <pubDate>Sun, 02 Oct 2011 12:42:40 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/10/para-los-que-no-emplean-el-t%C3%BAnel/</guid>
+      <description>Si eres de los temerarios (o ignorantes) que no emplean el túnel, quizá la existencia de herramientas tan simples y eficaces como FireSheepte convenza de que ya va siendo hora de que te protejas (o de que demuestres a otros que deberían hacerlo 😉 ).</description>
+    </item>
+    
+    <item>
+      <title>Poesía en el código</title>
+      <link>https://bloges.cortell.net/2011/09/poes%C3%ADa-en-el-c%C3%B3digo/</link>
+      <pubDate>Sun, 18 Sep 2011 10:09:47 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/09/poes%C3%ADa-en-el-c%C3%B3digo/</guid>
+      <description>Algunas de las líneas de código más interesantes y poéticas que uno puede encontrar:
+Cabecera C autoejecutable (explicado aquí):&amp;lt;br /&amp;gt; //&amp;amp;&amp;gt;/dev/null;x=&amp;quot;${0%.*}&amp;quot;;[ ! &amp;quot;$x&amp;quot; -ot &amp;quot;$0&amp;quot; ]||(rm -f &amp;quot;$x&amp;quot;;cc -o &amp;quot;$x&amp;quot; &amp;quot;$0&amp;quot;)&amp;amp;&amp;amp;exec &amp;quot;$x&amp;quot; &amp;quot;$@&amp;quot;&amp;lt;br /&amp;gt;
+Para cuando te sientes nihilista&amp;hellip;
+o bien
+o la bomba de Jaromil, pura poesía (con espacios extra añadidos para evitar cambiar la configuración por defecto de WP para la autodetección de smilies :-):
+que en el shell de Windows sería</description>
+    </item>
+    
+    <item>
+      <title>Moneda P2P virtual ¿el fin del imperio y la opresión gubernamental?</title>
+      <link>https://bloges.cortell.net/2011/08/moneda-p2p-virtual-el-fin-del-imperio-y-la-opresi%C3%B3n-gubernamental/</link>
+      <pubDate>Sun, 21 Aug 2011 17:21:45 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/08/moneda-p2p-virtual-el-fin-del-imperio-y-la-opresi%C3%B3n-gubernamental/</guid>
+      <description>El imperio se sostiene sobre dinero y armas. Las armas se compran, con lo que queda el dinero.
+El dinero el imperio lo apropia (impuestos), lo impone (intereses), o lo roba (expropiaciones), pero en cualquier caso depende de su instrumento: la moneda (en forma física o digital) emitida por una &amp;ldquo;autoridad&amp;rdquo; (aunque esta dependa de otra entidad, sea o no supranacional, no gubernamental, privada, como la Fed, FMI, BM, etc).</description>
+    </item>
+    
+    <item>
+      <title>TecnoGraffiti</title>
+      <link>https://bloges.cortell.net/2011/08/tecnograffiti/</link>
+      <pubDate>Mon, 15 Aug 2011 23:55:20 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/08/tecnograffiti/</guid>
+      <description>Desde &amp;ldquo;pintar&amp;rdquo; una versión pixelada de la Mona Lisa con una máquinaque dispara simultáneamente varios cañones de paintball a la vez, hasta la txtBomber (&amp;ldquo;impresora&amp;rdquo; matricial de mano con placa Arduino que funciona con rotuladores) de Felix Vorreiter, hay muchísimos proyecto para la confluencia del graffiti y la tecnología. Pero uno en particular me parece interesantísimo y con mucho mucho potencial: el GML (Graffiti Markup Language). Si añadimos GraffitiAnalysistenemos&amp;hellip; ¡puro street techno lust!</description>
+    </item>
+    
+    <item>
+      <title>De qué sirven las patentes</title>
+      <link>https://bloges.cortell.net/2011/06/de-qu%C3%A9-sirven-las-patentes/</link>
+      <pubDate>Sun, 26 Jun 2011 12:11:27 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/06/de-qu%C3%A9-sirven-las-patentes/</guid>
+      <description>Como se ve en esta infografía (principales juicios relacionados con patentes en el mundo de las telecomunicaciones), las patentes sólo sirven para generar confusión, desgaste, y barreras de entrada (o eliminación del que tiene menos recursos que aplicar a bogados y todo el proceso) en una guerra que se libra en los tribunales.</description>
+    </item>
+    
+    <item>
+      <title>Compartir es el mejor camino: Sage Commons</title>
+      <link>https://bloges.cortell.net/2011/05/compartir-es-el-mejor-camino-sage-commons/</link>
+      <pubDate>Sun, 08 May 2011 09:07:51 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/05/compartir-es-el-mejor-camino-sage-commons/</guid>
+      <description>Uno de los ejemplos que los recelosos del copyright y las patentes emplean una y otra vez en el debate sobre la libertad de la cultura y la información es el coste de producción, que &amp;ldquo;debe ser protegido&amp;rdquo;. Sin entrar en el absurdo mafioso de la &amp;ldquo;protección&amp;rdquo; y sus alternativas, hay mucho que hablar sobre el coste, o más bien sobrecoste, que se alcanza en modelos de producción &amp;ldquo;protegidos&amp;rdquo; o restringidos (creando escasez artificial).</description>
+    </item>
+    
+    <item>
+      <title>Electrónica traidora</title>
+      <link>https://bloges.cortell.net/2011/04/electr%C3%B3nica-traidora/</link>
+      <pubDate>Fri, 22 Apr 2011 10:57:51 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/04/electr%C3%B3nica-traidora/</guid>
+      <description>Hace años que en alguna conferencia hablaba de cómo grandes fabricantes norteamericanos de tecnología (Microsoft, Xerox, HP, etc) introducían elementos en sus programas y equipos electrónicos que permitían, sin que lo supiera el usuario/propietario, que el gobierno americano accediese o recibiese determinada información (desde micropuntos delatadores en impresiones láser, hasta modificaciones al escanear ciertos patrones, pasando por envíos de información involuntarios, etc).
+De todo esto había información más que de sobra en la red.</description>
+    </item>
+    
+    <item>
+      <title>Occidente vende a Oriente tecnología destructiva y limita la constructiva</title>
+      <link>https://bloges.cortell.net/2011/03/occidente-vende-a-oriente-tecnolog%C3%ADa-destructiva-y-limita-la-constructiva/</link>
+      <pubDate>Mon, 28 Mar 2011 18:36:14 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/03/occidente-vende-a-oriente-tecnolog%C3%ADa-destructiva-y-limita-la-constructiva/</guid>
+      <description>Es muy curioso: EEUU (con el beneplácito de ONU, OTAN y UE) prohíbe la venta de determinadas tecnologías, como el cifrado fuerte (útil para defender la privacidad de los ciudadanos), láseres (con muchísimas utilidades), o centrales nucleares (para producir energía, aunque esté personalmente en contra), etc, con la excusa de que se podrían usar para fine bélicos.
+¿Por qué, entonces, sí permite la venta de tecnologías que sólo sirven para censurar?</description>
+    </item>
+    
+    <item>
+      <title>DUST: RSS por P2P</title>
+      <link>https://bloges.cortell.net/2011/03/dust-rss-por-p2p/</link>
+      <pubDate>Fri, 18 Mar 2011 12:25:26 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/03/dust-rss-por-p2p/</guid>
+      <description>Carlos (gracias co) me envía estos interesantes enlaces sobre DUST via ElLadoDelMal:
+1, 2, y 3.</description>
+    </item>
+    
+    <item>
+      <title>Universidades ¿neutras o muertas?</title>
+      <link>https://bloges.cortell.net/2011/03/universidades-neutras-o-muertas/</link>
+      <pubDate>Fri, 11 Mar 2011 10:18:55 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/03/universidades-neutras-o-muertas/</guid>
+      <description>Hace unos días, el Comité Académico de la Universidad de Oxford se reunió para valorar mi candidatura a la invitación a ser investigador y profesor invitado (visiting fellow) durante tres meses. En estos casos, se necesita un &amp;ldquo;anfitrión&amp;rdquo; (host). No citaré el mio para evitar personalizar polémicas, pero es muy muy sintomático el mensaje que me envió el día de antes de la reunión.
+En ese mensaje, entre otras cosas, me decía:</description>
+    </item>
+    
+    <item>
+      <title>El Software Libre opta a la candidatura a los Premios Príncipe de Asturias 2011</title>
+      <link>https://bloges.cortell.net/2011/02/el-software-libre-opta-a-la-candidatura-a-los-premios-pr%C3%ADncipe-de-asturias-2011/</link>
+      <pubDate>Fri, 18 Feb 2011 10:49:51 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/02/el-software-libre-opta-a-la-candidatura-a-los-premios-pr%C3%ADncipe-de-asturias-2011/</guid>
+      <description> Más info</description>
+    </item>
+    
+    <item>
+      <title>La importancia de que la red no sea solo un mar de enlaces</title>
+      <link>https://bloges.cortell.net/2011/01/la-importancia-de-que-la-red-no-sea-solo-un-mar-de-enlaces/</link>
+      <pubDate>Sat, 15 Jan 2011 12:03:29 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/01/la-importancia-de-que-la-red-no-sea-solo-un-mar-de-enlaces/</guid>
+      <description>Hace más de un año WikiLeaks publicóun escandaloso (aunque por desgracia común) documento en el que demostraba cómo Microsoft manipulaba las propuestas de la Comisión Europea para intentar acabar con el Software Libre.
+Pero no, no lo intentéis, porque ahora el enlace no funciona. Aunque hay mirrors de WikiLeaks, por el escándalo CableGate ya no funcionan las páginas dinámicas, por lo que no se puede acceder al documento.
+¡Pero si se publicó por todas partes, corrió como la pólvora, todos hablaron de eso!</description>
+    </item>
+    
+    <item>
+      <title>Cuando se libera código, pasan cosas maravillosas (NASA WorldWind)</title>
+      <link>https://bloges.cortell.net/2011/01/cuando-se-libera-c%C3%B3digo-pasan-cosas-maravillosas-nasa-worldwind/</link>
+      <pubDate>Sun, 02 Jan 2011 11:44:45 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/01/cuando-se-libera-c%C3%B3digo-pasan-cosas-maravillosas-nasa-worldwind/</guid>
+      <description>Al igual que con el caso de los datos que comenté hace días, el gobierno americano (NASA) liberó su aplicación WorldWind(una especie de Google Earth libre con SDK). desde entonces han surgido multitud de ejemplos sobre aplicaciones y usos, desde militar a agrícola. Precioso.</description>
+    </item>
+    
+    <item>
+      <title>Herramientas para analizar Wikipedia</title>
+      <link>https://bloges.cortell.net/2010/12/herramientas-para-analizar-wikipedia/</link>
+      <pubDate>Sat, 18 Dec 2010 11:49:01 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2010/12/herramientas-para-analizar-wikipedia/</guid>
+      <description>Juliana Brunello recopila en un mail de una lista, una interesante lista de herramientas para procesar la info en Wikipedia:</description>
+    </item>
+    
+    <item>
+      <title>GeekFun 41</title>
+      <link>https://bloges.cortell.net/2010/12/geekfun-41/</link>
+      <pubDate>Wed, 15 Dec 2010 23:29:24 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2010/12/geekfun-41/</guid>
+      <description> Portal: un interesante juego mezcla de FPS y física con efectos visuales&amp;hellip; Photosynth: puede que ya haya hablado de ello, pero es lo mejor que ha comprado Microsoft, el agregador de fotos en red Spiceworks: herramienta de mapeo de redes gratuíta Maltego: herramienta forense informática de inteligencia, código abierto ShmooCon: la reunión hacker más molona del momento (los siento, HOPE)  </description>
+    </item>
+    
+    <item>
+      <title>Apple quiere cerrar el ordenador</title>
+      <link>https://bloges.cortell.net/2010/10/apple-quiere-cerrar-el-ordenador/</link>
+      <pubDate>Sun, 24 Oct 2010 00:41:54 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2010/10/apple-quiere-cerrar-el-ordenador/</guid>
+      <description>Al incluir DRM (control de las aplicaciones que se podían instalar) en el iPhone nos quejamos, y dijeron que &amp;ldquo;no es un ordenador&amp;rdquo; (todo el que tiene uno sabe que eso no es cierto). Pero ya demostró su intención de control y escasez artificial mediante barreras tecnológicas.
+Ahora, con Lion(la próxima actualización de Mac OSX) quieren hacer lo mismo: que pases por el aro, por caja, por su control y condiciones, antes de instalar algo en TU ordenador.</description>
+    </item>
+    
+    <item>
+      <title>Actualizado sin dolor</title>
+      <link>https://bloges.cortell.net/2010/07/actualizado-sin-dolor/</link>
+      <pubDate>Sat, 10 Jul 2010 12:28:36 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2010/07/actualizado-sin-dolor/</guid>
+      <description>Se nota que un software es maduro cuando una actualización es sencilla (aunque en mi caso lo haya hecho &amp;ldquo;a mano&amp;rdquo;) no da problemas. WP 3.0, hecho.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft permite a NSA espiarnos a través del código de Windows 7</title>
+      <link>https://bloges.cortell.net/2009/11/microsoft-permite-a-nsa-espiarnos-a-trav%C3%A9s-del-c%C3%B3digo-de-windows-7/</link>
+      <pubDate>Fri, 27 Nov 2009 10:01:58 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/11/microsoft-permite-a-nsa-espiarnos-a-trav%C3%A9s-del-c%C3%B3digo-de-windows-7/</guid>
+      <description>Michael escribe (gracias Todd) que gracias al testimonio de Richard Shaeffer (Director de Aseguración de Información de la NSA – Agencia de Seguridad Nacional de EEUU -) al Subcomité Judicial sobre Terrorismo y Seguridad Interna del Senado de EEUU nos enteramos de que:
+ Trabajando junto a Microsoft y elementos del Departamento de Defensa, NSA ha aportado su conocimiento operacional y experiencia única en riesgos a sistemas y vulnerabilidades para mejorar el Sistema Operativo de Microsoft….</description>
+    </item>
+    
+    <item>
+      <title>Por qué me he dado de baja en las &amp;quot;redes sociales&amp;quot;</title>
+      <link>https://bloges.cortell.net/2009/11/por-qu%C3%A9-me-he-dado-de-baja-en-las-quotredes-socialesquot/</link>
+      <pubDate>Tue, 17 Nov 2009 15:57:00 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/11/por-qu%C3%A9-me-he-dado-de-baja-en-las-quotredes-socialesquot/</guid>
+      <description>No fui de los que se lanzaron a apuntarse a FaceBook, LinkedIn, etc. en cuanto aparecieron. Pero a medida que mis contactos profesionales lo hacían, consideré que era oportuno formar parte de dichas estructuras de networking, pues facilitaba mucho algunos contactos, y la contextualización de relaciones laborales (quién trabaja con quién, quién recomienda a quién, etc).
+Pero, como muchos os habréis dado cuenta, y RMS ya denunció, el concepto web 2.</description>
+    </item>
+    
+    <item>
+      <title>Herramientas de monitorización libres</title>
+      <link>https://bloges.cortell.net/2009/11/herramientas-de-monitorizaci%C3%B3n-libres/</link>
+      <pubDate>Sun, 15 Nov 2009 13:45:19 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/11/herramientas-de-monitorizaci%C3%B3n-libres/</guid>
+      <description>Estaba durmiendo. Las 06:00h. Suena un &amp;ldquo;ping&amp;rdquo;. Alguien me envía un SMS sin saber que estoy en otra zona horaria. Por lo menos no es el teléfono sonando como ayer, pero me despierto, y me pongo a &amp;ldquo;trabajar&amp;rdquo;. Como siempre un enlace lleva a otro y&amp;hellip; aquí tenéis una lista de interesantes herramientas de monitorización libres:
+ Zabbix Osmius Pandora Centreon Cacti Icinga  &amp;hellip; y si os han parecido pocas las opciones, aquíhay más.</description>
+    </item>
+    
+    <item>
+      <title>Pesadilla Apple Mac Snow Leopard con tipografías</title>
+      <link>https://bloges.cortell.net/2009/11/pesadilla-apple-mac-snow-leopard-con-tipograf%C3%ADas/</link>
+      <pubDate>Mon, 02 Nov 2009 07:43:33 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/11/pesadilla-apple-mac-snow-leopard-con-tipograf%C3%ADas/</guid>
+      <description>Apple, hace ya tiempo, dijo que dejaría de soportar las tipografías Postcrip Type1, y que sólo las OpenType tenían futuro. Adobe hace 10 años ya empezó la transición. Pero nunca dijeron una fecha definitiva.
+Con la actualización de Apple &amp;ldquo;Snow Leopard&amp;rdquo;, parece que han dejado definitivamente de soportar tipografías antiguas. Y digo &amp;ldquo;parece&amp;rdquo; porque hay que buscar mucho mucho en documentos técnicos para encontrar indicios.
+Por supuesto los forosde la red están que trinan, porque un simple desactivado de toda tipografía que no sea OT (o del sistema) no lo soluciona.</description>
+    </item>
+    
+    <item>
+      <title>Universidad de Valencia: regalando dinero a Microsoft en vez de emplearlo en alumnos</title>
+      <link>https://bloges.cortell.net/2009/09/universidad-de-valencia-regalando-dinero-a-microsoft-en-vez-de-emplearlo-en-alumnos/</link>
+      <pubDate>Wed, 02 Sep 2009 09:36:57 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/09/universidad-de-valencia-regalando-dinero-a-microsoft-en-vez-de-emplearlo-en-alumnos/</guid>
+      <description>218.958,93 € (IVA incluído) es lo que la Universidad de Valencia le va a pagar a Informática El Corte Inglés S.A. por &amp;ldquo;licencias Microsoft&amp;rdquo; según este concursoasignado.
+Y digo yo ¿a alguien se le ocurre todo lo que se podría hacer con ese dinero si en vez de &amp;ldquo;licencias Microsoft&amp;rdquo; empleasen software libre? Incluso, si lo que temen es el soporte y la formación necesaria para migrar a software libre, ¡la cantidad de soporte y formación que se puede contratar con ese dinero!</description>
+    </item>
+    
+    <item>
+      <title>Mantras corporativos: repitelos y se convertirán en verdad</title>
+      <link>https://bloges.cortell.net/2009/07/mantras-corporativos-repitelos-y-se-convertir%C3%A1n-en-verdad/</link>
+      <pubDate>Thu, 23 Jul 2009 19:36:14 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/07/mantras-corporativos-repitelos-y-se-convertir%C3%A1n-en-verdad/</guid>
+      <description>La Sra. Garaña, nueva presidenta de Microsoft España (no te echaremos de menos, Rosa&amp;hellip; ¿o visto lo visto sí?) ha sido entrevistadapor El País (¿casualidad que el Gobierno está intentando hacernos tragar con un acuerdo bajo mano con Microsoft y El País la entreviste?).
+La entrevista es breve, pero en DOS ocasiones se puede apreciar el efecto Mantra: si repites algo el suficiente número de veces, se convierte en realidad (o eso parece, y al fin de al cabo ¿qué es la realidad sino eso?</description>
+    </item>
+    
+    <item>
+      <title>El PP en la Xunta de Galicia da marcha atrás a sus promesas sobre soft libre</title>
+      <link>https://bloges.cortell.net/2009/07/el-pp-en-la-xunta-de-galicia-da-marcha-atr%C3%A1s-a-sus-promesas-sobre-soft-libre/</link>
+      <pubDate>Mon, 13 Jul 2009 10:27:31 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/07/el-pp-en-la-xunta-de-galicia-da-marcha-atr%C3%A1s-a-sus-promesas-sobre-soft-libre/</guid>
+      <description>Leo en la lista de Hispalinux que Fernando hace alusión a una entradade Ocurrencias Habituales denunciando la intención de la Xunta de Galicia (PP) de dar marcha atrás a sus promesas electorales de apoyo al software libre desmantelando (según estanoticia) Mancomún, un repositorio de soft libre de la Xunta.
+Lo &amp;ldquo;curioso&amp;rdquo; es la excusa: el ahorro. Y digo curioso porque han gastado5 millones de euros en licencias de soft privativo (la mitad para Micro$oft en procedimiento negociado).</description>
+    </item>
+    
+    <item>
+      <title>Alternativas libres y multiplataforma para la creación multimedia</title>
+      <link>https://bloges.cortell.net/2009/07/alternativas-libres-y-multiplataforma-para-la-creaci%C3%B3n-multimedia/</link>
+      <pubDate>Sun, 12 Jul 2009 10:16:24 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/07/alternativas-libres-y-multiplataforma-para-la-creaci%C3%B3n-multimedia/</guid>
+      <description>Por desgracia, cuando se buscan alternativas de software libre, se suele buscar sólo el ahorro. No se tienen en cuenta otros aspectos, como la libertad, compatibilidad, interoperabilidad, estándares, etc.
+Como tengo muchos amigos en el mundillo de la creación multimedia, y como recuerdo a mis ex-alumnos, aquí va mi lista de programas &amp;ldquo;alternativa&amp;rdquo; (hay muchos otros, pero por ahora estos son los que más me convencen) que por otra parte pueden venir muy bien para mejorar esos videojuegos que comentaba en mi post anterior:</description>
+    </item>
+    
+    <item>
+      <title>Me retiro del circuito de conferenciantes</title>
+      <link>https://bloges.cortell.net/2009/05/me-retiro-del-circuito-de-conferenciantes/</link>
+      <pubDate>Sun, 31 May 2009 01:14:41 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/05/me-retiro-del-circuito-de-conferenciantes/</guid>
+      <description>Aprovecho un email que acabo de escribir, para reciclar electrones:
+Hola Fernando,
+    </description>
+    </item>
+    
+    <item>
+      <title>Tetris en el Emacs</title>
+      <link>https://bloges.cortell.net/2009/05/tetris-en-el-emacs/</link>
+      <pubDate>Sat, 16 May 2009 02:36:45 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/05/tetris-en-el-emacs/</guid>
+      <description>El easter egg del Tetris escondido en el editor Emacs debe ser más viejo que viejo, pero yo lo acabo de descubrir, y lo quería compartir: escribe emacs en el Terminal, luego dale a la tecla escape (esc) (para entrar en el buffer) y luego escribe x y tetris. Maneja las piezas con las flechas del teclado, y ¡a jugar!</description>
+    </item>
+    
+    <item>
+      <title>El gobierno ZP se vende a Microsoft</title>
+      <link>https://bloges.cortell.net/2009/04/el-gobierno-zp-se-vende-a-microsoft/</link>
+      <pubDate>Wed, 22 Apr 2009 22:26:51 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/04/el-gobierno-zp-se-vende-a-microsoft/</guid>
+      <description>Por su parte, Fernando comenta.-
+Fuente:
+https://www.netoraton.es/?p=4854
+El Presidente del Gobierno lo anunciará en breve. Se busca revolucionar el sistema educativo de nuestro país. El objetivo final de este nuevo plan del gobierno de Zapatero es que cada alumno de primaria disponga de un ordenador personal, portátil, para sustituir el cuaderno y los libros.
+Toda una revolución para el profesorado, aunque no sólo para ellos. El proyecto -según ha podido saber radiocable.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft cierra Encarta... Windows next?</title>
+      <link>https://bloges.cortell.net/2009/04/microsoft-cierra-encarta...-windows-next/</link>
+      <pubDate>Wed, 01 Apr 2009 23:00:34 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/04/microsoft-cierra-encarta...-windows-next/</guid>
+      <description>El País publica la noticia (gracias Alberto): tras 16 años, Microsoft cierra Encarta, aplastada por Wikipedia. No hace falta ser un genio para trazar paralelismos: Windows, Linux&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>IBM a punto de comprar Sun</title>
+      <link>https://bloges.cortell.net/2009/03/ibm-a-punto-de-comprar-sun/</link>
+      <pubDate>Thu, 19 Mar 2009 10:46:25 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/03/ibm-a-punto-de-comprar-sun/</guid>
+      <description>Alberto publica en la lista de Hispalinux que IBM está cerca de comprar a Sun
+Wall Street Journal: IBM in Talks to Buy Sun in Bid to Add to Web Heft
+El Pais: IBM negocia la compra de SunPara el soft libre IBM+Sun = Eclipse, OpenOffice, MySQL, Java, OpenSolaris &amp;hellip;
+ZFS for linux? Puede, pero también corre peligro MySQL para no fagocitar a DB2 (IBM ya atacó con patentes a PostgreSQL).</description>
+    </item>
+    
+    <item>
+      <title>La legalidad de liberar un iPhone</title>
+      <link>https://bloges.cortell.net/2009/03/la-legalidad-de-liberar-un-iphone/</link>
+      <pubDate>Mon, 02 Mar 2009 13:36:05 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/03/la-legalidad-de-liberar-un-iphone/</guid>
+      <description>¿Es legal liberar un iPhone en EEUU? Apple piensa que no, por lo que se puede deducir de su petición ante la Oficina del Copyright de los EEUU en respuesta a una propuesta de excepción a la fatídica DMCA solicitada por la Electronic Frontier Foundation, propuesta que ha recibido muchos apoyos – incluyendo Mozilla y Skype.
+¡No a las restricciones artificiales de la tecnología y el mercado!
+¡No a las leyes y los legisladores que permiten que se abuse de los ciudadanos!</description>
+    </item>
+    
+    <item>
+      <title>Retransmisión en directo de conferencia UPV hoy</title>
+      <link>https://bloges.cortell.net/2009/02/retransmisi%C3%B3n-en-directo-de-conferencia-upv-hoy/</link>
+      <pubDate>Thu, 26 Feb 2009 11:58:05 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/02/retransmisi%C3%B3n-en-directo-de-conferencia-upv-hoy/</guid>
+      <description>Si a alguien le interesa, puede seguir mi conferencia de hoy (&amp;ldquo;COPIAME sobre copyleft y software libre&amp;rdquo; 12:30h.) en directo desde la UPV (Campus de Gandía) a través de este enlace.</description>
+    </item>
+    
+    <item>
+      <title>Excelente parodia de Matrix en Windows</title>
+      <link>https://bloges.cortell.net/2009/02/excelente-parodia-de-matrix-en-windows/</link>
+      <pubDate>Wed, 04 Feb 2009 10:41:25 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/02/excelente-parodia-de-matrix-en-windows/</guid>
+      <description>Genial (nota: ver hasta el final)</description>
+    </item>
+    
+    <item>
+      <title>Apple: Restricción en hardware grabador DVD</title>
+      <link>https://bloges.cortell.net/2009/01/apple-restricci%C3%B3n-en-hardware-grabador-dvd/</link>
+      <pubDate>Mon, 05 Jan 2009 10:14:53 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/01/apple-restricci%C3%B3n-en-hardware-grabador-dvd/</guid>
+      <description>Hay cosas difíciles de comprender, con las que uno no está de acuerdo, discutibles, pero que tienen una &amp;ldquo;justificación&amp;rdquo;. Ejemplo: el DRM que inicialmente llevaban todas las canciones en iTunes, pese a que Apple estaba oficialmente en contra (según ellos era un mal necesario para conseguir que las discográficas pusiesen su catálogo a la venta de modo digital, en lo que hoy se ha convertido en la mayor tienda de música del mundo).</description>
+    </item>
+    
+    <item>
+      <title>Windows para manejar misiles nucleares... ¿otra vez?</title>
+      <link>https://bloges.cortell.net/2008/12/windows-para-manejar-misiles-nucleares...-otra-vez/</link>
+      <pubDate>Sat, 20 Dec 2008 16:20:19 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/12/windows-para-manejar-misiles-nucleares...-otra-vez/</guid>
+      <description>Juan me envía un enlace a un artículo(en español) que referencia otro(en inglés), que relata cómo la Royal Navy británica se ha vuelto a equivocar.
+Si ya hace años que comento en alguna de mis conferencias el incidente de seguridad que tuvieron en unas maniobras al emplear Windows 2000 (la verdadera &amp;ldquo;pantalla azul de la muerte&amp;rdquo;), ahora deciden actualizar a Windows XP. ¿Esta gente no aprende? ¿Alguien les ha hablado de la ventaja en seguridad y estabilidad que proporciona el sofware libre?</description>
+    </item>
+    
+    <item>
+      <title>Apple me toca los huevos</title>
+      <link>https://bloges.cortell.net/2008/11/apple-me-toca-los-huevos/</link>
+      <pubDate>Thu, 27 Nov 2008 15:52:59 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/11/apple-me-toca-los-huevos/</guid>
+      <description>Ahora que como manzanas, y que anoche le explicaba a mi chica en el avión que Steve Jobs tenía un punto malvado (traumas del pasado que hacen que re-enfoques tu energía negativa), pero que seguía molando, me desayuno con esto:
+– DBD: El nuevo MacBook lleva DRM (aunque no en el HDCP como denuncia DefectiveByDesign, sí por soft en el I/O).
+– EFF: Apple emplea la ley DMCA para intentar evitar que se sincronicen archivos entre dispositivos.</description>
+    </item>
+    
+    <item>
+      <title>Los políticos de la Comunidad Valenciana no tienen ni idea de Soft Libre</title>
+      <link>https://bloges.cortell.net/2008/11/los-pol%C3%ADticos-de-la-comunidad-valenciana-no-tienen-ni-idea-de-soft-libre/</link>
+      <pubDate>Wed, 12 Nov 2008 10:50:18 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/11/los-pol%C3%ADticos-de-la-comunidad-valenciana-no-tienen-ni-idea-de-soft-libre/</guid>
+      <description>Los que vivimos, para bien o para mal, en la Comunidad Valenciana, ya lo sabemos. Frases antológicas como la de González Pons confundiendo &amp;ldquo;libre&amp;rdquo; con &amp;ldquo;gratis&amp;rdquo;, o los &amp;ldquo;proyectos&amp;rdquo; de software libre impulsados por la CV en el más genuino estilo &amp;ldquo;yo también&amp;rdquo; (aunque no sepan ni para qué ni por qué), hace tiempo que nos dan qué pensar.
+Pero siempre es reafirmante que alguien de fuera lo corrobore. Y qué voz más cualificada en temas de eventos de software libre que mi amigo Ramón Ramón:</description>
+    </item>
+    
+    <item>
+      <title>Dos modelos de evento</title>
+      <link>https://bloges.cortell.net/2008/10/dos-modelos-de-evento/</link>
+      <pubDate>Mon, 20 Oct 2008 13:06:08 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/10/dos-modelos-de-evento/</guid>
+      <description>Del HackMeetingcolaborativo, libre de contaminación comercial, horizontal y cada-uno-a-su-bola (compatible con la colaboración) del sábado, a la Conferencia Internacional de Software Librejerárquica, hiperesponsorizado, vertical y rápido-que-no-sales-en-la-foto-con-el-guru-y-el-consejero de hoy (blogeo en directo desde el suelo &amp;ldquo;literalmente&amp;rdquo; del Palacio de Congresos de Málaga).
+No es hipocresía ni falta de homogeneidad. Es flexibilidad (incluída la vestimenta y el discurso). En definitiva ambas causas son válidas para mí.
+Por cierto, el permalink lo debía haber dejado en numérico (1353) porque leído en 1337 queda muy andaluz 😉</description>
+    </item>
+    
+    <item>
+      <title>Ubiquity y el sinsentido de la &amp;quot;propiedad intelectual&amp;quot;</title>
+      <link>https://bloges.cortell.net/2008/10/ubiquity-y-el-sinsentido-de-la-quotpropiedad-intelectualquot/</link>
+      <pubDate>Sun, 19 Oct 2008 13:16:20 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/10/ubiquity-y-el-sinsentido-de-la-quotpropiedad-intelectualquot/</guid>
+      <description>Ayer, en el debate cln Javier de la Cueva, se mencionó el sinsentido de la &amp;ldquo;propiedad inteectual&amp;rdquo; en un mundo donde la creación intelectual y la información viajan digitalmente por todo el globo sin barreras.
+Sin entrar en el debate de la dependencia del cloud computing privativo (de un modo no alarmista, para variar, estoy deacuerdo con RMS), no hay mejor ejemplo ilustrativo de esta nueva cultura del mashup informativo digital (recuerden cómo siempre establezco en las charlas de &amp;ldquo;propiedad intelectual&amp;rdquo; las características de &amp;ldquo;exclusión&amp;rdquo; y &amp;ldquo;antagonismo&amp;rdquo; para delimitar el marco conceptual de la &amp;ldquo;propiedad&amp;rdquo;) sin exlusión y sin antagonismo (o sea, de nuevo, obviamente NO propiedad) que el desarrollo en alfa de Ubiquitypor parte del genio(que ahora está en Mozilla Labs) que nos trajo QuickSilver o KDE-Do:</description>
+    </item>
+    
+    <item>
+      <title>Cuando los jueces no entienden, las sentencias no tienen sentido</title>
+      <link>https://bloges.cortell.net/2008/10/cuando-los-jueces-no-entienden-las-sentencias-no-tienen-sentido/</link>
+      <pubDate>Thu, 16 Oct 2008 10:16:48 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/10/cuando-los-jueces-no-entienden-las-sentencias-no-tienen-sentido/</guid>
+      <description>Paco Riviere es la persona que interpuso un juicio a PC City para que le permitiesen devolver el sistema operativo que venía preinstalado en su portátil (Windows) y devolviesen el importe del mismo.
+Acabade salir la sentencia, y no puede ser más absurda. Resumen (traduzco de su web en catalán). Ver para creer (así que si un juez no entiende, la sentencia no tiene sentido):
+Lo que me parece increíble es que en los fundamentos del derecho recojan todos los razonamientos de los demandados:</description>
+    </item>
+    
+    <item>
+      <title>Metasploit 3.2 bajo BSD</title>
+      <link>https://bloges.cortell.net/2008/10/metasploit-3.2-bajo-bsd/</link>
+      <pubDate>Tue, 14 Oct 2008 22:43:39 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/10/metasploit-3.2-bajo-bsd/</guid>
+      <description>Dice HD Moore que Metasploit3.2 lo van a sacar bajo licencia BSD!!!!!!
+Babeo.
+Si no sabes de qué hablo, sigue circulando.</description>
+    </item>
+    
+    <item>
+      <title>Mala interfaz lleva a clasificación como terrorista</title>
+      <link>https://bloges.cortell.net/2008/10/mala-interfaz-lleva-a-clasificaci%C3%B3n-como-terrorista/</link>
+      <pubDate>Wed, 08 Oct 2008 17:53:36 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/10/mala-interfaz-lleva-a-clasificaci%C3%B3n-como-terrorista/</guid>
+      <description>Impresionante noticia en el WashingtonPostque envía Jeff a la lista de CPRS-es. Atención a esta frase:
+ Both Hutchins and Sheridan said the activists‘ names were entered into the state police database as terrorists partly because the software offered limited options for classifying entries.
+ O sea, que por un mal diseño de interfaz de usuario de un programa informático, los nombres de unos activistas terminaron en la lista de terroristas de la policía del estado.</description>
+    </item>
+    
+    <item>
+      <title>Linea del tiempo del copyright</title>
+      <link>https://bloges.cortell.net/2008/09/linea-del-tiempo-del-copyright/</link>
+      <pubDate>Tue, 30 Sep 2008 17:17:00 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/09/linea-del-tiempo-del-copyright/</guid>
+      <description>Ante la falta de una buena fuente unificada y simplificada de la historia del copyright, he decidido crear una línea del tiempo de la historia del ©. Debería aparecer embebida como objeto en este mismo post. Desliza la barra de abajo para aumentar o disminuir el &amp;ldquo;zoom&amp;rdquo;. Arrastra la zona oscura para moverte en el tiempo.
+Notas:
+ Faltan datos (fechas exactas, historia de España, imágenes, etc). Los acentos y las &amp;ldquo;ñ&amp;rdquo; no funcionan.</description>
+    </item>
+    
+    <item>
+      <title>Feliz cumple GNU, de parte de Stephen Fry y su Mac ;-)</title>
+      <link>https://bloges.cortell.net/2008/09/feliz-cumple-gnu-de-parte-de-stephen-fry-y-su-mac/</link>
+      <pubDate>Tue, 16 Sep 2008 12:50:42 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/09/feliz-cumple-gnu-de-parte-de-stephen-fry-y-su-mac/</guid>
+      <description>Stephen Fry felicita a GNU por su 25 aniversario en un vídeoemotivo. Lo curioso es que lo hace con su MacBook Air al lado, y el Sr. Fry es conocido por su afición a los Macs. Espero que tuviese instalado gNuSense, porque sino RMS le hace un exorcismo que lo deja tieso 😀</description>
+    </item>
+    
+    <item>
+      <title>Bruselas planea ataque a privacidad y P2P</title>
+      <link>https://bloges.cortell.net/2008/08/bruselas-planea-ataque-a-privacidad-y-p2p/</link>
+      <pubDate>Thu, 21 Aug 2008 10:59:59 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/08/bruselas-planea-ataque-a-privacidad-y-p2p/</guid>
+      <description>Fernando Acero escribe esto en la lista de HispaLinux:
+Bruselas pretende modificar 800 enmiendas del llamado Paquete Telecom, sin embargo, Víctor Domingo, presidente de la Asociación de Internautas denuncia que no hay ninguna información en la web del Parlamento Europeo y se está tratando de introducir aspectos de dudosa legalidad por la puerta de atrás.
+En este sentido, la asociación alerta de que las enmiendas podrían ser aprobadas sin que trasciendan a la opinión pública, &amp;ldquo;eludiendo así el debate a nivel nacional&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>El certificado de citapreviadnie.es</title>
+      <link>https://bloges.cortell.net/2008/08/el-certificado-de-citapreviadnie.es/</link>
+      <pubDate>Wed, 13 Aug 2008 08:10:53 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/08/el-certificado-de-citapreviadnie.es/</guid>
+      <description>Las gestiones telemáticas están muy bien, pero cuando aparecen cosas así (o como el IVEX, en el que no se puede tramitar la ficha de mantenimiento de terceros sin Explorer en Windows), nos damos cuenta de que queda mucho por hacer, y mucho por &amp;ldquo;denunciar&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft quiere meterle las zarpas al formato de datos médicos</title>
+      <link>https://bloges.cortell.net/2008/06/microsoft-quiere-meterle-las-zarpas-al-formato-de-datos-m%C3%A9dicos/</link>
+      <pubDate>Wed, 25 Jun 2008 08:22:26 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/06/microsoft-quiere-meterle-las-zarpas-al-formato-de-datos-m%C3%A9dicos/</guid>
+      <description>Como se puede leer en esta noticia, junto con Covisint y AT&amp;amp;T, Microsoft quiere crear una red nacional (EEUU, pero luego seguro que se usa de plataforma para que otros países la adopten) de intercambio de datos sanitarios electrónicos (IHE).
+Pese a que la noticia habla de &amp;ldquo;patentes de AT&amp;amp;T&amp;rdquo; y &amp;ldquo;plataforma de Covisint&amp;rdquo; (sin mencionar mucho a Microsoft por la mala fama que tiene), la clave es &amp;ldquo;Microsoft HealthVault&amp;rdquo;. Volvemos a lo de siempre: formatos cerrados, privativos, patentes, y demás cerrojos a la interoperabilidad.</description>
+    </item>
+    
+    <item>
+      <title>[selfpromo] anuncio de trabajo con sorpresa</title>
+      <link>https://bloges.cortell.net/2008/06/selfpromo-anuncio-de-trabajo-con-sorpresa/</link>
+      <pubDate>Thu, 12 Jun 2008 16:26:03 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/06/selfpromo-anuncio-de-trabajo-con-sorpresa/</guid>
+      <description>[selfpromo (en definitiva, es mi blog, y mi empresa)]
+Aquí hay un anuncio de trabajo(desarrollador en la provincia de Valencia) &amp;ldquo;con sorpresa&amp;rdquo;: killer questions (para los que se inscriban)
+¿Hace cuánto que no ves un anuncio de trabajo así? 😉</description>
+    </item>
+    
+    <item>
+      <title>Ballmer vuela a España para reunión &amp;quot;discreta&amp;quot;</title>
+      <link>https://bloges.cortell.net/2008/04/ballmer-vuela-a-espa%C3%B1a-para-reuni%C3%B3n-quotdiscretaquot/</link>
+      <pubDate>Fri, 25 Apr 2008 16:06:04 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/04/ballmer-vuela-a-espa%C3%B1a-para-reuni%C3%B3n-quotdiscretaquot/</guid>
+      <description>Tal y como me avisa David, Steve Ballmer (el &amp;ldquo;vero mero&amp;rdquo; &amp;ldquo;monkey boy&amp;rdquo; de Micro$oft) vuela hoy a España para una reunión &amp;ldquo;discreta&amp;rdquo;, y sólo lo ha cubierto El Mundo. Es curioso, pues siempre que alguien de Redmond viene a nuestra república platanera, todos los lameculos del gobierno pierden el trasero por salir en la foto, y a los periódicos se les cae la baba entrevistando a Rosa diciendo, &amp;ldquo;viene el jefe, ¿a que somos guay?</description>
+    </item>
+    
+    <item>
+      <title>Micro$oft gana el corrupto proceso de OOXML</title>
+      <link>https://bloges.cortell.net/2008/04/microoft-gana-el-corrupto-proceso-de-ooxml/</link>
+      <pubDate>Wed, 02 Apr 2008 16:05:10 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/04/microoft-gana-el-corrupto-proceso-de-ooxml/</guid>
+      <description>(Me avisa Juan de lo que publica Yonderboy en Barrapunto): da igual que el proceso estuviese plagado de corrupción, irregularidades, y escándalos. Micro$oft ha ganado, y los ciudadanos/votantes/contribuyentes/usuarios de este planeta hemos perdido. Poderoso caballero&amp;hellip; algún día caerás.
+Análisis.</description>
+    </item>
+    
+    <item>
+      <title>¿Guerra de P2P = P4P?</title>
+      <link>https://bloges.cortell.net/2008/03/guerra-de-p2p-p4p/</link>
+      <pubDate>Thu, 27 Mar 2008 09:31:04 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/03/guerra-de-p2p-p4p/</guid>
+      <description>Que las discográficas y suciedades de gestión colectiva quieren criminalizar las redes P2P (que están batiendo records) y sus usuariosen contra de lo que dice la UE(que quede claro que ni descargar ni ofrceer enlaces a contenido con © como hacen MiniNova, isoHunt, o The Pirate Bay, es hoy por hoy delito: caso sharemule) es por todos conocido. Que las propias empresas de telecomunicaciones (ISPs) parece que quieran hacer lo mismo (a través de RedTel, ya sea por las presiones recibidaso porque quieren entrar en el negocio de la generacion y comercialización de contenidos) nos ha sorprendido recientemente.</description>
+    </item>
+    
+    <item>
+      <title>Fabricante de máquinas de voto electrónico amenaza con demanda si se comprueba su máquina</title>
+      <link>https://bloges.cortell.net/2008/03/fabricante-de-m%C3%A1quinas-de-voto-electr%C3%B3nico-amenaza-con-demanda-si-se-comprueba-su-m%C3%A1quina/</link>
+      <pubDate>Tue, 25 Mar 2008 11:20:10 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/03/fabricante-de-m%C3%A1quinas-de-voto-electr%C3%B3nico-amenaza-con-demanda-si-se-comprueba-su-m%C3%A1quina/</guid>
+      <description>El fabricante de máquinas de voto electrónico Sequoia ha enviado al famoso profesor de Princeton Ed Felten y su colega Andrew Appel una carta en la que amenaza con demanda judicial si el estado de New Jersey les envía una máquina de voto (tal y como han solicitado, para un estudio). ¿La base de esa &amp;ldquo;demanda&amp;rdquo;? &amp;ldquo;Propiedad Intelectual&amp;rdquo; ese paraguas amenazador que sirve para cualquier tipo de censura y restricción sobre la información.</description>
+    </item>
+    
+    <item>
+      <title>Doble Conspiración</title>
+      <link>https://bloges.cortell.net/2008/02/doble-conspiraci%C3%B3n/</link>
+      <pubDate>Thu, 28 Feb 2008 11:06:50 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/02/doble-conspiraci%C3%B3n/</guid>
+      <description>Ayer fue un dí­a bien cargadito. Y pese a que en realidad no tengo nada que contar (todaví­a), a la vez no puedo morderme la lengua.
+Por la mañana estaba &amp;ldquo;conspirando&amp;rdquo; contra las multinacionales del software privativo en un determinado sector. En conjunción con un cliente clave de ese sector, planeábamos el demostrar que por primera vez es posible una solución completa e integral en software libre. Es uno de los pocos sectores donde el software libre tiene una presencia casi inexistente.</description>
+    </item>
+    
+    <item>
+      <title>Especulador que no entiende el software libre... -¡si hasta Micro$oft va de &amp;quot;open&amp;quot;!</title>
+      <link>https://bloges.cortell.net/2008/02/especulador-que-no-entiende-el-software-libre...-si-hasta-microoft-va-de-quotopenquot/</link>
+      <pubDate>Wed, 27 Feb 2008 21:20:05 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/02/especulador-que-no-entiende-el-software-libre...-si-hasta-microoft-va-de-quotopenquot/</guid>
+      <description>Alexey Leonidovich Pazhitnov, creador del juego Tetris, dice en esta entrevistaa Jordi Sabaté (para Consumer) que &amp;ldquo;El software libre sólo es una rebeldí­a estéril&amp;rdquo;.
+Soy el primer admirador de Tetris. Reconozco haber pasado horas y horas &amp;ldquo;enganchado&amp;rdquo; a los bloques que caen. Admiro a quien ha creado algo tan sencillo e impactante, que tanta influencia ha tenido en el mundo de los videojuegos&amp;hellip; pero este señor no es precisamente un genio.</description>
+    </item>
+    
+    <item>
+      <title>Juicio contra impuesto Micro$oft</title>
+      <link>https://bloges.cortell.net/2008/02/juicio-contra-impuesto-microoft/</link>
+      <pubDate>Wed, 20 Feb 2008 18:02:11 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/02/juicio-contra-impuesto-microoft/</guid>
+      <description>David B. me enví­a el enlace a la noticiaen menéame -algunos comentarios son geniales- (aquí­ la noticia original) &amp;ldquo;Primer juicio en España contra el Impuesto Windows&amp;rdquo;. Básicamente hoy ha sido admitido a trámite el primer juicio contra un fabricante de PCs (Samsung) por cobrar y negarse a devolver el &amp;ldquo;Impuesto Windows&amp;rdquo; (licencia de un sistema operativo preinstalado, aunque no se acepte la licencia y se devuelva el software). El demandante es Paco Rivií¨re y nos explica en su web en catalán cuáles son los pasos que ha seguido (traducción aquí­).</description>
+    </item>
+    
+    <item>
+      <title>La Comisión Europea pretende apoyar los estándares patentados</title>
+      <link>https://bloges.cortell.net/2008/02/la-comisi%C3%B3n-europea-pretende-apoyar-los-est%C3%A1ndares-patentados/</link>
+      <pubDate>Wed, 06 Feb 2008 17:59:00 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/02/la-comisi%C3%B3n-europea-pretende-apoyar-los-est%C3%A1ndares-patentados/</guid>
+      <description>La Comisión Europea pretende apoyar los estándares patentados(mediante las licencias RAND y no obligando a los legisladores nacionales a exigir la licencia gratuí­ta en casos de estándares), dejando así­ fuera de combate al software libre.
+Como ya dije hace tiempo, contraatacarán: -¿no consiguieron las patentes de software en Europa? pues buscaran la forma de metérnosla por el culo, aunque sea cambiándole el nombre.
+-¿No entienden que van contracorriente? Hasta los sectores más conservadores y reaccionarios del mundo empiezana apoyar el software libre.</description>
+    </item>
+    
+    <item>
+      <title>Virtualí­zate</title>
+      <link>https://bloges.cortell.net/2008/02/virtual%C3%ADzate/</link>
+      <pubDate>Wed, 06 Feb 2008 10:36:37 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/02/virtual%C3%ADzate/</guid>
+      <description>-¿Cuál es la virtualizaciónmás marciana que has hecho?</description>
+    </item>
+    
+    <item>
+      <title>Todo o nada: Microsoft se &amp;quot;suicida&amp;quot;</title>
+      <link>https://bloges.cortell.net/2008/01/todo-o-nada-microsoft-se-quotsuicidaquot/</link>
+      <pubDate>Fri, 18 Jan 2008 12:38:41 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/01/todo-o-nada-microsoft-se-quotsuicidaquot/</guid>
+      <description>Hasta el 30 de junio. Eso es lo que le queda a Microsoft (y a sus pobres clientes y &amp;ldquo;socios&amp;rdquo; en OEM) para mantener la supremací­a en sistemas operativos. Ese dí­a se dejará de vender Microsoft XP, y dado que Vista está dando MUCHOS problemas, será el momento que esperaban GNU/Linux y Mac OSX para comérselo.
+í‘am, ñam (gracias Alberto).</description>
+    </item>
+    
+    <item>
+      <title>Héroes anónimos</title>
+      <link>https://bloges.cortell.net/2008/01/h%C3%A9roes-an%C3%B3nimos/</link>
+      <pubDate>Fri, 11 Jan 2008 14:51:35 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/01/h%C3%A9roes-an%C3%B3nimos/</guid>
+      <description>-¡Bravo Gonzalo! (que escribe esto en la lista de Hispalinux):
+Este año el famoso INEM, en los cursos destinados a desempleados, ha unido un curso de sistemas con un curso de redes denominandolo &amp;ldquo;administrador de redes&amp;rdquo;. La teorí­a es la de siempre, parecida a cualquier Networking Technologies de cualquier certificación oficial, pero las prácticas se basan en un servidor Win. 2000. Yo voy a ser profesor en uno de los centros homologados de ese curso, pero lo voy a aplicar todo a Debian.</description>
+    </item>
+    
+    <item>
+      <title>Concursos viciados</title>
+      <link>https://bloges.cortell.net/2008/01/concursos-viciados/</link>
+      <pubDate>Fri, 11 Jan 2008 12:20:14 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/01/concursos-viciados/</guid>
+      <description>En mis empresas huimos de los concursos como del demonio, porque casi casi todos están viciados (pre-asignados o redactados de forma leonina). Pero, pese a saber lo complicados o retorcidos que pueden llegar a ser, hoy he visto el colmo de lo ridí­culo.
+Se trata de un concurso de suministro de tecnologí­a médica en Mexico (no daré más datos porque se dice el pecado, no el pecador). Y entre muchas otras burradas, esto me ha llamado poderosamente la atención:</description>
+    </item>
+    
+    <item>
+      <title>Sabes que no estás al dí­a cuando...</title>
+      <link>https://bloges.cortell.net/2008/01/sabes-que-no-est%C3%A1s-al-d%C3%ADa-cuando.../</link>
+      <pubDate>Wed, 09 Jan 2008 19:55:02 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/01/sabes-que-no-est%C3%A1s-al-d%C3%ADa-cuando.../</guid>
+      <description>Lo cierto es que el trabajo (y alguna otra cosa) me consumen de mala manera, pero esto es excesivo. Necesito unas vacaciones para ponerme al dí­a.</description>
+    </item>
+    
+    <item>
+      <title>SGAE cobra del medio millón de euros del software libre de Extremadura y encima se queja</title>
+      <link>https://bloges.cortell.net/2008/01/sgae-cobra-del-medio-mill%C3%B3n-de-euros-del-software-libre-de-extremadura-y-encima-se-queja/</link>
+      <pubDate>Mon, 07 Jan 2008 11:52:17 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/01/sgae-cobra-del-medio-mill%C3%B3n-de-euros-del-software-libre-de-extremadura-y-encima-se-queja/</guid>
+      <description>Como escribe Ramón en la lista de Hispalinux:
+La postura de mantener un canon en España es cada dí­a mas insostenible, por mucho que la SGAE siga argumentando lo contrario, pero lo que es más triste son las acusaciones que estos señores lanzan y la actitud beligerante que demuestran, anto toda opinión que no sea de su agrado hasta el punto que hasta niegan los datos que aporta el mismo gobierno si no son de su gusto.</description>
+    </item>
+    
+    <item>
+      <title>Asterisk en el iPhone!</title>
+      <link>https://bloges.cortell.net/2007/12/asterisk-en-el-iphone/</link>
+      <pubDate>Sun, 30 Dec 2007 00:37:07 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/12/asterisk-en-el-iphone/</guid>
+      <description>Yeah baby yeah!!!! (proyecto)</description>
+    </item>
+    
+    <item>
+      <title>Microsoft quiere negocio, aunque sea absurdo e injusto</title>
+      <link>https://bloges.cortell.net/2007/12/microsoft-quiere-negocio-aunque-sea-absurdo-e-injusto/</link>
+      <pubDate>Sun, 30 Dec 2007 00:34:14 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/12/microsoft-quiere-negocio-aunque-sea-absurdo-e-injusto/</guid>
+      <description>Alberto comenta sobre este patético intentode Microsoft para que el OLPC (One Laptop Per Child) doble de capacidad de almacenamiento para que el mini XP que quieren meter cuele (pese a que eso encarezca el producto, y con ello haga más difí­cil conseguir su loable misión): &amp;ldquo;Parece ser que, como dice el articulista, Microsoft no soporta la publicidad que está obteniendo Linux con este proyecto&amp;hellip;&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Voto libre, voto abierto</title>
+      <link>https://bloges.cortell.net/2007/12/voto-libre-voto-abierto/</link>
+      <pubDate>Fri, 28 Dec 2007 09:52:50 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/12/voto-libre-voto-abierto/</guid>
+      <description>Estas dos iniciativas (voto librey voto abierto) son un ejemplo de cómo las tecnologí­as nos pueden permitir tener más control sobre el sistema de votación, para así­ evitar pucherazos y para exigir responsabilidades a nuestros polí­ticos, pudiéndoles demostrar incongruencias entre su voto y su programa.</description>
+    </item>
+    
+    <item>
+      <title>Tentaciones irresistibles</title>
+      <link>https://bloges.cortell.net/2007/12/tentaciones-irresistibles/</link>
+      <pubDate>Tue, 11 Dec 2007 11:25:59 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/12/tentaciones-irresistibles/</guid>
+      <description>En cuanto a tentaciones, creo que esto es de lo más irresistible que he visto 😉 (sí­, la imagen será un gran trabajo de editor de imagen, pero hay que reconocer que alegra la vista, -¿no?)</description>
+    </item>
+    
+    <item>
+      <title>software libre como motor competitivo</title>
+      <link>https://bloges.cortell.net/2007/12/software-libre-como-motor-competitivo/</link>
+      <pubDate>Mon, 10 Dec 2007 11:27:55 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/12/software-libre-como-motor-competitivo/</guid>
+      <description>Alberto comenta en la lista de Hispalinux: la Comisaria Europea para la Sociedad de la Información, Viviane Reding, apuesta basándose en cifras objetivas por el software libre como motor competitivo del sector europeo del software contra el estadounidense:</description>
+    </item>
+    
+    <item>
+      <title>Regresión en los ORDENADORES de la UV</title>
+      <link>https://bloges.cortell.net/2007/12/regresi%C3%B3n-en-los-ordenadores-de-la-uv/</link>
+      <pubDate>Tue, 04 Dec 2007 12:06:50 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/12/regresi%C3%B3n-en-los-ordenadores-de-la-uv/</guid>
+      <description>[Actualizado y puntualizado gracias al comentario de Josep Vidal]
+Un amigo que trabaja en la Universidad de Valencia me ha confirmado lo que ya habí­a oido antes: llega un nuevo responsable de sistemas, y decide deshacer todo el camino andado hacia el software libre (como la instalación con excelentes resultados de servidoresGNU/Linux), obligando a que todos los equipos SOBREMESA (especialmente los de los profesores) tengan Windows.
+Si eres estudiante de la UV, -¡quéjate!</description>
+    </item>
+    
+    <item>
+      <title>Cursos de software privativo financiados con dinero público -¡niégate!</title>
+      <link>https://bloges.cortell.net/2007/11/cursos-de-software-privativo-financiados-con-dinero-p%C3%BAblico-ni%C3%A9gate/</link>
+      <pubDate>Wed, 21 Nov 2007 17:08:58 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/11/cursos-de-software-privativo-financiados-con-dinero-p%C3%BAblico-ni%C3%A9gate/</guid>
+      <description>Xavi avisa en la lista de Kernel que el Ayuntamiento de Barcelona, la Generalitat de Catalunya y la Comunidad Europea financian cursos de software privativo con dinero público. Esto es indignante, me pregunto si es delito, y sobretodo no llego a comprender por qué cursos de Cisco, Microsoft y Oracle en vez de cursos de GNU/Linux, OpenOffice, SQL, Redes&amp;hellip; el 90/95% del temario serí­a el mismo, pero no estarí­an promocionando (ni mediatizando a favor de) el software privativo.</description>
+    </item>
+    
+    <item>
+      <title>Guí­a oficial de la UNESCO para la migración a software libre</title>
+      <link>https://bloges.cortell.net/2007/11/gu%C3%ADa-oficial-de-la-unesco-para-la-migraci%C3%B3n-a-software-libre/</link>
+      <pubDate>Wed, 21 Nov 2007 14:28:07 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/11/gu%C3%ADa-oficial-de-la-unesco-para-la-migraci%C3%B3n-a-software-libre/</guid>
+      <description>https://www.fedaro.info/guia_unesco/GSL.pdf</description>
+    </item>
+    
+    <item>
+      <title>OpenOffice en la Admin. y ahorros</title>
+      <link>https://bloges.cortell.net/2007/11/openoffice-en-la-admin.-y-ahorros/</link>
+      <pubDate>Thu, 15 Nov 2007 18:14:41 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/11/openoffice-en-la-admin.-y-ahorros/</guid>
+      <description>Fernando Acero enví­a esto a la lista de Hispalinux:
+https://www.enpresadigitala.net/castellano/noticias/noticia_concreta.jsp?id=3127El ahorro de costes es la principal explicación de que los Departamentos de Justicia de Finlandia y Cataluña hayan decidido migrar todos sus ordenadores a OpenOffice. En el caso escandinavo, se dejarán de pagar dos millones de euros en licencias durante diez años, lo que compensa
+sobradamente la inversión necesaria para formar al personal y adaptar los documentos actuales.
+En Cataluña no se han hecho públicos los ahorros que va a generar la migración a este programa, aunque sí­ se ha calculado en cuatro horas el tiempo necesario para formar a cada funcionario.</description>
+    </item>
+    
+    <item>
+      <title>Como en las pelis, en software libre los buenos siempre ganan</title>
+      <link>https://bloges.cortell.net/2007/11/como-en-las-pelis-en-software-libre-los-buenos-siempre-ganan/</link>
+      <pubDate>Mon, 12 Nov 2007 12:22:55 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/11/como-en-las-pelis-en-software-libre-los-buenos-siempre-ganan/</guid>
+      <description>-¿Final felizpara el culebrónMandriva / Nigeria / Microsoft?</description>
+    </item>
+    
+    <item>
+      <title>Nigeria, corrupción, Microsoft y Linux</title>
+      <link>https://bloges.cortell.net/2007/11/nigeria-corrupci%C3%B3n-microsoft-y-linux/</link>
+      <pubDate>Mon, 05 Nov 2007 18:17:22 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/11/nigeria-corrupci%C3%B3n-microsoft-y-linux/</guid>
+      <description>Primero parecí­aque Mandriva habí­a convencido al Gobierno Nigeriano de pasarse a Linux. Luego Microsoft anuncia que el contrato se lo llevan ellos. Viniendo de uno de los paí­ses más corruptosdel mundo no nos extraña. Por supuesto en Mandriva se han enfadadoy han escrito una carta abierta.
+La calle, la venta&amp;hellip; es una guerra. Y cuando entran gobiernos (sobretodo determinados gobiernos) es una guerra sucia. Promoviendo la corrupción y manchando (más si cabe) su propio nombre nos habrán ganado una batalla, pero perderán la guerra.</description>
+    </item>
+    
+    <item>
+      <title>PP solicita software libre en Les Corts</title>
+      <link>https://bloges.cortell.net/2007/11/pp-solicita-software-libre-en-les-corts/</link>
+      <pubDate>Mon, 05 Nov 2007 18:09:27 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/11/pp-solicita-software-libre-en-les-corts/</guid>
+      <description>En la lista de Hispalinux alguien enlazó esta noticia:
+El PP solicita la implantación del software libre en Les Corts
+EL PORTAVOZ POPULAR DE NUEVAS TECNOLOGíAS DEFENDIÓ LA MEDIDA
+El PP ha presentado una proposición no de ley en Les Corts Valencianes en la que solicita la implantación de software libre Linux en el sistema informático de la Cámara, según informó el portavoz de Nuevas Tecnologí­as de este grupo parlamentario, César Sánchez.</description>
+    </item>
+    
+    <item>
+      <title>SCO final KO</title>
+      <link>https://bloges.cortell.net/2007/10/sco-final-ko/</link>
+      <pubDate>Fri, 26 Oct 2007 18:04:37 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/10/sco-final-ko/</guid>
+      <description>Juanjo me avisa: SCO perdió el &amp;ldquo;juicio contra Linux&amp;rdquo;, se declaró en bancarrota y ahora la han compradopor unos miserables 25 millones de euros (comparado con lo que llegó a valer, y lo que podrí­a haber valido si en vez de dedicarse a apoyar patentes de software y litigar se hubiesen dedicado a innovar y dar servicio que es lo que hacemos los demás). Bye bye FUD SCO.</description>
+    </item>
+    
+    <item>
+      <title>Impuesto para pagar patentes ilegales (en Europa) de Microsoft</title>
+      <link>https://bloges.cortell.net/2007/10/impuesto-para-pagar-patentes-ilegales-en-europa-de-microsoft/</link>
+      <pubDate>Tue, 23 Oct 2007 13:31:17 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/10/impuesto-para-pagar-patentes-ilegales-en-europa-de-microsoft/</guid>
+      <description>FFII nos avisa de que a cambio de aceptar la sentencia contra la competencia, Microsoft ha conseguido que la Comisión Europea apruebe unos royalties y unos impuestos para poder &amp;ldquo;interoperar&amp;rdquo; con aplicaciones de Microsoft, y cargar un impuesto a su competencia (y que le den al software libre). Lee toda la información, que no te lo vas a creer:
+  Permanent link to the press release  FFII: Microsoft will trump EU competition ruling with patents  DigitalMajority: Microsoft finally defeats EU competition ruling with patents  Press conference by Neelie Kroes, European Commissioner for Competition Policy  Reuters: Microsoft finally bows to EU antitrust measures  Actualización.</description>
+    </item>
+    
+    <item>
+      <title>GNU/Linux para las masas</title>
+      <link>https://bloges.cortell.net/2007/10/gnu/linux-para-las-masas/</link>
+      <pubDate>Sun, 21 Oct 2007 00:50:45 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/10/gnu/linux-para-las-masas/</guid>
+      <description>Hasta el NY Times lo reconoce. Ya es la hora, -¡la invasión es imparable!</description>
+    </item>
+    
+    <item>
+      <title>Ayuntamiento de Barcelona TRAIDOR DOS VECES</title>
+      <link>https://bloges.cortell.net/2007/10/ayuntamiento-de-barcelona-traidor-dos-veces/</link>
+      <pubDate>Wed, 17 Oct 2007 14:05:49 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/10/ayuntamiento-de-barcelona-traidor-dos-veces/</guid>
+      <description>A cambio de unos compromisos absolutamente ridí­culos (que contienen la tí­pica palabrerí­a blablabla del tipo &amp;ldquo;promover&amp;rdquo; &amp;ldquo;alfabetizar&amp;rdquo; &amp;ldquo;brecha digital&amp;rdquo; &amp;ldquo;investigación&amp;rdquo;, pero nada en concreto), orientados a que los polí­ticos se puedan hacer una fotoy conseguir un titular muy mediático, el Ayuntamiento de Barcelona infringe por segunda vezsu promesa (ver medida de gobierno, apéndice 3) de promover e implantar el software libre al firmar un acuerdocon Microsoft (y lo que es peor: para los equipos de educación pública, o sea sembrando la semilla del diablo).</description>
+    </item>
+    
+    <item>
+      <title>La Comisión Europea en contra del Canon indiscriminado</title>
+      <link>https://bloges.cortell.net/2007/09/la-comisi%C3%B3n-europea-en-contra-del-canon-indiscriminado/</link>
+      <pubDate>Wed, 26 Sep 2007 17:33:16 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/09/la-comisi%C3%B3n-europea-en-contra-del-canon-indiscriminado/</guid>
+      <description>La Asociación de Internautas me enví­a esto:
+RESPUESTA DE LA COMISIÓN EUROPEA AL EURODIPUTADO DE ICV, RAUL ROMEVA.
+**&amp;ldquo;El canon no puede aplicarse indiscriminadamente, en especial, a empresas y
+administración&amp;rdquo;**
+El pasado mes de junio, el Eurodiputado por Iniciativa per Catalunya – Verds, D. Raí¼l Romeva i Rueda, planteó al Parlamento Europeo, por petición de la Asociación de Internautas, una serie de cuestiones clave relativas a la aplicación del canon digital y la denuncia que habí­a presentado la Plataforma Todoscontraelcanon, ante la Comisión Europea en Noviembre de 2006.</description>
+    </item>
+    
+    <item>
+      <title>Firefox easter egg</title>
+      <link>https://bloges.cortell.net/2007/09/firefox-easter-egg/</link>
+      <pubDate>Wed, 26 Sep 2007 08:02:10 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/09/firefox-easter-egg/</guid>
+      <description>Será viejo y lo que quieras, pero es gracioso (como muchos easter eggs). Lo cuenta Alex en la lista de Kernel:</description>
+    </item>
+    
+    <item>
+      <title>Linux embebido: hasta en la sopa, y hasta el 2012</title>
+      <link>https://bloges.cortell.net/2007/09/linux-embebido-hasta-en-la-sopa-y-hasta-el-2012/</link>
+      <pubDate>Tue, 18 Sep 2007 11:16:14 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/09/linux-embebido-hasta-en-la-sopa-y-hasta-el-2012/</guid>
+      <description>Según el estudio anual (abril 2007) de LinuxDevices.com, los dispositivos con Linux embebidos son cada vez más, los dispositivos con otros sistemas operativos son cada vez menos, y esta tendencia se mantendrá por lo menos hasta el 2012 (y para entonces estaremos ya en otro paradigma con el software libre ya completamente aceptado y asumido, dominando todos los mercados).
+Por cierto, también es interesante ver que cada vez más compañí­as pagan por el software libre, y que cada vez menos compañí­as se preocupan por patentes, -©, etc (bye bye SCO).</description>
+    </item>
+    
+    <item>
+      <title>Anulada votación Suecia por sobornos Microsoft</title>
+      <link>https://bloges.cortell.net/2007/09/anulada-votaci%C3%B3n-suecia-por-sobornos-microsoft/</link>
+      <pubDate>Mon, 03 Sep 2007 11:02:21 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/09/anulada-votaci%C3%B3n-suecia-por-sobornos-microsoft/</guid>
+      <description>[Actualización de esta noticia]
+Microsoft admite haber ofrecido sobornos por la votación por obtener el estandard ISO para OOXML en Suecia (votación que se ha invalidado al conocerse el escándalo). Fuente: Slashdot.
+Por otro lado, Dinamarca también vota que no. Fuente: Groklaw.
+No comment. Aunque en realidad es MUY tentador hacer leña del árbol caí­do. Pero lo dejo para los comentarios 😉</description>
+    </item>
+    
+    <item>
+      <title>Trampas y derrotas de Microsoft intentando declarar OOXML en standard ISO</title>
+      <link>https://bloges.cortell.net/2007/08/trampas-y-derrotas-de-microsoft-intentando-declarar-ooxml-en-standard-iso/</link>
+      <pubDate>Wed, 29 Aug 2007 10:49:01 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/08/trampas-y-derrotas-de-microsoft-intentando-declarar-ooxml-en-standard-iso/</guid>
+      <description>Ya hemos habladodel intento de Microsoft de conseguir que se declare OOXML en standard ISO. Pues bien, podemos leer en LibroBlanco que han sido derrotados en India, Brasil, y China, y han ganado haciendo trampas en Portugal(cuyo comité de normalización preside la proppia microsoft sin embargo ha votado a favor después de que se evitara que Sun e IBM participaran en la votación -¡Por falta de espacio en la sala!) y en Suecia(tras aparecer 25 empresas a última hora que se han inscrito en el comité de normalización, y &amp;hellip; curiosamente votan todas a favor).</description>
+    </item>
+    
+    <item>
+      <title>Por qué GNULinux&#43;Apache es más seguro que Windows&#43;IIS</title>
+      <link>https://bloges.cortell.net/2007/08/por-qu%C3%A9-gnulinux-apache-es-m%C3%A1s-seguro-que-windows-iis/</link>
+      <pubDate>Wed, 01 Aug 2007 13:00:29 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/08/por-qu%C3%A9-gnulinux-apache-es-m%C3%A1s-seguro-que-windows-iis/</guid>
+      <description>Por si alguien lo dudaba, aquí­ podemos ver gráficamente por qué GNULinux+Apache es más seguro que Windows+IIS. Es una cuestión de complejidad (los gráficos representan las llamadas que hace el sistema al servir una página HTML con una imagen).
+En la primera vemos GNULinux+Apache:
+En la segunda Windows+IIS:
+Fuente: ZDNetY por si te quedan dudas, Google ha publicado un estudio de 80 millones de servidores de dominio que demuestra que hay el doble de posibilidades de que un malware venga de IIS que de Apache: el 49% de los servidores de malware son IIS â€”el mismo porcentaje que Apache.</description>
+    </item>
+    
+    <item>
+      <title>Instituciones públicas se dejan y Micro$oft se aprovecha</title>
+      <link>https://bloges.cortell.net/2007/07/instituciones-p%C3%BAblicas-se-dejan-y-microoft-se-aprovecha/</link>
+      <pubDate>Mon, 30 Jul 2007 09:57:46 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/07/instituciones-p%C3%BAblicas-se-dejan-y-microoft-se-aprovecha/</guid>
+      <description>Desde la BBC (a la que hace poco alabábamos por haber permitido la libre descarga de buena parte de su fondo documental) llegando a un acuerdo con Micro$oft para que su contenido online sólo sea visible con un reproductor multimedia privativo y con DRM, hasta las manipulaciones que está haciendo en AENOR(España), o expulsando a IBM y SUN del comité ISO de Portugal, pasando por el vergonzoso acuerdoque han firmado con el gobierno Chileno para ser el sistema operativo exclusivo del gobierno y la educación del paí­s, Micro$oft está a la ofensiva, y las instituciones públicas se dejan abusar.</description>
+    </item>
+    
+    <item>
+      <title>-¿Alternativa libre? Ayuda</title>
+      <link>https://bloges.cortell.net/2007/07/alternativa-libre-ayuda/</link>
+      <pubDate>Mon, 30 Jul 2007 08:37:16 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/07/alternativa-libre-ayuda/</guid>
+      <description>Hace años que no me ocurrí­a: desear una aplicación, y que no esté disponible para uno de mis dos sistemas operativos de uso habitual (GNU/Linux o Mac OSX).
+Cuando esto ocurre, me da mucha mucha rabia, y siempre pienso lo mismo: eso es que no lo he encontrado. Seguro que existe. -¿Alguien me puede dar una pista?
+Se trata de BusinessGauges(para crear dashboards, o &amp;ldquo;medidores&amp;rdquo; con parámetros definibles). Sé que es una tonterí­a, pero la visualización de la información y el eye candy es algo que me pierde.</description>
+    </item>
+    
+    <item>
+      <title>Prohibido usar iTunes para hacer armas nucleares</title>
+      <link>https://bloges.cortell.net/2007/07/prohibido-usar-itunes-para-hacer-armas-nucleares/</link>
+      <pubDate>Thu, 19 Jul 2007 14:42:14 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/07/prohibido-usar-itunes-para-hacer-armas-nucleares/</guid>
+      <description>Eso dice el acuerdo de licencia(punto 10) de iTunes:
+ By using the Apple Software (&amp;hellip;) You also agree that you will not use these
+  products for any purposes (&amp;hellip;) including, without limitation, the development, design, manufacture or production of missiles, or nuclear, chemical or biological weapons.
+ -¿Os hace gracia? -¿No lo sabí­ais? Esto es MUY viejo, y con una sencilla explicación basada en la paranoia legal que cualquier empresa de los EEUU siente, y hasta qué extremo llegan para evitar ser demandados, como en McDonalds &amp;ldquo;este café está tan caliente que puede causar daños fí­sicos&amp;rdquo; (-¡coño, pues no lo calienten tanto!</description>
+    </item>
+    
+    <item>
+      <title>eVerano 2007</title>
+      <link>https://bloges.cortell.net/2007/07/everano-2007/</link>
+      <pubDate>Wed, 11 Jul 2007 07:58:02 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/07/everano-2007/</guid>
+      <description>[Empleando parte de la nota de prensa de Hispalinux sobre este interesante encuentro anual]:
+Dieciocho son los talleres propuestos, más otros tantos que se realizarán en horario no oficial; no hay que olvidar que las JTASL son 24 horas por 6 dí­as de convivencia y compartir, y que además del programa oficial, se organizan al estilo BOF numerosas charlas, talleres, tutoriales y tertulias. Para completar esos 18 talleres (tres horas por cada uno de ellos), también se organizan 12 cursos (de entre 20 y 30 horas) que tratan en mayor profundidad los principales retos con respecto a tecnologí­as libres.</description>
+    </item>
+    
+    <item>
+      <title>-¿OOXML estandar ISO? NO -¿Por qué? Por esto</title>
+      <link>https://bloges.cortell.net/2007/06/ooxml-estandar-iso-no-por-qu%C3%A9-por-esto/</link>
+      <pubDate>Fri, 29 Jun 2007 11:39:09 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/06/ooxml-estandar-iso-no-por-qu%C3%A9-por-esto/</guid>
+      <description>Libroblanconos enví­a esto:
+Puedes firmar contra que OOXML se convierta en un estándar ISO aquí­. -¿Por qué deberí­as firmar?:
+Que OOXML (un estándar creado por microsoft) para sus nuevos documentos de oficina se convierta en un estándar ISO es una incongruencia por que:
+  ya existe un estándar ISO para los documentos de oficina (ISO 26300)
+  No hay ninguna aplicación hoy que lo utilice
+  Hay información no documentada y que refiere a versiones antiguas de herramientas de microsoft como por ejemplo autoSpaceLikeWord95 o useWord97LineBreakRules</description>
+    </item>
+    
+    <item>
+      <title>Propuestas de mejora a la LISI por parte de organizaciones sociales y profesionales</title>
+      <link>https://bloges.cortell.net/2007/06/propuestas-de-mejora-a-la-lisi-por-parte-de-organizaciones-sociales-y-profesionales/</link>
+      <pubDate>Thu, 28 Jun 2007 11:32:17 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/06/propuestas-de-mejora-a-la-lisi-por-parte-de-organizaciones-sociales-y-profesionales/</guid>
+      <description>Como buen lorito, copio pego nota de prensa (a ver, no es que no esté de acuerdo, pero la verdad, tanto &amp;ldquo;importante nota de prensa, pásalo&amp;rdquo; empieza a irritarme). Por cierto, -¿por qué la nota del copyleft al final ha de estar en inglés?
+Hispalinux, FFII, RITSI, Comfia-CCOO, COPYME, ATI, Internautas, AI2, Linux.es, APEMIT, Inciativa Focus, Legalventure, Iglues, ESLIC, AGNIX, LiMa, LiCor, GCubo, Informáticos Penitenciarios, Fundación Ciencias de la Documentación, IEPALA, GALPon, GALITE, GPUL, OuSLi, EstándaresAbiertos.</description>
+    </item>
+    
+    <item>
+      <title>FSF GNU GPLv3</title>
+      <link>https://bloges.cortell.net/2007/06/fsf-gnu-gplv3/</link>
+      <pubDate>Thu, 28 Jun 2007 11:20:00 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/06/fsf-gnu-gplv3/</guid>
+      <description>Como mañana lo habrá publicado todo dios y su abuela (se nota que no sigo mi agregador de RSS últimamente, pues seguro que ya lo han publicado), pues yo os lo digo hoy mañana a las 12:00 EDT R.M.S. anunciará (live en streaming) la FSFGNUGPL v 3. -¡Fiesta! Después de 16 años (desde la GPL v2) ya era hora.
+[-¿Alguien se ha dado cuenta de lo extraño que debe resultar este post para alguien que no esté en el tema del FLOSS?</description>
+    </item>
+    
+    <item>
+      <title>La web del Congreso, recopilatorio</title>
+      <link>https://bloges.cortell.net/2007/06/la-web-del-congreso-recopilatorio/</link>
+      <pubDate>Mon, 18 Jun 2007 15:08:25 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/06/la-web-del-congreso-recopilatorio/</guid>
+      <description>[Actualización: graciosa parodia]
+Supongo que a estas alturas todo el mundo habrá leí­do sobre la cagada de la nueva web del Congreso. David escribe un interesante recopilatorio en la lista de Kernel Panic:
+La nueva web del Congreso: una patada en la boca a los estándares web
+martin pulido 13 Junio 2007
+https://www.martinpulido.com/blog/2007/06/13/la-nueva-web-del-congreso-una-patada-en-la-boca-a-los-estandares-web/(sobre estí ndards web; ep! l‘autor diu que treballa dep. HCI d‘Indra)
+La nueva página web oficial del Congreso</description>
+    </item>
+    
+    <item>
+      <title>LAECAP: tienes hasta el jueves para hacer algo</title>
+      <link>https://bloges.cortell.net/2007/06/laecap-tienes-hasta-el-jueves-para-hacer-algo/</link>
+      <pubDate>Mon, 04 Jun 2007 17:25:05 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/06/laecap-tienes-hasta-el-jueves-para-hacer-algo/</guid>
+      <description>Reproduzco literalmente (nota de prensa de Hispalinuxy FFII):
+LAECAP, Servicio público electrónico; defectuoso por diseño
+La ley de acceso electrónico a las Administraciones Públicas va a ser la futura constitución electrónica del Estado Español. La última versión, que ha sido votada en Comisión en el Senado el pasado dia 30 de junio, amenaza el equilibrio de poderes de nuestra democracia y crea las bases de un Ejecutivo mucho más poderoso de lo que ha sido en los últimos 25 años.</description>
+    </item>
+    
+    <item>
+      <title>Lo que se puede hacer con un GIF animado (ejemplo: protesta contra SGAE)</title>
+      <link>https://bloges.cortell.net/2007/05/lo-que-se-puede-hacer-con-un-gif-animado-ejemplo-protesta-contra-sgae/</link>
+      <pubDate>Thu, 31 May 2007 10:44:41 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/05/lo-que-se-puede-hacer-con-un-gif-animado-ejemplo-protesta-contra-sgae/</guid>
+      <description>funnyfactory (gracias) nos pone sobre la pista de este genial corto (machinima) de protesta hecho con softwre libre (gimp) de modo anónimo, desinteresado, y donado al dominio público. -¡Sólo falta que lo haya hecho una geek con curvas de infarto, y me da algo 😉 !
+Nota.- Como no &amp;ldquo;cabe&amp;rdquo; en mi blog, y para no distorsionarlo, enlazo al servidor original, así­ que si haces click sobre la imagen se abrirá otra ventana donde podrás verlo í­ntegro.</description>
+    </item>
+    
+    <item>
+      <title>El ecosistema de compartir</title>
+      <link>https://bloges.cortell.net/2007/05/el-ecosistema-de-compartir/</link>
+      <pubDate>Wed, 30 May 2007 12:19:17 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/05/el-ecosistema-de-compartir/</guid>
+      <description>Un amigo me ha dado un ejemplo de cómo ser un buen netizen en el ecosistema del P2P: cada ve que recibe un archivo (audio sobre todo) comprueba y corrige tí­tulos, bitrates, busca carátulas&amp;hellip; vamos que lo deja impoluto para que el siguiente de la cadena no tenga que hacerlo. Eso es lo que se llama un ciudadano ejemplar de la red.
+Comparemos eso con la Slurp(ultimate wardriving box). Por lo menos es una LinuxBox.</description>
+    </item>
+    
+    <item>
+      <title>Geek fun 11</title>
+      <link>https://bloges.cortell.net/2007/05/geek-fun-11/</link>
+      <pubDate>Fri, 11 May 2007 10:41:40 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/05/geek-fun-11/</guid>
+      <description>– Espectacularescosas que se pueden hacer gracias a Tesla. Genio desconocido.
+– Mozy: free online backup
+– (Pedospera) Emuletón: Exposición Artí­stica Colectiva y Multidisciplinar sobre y por el Burro y la Mula
+– LinuxJuegos– Recopilación (aunquehay muchas otras) de fotos de camisetas geek(y no geek)</description>
+    </item>
+    
+    <item>
+      <title>El número prohibido</title>
+      <link>https://bloges.cortell.net/2007/05/el-n%C3%BAmero-prohibido/</link>
+      <pubDate>Tue, 08 May 2007 14:21:51 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/05/el-n%C3%BAmero-prohibido/</guid>
+      <description>09 F9 11 02 9D 74 E3 5B D8 41 56 C5 63 56 88 C0 -© Motion Picture Association of America
+-¿Un número con copyright?
+-¿Qué es ese número? (como si no hubiese formas más fáciles)
+-¿Qué te puede pasar si lo publicas?
+-¿Quién teme al lobo feroz?
+Pues pásalo.</description>
+    </item>
+    
+    <item>
+      <title>Micosoft en contra de la transpariencia en el voto electrónico</title>
+      <link>https://bloges.cortell.net/2007/04/micosoft-en-contra-de-la-transpariencia-en-el-voto-electr%C3%B3nico/</link>
+      <pubDate>Fri, 27 Apr 2007 00:21:59 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/04/micosoft-en-contra-de-la-transpariencia-en-el-voto-electr%C3%B3nico/</guid>
+      <description>Alan, de Openvoting, comenta:
+La American Electronics Association (AeA) se ha opuesto a la propuesta de ley AB 852del californiano Paul Krekorian que requerirí­a el hacer pública la tecnologí­a de voto electrónico.- Un relaciones públicas (lobbyist) de Microsoft ha estado trabajando en Washington DC también en contra de esta propuesta de ley. También se oponen a este tipo de propuestas a nivel federal.
+La carta de oposición/FUD de desinformación de la AeAdice cosas como: &amp;ldquo;hacer pública esta tecnologí­a causarí­a una crisis económica para muchas empresas.</description>
+    </item>
+    
+    <item>
+      <title>Esquema de penetración en redes inalámbricas</title>
+      <link>https://bloges.cortell.net/2007/04/esquema-de-penetraci%C3%B3n-en-redes-inal%C3%A1mbricas/</link>
+      <pubDate>Wed, 11 Apr 2007 13:44:01 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/04/esquema-de-penetraci%C3%B3n-en-redes-inal%C3%A1mbricas/</guid>
+      <description>Leo en la lista de KernelPanik que Alex ha puesto un enlace con un genial esquemade penetración en redes inalámbricas. Chapeau.</description>
+    </item>
+    
+    <item>
+      <title>La prueba del algodón: demostración de que los polí­ticos NO sirven NUESTROS intereses</title>
+      <link>https://bloges.cortell.net/2007/03/la-prueba-del-algod%C3%B3n-demostraci%C3%B3n-de-que-los-pol%C3%ADticos-no-sirven-nuestros-intereses/</link>
+      <pubDate>Wed, 21 Mar 2007 18:41:55 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/03/la-prueba-del-algod%C3%B3n-demostraci%C3%B3n-de-que-los-pol%C3%ADticos-no-sirven-nuestros-intereses/</guid>
+      <description>Hace dí­as que querí­a postearlo, pero se me habí­a pasado. Gracias Juantomás por recordármelo:
+Estos dí­as se está haciendo un serio esfuerzo para intentar que se acepten las enmiendas que hace Hispalinux a la LAECAP para que básicamente la administración solo use estandares abiertos y libre de regalias para comunicarse con la ciudadaní­a y además libere en un repositorio público y sin restricciones de uso toda la tecnologí­a que va a desarrollar para implementar LAECAP.</description>
+    </item>
+    
+    <item>
+      <title>Contenido digitalizable &#43; impresora 3D en casa = -¡estás en el Siglo XXI!</title>
+      <link>https://bloges.cortell.net/2007/03/contenido-digitalizable-impresora-3d-en-casa-est%C3%A1s-en-el-siglo-xxi/</link>
+      <pubDate>Tue, 20 Mar 2007 13:44:50 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/03/contenido-digitalizable-impresora-3d-en-casa-est%C3%A1s-en-el-siglo-xxi/</guid>
+      <description>Mientras algunos se hacen pajas mentales con notarios para convencer a jueces de que esquilmar a la sociedad viviendo del cuento y falacias sobre soportes digitales y su uso, otros entendemos que con el contenido digital (o digitalizable) e impresoras 3D en casa, estamos a punto de vivir una transformación social sin precedentes:
+– La &amp;ldquo;producción&amp;rdquo; se traslada a casa
+– La &amp;ldquo;distribución&amp;rdquo; desaparece
+– La &amp;ldquo;energí­a&amp;rdquo; (no sólo renovable, sino autoproducible, como la solar) en tus manos</description>
+    </item>
+    
+    <item>
+      <title>-¿Killer app de músic libre (y otros contenidos)?</title>
+      <link>https://bloges.cortell.net/2007/03/killer-app-de-m%C3%BAsic-libre-y-otros-contenidos/</link>
+      <pubDate>Mon, 12 Mar 2007 12:05:34 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/03/killer-app-de-m%C3%BAsic-libre-y-otros-contenidos/</guid>
+      <description>Ya se sabe que para que una tecnologí­a (o nuevo paradigma) despegue en la era de la tecnologí­a, hace falta una killer app. Netscape Mozilla hizo volar a la web, mal que nos pese M$ Messenger hizo despegar el IM, y iTunes/iTunesStore/iPod las descargas de pago de música digital.
+Pues bien, en la búsqueda de la killer app que haga despegar el uso, consumo, y disfrute del contenido libre de la red se me ocurrí­an varios aspirantes (como la BurnStationde Platoniq, o Democracy Player).</description>
+    </item>
+    
+    <item>
+      <title>Obligatoriedad de repartir el canon entre titulares (no entre socios)</title>
+      <link>https://bloges.cortell.net/2007/03/obligatoriedad-de-repartir-el-canon-entre-titulares-no-entre-socios/</link>
+      <pubDate>Fri, 09 Mar 2007 12:21:25 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/03/obligatoriedad-de-repartir-el-canon-entre-titulares-no-entre-socios/</guid>
+      <description>Escrito por Javier Fernández en la lista de [Cc-es] (copio y pego, que se me da bien 😉 ):
+de J. Montero Aroca &amp;ldquo;De la legitimación en el proceso civil&amp;rdquo;, de finales del 2006, que tiene un capí­tulo dedicado a la legitimación de las entidades de gestión:
+&amp;ldquo;(&amp;hellip;) las cantidades recaudadas hayan de repartirse no entre los socios de la entidad, sino entre los titulares de los derechos, de modo que la entidad debe poner a disposición de los titulares de derechos no socios las cantidfades que proporcionalmente les correspondan atendida la utilización de sus obras.</description>
+    </item>
+    
+    <item>
+      <title>DRM en Inglaterra, el Financial Times y la BBC</title>
+      <link>https://bloges.cortell.net/2007/02/drm-en-inglaterra-el-financial-times-y-la-bbc/</link>
+      <pubDate>Thu, 22 Feb 2007 05:54:52 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/02/drm-en-inglaterra-el-financial-times-y-la-bbc/</guid>
+      <description>Los chicos de DefectiveByDesign.org me enví­an esta nota de prensa:
+Press release from DefectiveByDesign.org:
+_This is a big week for anti-DRM activists in the UK (and around the world). The British government has rejected a petitionfrom UK residents to ban DRM. Their response was preposterous in its naivety. The government suggests that DRM adds value for the customer! At the same time, the BBC has opened a Public Consultationasking constituents to weigh inon their proposal to add DRM to BBC content and on-demand services.</description>
+    </item>
+    
+    <item>
+      <title>Bar de oxí­geno</title>
+      <link>https://bloges.cortell.net/2007/02/bar-de-ox%C3%ADgeno/</link>
+      <pubDate>Wed, 21 Feb 2007 19:07:15 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/02/bar-de-ox%C3%ADgeno/</guid>
+      <description>Lo he comentado en mis conferencias mil veces: lo de vender oxí­geno, como modelo de negocio basado NO en el producto, NI en la restricción de acceso al mismo, sino en el valor que se le puede dar (embotellado, de colores, aromático, hip, etc). Y aquí­ lo tenéis:
+Al loro con la cara de idiota que se me ha quedado viendo lo que disfrutaba el colega de al lado con su dosis de oxí­geno &amp;ldquo;de colores&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Steve Jobs tiene razón: quejémonos a las discográficas (si nos importa su música)</title>
+      <link>https://bloges.cortell.net/2007/02/steve-jobs-tiene-raz%C3%B3n-quej%C3%A9monos-a-las-discogr%C3%A1ficas-si-nos-importa-su-m%C3%BAsica/</link>
+      <pubDate>Wed, 07 Feb 2007 19:07:55 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/02/steve-jobs-tiene-raz%C3%B3n-quej%C3%A9monos-a-las-discogr%C3%A1ficas-si-nos-importa-su-m%C3%BAsica/</guid>
+      <description>Nos avisa AkeTemeto: En esta cartade Steve Jobs (Apple Computer) hablando sobre el DRM, la venta de música online, etc, desde un punto de vista empresarial y pragmático, podemos ver lo que hay: posiciones encontradas, opiniones y alternativas diversas, etc.
+[Actualizado: aquí­ tenéis una versión humorí­sticade la misma carta, antes de ser filtrada por los de RRPP]
+SI (y reitero &amp;ldquo;si&amp;rdquo;) nos importa la música de las grandes discográficas, si nos importa que lleven DRM, si queremos comprar online sin DRM, etc, dejemos de quejarnos a los músicos, y a los vendedores online, y a los fabricantes de reproductores.</description>
+    </item>
+    
+    <item>
+      <title>Sistemas Operativos Online</title>
+      <link>https://bloges.cortell.net/2007/02/sistemas-operativos-online/</link>
+      <pubDate>Tue, 06 Feb 2007 13:16:01 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/02/sistemas-operativos-online/</guid>
+      <description>Ni GNU/Linux, ni Windows, ni Mac, ni&amp;hellip; na.
+Lo que más me llama la atención ahora mismo en el entorno de los Sistemas Operativos son los Sistemas Online. En un principio asusta que no tengas el sistema en tu máquina, que no tengas control. Pero si lo piensas, con suficiente diversidad, y proyectos libres suficientes, podrí­a significar un cambio de paradigma muy interesante. Eso siempre y cuando los ISP dejen de dar asco, y nos ofrezcan buenas conexiones a buenos precios.</description>
+    </item>
+    
+    <item>
+      <title>Documentación sobre GNU/Linux</title>
+      <link>https://bloges.cortell.net/2007/02/documentaci%C3%B3n-sobre-gnu/linux/</link>
+      <pubDate>Tue, 06 Feb 2007 13:14:51 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/02/documentaci%C3%B3n-sobre-gnu/linux/</guid>
+      <description>En varias ocasiones, sobretodo en los comentarios de este blog, hay quien ha comentado que le gustarí­a más información sobre GNU/Linux (tal o cual distro).
+Dan ganas de decir RTFM, pero para quien lo quiere fácil, en su idioma, y con &amp;ldquo;materiales docentes oficiales&amp;rdquo;, de la lista de kernelpanic saco los siguientes enlaces que pueden ser de utilidad:
+– Curso de Ubuntu Linux del Ministerio de Educación y Ciencia– Materiales formativos de Xtec (en catalán)</description>
+    </item>
+    
+    <item>
+      <title>Empieza la batalla contra Windows Vista</title>
+      <link>https://bloges.cortell.net/2007/01/empieza-la-batalla-contra-windows-vista/</link>
+      <pubDate>Mon, 29 Jan 2007 15:20:21 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/01/empieza-la-batalla-contra-windows-vista/</guid>
+      <description>Los chicos anti-DRM (de la FSF) de DefectiveByDesignhan iniciado su campaña contra Windows Vista, con una primera acciónmuy pragmática: una serie de cartas para que todo el mundo pueda enviar a su director de instituto, administrador de red, departamento de compras, etc&amp;hellip; hablando sobre lo malo e injusto que es adquirir Windows Vista. Luego vendrán otras acciones (como el tagging).
+Hay muchas formas de ayudar. -¡Haz algo!</description>
+    </item>
+    
+    <item>
+      <title>TV online y en directo</title>
+      <link>https://bloges.cortell.net/2007/01/tv-online-y-en-directo/</link>
+      <pubDate>Thu, 25 Jan 2007 18:15:52 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/01/tv-online-y-en-directo/</guid>
+      <description>Si la TV en abierto es gratis -¿por qué no emiten todos los canales de TV via internet, en directo, y gratis? Y ya puestos, que lo hagan con codecs libres.
+Enhorabuena a TV3 por dar ejemplo.
+-¿Más buenos ejemplo? Listadlos en los comentarios.</description>
+    </item>
+    
+    <item>
+      <title>Canción &amp;quot;Me lo monto con Ubuntu&amp;quot;</title>
+      <link>https://bloges.cortell.net/2007/01/canci%C3%B3n-quotme-lo-monto-con-ubuntuquot/</link>
+      <pubDate>Tue, 23 Jan 2007 17:11:52 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/01/canci%C3%B3n-quotme-lo-monto-con-ubuntuquot/</guid>
+      <description>Aquí­ tenéis -enlace corregido- (formato libre ogg, y cutre-ví­deoen YouTube) la canción &amp;ldquo;mâ€™ho munto amb lâ€™Ubuntu&amp;rdquo; (traducción: &amp;ldquo;Me lo monto con Ubuntu&amp;rdquo;)
+Mâ€™ho munto, mâ€™ho munto, mâ€™ho munto amb lâ€™Ubuntu
+Mâ€™ho munto, mâ€™ho munto, mâ€™ho munto amb lâ€™Ubuntu
+Les finestres sâ€™han trencat
+I la poma sâ€™ha podrit
+Faig servir programes lliures
+Per quí¨ jo no em mamo el dit
+Mâ€™ho munto, mâ€™ho munto, mâ€™ho munto amb lâ€™Ubuntu
+Mâ€™ho munto, mâ€™ho munto, mâ€™ho munto amb lâ€™Ubuntu</description>
+    </item>
+    
+    <item>
+      <title>Acuerdo final / Final agreement</title>
+      <link>https://bloges.cortell.net/2007/01/acuerdo-final-/-final-agreement/</link>
+      <pubDate>Wed, 17 Jan 2007 23:02:50 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/01/acuerdo-final-/-final-agreement/</guid>
+      <description>Por fin es oficial. No ha habido juicio, pues se ha firmado un &amp;ldquo;acuerdo confidencial y plenamente satisfactorio para ambas partes&amp;rdquo;. No está nada mal 😉
+En definitiva: vuelvo a poder postear lo que me de la gana, puedo seguir defendiendo el software libre y el libre intercambio de ideas y conocimiento, puedo seguir atacando el concepto de propiedad intelectual tal y como lo entienden las leyes, puedo seguir pretendiendo un nuevo orden económico/legislativo/social&amp;hellip; o sea -¡este blog sigue abierto y puedo seguir siendo yo mismo!</description>
+    </item>
+    
+    <item>
+      <title>Juicio postpuesto / Trial postponed</title>
+      <link>https://bloges.cortell.net/2007/01/juicio-postpuesto-/-trial-postponed/</link>
+      <pubDate>Mon, 08 Jan 2007 14:27:49 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/01/juicio-postpuesto-/-trial-postponed/</guid>
+      <description>SPANISH:
+Para intentar cerrar el acuerdo extrajudicial(el cual se está mostrando más complicado de lo que deberí­a de ser), mi juicio, que estaba previsto para la semana que viene, se ha postpuesto de mútuo acuerdo. Lo cual significa que, en aproximadamente un mes, o hay acuerdo o hay juicio. Y en cualquier caso podré seguir posteando.
+====================
+ENGLISH:
+My trial, scheduled for next week, has been postponed by mutual agreement to try to reach an agreement(which is proving to be much more complicated than it should be).</description>
+    </item>
+    
+    <item>
+      <title>Acuerdo extrajudicial / Out of court settlement</title>
+      <link>https://bloges.cortell.net/2006/12/acuerdo-extrajudicial-/-out-of-court-settlement/</link>
+      <pubDate>Fri, 08 Dec 2006 23:31:17 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/12/acuerdo-extrajudicial-/-out-of-court-settlement/</guid>
+      <description>SPANISH:
+Ayer se llegó a un acuerdo extrajudicial por el que no se van a presentar cargos contra mí­ y yo renuncio a presentar acciones contra quienes iniciaron la investigación criminal por la que, entre otras cosas, este blog ha estado suspendido durante casi dos meses.
+En cuanto estén firmados los pertinentes documentos legales (lo cual espero ocurra en breve) volveré a postear tan activamente (o más) que antes. Según la redacción resultante de dichos documentos podré explicar todo este episodio con mayor o menor detalle.</description>
+    </item>
+    
+    <item>
+      <title>Post de prueba para peritaje / Post for Expert-Testimony Report</title>
+      <link>https://bloges.cortell.net/2006/11/post-de-prueba-para-peritaje-/-post-for-expert-testimony-report/</link>
+      <pubDate>Thu, 09 Nov 2006 16:10:06 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/11/post-de-prueba-para-peritaje-/-post-for-expert-testimony-report/</guid>
+      <description>Este blog permanece temporalmente bloqueado por consejo de los abogados de Jorge Cortell. Este post es sólo a efectos de prueba para el informe pericial necesario para la investigación en curso.
+This blog remains temporarily blocked following Jorge Cortell‘s lawyers advice. This post‘s purpose is only for the Expert-Testimony Report needed for the ongoing investigation.</description>
+    </item>
+    
+    <item>
+      <title>Avances y retrocesos</title>
+      <link>https://bloges.cortell.net/2006/10/avances-y-retrocesos/</link>
+      <pubDate>Tue, 10 Oct 2006 09:34:14 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/10/avances-y-retrocesos/</guid>
+      <description>Un pasito alante, un pasito atrás (o algo así­ decí­a la canción).
+Mientras nos enteramos de que Google lanzaCodesearch, un sevicio de búsqueda en código de código (abierto), o de que la segunda cadena de hipermercados de Argentina se pasaa un ERP libre (como si nos hiciesen falta más ejemplosde grandes empresas entendiendo lo obvio), también tenemos que leer cosas espeluznantes y retrógradascomo que- el gobierno español pretende subvencionar el cine español subiendo las entradas, los DVD y tasando los doblajes.</description>
+    </item>
+    
+    <item>
+      <title>Navegador con cifrado en llave USB</title>
+      <link>https://bloges.cortell.net/2006/09/navegador-con-cifrado-en-llave-usb/</link>
+      <pubDate>Sat, 23 Sep 2006 11:24:51 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/09/navegador-con-cifrado-en-llave-usb/</guid>
+      <description>Como comenta Alejandro en KernelPanic:
+Un Firefox adaptado para cifrar la información y ocultar la IP por medio de Tor, pudiéndose ejecutar desde llave USB (donde pueden residir los enlaces favoritos y las dascargas) sin instalar:
+https://torpark.nfshost.com/
+https://www.pcworld.com/printable/article/id,127200/printable.html#</description>
+    </item>
+    
+    <item>
+      <title>-¡Todos en pie de guerra! Vuelven las patentes de software, de forma traidora</title>
+      <link>https://bloges.cortell.net/2006/09/todos-en-pie-de-guerra-vuelven-las-patentes-de-software-de-forma-traidora/</link>
+      <pubDate>Mon, 18 Sep 2006 09:28:29 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/09/todos-en-pie-de-guerra-vuelven-las-patentes-de-software-de-forma-traidora/</guid>
+      <description>Ayer mismo, en la Fraga LAN Party, alguien me preguntaba sobre las patentes de software. Le respondí­ que habí­a que estar atento, porque no tardarí­an en volver a atacar, con más fuerza y de modo más traidor todaví­a. -¡Vaya que acerté!
+Como avisaba Metsuke, gracias a JuanTomás nos enteramosde que en dos semanas nos quieren colar la patentabilidad del software en Europa, a través de la EPLA, sin debate, y por sorpresa.</description>
+    </item>
+    
+    <item>
+      <title>Zune (de Microsoft) atenta contra los creadores</title>
+      <link>https://bloges.cortell.net/2006/09/zune-de-microsoft-atenta-contra-los-creadores/</link>
+      <pubDate>Mon, 18 Sep 2006 09:08:08 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/09/zune-de-microsoft-atenta-contra-los-creadores/</guid>
+      <description>Tal y como publica BoingBoing(al que llego via Metsuke) haciéndose eco de ZuneInsider, el &amp;ldquo;reproductor MP3&amp;rdquo; de Microsoft Zune (que como siempre, llegan tarde y lo hacen mal) atenta contra la libertad del creador, pues independientemente de lo que éste quiera, introduce DRM (Restricción de Derechos Digitales) a los archivos que en él son insertados.
+ Como dice Medialoper: DRM Viral. Lo que nos faltaba. Eso ya no es ser malo, es ser malí­simo.</description>
+    </item>
+    
+    <item>
+      <title>-¿Conoces a alguien que quiera irse a trabajar a Nueva York?</title>
+      <link>https://bloges.cortell.net/2006/09/conoces-a-alguien-que-quiera-irse-a-trabajar-a-nueva-york/</link>
+      <pubDate>Thu, 07 Sep 2006 08:54:28 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/09/conoces-a-alguien-que-quiera-irse-a-trabajar-a-nueva-york/</guid>
+      <description>Necesito un/a gerente-comercial para la división norteamericana de una de mis empresas (software libre), y un/a técnico informático.
+Más info aquí­.</description>
+    </item>
+    
+    <item>
+      <title>Explosión de creatividad: creación 2.0</title>
+      <link>https://bloges.cortell.net/2006/09/explosi%C3%B3n-de-creatividad-creaci%C3%B3n-2.0/</link>
+      <pubDate>Thu, 07 Sep 2006 08:46:50 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/09/explosi%C3%B3n-de-creatividad-creaci%C3%B3n-2.0/</guid>
+      <description>Si anteayer me preguntabacuándo llegarán los polí­ticos 2.0, hoy descubro que la creación 2.0 YA ha llegado.
+Hace mucho tiempo que algunos hablamos de un futuro donde el consumidor pasa a ser productor, el espectador pasa a ser creador&amp;hellip; pero los ejemplos no abundaban.
+Hoy, tras navegas dos minutos por la red, he tropezado accidentalmente con tantos ejemplos de este cambio de paradigma, que puedo decir tranquilo y convencido de que las cosas han cambiado y ya no hay vuelta atrás:</description>
+    </item>
+    
+    <item>
+      <title>Proyecto interesante</title>
+      <link>https://bloges.cortell.net/2006/08/proyecto-interesante/</link>
+      <pubDate>Wed, 30 Aug 2006 18:02:12 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/08/proyecto-interesante/</guid>
+      <description>Gracias a David, leo en la Biblioteca de las Indias Electrónicasque se está realizando un esfuerzo por traducir la plataforma de aprendizaje online Clarolineal quechua, el aymara y el guaraní­, las tres principales lenguas de latinoamérica, tras el castellano y el portugués (idiomas a los que ya está traducido).
+La iniciativa me parece genial, y podrí­a tener un interesante impacto social. Yo ya he contribuí­do al proyecto-¿y tú?</description>
+    </item>
+    
+    <item>
+      <title>OTR: mensajerí­a instantánea segura</title>
+      <link>https://bloges.cortell.net/2006/08/otr-mensajer%C3%ADa-instant%C3%A1nea-segura/</link>
+      <pubDate>Mon, 07 Aug 2006 21:37:48 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/08/otr-mensajer%C3%ADa-instant%C3%A1nea-segura/</guid>
+      <description>El tí­tulo lo dice todo. Por fin tenemos mensajerí­a instantánea segura(de verdad) gracias los amigos de CDC.</description>
+    </item>
+    
+    <item>
+      <title>Pásalo: la Junta de Extremadura migra TODA la admin. a Soft Libre</title>
+      <link>https://bloges.cortell.net/2006/08/p%C3%A1salo-la-junta-de-extremadura-migra-toda-la-admin.-a-soft-libre/</link>
+      <pubDate>Thu, 03 Aug 2006 07:58:22 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/08/p%C3%A1salo-la-junta-de-extremadura-migra-toda-la-admin.-a-soft-libre/</guid>
+      <description>A veces cuando una noticia está por todas partes, ni la menciono.
+Pero es cierto que cuando la noticia merece la pena y es positiva, todo el mundo deberí­a de enterarse. Así­ me lo recuerda un mensaje de Hispalinux, que os transmito í­ntegro para que actuéis como caja de resonancia en la medida de vuestras posibilidades:
+Estimados Socios
+Debido a la importancia de la noticia acaecida el dia 25 de julio en la que la Junta de Extremadura anuncia que en un año todos los ordenadores de los empleados públicos usaran Software libre y estándares abiertos consideramos que es muy importante hacer que dicha noticia se propague lo más posible tanto en sitios en español como (sobre todo) en inglés por lo que os solicitamos que:</description>
+    </item>
+    
+    <item>
+      <title>Hackers On Planet Earth, dí­a 2</title>
+      <link>https://bloges.cortell.net/2006/07/hackers-on-planet-earth-d%C3%ADa-2/</link>
+      <pubDate>Sun, 23 Jul 2006 06:16:46 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/07/hackers-on-planet-earth-d%C3%ADa-2/</guid>
+      <description>Sí­, me han dado el número 69. -¿Por qué será? -¿querrá decir algo? La verdad es que con esta chapa puesta, se inician muchas conversaciones&amp;hellip; 😉
+El amigo AndOr se compró ayer un pedazo de cámara EOS Digital Rebel XT, y está haciendo él las fotos. Aquí­ tenéis su album de Flickr, y aquí­ el mí­o.
+Hoy también está siendo un dí­a muy interesante:
+– Por la mañana me he perdido Low Level Firmware Analysis and Hacking (si no fuese por los Boston Creme de Dunkin Donuts, y las latas de Jolt, no habrí­a quien se levantase), pero sí­ he llegado a Phone Phreaking 101.</description>
+    </item>
+    
+    <item>
+      <title>Hackers On Planet Earth, dí­a 1</title>
+      <link>https://bloges.cortell.net/2006/07/hackers-on-planet-earth-d%C3%ADa-1/</link>
+      <pubDate>Sat, 22 Jul 2006 17:01:21 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/07/hackers-on-planet-earth-d%C3%ADa-1/</guid>
+      <description>La cantidad y calidad de conferenciasen este maravilloso evento es simplemente alucinante. Pero también es desesperantemente frustrante, pues al haber tres salas de conferencias, siempre (y eso es desde las 8 de la mañana hasta pasada la media noche) hay algo muy interesante que ver, oir, o hacer. Y por si acaso, también hay un área donde se proyectan cortos, machinima, etc.
+Por ello (y porque llevo más de 40 horas sin dormir), voy a hacer unos posts diarios en plan brainstorming, y ya haré algo más elaborado cuando me recupere.</description>
+    </item>
+    
+    <item>
+      <title>Motivo 87.535 para NO usar Windows: FIN DE SOPORTE</title>
+      <link>https://bloges.cortell.net/2006/07/motivo-87.535-para-no-usar-windows-fin-de-soporte/</link>
+      <pubDate>Wed, 12 Jul 2006 08:12:07 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/07/motivo-87.535-para-no-usar-windows-fin-de-soporte/</guid>
+      <description>Para aquellos que deciden seguir usando Windows como Sistema Operativo, pese a que alguien les haya hablado de las múltiples ventajas del software libre (como GNU/Linux) o incluso del MacOSX, con la triste excusa del soporte técnico (y digo triste porque un soporte técnico telefónico lentí­simo, que pagas a parte, y que en la mayorí­a de casos no ayuda, o incluso empeora las cosas, y que además convierte en &amp;ldquo;su&amp;rdquo; &amp;ldquo;propiedad intelectual&amp;rdquo; tu experiencia, es una $&amp;amp;%* mie@#&amp;quot;), para ellos digo, tengo una noticia:</description>
+    </item>
+    
+    <item>
+      <title>GNULinux 25% de las ventas de Dell</title>
+      <link>https://bloges.cortell.net/2006/06/gnulinux-25-de-las-ventas-de-dell/</link>
+      <pubDate>Wed, 28 Jun 2006 12:28:05 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/06/gnulinux-25-de-las-ventas-de-dell/</guid>
+      <description>Para los que han estado en Marte en estos dos últimos años y no tení­an conexión, aquí­ va un dato (fuente) que les hará comprender rápidamente la importancia de GNULinux en el sector informático hoy:
+â€œVemos que con el tiempo los números crecen, y no disminuyen. Linux es ahora un cuarto de nuestras ventas.â€, dijo Jay Parker, director mundial de marketing de servidores PowerEdge.
+Hace poco tiempo, GNU/Linux no formaba parte de la estrategia de ventas de la empresa Dell, recientemente esta compañí­a se decidió a dar el salto y ofrece soluciones basadas en software libre.</description>
+    </item>
+    
+    <item>
+      <title>Tabla para elegir cliente P2P cifrado y anónimo</title>
+      <link>https://bloges.cortell.net/2006/06/tabla-para-elegir-cliente-p2p-cifrado-y-an%C3%B3nimo/</link>
+      <pubDate>Sat, 17 Jun 2006 09:27:58 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/06/tabla-para-elegir-cliente-p2p-cifrado-y-an%C3%B3nimo/</guid>
+      <description>Los compañeros de faqoffme enví­an un interesantí­simo enlace, que aunque está en italiano, seguro que os gusta: Tabla para elegir cliente P2P cifrado y anónimo.</description>
+    </item>
+    
+    <item>
+      <title>Increí­ble: sigue la paranoia e incompetencia tecnológica del gobierno Bush</title>
+      <link>https://bloges.cortell.net/2006/06/incre%C3%ADble-sigue-la-paranoia-e-incompetencia-tecnol%C3%B3gica-del-gobierno-bush/</link>
+      <pubDate>Thu, 01 Jun 2006 12:57:27 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/06/incre%C3%ADble-sigue-la-paranoia-e-incompetencia-tecnol%C3%B3gica-del-gobierno-bush/</guid>
+      <description>Si no lo leono lo creo. Lenovo (antes IBM) ve amenazadala venta de 16.000 ordenadores al gobierno de Bush -¡por ser Chinos! (excusa oficial: miedo al espionaje). Por supuesto, Lenovo ha protestado.
+-¿Conoce esta gente los cortafuegos, chequeos electrónicos, medición y análisis de tráfico de red, etc, etc?
+Por cierto, -¿saben que el software libre les da la garantí­a y tranquilidad de poder comprobar el código, y modificarlo si es necesario?</description>
+    </item>
+    
+    <item>
+      <title>Cambios de postura (canon y patentabilidad de software) -¿a qué juegan?</title>
+      <link>https://bloges.cortell.net/2006/05/cambios-de-postura-canon-y-patentabilidad-de-software-a-qu%C3%A9-juegan/</link>
+      <pubDate>Fri, 26 May 2006 00:21:16 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/05/cambios-de-postura-canon-y-patentabilidad-de-software-a-qu%C3%A9-juegan/</guid>
+      <description>Por una parte el PP, que propuso y consiguió aprobar en el Senado una moción para acabar con el canon, ahora en el Congreso vota en contra de su propia doctrina (durante la tramitación de la reforma de la Ley de Propiedad Intelectual).
+MUY MAL (y además preguntándonos -¿qué sobre bajo mano o retorcida presión ha conseguido este cambio de chaqueta?).
+Por otra parte Yorus Yorus nos enví­a otra noticia: la Comisión Europea, que ha estado permitiendo que la Oficina Europae de Patentes otorgue patentes de software en Europa, en contra de lo que dice la ley, ahora diceque en la nueva directiva se recoge que toda patente que se otorgue en contra de la ley queda invalidada (o sea, que pasando por tribunales y gastándose un pastón, podremos luchar contra cualquier patente de software).</description>
+    </item>
+    
+    <item>
+      <title>Software Libre que uso casi a diario</title>
+      <link>https://bloges.cortell.net/2006/05/software-libre-que-uso-casi-a-diario/</link>
+      <pubDate>Thu, 25 May 2006 23:51:36 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/05/software-libre-que-uso-casi-a-diario/</guid>
+      <description>Un amigo total noob, harto de leer y leer artí­culos sobre software libre, y que cree que install, make, makeinstall es similar a abracadabra patadecabra, o a in nomine pater me ha pedido que le dé ejemplos de software libre que uso a diario o casi. Los &amp;ldquo;fundamentales&amp;rdquo;.
+Ya que he recopilado la lista para él, pues ya puestos la comparto con vosotros -¿no? (y así­, además, seguro que se generan un montón de comentarios interesantes con otros programas a tener en cuenta).</description>
+    </item>
+    
+    <item>
+      <title>Ya podemos pedir Ubuntus 6.06 LTS (Dapper Drake)</title>
+      <link>https://bloges.cortell.net/2006/05/ya-podemos-pedir-ubuntus-6.06-lts-dapper-drake/</link>
+      <pubDate>Wed, 24 May 2006 09:49:12 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/05/ya-podemos-pedir-ubuntus-6.06-lts-dapper-drake/</guid>
+      <description>Pues eso, a pedir, instalar, y difundir Software Libre.</description>
+    </item>
+    
+    <item>
+      <title>Mircro$oft: donde dije digo digo Diego</title>
+      <link>https://bloges.cortell.net/2006/05/mircrooft-donde-dije-digo-digo-diego/</link>
+      <pubDate>Wed, 24 May 2006 01:13:45 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/05/mircrooft-donde-dije-digo-digo-diego/</guid>
+      <description>Hace unos meses, tras el anuncioefectuado por el MIT sobre el portátil de menos de 100$ para paí­ses subdesarrollados, Bill Gates (Micro$oft) se burlóde la iniciativa.
+Ahora la misma Micro$oft anunciaun sistema de &amp;ldquo;pre-pago&amp;rdquo; o &amp;ldquo;pago-por-uso&amp;rdquo; del ordenador para paí­ses en ví­as de desarrollo. La misma Micro$oft dice que se ha &amp;ldquo;inspirado&amp;rdquo; en el éxito de las tarjetas pre-pago de los móviles.
+Lo más indignante es que el sistema (XP Starter Edition) es el mismo que cualquier otro XP, pero limitado: sólo podrá ejecutar 3 programas a la vez (lo cual de todos modos siendo Windows, es una buena idea), sus gráficos serán de baja calidad, etc.</description>
+    </item>
+    
+    <item>
+      <title>La Administración Pública deberí­a usar Software Libre, según la Constitución</title>
+      <link>https://bloges.cortell.net/2006/05/la-administraci%C3%B3n-p%C3%BAblica-deber%C3%ADa-usar-software-libre-seg%C3%BAn-la-constituci%C3%B3n/</link>
+      <pubDate>Fri, 19 May 2006 00:43:40 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/05/la-administraci%C3%B3n-p%C3%BAblica-deber%C3%ADa-usar-software-libre-seg%C3%BAn-la-constituci%C3%B3n/</guid>
+      <description>Lo dice Esteban González Pons, Conseller de Presidencia de la Generalitat Valenciana y promotor y ex-Presidente de la Comisión de Internet del Senado, el 17 de mayo, dí­a de Internet, en Tribuna:Una Constitución pro-software libre(ELPAIS.es)
+(Gracias por el aviso Roberto).
+Por cierto -¿saben cómo pasé el dí­a de internet? No fue posteando, no. Fue luchando contra el spam, instalando la versión 2 alpha (me llaman &amp;ldquo;desayuno peligro con patatas&amp;rdquo; 😉 ) de Bad Behaviour para Word Press.</description>
+    </item>
+    
+    <item>
+      <title>Las Sociedades de Gestión ROBAN 600.000 euros del software libre</title>
+      <link>https://bloges.cortell.net/2006/05/las-sociedades-de-gesti%C3%B3n-roban-600.000-euros-del-software-libre/</link>
+      <pubDate>Thu, 18 May 2006 10:18:18 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/05/las-sociedades-de-gesti%C3%B3n-roban-600.000-euros-del-software-libre/</guid>
+      <description>Según esta nota de prensade Hipalinux (cito una parte):
+ _-¿Qué razón puede haber para que un músico cobre por cada una de los millones de descargas de GNU/Linex, Guadalinex, Molinux, Max, Catix&amp;hellip;y los miles de programas libres que estan en Internet? -¿acaso lo que aporta un músico a la sociedad es más valioso que lo que hace un cientí­fico, un docente, un ingeniero, cualquier profesional o la propia Administración Pública?</description>
+    </item>
+    
+    <item>
+      <title>Micro$oft: yo me lo guiso yo me lo como (y no entiendo la red)</title>
+      <link>https://bloges.cortell.net/2006/05/microoft-yo-me-lo-guiso-yo-me-lo-como-y-no-entiendo-la-red/</link>
+      <pubDate>Wed, 10 May 2006 00:56:36 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/05/microoft-yo-me-lo-guiso-yo-me-lo-como-y-no-entiendo-la-red/</guid>
+      <description>Todos sabemos del talante poco colaborativo y lo poco que le gusta la competencia a Micro$oft. Sólo hay que leer a su principal directivo decir que le come el coco a sus hijos para que no usen Google ni tengan un iPod para darse cuenta del talante de la compañí­a. Hasta ahí­ nada nuevo.
+También sabemos todos de lo poco que le gustan los estándares y la interoperabilidad a Micro$oft. Un reciente ejemplo lo encontramos en Baquia, que nos comenta lo que ocurre cuando intentas entrar en MSN Music España (por cierto -¿quién querrí­a entrar en esa web, teniendo música libre y sin DRM?</description>
+    </item>
+    
+    <item>
+      <title>ODF por fin un estándar ISO</title>
+      <link>https://bloges.cortell.net/2006/05/odf-por-fin-un-est%C3%A1ndar-iso/</link>
+      <pubDate>Mon, 08 May 2006 01:13:10 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/05/odf-por-fin-un-est%C3%A1ndar-iso/</guid>
+      <description>Por fin el ODF (Open Document Formt, el formato de archivos de muchos programas de ofimática libres, como OpenOffice) ha sido declarado un estándar oficial por ISO (International Standards Organisation).
+Eso son buenas noticias para el avance del software libre.
+A su vez se ha desarrollado un plug-in para importar archivos ODF ([corrección de David: .odt, .ods y .odp] a.doc, .xls, y .ppt de Micro$oft Office). -¡Que gusto da ver esta imagen!</description>
+    </item>
+    
+    <item>
+      <title>Sí­ habrá conferencia en la UPV el 2 de mayo</title>
+      <link>https://bloges.cortell.net/2006/04/s%C3%AD-habr%C3%A1-conferencia-en-la-upv-el-2-de-mayo/</link>
+      <pubDate>Sat, 29 Apr 2006 13:54:10 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/04/s%C3%AD-habr%C3%A1-conferencia-en-la-upv-el-2-de-mayo/</guid>
+      <description>[Actualización 2: aquí­ está disponible el ví­deo -falta parte del principio y parte del final- gracias a Daniel de faltantornillos]
+[Actualización: aquí­está disponible la presentación en PDF. Si el enlace directo no va, emplead este indirectoy cerrad la ventana de publicidad que bloquea el acceso al enlace]
+Primero me invitanpiden que confirme fecha y horario para dar una conferencia.
+Luego deciden no autorizarla.
+Ahora un grupo de alumnos reserva la Sala de Proyectos de la Casa del Alumno y me piden que imparta la conferencia.</description>
+    </item>
+    
+    <item>
+      <title>Voto electrónico, ilegal en Texas</title>
+      <link>https://bloges.cortell.net/2006/04/voto-electr%C3%B3nico-ilegal-en-texas/</link>
+      <pubDate>Fri, 28 Apr 2006 14:02:25 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/04/voto-electr%C3%B3nico-ilegal-en-texas/</guid>
+      <description>Carl Haddick denuncia en CPSR:
+TODOS los sistemas de voto (electrónicos, accesorios, etc) en el estado de Texas tienen que ser aprobados por el Secretario de Estado.
+El Secretario de Estado ha confirmado que no ha aprobado NINGUNO.
+No comment. Bueno, sí­, no puedo evitarlo: -¡Nos están robando el poder, el derecho, la legitimidad, las instituciones, el debate y la libertad!
+-¿Cuándo aprenderemos a no admirar esos reincidentes delincuentes? -¿Cometeremos nosotros los mismos errores?</description>
+    </item>
+    
+    <item>
+      <title>‘Compradores fantasmas‘ de Microsoft &amp;quot;casi en el borde de un delito provocado&amp;quot; según juez</title>
+      <link>https://bloges.cortell.net/2006/04/compradores-fantasmas-de-microsoft-quotcasi-en-el-borde-de-un-delito-provocadoquot-seg%C3%BAn-juez/</link>
+      <pubDate>Wed, 26 Apr 2006 10:46:41 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/04/compradores-fantasmas-de-microsoft-quotcasi-en-el-borde-de-un-delito-provocadoquot-seg%C3%BAn-juez/</guid>
+      <description>En &amp;ldquo;Hacen el ridí­culo: Micro$oft&amp;rdquo;
+Via Asociación de Internautas / El Navegante (El Mundo):
+25/04/06: Seis años de proceso, los tres acusados (absueltos) y un juez que califica la conducta de un inspector de Microsoft (los ‘compradores fantasmas‘) de actuación &amp;ldquo;casi en el borde de un delito provocado&amp;rdquo;, literalmente.
+[Actualización] Y
+En diario ADN leo hoy: Los abogados de Microsoft aducen que vender Windows sin el Media Player les lleva al fracaso.</description>
+    </item>
+    
+    <item>
+      <title>Software privativo disfrazado de libre en la Administración Pública</title>
+      <link>https://bloges.cortell.net/2006/04/software-privativo-disfrazado-de-libre-en-la-administraci%C3%B3n-p%C3%BAblica/</link>
+      <pubDate>Tue, 18 Apr 2006 10:34:18 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/04/software-privativo-disfrazado-de-libre-en-la-administraci%C3%B3n-p%C3%BAblica/</guid>
+      <description>No hace ni unas horas que he escrito este post con relación al Software Libre y la Administración Pública, y va y resulta que en la Consejerí­a de Educación de la Generalidad de Cataluña (escrito en Castellano como castigo) intentan &amp;ldquo;colar&amp;rdquo; software privativo dentro de su distribución de sistema operativo GNULinux (está de moda tener una distribución propia, si hasta mi vecina tiene una oiga, -¿por qué no?) llamada Linkcat.</description>
+    </item>
+    
+    <item>
+      <title>Admin Pública, datos, formatos y software</title>
+      <link>https://bloges.cortell.net/2006/04/admin-p%C3%BAblica-datos-formatos-y-software/</link>
+      <pubDate>Tue, 18 Apr 2006 09:27:09 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/04/admin-p%C3%BAblica-datos-formatos-y-software/</guid>
+      <description>Como aquella estupenda pelí­cula de Peter Greenaway &amp;ldquo;El cocinero, el ladrón, su mujer, y su amante&amp;rdquo;, en este post se juntan cosas que parecen muchas veces pertenecer a mundos totalmente diversos: Administración Pública, datos, formatos y software.
+Hace unos dí­as me enfadó mucho que el Instituto de la Pequeña y Mediana Empresa de Valencia (IMPIVA) publicase una información de interés para una de mis empresas en &amp;ldquo;formato&amp;rdquo; EXE Sí­, una auténtica barbaridad: publicar texto e imágenes en modo ejecutable -¡como si no hubiese otra forma de hacerlo!</description>
+    </item>
+    
+    <item>
+      <title>Patentes: el fin(al) de la innovación</title>
+      <link>https://bloges.cortell.net/2006/03/patentes-el-final-de-la-innovaci%C3%B3n/</link>
+      <pubDate>Wed, 29 Mar 2006 08:18:59 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/03/patentes-el-final-de-la-innovaci%C3%B3n/</guid>
+      <description>Hay gente, que en su candor e ignorancia, cree de todo corazón que el actual sistema de patentes fue inventado y sigue siendo útil hoy en dí­a para promocionar e incentivar la invención y la innovación.
+A parte de invitarles a que despierten y lean &amp;ldquo;The case against patents&amp;rdquo; (y ya puestos &amp;quot; The case against Intellectual Property o &amp;ldquo;Against Intellectual Property&amp;quot;), hará falta sólo una frase para que cuestionen esa creencia irracional (aunque muy bien sonante): IBM, lider mundial indiscutible de patentes, ha propuesto al gobierno americano y su oficina de patentes una reforma del sistema para hacerlo menos restrictivo (incluso han liberado y regalado miles de patentes para evitar que sirvan de freno a desarrollos de terceros, como la comunidad del Software Libre) y evitar así­ que el sistema sirva para colapsar la innovación (que es lo que está ocurriendo con casos como el de MercExchange Vs eBay, Eolas Vs Microsoft, o RIM Vs Blackberry).</description>
+    </item>
+    
+    <item>
+      <title>Genial tecnologí­a</title>
+      <link>https://bloges.cortell.net/2006/03/genial-tecnolog%C3%ADa/</link>
+      <pubDate>Tue, 28 Mar 2006 07:46:33 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/03/genial-tecnolog%C3%ADa/</guid>
+      <description>Mi amigo David me escribe:
+===================
+&amp;ldquo;Marabunta&amp;rdquo; es una plataforma de mensajerí­a Anónima, la cual permite el intercambio de mensajes entre todos los nodos de la red manteniendo la privacidad de estos.
+En realidad es como un tablón de mensajes donde lo único que importa es la compartición de información de forma libre. Ademas es una plataforma completamente descentralizada ya que son los propios nodos los que se autoorganizan y aumentan sus conexiones con el resto, haciendo que cada mensaje llegue a todos los demás nodos, por lo que es una red no sensible a la censura.</description>
+    </item>
+    
+    <item>
+      <title>Cuando los hackers salvaron Venezuela</title>
+      <link>https://bloges.cortell.net/2006/03/cuando-los-hackers-salvaron-venezuela/</link>
+      <pubDate>Mon, 27 Mar 2006 12:29:53 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/03/cuando-los-hackers-salvaron-venezuela/</guid>
+      <description>Domingo G. me enví­a esta vieja pero completamente actual historia que ilustra perféctamente los peligros que conlleva el emplear software privativo para TODA la sociedad (sí­, incluí­das grandes empresas y polí­ticos):
+Cuando los hackers salvaron Venezuela
+&amp;ldquo;La fascinante historia de porqué la petrolera estatal PDVSA es la mayor partidaria del Software Libre en Venezuela se remonta al paro de diciembre del 2002, cuando los ricos y poderosos opositores al presidente Hugo Chávez a cargo de la petrolera decidieron cerrar la empresa, tomando como rehén a todos sus recursos y asegurándose el control de toda su infraestructura de IT.</description>
+    </item>
+    
+    <item>
+      <title>Contra patentes de soft otra vez</title>
+      <link>https://bloges.cortell.net/2006/03/contra-patentes-de-soft-otra-vez/</link>
+      <pubDate>Mon, 27 Mar 2006 12:18:01 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/03/contra-patentes-de-soft-otra-vez/</guid>
+      <description>La Comisión Europea, a través del &amp;ldquo;Acuerdo sobre Litigación de patentes Europeas y Comunitarias&amp;rdquo;, combinado con el Protocolo de Londres podrí­a colarnos las Patentes de Software en Europa por la puerta de atrás y sin vaselina. Infórmate, (si no lo entiendes porque está en Inglés, aquí­ lo tienes en Catalán) firma en contra (antes del dí­a 30) y cruza los dedos.
+[Actaulización: Carlos me enví­a enlaces al análisis de FFII sobre los devastadores efectos que la aprobación de la patentabilidad de software en europa tendrí­a, y cómo contestar y expresar tu oposición]</description>
+    </item>
+    
+    <item>
+      <title>Consejo al Gobierno -¿de parte de quién y con qué objetivo?</title>
+      <link>https://bloges.cortell.net/2006/03/consejo-al-gobierno-de-parte-de-qui%C3%A9n-y-con-qu%C3%A9-objetivo/</link>
+      <pubDate>Fri, 17 Mar 2006 00:59:03 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/03/consejo-al-gobierno-de-parte-de-qui%C3%A9n-y-con-qu%C3%A9-objetivo/</guid>
+      <description>Tal y como relata El Mundo, el Ministerio de Administraciones Públicas (MAP) ha creado un consejo asesor para dar impulso a la administración electrónica, y poner en marcha proyectos como el DNI digital, que ya ha comenzado en España. Temblad ciudadanos. No por los documentos &amp;ldquo;digitales&amp;rdquo;, sino por una implementación deficiente, peligrosa, y preparada para que se vulneren nuestros derechos.
+Volviendo al &amp;ldquo;Consejo Asesor&amp;rdquo;, formarán parte del mismo la consejera delegada de Microsoft en España, Rosa Marí­a Garcí­a; la presidenta de IBM España, Amparo Moraleda; el presidente de BT España, Luis Alvarez; el presidente de Accenture España, Carlos Vidal y el presidente del Consejo Superior de las Cámaras de Comercio, Javier Gómez-Navarro, entre otros.</description>
+    </item>
+    
+    <item>
+      <title>Obras Libres y/o Gratis</title>
+      <link>https://bloges.cortell.net/2006/03/obras-libres-y/o-gratis/</link>
+      <pubDate>Wed, 08 Mar 2006 15:38:02 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/03/obras-libres-y/o-gratis/</guid>
+      <description>Lo que en principio iba a ser un post, lo he convertido en una página para poder actualizarla y que esté siempre en la &amp;ldquo;portada&amp;rdquo;.
+-¿No sabes qué regalarle a la novia el dí­a de vuestro aniversario? -¿no sabes qué regalarle a tu hijo el dí­a de su cumpleaños? -¿te aburren los canales de TV de siempre? -¿te parece repetitiva y obsoleta la fórmula POP del bum-bum-bum?&amp;hellip; -¡aquí­ tienes unas cuantas ideas para empezar!</description>
+    </item>
+    
+    <item>
+      <title>Cómo demostrar que una empresa de software miente te puede costar 15.000 euros (y a ellos nada)</title>
+      <link>https://bloges.cortell.net/2006/03/c%C3%B3mo-demostrar-que-una-empresa-de-software-miente-te-puede-costar-15.000-euros-y-a-ellos-nada/</link>
+      <pubDate>Fri, 03 Mar 2006 11:45:24 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/03/c%C3%B3mo-demostrar-que-una-empresa-de-software-miente-te-puede-costar-15.000-euros-y-a-ellos-nada/</guid>
+      <description>Increí­ble pero cierto: leed esta noticia y entenderés cómo intentan transmitir una falsa sensación de seguridad a través de la ocultación. Deleznable. -¡No les permitas decir que &amp;ldquo;por tu seguridad&amp;rdquo; hay que tener la boca cerrada&amp;rdquo;!</description>
+    </item>
+    
+    <item>
+      <title>La SGAE, chula y cabezota, se pone la soga al cuello: -¿quién insulta a quién?</title>
+      <link>https://bloges.cortell.net/2006/02/la-sgae-chula-y-cabezota-se-pone-la-soga-al-cuello-qui%C3%A9n-insulta-a-qui%C3%A9n/</link>
+      <pubDate>Wed, 08 Feb 2006 13:09:14 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/02/la-sgae-chula-y-cabezota-se-pone-la-soga-al-cuello-qui%C3%A9n-insulta-a-qui%C3%A9n/</guid>
+      <description>En su lí­nea amenazadora y pleiteante, la SGAE asegura a Tele5 que &amp;ldquo;van a llevar a los tribunales a todas las páginas webs donde se insulte o se calumnie a esta organización o a sus directivos&amp;rdquo;.
+Eso es una espléndida noticia que merece todo mi respeto. Respeto por emplear los recursos que el estado de derecho pone al alcance de cualquier ciudadano o institución. Y espléndida por muchas razones:
+– Quizá en esos juicios se permita aportar pruebas que demuestren a los jueces lo que realmente son en la SGAE.</description>
+    </item>
+    
+    <item>
+      <title>Profesor de Harvard: patentes para bloquear la investigación</title>
+      <link>https://bloges.cortell.net/2006/02/profesor-de-harvard-patentes-para-bloquear-la-investigaci%C3%B3n/</link>
+      <pubDate>Mon, 06 Feb 2006 19:57:21 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/02/profesor-de-harvard-patentes-para-bloquear-la-investigaci%C3%B3n/</guid>
+      <description>Según Josh Lerner, Profesor de Banca de Inversión de la Cátedra Jacob H. Schiff de la Harvard Business School, y autor, junto con el profesor Paul A. Gompers (también de HBS), de The Money of Invention, &amp;ldquo;Some companies patent anything that moves to block innovation by competitors&amp;rdquo;. Se puede decir más alto pero no más claro. Y yo puedo ser un radical, un indocumentado, y todo lo que se quiera decir de mí­, pero este señor sabe lo que dice.</description>
+    </item>
+    
+    <item>
+      <title>Guerra contra la patentabilidad del software, parte II</title>
+      <link>https://bloges.cortell.net/2006/02/guerra-contra-la-patentabilidad-del-software-parte-ii/</link>
+      <pubDate>Mon, 06 Feb 2006 16:12:49 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/02/guerra-contra-la-patentabilidad-del-software-parte-ii/</guid>
+      <description>Si creí­ais que la guerra contra la patentabilidad del software habí­a acabado, atentos a esto que enví­a Alberto Barrionuevo:
+[&amp;hellip;] conferencia a lo grande que han organizado los pro-patentes de software el próximo dí­a 8, miércoles, en la Escuela de Organización Industrial, auspiciada por el Ministerio de Industria. Pretenden relanzar las patentes de software por medio de la Directiva de Patente Comunitaria. Los que quieran asistir, por favor que me lo diga para coordinarnos.</description>
+    </item>
+    
+    <item>
+      <title>Micro$oft en las gasolineras: -¿lloro, me rí­o o salto de alegrí­a?</title>
+      <link>https://bloges.cortell.net/2006/01/microoft-en-las-gasolineras-lloro-me-r%C3%ADo-o-salto-de-alegr%C3%ADa/</link>
+      <pubDate>Tue, 31 Jan 2006 13:46:55 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/01/microoft-en-las-gasolineras-lloro-me-r%C3%ADo-o-salto-de-alegr%C3%ADa/</guid>
+      <description>Por increí­ble que parezca, esta FOTO (real, no es broma) lo demuestra: Micro$oft quiere instalar pantallas de 10‘4&amp;rdquo; en surtidores de gasolina (como los fabricados por Dresser Wayne para, y cito (sic) &amp;ldquo;ver anuncios, comprar música, o pedir café mientras llenamos el depósito&amp;rdquo;.
+No sé si llorar, reirme, o saltar de alegrí­a, pues hay motivos para las tres cosas:
+– Llorar: Micro$oft queriéndose meter en todo, fabricantes tan zumbados que creen que la empresa de Redmond es la mejor partner tecnológico, las ganas que tienen de sacarnos el dinero, la demostración de que no somos más que consumidores para ellos (no quieren que veas los precios en otras gasolineras, las noticias o la predicción meteorológica, no, quieren que veas anuncios y compres)&amp;hellip; y el sólo hecho de tener que ver el logo de Windows cuando hago algo tan poco tecnológico y primitivo como llenar de combustible un tanque para aprovechar su explosión para desplazarme.</description>
+    </item>
+    
+    <item>
+      <title>Llega la hora de la verdad</title>
+      <link>https://bloges.cortell.net/2006/01/llega-la-hora-de-la-verdad/</link>
+      <pubDate>Sun, 22 Jan 2006 14:19:00 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/01/llega-la-hora-de-la-verdad/</guid>
+      <description>Desde hace mucho tiempo los escritores de ciencia ficción (y yo desde pequeñito) sueñan (pesadilla o no) con un mundo donde los humanos sean sustituí­dos en determinadas labores por máquinas. Desde la justicia a la seguridad, pasando por la medicina, se me ocurren miles de ejemplos donde esto podrí­a ser muy deseable SI SE HACE BIEN. Y no hay mejor ejemplo que la administración pública.
+Ya ha empezado la cuenta atrás.</description>
+    </item>
+    
+    <item>
+      <title>Los peligros ocultos de la Red IX: El espí­a traidor en casa II (empresas) (PC&amp;amp;I 37)</title>
+      <link>https://bloges.cortell.net/2006/01/los-peligros-ocultos-de-la-red-ix-el-esp%C3%ADa-traidor-en-casa-ii-empresas-pcampi-37/</link>
+      <pubDate>Sun, 22 Jan 2006 02:56:50 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/01/los-peligros-ocultos-de-la-red-ix-el-esp%C3%ADa-traidor-en-casa-ii-empresas-pcampi-37/</guid>
+      <description>Si el mes anterior hablábamos del spyware distribuí­do o esponsorizado por gobiernos, en esta ocasión vamos a hablar del que distribuyen las empresas por iniciativa propia. Los ejemplos, por desgracia, son más abundantes de lo que a priori se podrí­a pensar veamos un par (hay docenas).
+Microsoft fue la primera (que yo sepa), cómo no, en cometer este abuso, y que quedase suficientemente documentado. En verano de 2002, tal y como se denunció en la web BSDVault.</description>
+    </item>
+    
+    <item>
+      <title>-¿Es ilegal el empleo de software privativo con bases de datos?</title>
+      <link>https://bloges.cortell.net/2006/01/es-ilegal-el-empleo-de-software-privativo-con-bases-de-datos/</link>
+      <pubDate>Wed, 11 Jan 2006 15:17:24 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/01/es-ilegal-el-empleo-de-software-privativo-con-bases-de-datos/</guid>
+      <description>Según la Ley Orgánica de Protección de Datos Personales y Directiva Europea de Tratamiento de Datos de Carácter Personal (LOPD 15/1999 de 13 de Diciembre) y la normativa que la desarrolla, en especial, el Real Decreto 994/1999 de 11 de junio (ver: https://www.agenciaprotecciondatos.org/) y sus análogas en Europa y EEUU, &amp;ldquo;el responsable del fichero implantará medidas de seguridad de í­ndole técnica y organizativas necesarias para garantizar la seguridad de los datos objeto de tratamiento.</description>
+    </item>
+    
+    <item>
+      <title>PSOE y software libre</title>
+      <link>https://bloges.cortell.net/2005/12/psoe-y-software-libre/</link>
+      <pubDate>Sat, 24 Dec 2005 20:10:47 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2005/12/psoe-y-software-libre/</guid>
+      <description>El parlamento rechazó la semana pasada la toma en consideración de la Ley del Software Libre en la Administración Pública, proposiciones de Ley presentadas por los grupos de Izquierda Verde (ICV) y Esquerra Republicana de Cataluña (ERC) sobre la implantación del software libre en las Instituciones Públicas.
+Tiene guasa que el PSOE dijese en la campaña electoral que lo apoyarí­a, y ahora no sólo no lo hace sino que lo justifica con los mismos slogans que Micro$oft emplea para presionar y bloquear el imparable (como muestra este genial ví­deo) avance del software libre.</description>
+    </item>
+    
+    <item>
+      <title>A veces en la administración pública se hacen cosas bien</title>
+      <link>https://bloges.cortell.net/2005/12/a-veces-en-la-administraci%C3%B3n-p%C3%BAblica-se-hacen-cosas-bien/</link>
+      <pubDate>Sat, 24 Dec 2005 19:39:18 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2005/12/a-veces-en-la-administraci%C3%B3n-p%C3%BAblica-se-hacen-cosas-bien/</guid>
+      <description>No parece ocurrir muy a menudo, en especial en lo referente al software libre, pero de vez en cuando en la administración pública hacen cosas bien.
+Quisiera destacar el ejemplo de la Consellerí­a de Infraestructuras y Transporte de la Generalitat Valenciana. Su responsable de tecnologí­a dio una conferencia en el pasado Congreso de Hispalinux, justo antes de la mí­a. Fue mucho más interesante y agradable de lo que es de esperar de este tipo de conferencias (que suelen estar cargadas de vacuos triunfalismos y &amp;ldquo;colgadas de medallas&amp;rdquo;) habló de la espectacular migración de dicha Consellerí­a a software libre (1000 puestos, en un año llevan más de 200, totalmente libres de software privativo, y en los próximos 3 migrarán el resto).</description>
+    </item>
+    
+    <item>
+      <title>Contra la Patentabilidad del Software</title>
+      <link>https://bloges.cortell.net/2004/10/contra-la-patentabilidad-del-software/</link>
+      <pubDate>Thu, 21 Oct 2004 09:55:25 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2004/10/contra-la-patentabilidad-del-software/</guid>
+      <description>• “Las Patentes se vuelven contra los gigantes de la tecnología.” 6 Febrero 2004.
+Entrevistado por Adolfo Estalella publicada en el diario económico Cinco Días.
+.- idioma: Castellano, formato: web de pago (a mi pesar), tamaño: 6 kb.
+• “La Patentabilidad Europea del Software en Entredicho.” Junio 2003.
+Presentación preparada y presentada en la III Semana Nacional de las Tecnologías de la Información y Comunicacióne-gallaecia(Galicia), en la Facultad de Periodismo (Universidad de Santiago de Compostela).</description>
+    </item>
+    
+  </channel>
+</rss>

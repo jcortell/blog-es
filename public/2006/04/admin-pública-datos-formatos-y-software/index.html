@@ -1,0 +1,681 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.74.3 with theme Tranquilpeak 0.4.8-BETA">
+<meta name="author" content="Jorge Cortell">
+<meta name="keywords" content="">
+<meta name="description" content="Como aquella estupenda pelí­cula de Peter Greenaway &ldquo;El cocinero, el ladrón, su mujer, y su amante&rdquo;, en este post se juntan cosas que parecen muchas veces pertenecer a mundos totalmente diversos: Administración Pública, datos, formatos y software.
+Hace unos dí­as me enfadó mucho que el Instituto de la Pequeña y Mediana Empresa de Valencia (IMPIVA) publicase una información de interés para una de mis empresas en &ldquo;formato&rdquo; EXE Sí­, una auténtica barbaridad: publicar texto e imágenes en modo ejecutable -¡como si no hubiese otra forma de hacerlo!">
+
+
+<meta property="og:description" content="Como aquella estupenda pelí­cula de Peter Greenaway &ldquo;El cocinero, el ladrón, su mujer, y su amante&rdquo;, en este post se juntan cosas que parecen muchas veces pertenecer a mundos totalmente diversos: Administración Pública, datos, formatos y software.
+Hace unos dí­as me enfadó mucho que el Instituto de la Pequeña y Mediana Empresa de Valencia (IMPIVA) publicase una información de interés para una de mis empresas en &ldquo;formato&rdquo; EXE Sí­, una auténtica barbaridad: publicar texto e imágenes en modo ejecutable -¡como si no hubiese otra forma de hacerlo!">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Admin Pública, datos, formatos y software">
+<meta name="twitter:title" content="Admin Pública, datos, formatos y software">
+<meta property="og:url" content="https://bloges.cortell.net/2006/04/admin-p%C3%BAblica-datos-formatos-y-software/">
+<meta property="twitter:url" content="https://bloges.cortell.net/2006/04/admin-p%C3%BAblica-datos-formatos-y-software/">
+<meta property="og:site_name" content="Blog de Jorge Cortell en Castellano">
+<meta property="og:description" content="Como aquella estupenda pelí­cula de Peter Greenaway &ldquo;El cocinero, el ladrón, su mujer, y su amante&rdquo;, en este post se juntan cosas que parecen muchas veces pertenecer a mundos totalmente diversos: Administración Pública, datos, formatos y software.
+Hace unos dí­as me enfadó mucho que el Instituto de la Pequeña y Mediana Empresa de Valencia (IMPIVA) publicase una información de interés para una de mis empresas en &ldquo;formato&rdquo; EXE Sí­, una auténtica barbaridad: publicar texto e imágenes en modo ejecutable -¡como si no hubiese otra forma de hacerlo!">
+<meta name="twitter:description" content="Como aquella estupenda pelí­cula de Peter Greenaway &ldquo;El cocinero, el ladrón, su mujer, y su amante&rdquo;, en este post se juntan cosas que parecen muchas veces pertenecer a mundos totalmente diversos: Administración Pública, datos, formatos y software.
+Hace unos dí­as me enfadó mucho que el Instituto de la Pequeña y Mediana Empresa de Valencia (IMPIVA) publicase una información de interés para una de mis empresas en &ldquo;formato&rdquo; EXE Sí­, una auténtica barbaridad: publicar texto e imágenes en modo ejecutable -¡como si no hubiese otra forma de hacerlo!">
+<meta property="og:locale" content="es-es">
+
+  
+    <meta property="article:published_time" content="2006-04-18T09:27:09">
+  
+  
+    <meta property="article:modified_time" content="2006-04-18T09:27:09">
+  
+  
+  
+    
+      <meta property="article:section" content="CiberDerechos">
+    
+      <meta property="article:section" content="Copyfight">
+    
+      <meta property="article:section" content="Free Software">
+    
+      <meta property="article:section" content="General">
+    
+      <meta property="article:section" content="Rants">
+    
+      <meta property="article:section" content="Sociedad y polí­tica">
+    
+      <meta property="article:section" content="Technology">
+    
+  
+  
+
+
+<meta name="twitter:card" content="summary">
+
+  <meta name="twitter:site" content="@jorgecortell">
+
+
+  <meta name="twitter:creator" content="@jorgecortell">
+
+
+
+
+
+
+
+
+
+
+  <meta property="og:image" content="https://www.gravatar.com/avatar/9269e405983cdf2599d1b1ddc9d4a2ba?s=640">
+  <meta property="twitter:image" content="https://www.gravatar.com/avatar/9269e405983cdf2599d1b1ddc9d4a2ba?s=640">
+
+
+    <title>Admin Pública, datos, formatos y software</title>
+
+    <link rel="icon" href="https://bloges.cortell.net/favicon.png">
+    
+
+    
+
+    <link rel="canonical" href="https://bloges.cortell.net/2006/04/admin-p%C3%BAblica-datos-formatos-y-software/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.css" integrity="sha256-vuXZ9LGmmwtjqFX1F+EKin1ThZMub58gKULUyf0qECk=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
+    
+    
+    <link rel="stylesheet" href="https://bloges.cortell.net/css/style-twzjdbqhmnnacqs0pwwdzcdbt8yhv8giawvjqjmyfoqnvazl0dalmnhdkvp7.min.css" />
+    
+    
+
+    
+      
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-51273041-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="5">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="https://bloges.cortell.net/">Blog de Jorge Cortell en Castellano</a>
+  </div>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="5">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="https://web.cortell.net">
+          <img class="sidebar-profile-picture" src="https://www.gravatar.com/avatar/9269e405983cdf2599d1b1ddc9d4a2ba?s=110" alt="Foto de autor" />
+        </a>
+        <h4 class="sidebar-profile-name">Jorge Cortell</h4>
+        
+          <h5 class="sidebar-profile-bio">Viviendo</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+      
+      <span class="sidebar-button-desc">Inicio</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/viajes/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-plane"></i>
+      
+      <span class="sidebar-button-desc">Viajes</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/categories">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-bookmark"></i>
+      
+      <span class="sidebar-button-desc">Categorías</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/tags">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
+      
+      <span class="sidebar-button-desc">Etiquetas</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/archives">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-archive"></i>
+      
+      <span class="sidebar-button-desc">Archivos</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://web.cortell.net" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-question"></i>
+      
+      <span class="sidebar-button-desc">Acerca de</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/index.xml">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-rss"></i>
+      
+      <span class="sidebar-button-desc">RSS</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://www.linkedin.com/in/jcortell/" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-linkedin"></i>
+      
+      <span class="sidebar-button-desc">LinkedIn</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://twitter.com/jorgecortell" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-twitter"></i>
+      
+      <span class="sidebar-button-desc">Twitter</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://mas.to/@uno" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-retweet"></i>
+      
+      <span class="sidebar-button-desc">Mastodon</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/jcortell" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-github"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://jcortell.tumblr.com/" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tumblr"></i>
+      
+      <span class="sidebar-button-desc">Tumblr</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://blog.cortell.net" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-flag-o"></i>
+      
+      <span class="sidebar-button-desc">English</span>
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</nav>
+
+      
+
+      <div id="main" data-behavior="5"
+        class="
+               hasCoverMetaIn
+               ">
+        <article class="post" itemscope itemType="http://schema.org/BlogPosting">
+          
+          
+            <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title" itemprop="headline">
+      Admin Pública, datos, formatos y software
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2006-04-18T09:27:09Z">
+        
+  
+  
+  
+  
+    18 Abril 2006
+  
+
+      </time>
+    
+    
+  
+  
+    <span>en</span>
+    
+      <a class="category-link" href="https://bloges.cortell.net/categories/ciberderechos">CiberDerechos</a>, 
+    
+      <a class="category-link" href="https://bloges.cortell.net/categories/copyfight">Copyfight</a>, 
+    
+      <a class="category-link" href="https://bloges.cortell.net/categories/free-software">Free Software</a>, 
+    
+      <a class="category-link" href="https://bloges.cortell.net/categories/general">General</a>, 
+    
+      <a class="category-link" href="https://bloges.cortell.net/categories/rants">Rants</a>, 
+    
+      <a class="category-link" href="https://bloges.cortell.net/categories/sociedad-y-pol%c3%adtica">Sociedad y polí­tica</a>, 
+    
+      <a class="category-link" href="https://bloges.cortell.net/categories/technology">Technology</a>
+    
+  
+
+  </div>
+
+</div>
+          
+          <div class="post-content markdown" itemprop="articleBody">
+            <div class="main-content-wrap">
+              <p>Como aquella estupenda <a href="https://www.imdb.com/title/tt0097108/">pelí­cula</a> de Peter Greenaway &ldquo;El cocinero, el ladrón, su mujer, y su amante&rdquo;, en este post se juntan cosas que parecen muchas veces pertenecer a mundos totalmente diversos: Administración Pública, datos, formatos y software.</p>
+<p>Hace unos dí­as me enfadó mucho que el Instituto de la Pequeña y Mediana Empresa de Valencia (IMPIVA) publicase una información de interés para una de mis empresas en &ldquo;formato&rdquo; EXE Sí­, una auténtica barbaridad: publicar texto e imágenes en modo ejecutable -¡como si no hubiese otra forma de hacerlo! Esta es una de esas cosas que enfadan (y mucho) a cualquiera. No hace falta haber estudiado informática para saber que se podrí­a haber publicado en montones de formatos (HTML, DOC, ODF, PDF, RTFD, etc).</p>
+<p>A punto estuve de escribir un post al respecto. A punto estuve de mandarles una queja al respecto. Pero Wine + GNULinux + las prisas hicieron que lo guardase en la recámara para mejor ocasión. Como hoy. -¿Por qué hoy? Pues porque gracias al <a href="https://www.libroblanco.com/html/index.php">Libroblanco</a> del Software Libre, me entero de que la Administración Pública ha establecido el <a href="https://www.neutralidad.es/">Observatorio de Neutralidad Tecnológica</a> para estos menesteres. Y visto que en el poco tiempo que llevan existiendo ya ha <a href="https://www.neutralidad.es/?cat=2">listado todos estos</a> abusos/descuidos/incompetencias/trabas al ciudadano, está claro que hací­a falta. Así­ que todos a contribuir: <a href="https://www.neutralidad.es/?page_id=7">enviad vuestras denuncias</a>.</p>
+<p>Pero no acaba aquí­ la relación entre la Administración Pública, los datos, los formatos y el software.</p>
+<p>En un interesante comentario (también de Libroblanco) se preguntan si la <a href="https://www.libroblanco.com/document/Informe_ReutilizacionInfoSectorPublico_20050919.pdf">directiva europea</a> sobre la reutilización de datos por el sector público se aplica también al software.</p>
+<p>Deberí­a ser así­, pues -¿no damos acaso servicio médico gratuí­to a TODOS los ciudadanos? Entonces, si lo que se paga con dinero público es para dar un servicio público, y esto es así­ en los casos donde existe un coste unitario, un desgaste, un mantenimiento&hellip; -¿por qué no hacerlo con el software pagado por todos, que una vez creado, puede ser utilizado por todos sin coste añadido?</p>
+<p>Es curioso y vergonzoso que esta Directiva Europea coincida con la propuesta <a href="https://rejectinspire.publicgeodata.org/">INSPIRE</a>.</p>
+<p>-¿Habrá esperanza? -¿serán los polí­ticos, como la justicia &ldquo;lenta pero segura&rdquo;? -¿será que al final han entrado en razón? -¿acabará todo en un montón de buenas intenciones (como cuando el Canon Digital se rechazó en el Senado, a lo que no se le hizo ni caso en el Congreso)? En cualquier caso, enhorabuena por una brisa de ilusión.</p>
+<p>Os copio el mensaje enviado por Alberto Abella al grupo de discusión de Libroblanco que lo explica con más detalle:</p>
+<p>Esta ha sido una moción debatida en el senado de España, relativa a la reutilización de los contenidos digitales por la administración pública.</p>
+<p>Dos preguntas</p>
+<ol>
+<li>
+<p>-¿Podrí­a considerarse el software un contenido digital, y por tanto ser suswceptible de aplicación de esta directiva?</p>
+</li>
+<li>
+<p>-¿Como afectarí­a esto a las distintas distribuciones linux impulsadas desde las distintas comunidades autónomas?</p>
+</li>
+</ol>
+<p>Enlace original web del senado</p>
+<p><a href="https://www.senado.es/legis8/publicaciones/html/textos/I0402.html">https://www.senado.es/legis8/publicaciones/html/textos/I0402.html</a></p>
+<p>PRESIDENCIA DEL SENADO</p>
+<p>De acuerdo con lo previsto en el artí­culo 191 del Reglamento del Senado, se ordena la publicación en el BOLETíN OFICIAL DE LAS CORTES GENERALES de la moción presentada por el GRUPO PARLAMENTARIO SOCIALISTA por la que se insta al Gobierno a adoptar determinadas medidas con el objeto de potenciar el valor económico y social generado por un mejor aprovechamiento de los contenidos digitales desarrollados por la Administración Pública, incluida en el orden del dí­a de la sesión plenaria del dí­a 7 de febrero de 2006.</p>
+<p>Palacio del Senado, 31 de enero de 2006.</p>
+<p>–P. D., Manuel Cavero Gómez, Letrado Mayor del Senado.</p>
+<p>A la Mesa del Senado</p>
+<p>El Grupo Parlamentario Socialista, al amparo de lo establecido en los artí­culos 174 y 175 del Reglamento de la Cámara, solicita la tramitación</p>
+<p>de la siguiente moción en el Pleno del Senado.</p>
+<p>Exposición de motivos</p>
+<p>La evolución hacia la Sociedad de la Información y del Conocimiento permite a los ciudadanos contar con nuevos medios para acceder y adquirir conocimiento. Los contenidos digitales desempeñan un papel importante en esta evolución.</p>
+<p>El sector público recoge, produce, reproduce y difunde una amplia gama de información relativa a numerosos ámbitos, por ejemplo información social, económica, geográfica, meteorológica o turí­stica y sobre empresas, patentes y educación. La información del sector público constituye una materia prima importante para múltiples productos y servicios de contenidos digitales y tiende a convertirse en un recurso cada vez más importante con el desarrollo de servicios inalámbricos de contenidos. La posibilidad de la reutilización de información del sector público permite a las empresas aprovechar su potencial y contribuir al crecimiento económico y la creación de empleo.</p>
+<p>Los estudios realizados por la Comisión Europea coinciden en el gran valor económico y social de la Información del Sector Público, además de las oportunidades que ofrece para el fomento de la industria de contenidos y servicios digitales. La Unión Europa ha constatado en los últimos años la pérdida de valor y oportunidad que esta situación supone en especial para el desarrollo de la Sociedad de la Información, debida principalmente a polí­ticas públicas poco claras y a la ausencia de un marco legal común en la UE que regule las relaciones entre los sectores público y privado.</p>
+<p>Como consecuencia, el Parlamento Europeo y el Consejo aprobaron en 2003 la Directiva 2003/98/CE relativa a la reutilización de la información del sector público, actualmente en fase de transposición por los estados de la UE.</p>
+<p>Esta Directiva está dirigida especí­ficamente al fomento de la industria de contenidos y servicios digitales en la Sociedad de la Información. Por tanto, el Ministerio de Industria, Turismo y Comercio deberí­a asumir el papel de liderazgo tanto en el proceso de transposición de la Directiva, coordinado por el Ministerio de Cultura, como de las necesarias actuaciones de inventariado, difusión y sensibilización que deben acompañarla.</p>
+<p>La Directiva obliga al establecimiento de una serie de medidas legales dirigidas a establecer un conjunto de reglas homogéneas en la Unión Europea con prácticas comerciales justas, establece la obligación de publicar los datos disponibles para reutilización y las condiciones a las que están sujetos y recomienda el establecimiento de polí­ticas que faciliten el acceso a un amplio conjunto de datos y documentos. El marco legal derivado de la transposición de la Directiva 2003/98/CE ofrecerá posibilidades para la creación de productos y servicios con valor añadido basados en la información del sector público. La recopilación, inventariado y descripción de dicha información es una condición necesaria para que las organizaciones planifiquen sus catálogos de servicios. Debe proporcionarse al sector privado –y al público en general– un medio de consulta con un mapa actualizado de los datos generados por las instituciones del sector público, incluyendo su nivel de disponibilidad, grado de digitalización y la viabilidad de explotación por terceros.</p>
+<p>Los modelos de negocio y procedimientos que se crearán como resultado de la aplicación de la nueva normativa se alejan de los modos habituales de gestión en España. El cambio cultural que esto supone hace necesario realizar una labor de difusión y sensibilización dirigida a los sectores públicos y privados afectados por las condiciones que establecerá el nuevo marco legal y las nuevas posibilidades de negocio.</p>
+<p>En base a todo ello, el Grupo Parlamentario Socialista propone al Pleno de la Cámara, la siguiente</p>
+<p>MOCIÓN</p>
+<p>Con objeto de potenciar el valor económico y social generado por un mejor aprovechamiento de los contenidos digitales desarrollados por la Administración Pública, dentro del objetivo general de impulsar la Sociedad de la información en nuestro paí­s, se insta al Gobierno a:</p>
+<p>Poner en marcha medidas que fomenten de forma amplia y efectiva la reutilización comercial, por parte del sector privado, de la información que genera el sector público, facilitando especialmente la creación de productos y servicios digitales que contribuyan al desarrollo de la Sociedad de la Información y la generación de empleo relacionada con el conocimiento.</p>
+
+              
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+            
+            <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://bloges.cortell.net/2006/04/cuando-los-m%C3%BAsicos-hablan-escucha-la-sgae/" data-tooltip="Cuando los músicos hablan -¿escucha la SGAE?">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">SIGUIENTE</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://bloges.cortell.net/2006/04/los-mercaderes-de-la-cultura-creen-que-en-millones-552-350-y-16-3/" data-tooltip="Los mercaderes de la cultura creen que en millones 552 = 350 y 16 = 3">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">ANTERIOR</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://bloges.cortell.net/2006/04/admin-p%C3%BAblica-datos-formatos-y-software/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://bloges.cortell.net/2006/04/admin-p%C3%BAblica-datos-formatos-y-software/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.reddit.com/submit?url=https://bloges.cortell.net/2006/04/admin-p%C3%BAblica-datos-formatos-y-software/">
+              <i class="fa fa-reddit"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://news.ycombinator.com/submitlink?u=https://bloges.cortell.net/2006/04/admin-p%C3%BAblica-datos-formatos-y-software/">
+              <i class="fa fa-hacker-news"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+            
+              
+                <div id="disqus_thread">
+  <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+              
+            
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2020 CC0 Copyleft - Comparte. Todos los derechos reservados
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="5">
+        <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://bloges.cortell.net/2006/04/cuando-los-m%C3%BAsicos-hablan-escucha-la-sgae/" data-tooltip="Cuando los músicos hablan -¿escucha la SGAE?">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">SIGUIENTE</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://bloges.cortell.net/2006/04/los-mercaderes-de-la-cultura-creen-que-en-millones-552-350-y-16-3/" data-tooltip="Los mercaderes de la cultura creen que en millones 552 = 350 y 16 = 3">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">ANTERIOR</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://bloges.cortell.net/2006/04/admin-p%C3%BAblica-datos-formatos-y-software/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://bloges.cortell.net/2006/04/admin-p%C3%BAblica-datos-formatos-y-software/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.reddit.com/submit?url=https://bloges.cortell.net/2006/04/admin-p%C3%BAblica-datos-formatos-y-software/">
+              <i class="fa fa-reddit"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://news.ycombinator.com/submitlink?u=https://bloges.cortell.net/2006/04/admin-p%C3%BAblica-datos-formatos-y-software/">
+              <i class="fa fa-hacker-news"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+      </div>
+      <div id="share-options-bar" class="share-options-bar" data-behavior="5">
+  <i id="btn-close-shareoptions" class="fa fa-close"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbloges.cortell.net%2F2006%2F04%2Fadmin-p%25C3%25BAblica-datos-formatos-y-software%2F">
+          <i class="fa fa-facebook-official"></i><span>Compartir en Facebook</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fbloges.cortell.net%2F2006%2F04%2Fadmin-p%25C3%25BAblica-datos-formatos-y-software%2F">
+          <i class="fa fa-twitter"></i><span>Compartir en Twitter</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.reddit.com/submit?url=https%3A%2F%2Fbloges.cortell.net%2F2006%2F04%2Fadmin-p%25C3%25BAblica-datos-formatos-y-software%2F">
+          <i class="fa fa-reddit"></i><span>Compartir en Reddit</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fbloges.cortell.net%2F2006%2F04%2Fadmin-p%25C3%25BAblica-datos-formatos-y-software%2F">
+          <i class="fa fa-hacker-news"></i><span>Compartir en HackerNews</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-remove"></i>
+    </div>
+    
+      <img id="about-card-picture" src="https://www.gravatar.com/avatar/9269e405983cdf2599d1b1ddc9d4a2ba?s=110" alt="Foto de autor" />
+    
+    <h4 id="about-card-name">Jorge Cortell</h4>
+    
+      <div id="about-card-bio">Viviendo</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        Curador de Arte - Fundador y Director General de Kanteron Systems
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker"></i>
+        <br/>
+        Valencia (España)
+      </div>
+    
+  </div>
+</div>
+
+    
+
+    
+  
+    <div id="cover" style="background-image:url('https://res.cloudinary.com/jcortell/image/upload/v1578019207/Personal/cover.jpg');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
+
+
+<script src="https://bloges.cortell.net/js/script-pcw6v3xilnxydl1vddzazdverrnn9ctynvnxgwho987mfyqkuylcb1nlt.min.js"></script>
+
+
+<script lang="javascript">
+window.onload = updateMinWidth;
+window.onresize = updateMinWidth;
+document.getElementById("sidebar").addEventListener("transitionend", updateMinWidth);
+function updateMinWidth() {
+  var sidebar = document.getElementById("sidebar");
+  var main = document.getElementById("main");
+  main.style.minWidth = "";
+  var w1 = getComputedStyle(main).getPropertyValue("min-width");
+  var w2 = getComputedStyle(sidebar).getPropertyValue("width");
+  var w3 = getComputedStyle(sidebar).getPropertyValue("left");
+  main.style.minWidth = `calc(${w1} - ${w2} - ${w3})`;
+}
+</script>
+
+
+  
+    
+      <script>
+        var disqus_config = function () {
+          this.page.url = 'https:\/\/bloges.cortell.net\/2006\/04\/admin-p%C3%BAblica-datos-formatos-y-software\/';
+          
+            this.page.identifier = '\/2006\/04\/admin-p%C3%BAblica-datos-formatos-y-software\/'
+          
+        };
+        (function() {
+          
+          
+          if (window.location.hostname == "localhost") {
+            return;
+          }
+          var d = document, s = d.createElement('script');
+          var disqus_shortname = 'jorge_cortell';
+          s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+        })();
+      </script>
+    
+  
+
+
+
+
+    
+  </body>
+</html>
+

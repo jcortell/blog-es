@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.74.3 with theme Tranquilpeak 0.4.8-BETA">
+<meta name="author" content="">
+<meta name="keywords" content="">
+<meta name="description" content="¿Cómo solucionar un problema que afecta a más de dos mil archivos sin pasar días con un procesador de textos? CLI al rescate.">
+
+
+<meta property="og:description" content="¿Cómo solucionar un problema que afecta a más de dos mil archivos sin pasar días con un procesador de textos? CLI al rescate.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Procesando miles de archivos con un comando de terminal">
+<meta name="twitter:title" content="Procesando miles de archivos con un comando de terminal">
+<meta property="og:url" content="http://example.org/post/2020-02-02-procesando-miles-archivos/">
+<meta property="twitter:url" content="http://example.org/post/2020-02-02-procesando-miles-archivos/">
+<meta property="og:site_name" content="My New Hugo Site">
+<meta property="og:description" content="¿Cómo solucionar un problema que afecta a más de dos mil archivos sin pasar días con un procesador de textos? CLI al rescate.">
+<meta name="twitter:description" content="¿Cómo solucionar un problema que afecta a más de dos mil archivos sin pasar días con un procesador de textos? CLI al rescate.">
+<meta property="og:locale" content="en">
+
+  
+    <meta property="article:published_time" content="2020-02-02T01:00:24">
+  
+  
+    <meta property="article:modified_time" content="2020-02-02T01:00:24">
+  
+  
+  
+  
+    
+      <meta property="article:tag" content="tecnología">
+    
+      <meta property="article:tag" content="trabajo">
+    
+      <meta property="article:tag" content="geek">
+    
+  
+
+
+<meta name="twitter:card" content="summary">
+
+
+
+
+
+
+
+  <meta property="og:image" content="https://p1.pxfuel.com/preview/595/744/913/monitor-screen-browser-computer.jpg">
+  <meta property="twitter:image" content="https://p1.pxfuel.com/preview/595/744/913/monitor-screen-browser-computer.jpg">
+
+
+  <meta property="og:image" content="https://p1.pxfuel.com/preview/595/744/913/monitor-screen-browser-computer.jpg">
+  <meta property="twitter:image" content="https://p1.pxfuel.com/preview/595/744/913/monitor-screen-browser-computer.jpg">
+
+
+
+
+
+    <title>Procesando miles de archivos con un comando de terminal</title>
+
+    <link rel="icon" href="/favicon.png">
+    
+
+    
+
+    <link rel="canonical" href="http://example.org/post/2020-02-02-procesando-miles-archivos/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.css" integrity="sha256-vuXZ9LGmmwtjqFX1F+EKin1ThZMub58gKULUyf0qECk=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
+    
+    
+    <link rel="stylesheet" href="/css/style-twzjdbqhmnnacqs0pwwdzcdbt8yhv8giawvjqjmyfoqnvazl0dalmnhdkvp7.min.css" />
+    
+    
+
+    
+      
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="/">My New Hugo Site</a>
+  </div>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="">
+  <div class="sidebar-container">
+    
+    <ul class="sidebar-buttons">
+      
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+
+    </ul>
+  </div>
+</nav>
+
+      
+  <div class="post-header-cover
+              text-center
+              "
+       style="background-image:url('https://p1.pxfuel.com/preview/595/744/913/monitor-screen-browser-computer.jpg')"
+       data-behavior="">
+    
+  </div>
+
+
+      <div id="main" data-behavior=""
+        class="hasCover
+               hasCoverMetaOut
+               ">
+        <article class="post" itemscope itemType="http://schema.org/BlogPosting">
+          
+          
+            <div class="post-header main-content-wrap text-center">
+  
+    <h1 class="post-title" itemprop="headline">
+      Procesando miles de archivos con un comando de terminal
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2020-02-02T01:00:24&#43;02:00">
+        
+   2, 2020
+
+      </time>
+    
+    
+  </div>
+
+</div>
+          
+          <div class="post-content markdown" itemprop="articleBody">
+            <div class="main-content-wrap">
+              <p>¿Cómo solucionar un problema que afecta a más de dos mil archivos sin pasar días con un procesador de textos? CLI al rescate.</p>
+<p>Tener un <em>stack</em> JAM<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> con un generador de CMS<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> estático bajo control de versiones en Git con CI/CD<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> automatizado a través de un CDN<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup> global es excelente por muchas razones (velocidad, seguridad, escalabilidad &hellip;) pero ¿qué sucede cuando una nueva versión decide cambiar qué letras son aceptadas en la compilación y cuáles se consideran inválidas? Entonces tienes un problema que en mi caso afecta a más de dos mil archivos.</p>
+<p>No tengo tanto dominio del CLI<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup> como mis amigos Álvaro o Santiago. Pero me encanta aprender nuevos trucos y disfrutar del poder del terminal.</p>
+<p>En este caso, tuve que localizar una cantidad de &ldquo;letras ofensivas&rdquo; (restos de una migración anterior del motor de blog, que manejaba la codificación de texto de manera diferente) en miles de archivos, y luego hacer un &ldquo;reemplazo con&rdquo; en todos ellos a la vez.</p>
+<p>Esto es lo que monté gracias a los tutoriales de CLI Magic, Winaero, Linuxize y Maketecheasier:</p>
+<p>Primero, identifique qué archivos estaban causando problemas. Después de todo, si solo fueran uno o dos, podría solucionarlo manualmente. Entonces ejecuto (en el directorio que contiene todas mis publicaciones de blog):</p>
+<pre><code>grep -iRl &quot;&amp;#&quot;
+</code></pre><p>Estos son los argumentos:
+-i: ignora las mayúsculas
+-R: búsqueda recursiva de archivos en subdirectorios
+-l: muestra los nombres de archivo en lugar de las porciones de contenido del archivo</p>
+<p>La razón por la que usé &ldquo;&amp; #&rdquo; es porque la codificación del texto ofensivo siempre incluía esa cadena parcial.</p>
+<p>Una vez que me di cuenta de que estábamos hablando de más de dos mil archivos, decidí usar el CLI para sustituir las cadenas ofensivas. No los enumeraré a todos, así que no revelaré pistas y vulnerabilidades, pero el comando general que utilicé es:</p>
+<pre><code>find . -type f -exec sed -i 's/&amp;#8230;/.../g' {} +
+</code></pre><p>Y, como por arte de magia, en un abrir y cerrar de ojos, todas las ocurrencias ofensivas de <code>&amp;#8230;</code> se convierten en <code>...</code>.</p>
+<p>Eso es, en esencia, lo que yace en el fondo del software moderno y la transformación de datos. Unix sigue tan brillante medio siglo después.</p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>JavaScript, APIs, y Markup <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p>SIstema de Gestión de Contenidos <a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3" role="doc-endnote">
+<p>Integración Contínua / Entrega Contínua <a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4" role="doc-endnote">
+<p>Plataforma de Suministro de Contenidos <a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:5" role="doc-endnote">
+<p>Interfaz de Línea de Comandos <a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+              
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+                
+                
+                  <div class="post-footer-tags">
+                    <span class="text-color-light text-small"></span><br/>
+                    
+  <a class="tag tag--primary tag--small" href="/tags/tecnolog%C3%ADa/">tecnología</a>
+
+  <a class="tag tag--primary tag--small" href="/tags/trabajo/">trabajo</a>
+
+  <a class="tag tag--primary tag--small" href="/tags/geek/">geek</a>
+
+                  </div>
+                
+              
+            
+            <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="/post/2020-02-10-dos-semanas-ontario/" data-tooltip="Dos semanas en Ontario, Canadá">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml"></span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="/post/2020-02-01-cuatro-dias-bogota/" data-tooltip="Cuatro días en Bogotá">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr"></span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+      
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+            
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2020 My New Hugo Site. 
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="">
+        <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="/post/2020-02-10-dos-semanas-ontario/" data-tooltip="Dos semanas en Ontario, Canadá">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml"></span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="/post/2020-02-01-cuatro-dias-bogota/" data-tooltip="Cuatro días en Bogotá">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr"></span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+      
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+      </div>
+      <div id="share-options-bar" class="share-options-bar" data-behavior="">
+  <i id="btn-close-shareoptions" class="fa fa-close"></i>
+  <ul class="share-options">
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-remove"></i>
+    </div>
+    
+    <h4 id="about-card-name"></h4>
+    
+    
+    
+  </div>
+</div>
+
+    
+
+    
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
+
+
+<script src="/js/script-pcw6v3xilnxydl1vddzazdverrnn9ctynvnxgwho987mfyqkuylcb1nlt.min.js"></script>
+
+
+<script lang="javascript">
+window.onload = updateMinWidth;
+window.onresize = updateMinWidth;
+document.getElementById("sidebar").addEventListener("transitionend", updateMinWidth);
+function updateMinWidth() {
+  var sidebar = document.getElementById("sidebar");
+  var main = document.getElementById("main");
+  main.style.minWidth = "";
+  var w1 = getComputedStyle(main).getPropertyValue("min-width");
+  var w2 = getComputedStyle(sidebar).getPropertyValue("width");
+  var w3 = getComputedStyle(sidebar).getPropertyValue("left");
+  main.style.minWidth = `calc(${w1} - ${w2} - ${w3})`;
+}
+</script>
+
+
+  
+
+
+
+
+    
+  </body>
+</html>
+

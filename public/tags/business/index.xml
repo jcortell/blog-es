@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>business on Blog de Jorge Cortell en Castellano</title>
+    <link>https://bloges.cortell.net/tags/business/</link>
+    <description>Recent content in business on Blog de Jorge Cortell en Castellano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Oct 2019 18:54:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://bloges.cortell.net/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dos días en Shenzhen</title>
+      <link>https://bloges.cortell.net/2019/10/dos-d%C3%ADas-en-shenzhen/</link>
+      <pubDate>Fri, 18 Oct 2019 18:54:24 +0200</pubDate>
+      
+      <guid>https://bloges.cortell.net/2019/10/dos-d%C3%ADas-en-shenzhen/</guid>
+      <description>&lt;p&gt;El 17 y 18 de octubre fui a Shenzhen para más conferencias, visitas a empresas y eventos de inversores.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Un día en Hanghzou</title>
+      <link>https://bloges.cortell.net/2019/10/un-d%C3%ADa-en-hanghzou/</link>
+      <pubDate>Wed, 16 Oct 2019 18:54:24 +0200</pubDate>
+      
+      <guid>https://bloges.cortell.net/2019/10/un-d%C3%ADa-en-hanghzou/</guid>
+      <description>&lt;p&gt;El 16 de octubre fui a Hanghzou para reunirme con ejecutivos de Alibaba e inversores de la Asociación de Antiguos Alumnos CKGSB de Zhejiang.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

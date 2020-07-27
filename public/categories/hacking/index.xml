@@ -1,0 +1,1641 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hacking on Blog de Jorge Cortell en Castellano</title>
+    <link>https://bloges.cortell.net/categories/hacking/</link>
+    <description>Recent content in Hacking on Blog de Jorge Cortell en Castellano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 May 2017 09:05:16 +0000</lastBuildDate>
+    
+	<atom:link href="https://bloges.cortell.net/categories/hacking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estupendas presentaciones online con software libre</title>
+      <link>https://bloges.cortell.net/2017/05/estupendas-presentaciones-online-con-software-libre/</link>
+      <pubDate>Fri, 26 May 2017 09:05:16 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2017/05/estupendas-presentaciones-online-con-software-libre/</guid>
+      <description>Ha pasado ya tiempo desde que escribí un tutorial de Compartir la riqueza – STW, así que ya es hora de compartir algunos conocimientos prácticos (aunque sean básicos) más allá de la publicación de un enlace.
+Durante años he tenido un proyecto en la lista &amp;ldquo;por hacer&amp;rdquo;: crear presentaciones sin la necesidad de software dedicado, sea privativo (como PowerPoint o Keynote), o libre (como LibreOffice u OpenOffice). De esa manera podría evitar traer mi computadora a una conferencia, y no preocuparme acerca de qué sistema informático estará disponible en el auditorio.</description>
+    </item>
+    
+    <item>
+      <title>Esta Revolución necesita una Revolución</title>
+      <link>https://bloges.cortell.net/2017/01/esta-revoluci%C3%B3n-necesita-una-revoluci%C3%B3n/</link>
+      <pubDate>Sun, 29 Jan 2017 11:00:53 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2017/01/esta-revoluci%C3%B3n-necesita-una-revoluci%C3%B3n/</guid>
+      <description>Ayer fui con mi mujer y mi hijo a la exposiciónYou Say You Want a Revolution? Records and Rebels 1966-1970 del museo Victoria &amp;amp; Albert. El objetivo de la exposición estaba claro:
+ ¿Cómo han cambiado las revoluciones terminadas e inacabadas de finales de la década de 1960 la forma en que vivimos hoy y pensamos en el futuro?
+ Tenía muchas ganas de visitar la exposición. Es tan oportuna, y tan necesaria, pensé.</description>
+    </item>
+    
+    <item>
+      <title>En mi tiempo libre: análisis estructural de mutaciones protéicas causantes de enfermedades congénitas</title>
+      <link>https://bloges.cortell.net/2016/12/en-mi-tiempo-libre-an%C3%A1lisis-estructural-de-mutaciones-prot%C3%A9icas-causantes-de-enfermedades-cong%C3%A9nitas/</link>
+      <pubDate>Thu, 01 Dec 2016 09:22:51 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2016/12/en-mi-tiempo-libre-an%C3%A1lisis-estructural-de-mutaciones-prot%C3%A9icas-causantes-de-enfermedades-cong%C3%A9nitas/</guid>
+      <description>La mayoría de la gente que conozco no consideraría el análisis estructural de mutaciones protéicas causantes de enfermedades congénitas &amp;ldquo;diversión del tiempo libre&amp;rdquo;. Por otra parte, la mayoría de la gente que conozco no piensa que soy como la mayoría de la gente que conocen.
+Esta semana soy un &amp;ldquo;padre soltero&amp;rdquo;, ya que mi esposa está de viaje. Con lo que mi tiempo libre ahora es casi inexistente. Sin embargo, la idea de transformar una Prolina en una Glicina en la posición 22 me intrigó, así que pasé unos minutos simulándolo.</description>
+    </item>
+    
+    <item>
+      <title>Gano el hackathon de política anti-patentes</title>
+      <link>https://bloges.cortell.net/2016/09/gano-el-hackathon-de-pol%C3%ADtica-anti-patentes/</link>
+      <pubDate>Thu, 15 Sep 2016 02:59:38 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2016/09/gano-el-hackathon-de-pol%C3%ADtica-anti-patentes/</guid>
+      <description>El 13 de septiembre, Mind the Bridgeorganizó un hackathon de política patrocinado por Dell en el Centro de Innovación de MTB en San Francisco. El Dell PolicyHack™reunió a empresarios y expertos EE. UU./EU para resolver problemas de política. El objetivo era intercambiar ideas de manera productiva y proporcionar ideas que puede inspirar y servir como base para desarrollar e implementar políticas de pleno derecho.
+Mi equipo estaba formado por:</description>
+    </item>
+    
+    <item>
+      <title>Re-diseñando un interfaz de la NASA</title>
+      <link>https://bloges.cortell.net/2016/07/re-dise%C3%B1ando-un-interfaz-de-la-nasa/</link>
+      <pubDate>Sun, 10 Jul 2016 14:31:54 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2016/07/re-dise%C3%B1ando-un-interfaz-de-la-nasa/</guid>
+      <description>Estoy interesado en muchas cosas. Una de las principales es la tecnología. Y dentro de la tecnología, el desarrollo de software para ver datos de telemetría de diferentes maneras, dentro de la misma aplicación.
+Respondiendo a la llamada de la NASA para ayudar a contribuir a la exploración del sistema solar, me han dado acceso a su marco de control de misión de próxima generación que está siendo desarrollado en el Centro de Investigación Ames de la NASA en Silicon Valley que se utiliza para la planificación y las operaciones de la misión en el período previo a la misión Resource Prospector, y en el Jet Propulsion Laboratory de la NASA para ver los datos del Curiosity Rover.</description>
+    </item>
+    
+    <item>
+      <title>Hablando con Prof. Church sobre machine learning aplicado a investigación genómica</title>
+      <link>https://bloges.cortell.net/2016/07/hablando-con-prof.-church-sobre-machine-learning-aplicado-a-investigaci%C3%B3n-gen%C3%B3mica/</link>
+      <pubDate>Fri, 01 Jul 2016 13:22:59 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2016/07/hablando-con-prof.-church-sobre-machine-learning-aplicado-a-investigaci%C3%B3n-gen%C3%B3mica/</guid>
+      <description>Durante mi vuelo a Boston leí &amp;ldquo;Regenesis&amp;rdquo; el interesante libro de genómica del Profesor George Church, regalo de mi amigo el Dr. Raminderpal Singh.
+El miércoles por la tarde tuve una conversación muy interesante en Boston con los dos. Ninguno de ellos necesita una introducción en el mundo de la genómica, pero para aquellos que no son del sector:
+ Raminder es vicepresidente en Eagle Genomics y Asesor en Kanteron Systems.</description>
+    </item>
+    
+    <item>
+      <title>Festival of Genomics Boston</title>
+      <link>https://bloges.cortell.net/2016/06/festival-of-genomics-boston/</link>
+      <pubDate>Thu, 30 Jun 2016 15:46:36 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2016/06/festival-of-genomics-boston/</guid>
+      <description>El 28 y 29 de junio asistí, junto a mi amigo John Memarian, Presidente y CCO de mi empresa Kanteron Systems, al Festival of Genomics Boston, como partner de Microsoft Genomics Group .
+Aunque el evento no es muy grande, ha sido una gran oportunidad para entablar relación con expertos del sector (desde profesores de Harvard hasta ejecutivos de Illumina) y aprender.
+Desde posters científicos a las últimas tecnologías de secuenciación, desde brazos robóticos hasta experimentos de genómica en el espacio, ha sido verdadero #geekfun.</description>
+    </item>
+    
+    <item>
+      <title>El mejor regalo del día del padre: construir una Picade con mi hijo</title>
+      <link>https://bloges.cortell.net/2016/06/el-mejor-regalo-del-d%C3%ADa-del-padre-construir-una-picade-con-mi-hijo/</link>
+      <pubDate>Sun, 19 Jun 2016 13:46:23 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2016/06/el-mejor-regalo-del-d%C3%ADa-del-padre-construir-una-picade-con-mi-hijo/</guid>
+      <description>Como regalo del Día del Padre (vivimos en Londres, por lo que celebramos hoy, a diferencia de España, que es el 19 de marzo) mi esposa me ha dado el mejor regalo &amp;ldquo;Ultimate Father‘s Day&amp;rdquo;, de TechCamp UK. [¡gracias, cariño!]
+Consistía en un taller con otros &amp;ldquo;equipos&amp;rdquo; padre-hijo / padre-hija, en el Iron Yard (The Leathermarket – Londres), donde construimos una máquina de videojuegos en 5 horas (incluyendo la pausa de la comida), siguiendo las instrucciones de Tom y Tom, utilizando el conjunto un Picade, un sistema operativo personalizado, emuladores, ROMs, altavoces, fuente de alimentación, pantalla LCD Raspberry Pi, etc:</description>
+    </item>
+    
+    <item>
+      <title>Invitado a InfoSecurity Europe</title>
+      <link>https://bloges.cortell.net/2016/06/invitado-a-infosecurity-europe/</link>
+      <pubDate>Wed, 08 Jun 2016 15:35:52 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2016/06/invitado-a-infosecurity-europe/</guid>
+      <description>Hoy me han invitado a asistir a InfoSecurity Europe, la feria de Seguridad Informática más grande de Europa.
+Como siempre, ha sido interesante tener la oportunidad de ponerme al día con este campo que evoluciona tan rápido, y una gran oportunidad para saludar a viejos amigos.
+Aparte de las atracciones (VR por todas partes, simuladores de coches de carreras y de helicópteros, robots gigantes, etc.), regalitos promocionales (todo tipo de regalos relacionados con Star Wars y la ciencia ficción, desde juguetes a camisetas) y comida basura (de dulces a helado a patatas fritas, los stands no tenían alternativas saludables, aunque los puestos de comida sí), la parte más interesante de estos eventos es siempre las charlas, en concreto las demostraciones prácticas.</description>
+    </item>
+    
+    <item>
+      <title>Invitado con mi hijo al taller de desarrollo de videojuegos Intel Buzz</title>
+      <link>https://bloges.cortell.net/2016/06/invitado-con-mi-hijo-al-taller-de-desarrollo-de-videojuegos-intel-buzz/</link>
+      <pubDate>Sun, 05 Jun 2016 08:54:44 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2016/06/invitado-con-mi-hijo-al-taller-de-desarrollo-de-videojuegos-intel-buzz/</guid>
+      <description>Ayer me invitaron a asistir, junto con mi hijo, que a sus 14 años lleva desarrollando videojuegos varios años, al taller desarrollo de videojuegos Intel Buzz. ¡No sólo me lo pasé bomba, sino que fue maravilloso asistir con él!
+A pesar de ser un evento pequeño, resultó ser muy interesante, con un área para probar juegos independientes y nuevas tecnologías, y una larga lista de charlas y paneles, incluso sesiones uno-a-uno.</description>
+    </item>
+    
+    <item>
+      <title>Un par de días en Zurich</title>
+      <link>https://bloges.cortell.net/2015/11/un-par-de-d%C3%ADas-en-zurich/</link>
+      <pubDate>Thu, 19 Nov 2015 10:44:36 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2015/11/un-par-de-d%C3%ADas-en-zurich/</guid>
+      <description>Pasé la noche del miércoles y la mayor parte del jueves en Zürich.
+El miércoles tuve una cena con algunos partners; &amp;ldquo;lo de siempre&amp;rdquo;.
+Pero el jueves, después de mi presentación a clientes, tuve la muy rara y exclusiva oportunidad de visitar uno de los principales centros de datos en Suiza. He aquí algunos datos impresionantes sobre ellos:
+ manejan un tercio de los datos de los bancos suizos el tráfico de Internet que consumen = 40% del tráfico de Internet de Suiza factura de energía = 2 millones de francos suizos al año 2 proveedores diferentes de energía a partir de 2 puntos de acceso diferentes, con el suministro de gasóleo preferencial en caso de fallo (reservas completas para 5 días para los generadores) casi 50 proveedores de telecomunicaciones, de diferentes países, que dan acceso directo a sus clientes en todo el mundo RFID emparejados con escáneres de huellas digitales en 3D que miden no sólo la huella digital, sino también la morfología, el pulso y la temperatura habitación aislada separada para abrir paquetes, para minimizar el riesgo de incendio compuertas de una sola persona sensores de temperatura, movimiento y sonido entrada de doble compuerta de seguridad ¡hasta en el estacionamiento!</description>
+    </item>
+    
+    <item>
+      <title>Mi charla en el Circumvention Tech Festival, 4 de marzo</title>
+      <link>https://bloges.cortell.net/2015/04/mi-charla-en-el-circumvention-tech-festival-4-de-marzo/</link>
+      <pubDate>Sat, 18 Apr 2015 23:17:29 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2015/04/mi-charla-en-el-circumvention-tech-festival-4-de-marzo/</guid>
+      <description>Este invierno pasado me reuní con Sandy y James de Open ITP en Nueva York, y Pepe de Valencia. Estaban organizando el Circumvention Tech Festival que se celebró en Las Naves, Valencia (España) del 1-6 marzo.
+Me invitaron a dar una charla, que finalmente fue programada para el 4 de marzo a las 15:00. La titulé &amp;ldquo;Cuando privacidad no significa lo mismo para ti que para mí&amp;rdquo;. La idea es que se generara un debate, exponer los puntos de vista de otras personas, en lugar de ser un discurso unidireccional.</description>
+    </item>
+    
+    <item>
+      <title>Evento de Bitcoin – block chain en Nueva York</title>
+      <link>https://bloges.cortell.net/2015/02/evento-de-bitcoin-block-chain-en-nueva-york/</link>
+      <pubDate>Mon, 16 Feb 2015 16:09:24 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2015/02/evento-de-bitcoin-block-chain-en-nueva-york/</guid>
+      <description>El lunes 9 de febrero fui a un eventode Bitcoin – Blockchain con mi mujer en el bufet de abogados Latham &amp;amp; Watkins de Nueva York, organizado por Hedgeable.
+
+Más de 100 fans de bitcoin, inversores, periodistas, abogados, y emprendedores haciendo networking, con comida y bebida, demos por parte de:
+y una mesa redonda con expertos en innovación Bitcoin:
+Ya que me había puesto a investigar el tema del uso de tecnología block chain para sanidad, fue un evento bastante útil.</description>
+    </item>
+    
+    <item>
+      <title>Mi nuevo teléfono OnePlus One es una pasada</title>
+      <link>https://bloges.cortell.net/2014/10/mi-nuevo-tel%C3%A9fono-oneplus-one-es-una-pasada/</link>
+      <pubDate>Wed, 08 Oct 2014 22:12:12 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2014/10/mi-nuevo-tel%C3%A9fono-oneplus-one-es-una-pasada/</guid>
+      <description>Acabo de comprar un teléfono OnePlusOne, y he estado usándolo durante un par de días. Déjame decirte: es una PASADA.
+Si nunca has oído hablar de la empresa, no te preocupes, no estás solo. Pero definitivamente échale un vistazo, sus teléfonos son de una muy alta calidad, altas especificaciones y precios bajos (el mío, libre, me ha costado $349). &amp;ldquo;Sin trampa ni cartón&amp;rdquo;:
+ Qualcomm© Snapdragon™ 801 processor with 2.5GHz Quad-core CPUs Adreno 330 GPU, 578MHz 64 GB eMMC 5.</description>
+    </item>
+    
+    <item>
+      <title>Me obligaron a hackear la wifi del aeropuerto de Schiphol</title>
+      <link>https://bloges.cortell.net/2014/09/me-obligaron-a-hackear-la-wifi-del-aeropuerto-de-schiphol/</link>
+      <pubDate>Tue, 30 Sep 2014 12:31:29 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2014/09/me-obligaron-a-hackear-la-wifi-del-aeropuerto-de-schiphol/</guid>
+      <description>Hace un par de semanas estaba en el aeropuerto de Schiphol en Amsterdam. Por supuesto, cuando llego a un aeropuerto con suficiente antelación, busco un enchufe y una wifi. Por suerte Schiphol es un excelente aeropuerto con ambas cosas. El único problema es que cada vez que hacía click en el botón &amp;ldquo;Enjoy unlimited free wifi – Connect&amp;rdquo; (&amp;ldquo;Disfrute de wifi gratis ilimitada&amp;rdquo;) me respondía un mensaje de &amp;ldquo;Unknown error 0&amp;rdquo; (&amp;ldquo;Error desconocido 0&amp;rdquo;).</description>
+    </item>
+    
+    <item>
+      <title>Reseteando la red</title>
+      <link>https://bloges.cortell.net/2014/06/reseteando-la-red/</link>
+      <pubDate>Thu, 05 Jun 2014 14:02:23 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2014/06/reseteando-la-red/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aprendiendo a programar ordenadores cuánticos</title>
+      <link>https://bloges.cortell.net/2014/05/aprendiendo-a-programar-ordenadores-cu%C3%A1nticos/</link>
+      <pubDate>Fri, 23 May 2014 11:38:19 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2014/05/aprendiendo-a-programar-ordenadores-cu%C3%A1nticos/</guid>
+      <description>Ayer comencé a aprender y experimentar con programación de ordenadores cuánticos. No me es fácil expresar lo bien que me lo pasé y lo que me emocionó, pero lo intentaré:
+Programar un ordenador cuántico es diferente de programar un ordenador &amp;ldquo;digital&amp;rdquo; binario (0 y 1). Para programar un sistema cuántico tienes que mapear un problema a la búsqueda del &amp;ldquo;punto más bajo&amp;rdquo; de una gran cantidad de opciones, que corresponde con el mejor resultado posible.</description>
+    </item>
+    
+    <item>
+      <title>Chromecast &#43; Hola = Libertad Multimedia</title>
+      <link>https://bloges.cortell.net/2014/02/chromecast-hola-libertad-multimedia/</link>
+      <pubDate>Sat, 15 Feb 2014 18:22:51 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2014/02/chromecast-hola-libertad-multimedia/</guid>
+      <description>¿Cuántas veces has intentado acceder a contenido multimedia en línea que no estaba disponible en tu país? ¿Cuántas veces te has frustrado con los servicios proxy?
+¿Cuántas veces has deseado que hubiera una manera fácil de mostrar de forma inalámbrica contenido en línea en tu TV sin tener que pagar caros aparatos privativos?
+Démosle la bienvenida a Hola.org+ ChromecastHola es una extensión del navegador gratis utilizada por 14 millones de personas para acceder a contenido de medios de comunicación en línea geográficamente restringidos.</description>
+    </item>
+    
+    <item>
+      <title>Testing a simple hack</title>
+      <link>https://bloges.cortell.net/2014/01/testing-a-simple-hack/</link>
+      <pubDate>Sat, 04 Jan 2014 14:51:25 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2014/01/testing-a-simple-hack/</guid>
+      <description>Uso qtranslate como plugin multi-idioma para mi blog. Es una estupenda solución, pero el problema es que cada vez que se actualiza Word Press, al autor del plugin le lleva días o incluso semanas actualizarlo.
+Así que, cansado de esperar, he encontrado un hack simple y rápido para la actualización a WP 3.8: edita en qtranslate.php
+ define(‘QT_SUPPORTED_WP_VERSION‘, ‘3.8‘);
+ De nada 😉</description>
+    </item>
+    
+    <item>
+      <title>Playing with the robot (Roomba)</title>
+      <link>https://bloges.cortell.net/2013/08/playing-with-the-robot-roomba/</link>
+      <pubDate>Mon, 12 Aug 2013 15:40:31 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2013/08/playing-with-the-robot-roomba/</guid>
+      <description>Recibimos estupendos regalos de boda, pero sin duda, el mejor (¡de la historia!) es UN ROBOT.
+Mi suegra nos compró un robot. ¿Lo pillas? ¿¡Mola o qué!?
+Y no es para hacer la vida de su hija más fácil, porque en casa soy yo el que pasa la aspiradora. Nos lo compró porque mola. ¡Y tanto!
+El Roombano es nada nuevo. Ya lleva en el mercado una década. Pero todavía me sorprende, desde su diseño a su utilidad.</description>
+    </item>
+    
+    <item>
+      <title>Anatomy of an FDA inspection</title>
+      <link>https://bloges.cortell.net/2013/06/anatomy-of-an-fda-inspection/</link>
+      <pubDate>Sun, 30 Jun 2013 15:19:10 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2013/06/anatomy-of-an-fda-inspection/</guid>
+      <description>El 25 de abril tuve mi primera inspección de la FDA (EE.UU. Food and Drug Administration) como establecimiento fabricante de equipamiento médico.
+La agente (Investigador) Kimberley A. Ricketts me llamó un par de días antes para hacerme saber que como empresa fabricante de equipamiento médico registrada, Kanteron Systems (la compañía que fundé en 2005) había sido seleccionada para una inspección del establecimiento. Era el &amp;ldquo;Aviso de inspección conforme a la Sección 704 (a) (1) de la Ley Federal de Alimentos, Medicamentos y Cosméticos Ley [21 USC 374 (a)] y la Ley de Servicio de Salud Pública F o G, Título III de la Parte [ 42 USC 262-264] &amp;ldquo;.</description>
+    </item>
+    
+    <item>
+      <title>MIT day 3</title>
+      <link>https://bloges.cortell.net/2013/02/mit-day-3/</link>
+      <pubDate>Mon, 11 Feb 2013 16:23:53 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2013/02/mit-day-3/</guid>
+      <description>El día 3 lo empecé ganando la competición de Twitter con este tweet:
+Luego tuvimos clases impartidas por Matt Marx,William Aulet, Elaine Chen, y John McEleney.
+Clases incluso durante la comida (en la sala E52, 6º piso del Martin Trust Center for MIT Entrepreneurship – Edificio Tang). En este caso impartida por Scott Stern. Sin parar de las 7:00 a las 20:00 (o más tarde, según lo duro que trabaje tu equipo).</description>
+    </item>
+    
+    <item>
+      <title>Testing WP update and plug-in incompatibility</title>
+      <link>https://bloges.cortell.net/2012/09/testing-wp-update-and-plug-in-incompatibility/</link>
+      <pubDate>Sun, 23 Sep 2012 12:13:32 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2012/09/testing-wp-update-and-plug-in-incompatibility/</guid>
+      <description>Me ha estado mareando una incompatibilidad entre WP y el plug-in que empleo para multi-idioma.
+Tan pronto como consiga solucionarlo, seguiré con mis posts.
+[Esto es una prueba, escrita en HTML porque el editor &amp;ldquo;WYSIWYG&amp;rdquo; ha desaparecido]</description>
+    </item>
+    
+    <item>
+      <title>Fun at Hackers On Planet Earth 9 – New York</title>
+      <link>https://bloges.cortell.net/2012/07/fun-at-hackers-on-planet-earth-9-new-york/</link>
+      <pubDate>Sun, 29 Jul 2012 17:03:18 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2012/07/fun-at-hackers-on-planet-earth-9-new-york/</guid>
+      <description>Del 13 al 15 de julio, Alvaro y yo asistimos a la conferencia Hope9(Hackers On Planet Earth number 9) en el Hotel Pennsylvania de Nueva York.
+Fue divertido, como siempre. A parte de las muchas charlas informativas(nosotros dimos una sobre &amp;ldquo;La Seguridad Digital en Instituciones Sanitarias&amp;rdquo;, el primer día), hubo música, puestos de FSF, EFFcon una chica que quería ir a España a ayudar a los #indignados, Free Manning, Libros No Starch Press, clases de abrir cerradurasy arduino, un Candidato Presidencial de los EEUU con una bota en la cabezapro-ponies y anti-zombies, impresoras 3D MakerBot, el IMMI, Hackers For Charity, AlphaOneHackerSpace (los visitaré el jueves que viene con Audrey), StartUpHire, SparkleLabs(¡geniales regalos para niños y n00bies!</description>
+    </item>
+    
+    <item>
+      <title>Is your Mac infected? Find out (and fix it if it is)!</title>
+      <link>https://bloges.cortell.net/2012/04/is-your-mac-infected-find-out-and-fix-it-if-it-is/</link>
+      <pubDate>Fri, 06 Apr 2012 17:05:06 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2012/04/is-your-mac-infected-find-out-and-fix-it-if-it-is/</guid>
+      <description>Más de 600,000 Macs están infectados con el Troyano FlashBack Trojan. ¿Es el tuyo uno de ellos? Vamos a ver lo.
+Abre el Terminal (venga, no seas vago, sé un hacker) y escribe:
+Si dice:
+ The domain/default pair of (/Applications/Safari.app/Contents/Info, LSEnvironment) does not exist
+ significa que tu Mac por ahora va bien (de lo contrario ve aquí). Luego escribe:
+si dice:
+ The domain/default pair of (/Users/[your user name here]/.</description>
+    </item>
+    
+    <item>
+      <title>Stop WordPress from removing your &amp;quot;p&amp;quot; and &amp;quot;br&amp;quot; tags</title>
+      <link>https://bloges.cortell.net/2012/03/stop-wordpress-from-removing-your-quotpquot-and-quotbrquot-tags/</link>
+      <pubDate>Thu, 08 Mar 2012 19:13:41 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2012/03/stop-wordpress-from-removing-your-quotpquot-and-quotbrquot-tags/</guid>
+      <description>Tras perder horas intentando meter espacios extra o insertar retornos de carro al escribir posts en WordPress para que luego WordPress filtre automáticamente el contenido y elimine esos espacios extra cuando le das al botón de &amp;ldquo;publicar&amp;rdquo;, he encontrado la solución (que no es tan obvia ni está fácilmente disponible en los foros de soporte) empleando el TinyMCE Advanced plugin, que añade funcionalidad adicional al editor por defecto de WordPress, incluyendo la habilidad de evitar que WordPress automáticamente elimine los tags “p” (párrafo) y “br” (retorno de carro).</description>
+    </item>
+    
+    <item>
+      <title>ArtHack Exhibit closing party in Brooklyn</title>
+      <link>https://bloges.cortell.net/2012/01/arthack-exhibit-closing-party-in-brooklyn/</link>
+      <pubDate>Mon, 30 Jan 2012 22:27:50 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2012/01/arthack-exhibit-closing-party-in-brooklyn/</guid>
+      <description>El pasado sábado fui a la fiesta de clausura del ArtHack Exhibiten 319 ScholesSt, Brooklyn (Nueva York).
+Ubicada en un polígono industrial en Brooklyn, de noche, a dos laaaargas manzanas del metro, graffiti por todas partes, puerta pequeña&amp;hellip; que conducía al paraíso: gente joven (yo era el hacker más viejo del lugar, pero no me sentía así) energética y feliz trasteando con tecnología y mostrando orgullosos sus &amp;ldquo;juguetes&amp;rdquo; (hacks, mashups, creaciones o lo que sea).</description>
+    </item>
+    
+    <item>
+      <title>RePress: fight online censorship with a WP Plug-In</title>
+      <link>https://bloges.cortell.net/2012/01/repress-fight-online-censorship-with-a-wp-plug-in/</link>
+      <pubDate>Mon, 30 Jan 2012 17:51:48 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2012/01/repress-fight-online-censorship-with-a-wp-plug-in/</guid>
+      <description>Acabo de instalar RePress: &amp;ldquo;Este plug-in permite mágicamente (sic) superar la censura de cualquier web en internet desde tu propia instalación de WordPress&amp;rdquo;. Por qué y cómo.</description>
+    </item>
+    
+    <item>
+      <title>Protest against SOPA on your site: easy code</title>
+      <link>https://bloges.cortell.net/2012/01/protest-against-sopa-on-your-site-easy-code/</link>
+      <pubDate>Tue, 17 Jan 2012 09:00:24 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2012/01/protest-against-sopa-on-your-site-easy-code/</guid>
+      <description>Gracias a Sara, hay una forma muy fácil de añadir código a tu web para protestar contra SOPA:
+Añade el siguiente código entre los dos tags de tu web, así los visitantes serán redireccionados a la página de protesta que describe lo que haces y por qué.
+`Una vez acabe la protesta, simplemente quita el código. La protesta empieza a las 12:00 del 18 de enero y dura 24 horas.</description>
+    </item>
+    
+    <item>
+      <title>Para los que no emplean el túnel</title>
+      <link>https://bloges.cortell.net/2011/10/para-los-que-no-emplean-el-t%C3%BAnel/</link>
+      <pubDate>Sun, 02 Oct 2011 12:42:40 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/10/para-los-que-no-emplean-el-t%C3%BAnel/</guid>
+      <description>Si eres de los temerarios (o ignorantes) que no emplean el túnel, quizá la existencia de herramientas tan simples y eficaces como FireSheepte convenza de que ya va siendo hora de que te protejas (o de que demuestres a otros que deberían hacerlo 😉 ).</description>
+    </item>
+    
+    <item>
+      <title>Averigua lo que pasa interrogando a Twitter</title>
+      <link>https://bloges.cortell.net/2011/10/averigua-lo-que-pasa-interrogando-a-twitter/</link>
+      <pubDate>Sat, 01 Oct 2011 11:08:23 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/10/averigua-lo-que-pasa-interrogando-a-twitter/</guid>
+      <description>Con esta herramientase puede interrogar a Twitter y ver en un gráfico las respuestas.
+También lo puedes hacer directamente, pero será mejor que aprendas la sintaxis de interrogación.
+Ahora imaginad lo que se puede averiguar con un montón de datos flotando en la red(BigData) y herramientas potentes de interrogación (como BigSheetsde IBM).
+Aunque los resultados no son estadísticamente válidos (por canal, muestra y población), la &amp;ldquo;verdad&amp;rdquo; (como consenso pseudo-objetivo), la &amp;ldquo;relidad&amp;rdquo; (como constructo social) nunca ha sido más accesible, y a la vez, los ciudadanos nunca hemos sido más manipulables.</description>
+    </item>
+    
+    <item>
+      <title>Cuando te tocan las narices con telemarketing o estafa telemática</title>
+      <link>https://bloges.cortell.net/2011/09/cuando-te-tocan-las-narices-con-telemarketing-o-estafa-telem%C3%A1tica/</link>
+      <pubDate>Sun, 18 Sep 2011 11:36:17 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/09/cuando-te-tocan-las-narices-con-telemarketing-o-estafa-telem%C3%A1tica/</guid>
+      <description>Si el telemarketing te toca las narices, devuelve el golpe (aunque reconozco que estese pasa, pero es para partirse de risa si no fuese por lo mal que lo pasa el pobre teleoperador).
+Si intentan estafarte telemáticamente, aquí va una serie de 4 post (1, 2, 3y 4) detallando un proceso de investigación.</description>
+    </item>
+    
+    <item>
+      <title>Poesía en el código</title>
+      <link>https://bloges.cortell.net/2011/09/poes%C3%ADa-en-el-c%C3%B3digo/</link>
+      <pubDate>Sun, 18 Sep 2011 10:09:47 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/09/poes%C3%ADa-en-el-c%C3%B3digo/</guid>
+      <description>Algunas de las líneas de código más interesantes y poéticas que uno puede encontrar:
+Cabecera C autoejecutable (explicado aquí):&amp;lt;br /&amp;gt; //&amp;amp;&amp;gt;/dev/null;x=&amp;quot;${0%.*}&amp;quot;;[ ! &amp;quot;$x&amp;quot; -ot &amp;quot;$0&amp;quot; ]||(rm -f &amp;quot;$x&amp;quot;;cc -o &amp;quot;$x&amp;quot; &amp;quot;$0&amp;quot;)&amp;amp;&amp;amp;exec &amp;quot;$x&amp;quot; &amp;quot;$@&amp;quot;&amp;lt;br /&amp;gt;
+Para cuando te sientes nihilista&amp;hellip;
+o bien
+o la bomba de Jaromil, pura poesía (con espacios extra añadidos para evitar cambiar la configuración por defecto de WP para la autodetección de smilies :-):
+que en el shell de Windows sería</description>
+    </item>
+    
+    <item>
+      <title>Una vida crecientemente digital</title>
+      <link>https://bloges.cortell.net/2011/09/una-vida-crecientemente-digital/</link>
+      <pubDate>Sat, 17 Sep 2011 16:40:15 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/09/una-vida-crecientemente-digital/</guid>
+      <description>En mi charla de ayer en el Congreso de seguridad informática No con Namede Barcelona, dentro de la mesa redonda &amp;ldquo;Ataques a las grandes corporaciones&amp;rdquo; moderada por Xavier Vidal y que contaba también con Josep Jover (abogadoque llevó el canon digital a los tribunales) e Isidro Ordás (Director de la Brigada de Investigación Tecnológicade la Policía Nacional en Cataluña, que &amp;ldquo;nunca me ha tenido tan cerca&amp;rdquo; ROTFL), hablé sobre los aspectos sociológicos y psicológicos de dichos ataques (los que cometen las grandes corporaciones, y los que son cometidos contra ellas).</description>
+    </item>
+    
+    <item>
+      <title>Moneda P2P virtual ¿el fin del imperio y la opresión gubernamental?</title>
+      <link>https://bloges.cortell.net/2011/08/moneda-p2p-virtual-el-fin-del-imperio-y-la-opresi%C3%B3n-gubernamental/</link>
+      <pubDate>Sun, 21 Aug 2011 17:21:45 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/08/moneda-p2p-virtual-el-fin-del-imperio-y-la-opresi%C3%B3n-gubernamental/</guid>
+      <description>El imperio se sostiene sobre dinero y armas. Las armas se compran, con lo que queda el dinero.
+El dinero el imperio lo apropia (impuestos), lo impone (intereses), o lo roba (expropiaciones), pero en cualquier caso depende de su instrumento: la moneda (en forma física o digital) emitida por una &amp;ldquo;autoridad&amp;rdquo; (aunque esta dependa de otra entidad, sea o no supranacional, no gubernamental, privada, como la Fed, FMI, BM, etc).</description>
+    </item>
+    
+    <item>
+      <title>TecnoGraffiti</title>
+      <link>https://bloges.cortell.net/2011/08/tecnograffiti/</link>
+      <pubDate>Mon, 15 Aug 2011 23:55:20 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/08/tecnograffiti/</guid>
+      <description>Desde &amp;ldquo;pintar&amp;rdquo; una versión pixelada de la Mona Lisa con una máquinaque dispara simultáneamente varios cañones de paintball a la vez, hasta la txtBomber (&amp;ldquo;impresora&amp;rdquo; matricial de mano con placa Arduino que funciona con rotuladores) de Felix Vorreiter, hay muchísimos proyecto para la confluencia del graffiti y la tecnología. Pero uno en particular me parece interesantísimo y con mucho mucho potencial: el GML (Graffiti Markup Language). Si añadimos GraffitiAnalysistenemos&amp;hellip; ¡puro street techno lust!</description>
+    </item>
+    
+    <item>
+      <title>Anatomía de un hackeo newbie de bajo nivel con el navegador</title>
+      <link>https://bloges.cortell.net/2011/07/anatom%C3%ADa-de-un-hackeo-newbie-de-bajo-nivel-con-el-navegador/</link>
+      <pubDate>Tue, 19 Jul 2011 15:05:27 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/07/anatom%C3%ADa-de-un-hackeo-newbie-de-bajo-nivel-con-el-navegador/</guid>
+      <description>Me entristece que los DRM y las políticas de miras cerradas de algunas instituciones priven a los usuarios/clientes/ciudadanos de sus derechos. Pero no tenemos por qué quedarnos de brazos cruzados. Un ejemplo:
+Estoy haciendo un curso online (institución y temática no vienen a cuento).
+Por el motivo que sea (me imagino la desgastada colección de excusas que se suelen emplear en estos casos) la institución que me ofrece esta formación, no considera, pese a que haya pagado por ello, que la información en la que se basa el curso sea algo que yo quiera mantener para futura revisión y estudio.</description>
+    </item>
+    
+    <item>
+      <title>¿Quieres ser Anonymous mañana?</title>
+      <link>https://bloges.cortell.net/2011/06/quieres-ser-anonymous-ma%C3%B1ana/</link>
+      <pubDate>Sat, 25 Jun 2011 17:34:33 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/06/quieres-ser-anonymous-ma%C3%B1ana/</guid>
+      <description>Algunos nos divertimos analizando (nada de Boomerang, sino Hex-Rays) el código de Stuxnet (no la versión inócua y parcial de HBGary que se encuentra en Github y que subió Crowdleaks, y no Anonymous como se dijo en principio, aunque en definitiva nacen de la misma madre), el heredero de Conficker, para que empleando los mismos zerodays se pueda controlar a voluntad, y que los miles de virus distribuídos que están dormidos puedan activarse, antes de que se autodesactiven el 24 de junio de 2012 (y antes de que saquen el parche del quinto zeroday, el que escala privilegios via Task Scheduler, aunque ya se sabe que a mí siempre me ha encantado jugar con el printspooler).</description>
+    </item>
+    
+    <item>
+      <title>La verdad de Telefónica y la red</title>
+      <link>https://bloges.cortell.net/2011/05/la-verdad-de-telef%C3%B3nica-y-la-red/</link>
+      <pubDate>Mon, 30 May 2011 11:40:39 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/05/la-verdad-de-telef%C3%B3nica-y-la-red/</guid>
+      <description>Juan (gracias) me envía un enlace a un vídeo que demuestra (a parte de dejar en evidencia al Sr. Alierta) que las anotaciones de los usuarios aportan valor y debate al contenido, que la postura de Telefónica sigue siendo de ex-monopolio aprovechado y desagradecido, que el discurso sobre la red entre los &amp;ldquo;big players&amp;rdquo; y la industria no tiene nada que ver con los intereses de usuarios y ciudadanos, y que la tecnología puede que surja de mentes brillantes pero es manipulada y aprovechada por&amp;hellip; pasen y vean:</description>
+    </item>
+    
+    <item>
+      <title>Nube de medios</title>
+      <link>https://bloges.cortell.net/2011/03/nube-de-medios/</link>
+      <pubDate>Fri, 25 Mar 2011 19:21:56 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/03/nube-de-medios/</guid>
+      <description>Para probar un script generador de nubes, se me ha ocurrido comparar (de nuevo el 27 de marzo de 2011, modificando el script gracias a las sugerencias de aaaaa) las páginas iniciales de 5 medios extranjeros. El resultado es muy revelador:
+Y más (que cada cual saque su conclusión) si lo comparamos con medios nacionales:</description>
+    </item>
+    
+    <item>
+      <title>DUST: RSS por P2P</title>
+      <link>https://bloges.cortell.net/2011/03/dust-rss-por-p2p/</link>
+      <pubDate>Fri, 18 Mar 2011 12:25:26 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/03/dust-rss-por-p2p/</guid>
+      <description>Carlos (gracias co) me envía estos interesantes enlaces sobre DUST via ElLadoDelMal:
+1, 2, y 3.</description>
+    </item>
+    
+    <item>
+      <title>Ajustando YouTube</title>
+      <link>https://bloges.cortell.net/2011/01/ajustando-youtube/</link>
+      <pubDate>Mon, 03 Jan 2011 15:48:20 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/01/ajustando-youtube/</guid>
+      <description>Hay algunas cosillas que se pueden hacer cuando se inserta un vídeo de YouTube, como:
+Elegir dónde empieza el vídeo
+Añade #t=03m22s (#t=XXmYYs donde XX minutos y YY segundos) al final de la URL del código de insertado.
+Añade ‘&amp;amp;start=40? to tal final de la URL del código de insertado para saltar los primeros 40 segundos (o los que elijas tras =)
+&amp;lt;div id=&amp;quot;_mcePaste&amp;quot;&amp;gt; Añade &amp;lt;code&amp;gt;‘&amp;amp;loop=1?&amp;lt;/code&amp;gt; para que se reproduzca sin parar (en &amp;lt;em&amp;gt;loop&amp;lt;/em&amp;gt;).</description>
+    </item>
+    
+    <item>
+      <title>Buscadores MEDIANTE imágenes</title>
+      <link>https://bloges.cortell.net/2011/01/buscadores-mediante-im%C3%A1genes/</link>
+      <pubDate>Mon, 03 Jan 2011 12:16:33 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/01/buscadores-mediante-im%C3%A1genes/</guid>
+      <description>Ya conocéis la búsqueda de imágenes en Google (para los Asperger es una bendición 😉 ).
+Aquí tenéis buscadores mediante imágenes, o sea, que les das una imagen (archivo o URL) y te devuelven (en teoría) imágenes iguales o similares.
+Para el móvil (ni os imagináis lo útil que es, desde traducciones, hasta ver quién emplea una obra si atribución de autoría, hasta acumular información enciclopédica):
+ Google Goggles(yo lo uso y va de maravilla) SnapTell  Para el navegador:</description>
+    </item>
+    
+    <item>
+      <title>Hackeando via Google por la puerta de atrás de &amp;quot;gracias por la compra&amp;quot;</title>
+      <link>https://bloges.cortell.net/2011/01/hackeando-via-google-por-la-puerta-de-atr%C3%A1s-de-quotgracias-por-la-compraquot/</link>
+      <pubDate>Mon, 03 Jan 2011 12:06:14 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2011/01/hackeando-via-google-por-la-puerta-de-atr%C3%A1s-de-quotgracias-por-la-compraquot/</guid>
+      <description>Cuando via una mera búsqueda en Google te da la puerta de atrás de una tienda online, algo falla en la seguridad.
+Vosotros mismos:</description>
+    </item>
+    
+    <item>
+      <title>Herramientas para analizar Wikipedia</title>
+      <link>https://bloges.cortell.net/2010/12/herramientas-para-analizar-wikipedia/</link>
+      <pubDate>Sat, 18 Dec 2010 11:49:01 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2010/12/herramientas-para-analizar-wikipedia/</guid>
+      <description>Juliana Brunello recopila en un mail de una lista, una interesante lista de herramientas para procesar la info en Wikipedia:</description>
+    </item>
+    
+    <item>
+      <title>GeekFun 41</title>
+      <link>https://bloges.cortell.net/2010/12/geekfun-41/</link>
+      <pubDate>Wed, 15 Dec 2010 23:29:24 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2010/12/geekfun-41/</guid>
+      <description> Portal: un interesante juego mezcla de FPS y física con efectos visuales&amp;hellip; Photosynth: puede que ya haya hablado de ello, pero es lo mejor que ha comprado Microsoft, el agregador de fotos en red Spiceworks: herramienta de mapeo de redes gratuíta Maltego: herramienta forense informática de inteligencia, código abierto ShmooCon: la reunión hacker más molona del momento (los siento, HOPE)  </description>
+    </item>
+    
+    <item>
+      <title>Apple quiere cerrar el ordenador</title>
+      <link>https://bloges.cortell.net/2010/10/apple-quiere-cerrar-el-ordenador/</link>
+      <pubDate>Sun, 24 Oct 2010 00:41:54 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2010/10/apple-quiere-cerrar-el-ordenador/</guid>
+      <description>Al incluir DRM (control de las aplicaciones que se podían instalar) en el iPhone nos quejamos, y dijeron que &amp;ldquo;no es un ordenador&amp;rdquo; (todo el que tiene uno sabe que eso no es cierto). Pero ya demostró su intención de control y escasez artificial mediante barreras tecnológicas.
+Ahora, con Lion(la próxima actualización de Mac OSX) quieren hacer lo mismo: que pases por el aro, por caja, por su control y condiciones, antes de instalar algo en TU ordenador.</description>
+    </item>
+    
+    <item>
+      <title>Un gusano como excusa para una estafa militar</title>
+      <link>https://bloges.cortell.net/2010/09/un-gusano-como-excusa-para-una-estafa-militar/</link>
+      <pubDate>Fri, 17 Sep 2010 10:59:32 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2010/09/un-gusano-como-excusa-para-una-estafa-militar/</guid>
+      <description>El absurdo incidente de 2008 en el que un gusano (que ya tenía 3 años, con lo que no era amenaza para ningún sistema informático) en una llave USB infectó ordenadores militares estadounidenses, es una de las excusas más patéticas que he visto para montar una estafa a nivel internacional como la que el Pentágono estadounidense ha montado con Operation Buckshot Yankee.
+En este documentointerno del Pentágono, de más de 300 páginas en formato presentación (lo de los procesadores de texto es para los ayudantes del Congreso, los militares emplean las presentaciones que son más &amp;ldquo;ejecutivas&amp;rdquo; aunque luego lo que vayan a producir sea un documento, no una presentación) y por supuesto lleno de acrónimos, se detalla con exquisito cuidado, o sea escondiendo a plena luz, el enorme gasto en el que están incurriendo para &amp;ldquo;mejorar la Cyber Seguridad&amp;rdquo; a raíz de dicho incidente, incluido montar todo un nuevo Cyber Comando.</description>
+    </item>
+    
+    <item>
+      <title>Archivo secreto de Microsoft por el que cerraron Cryptome</title>
+      <link>https://bloges.cortell.net/2010/08/archivo-secreto-de-microsoft-por-el-que-cerraron-cryptome/</link>
+      <pubDate>Tue, 03 Aug 2010 00:26:26 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2010/08/archivo-secreto-de-microsoft-por-el-que-cerraron-cryptome/</guid>
+      <description>Via Wikileakstengo el vomitivo archivo secreto de Microsoft (un menú que detalla toda la información que Microsoft guarda sobre los usuarios de sus varios sistemas online, y que pone &amp;ldquo;a disposición&amp;rdquo; de fuerzas y cuerpos de seguridad del estado sin orden judicial ni pruebas ni acusación) por el que, mediante la DMCA Microsoft consiguió que los abogados cerraran Cryptome&amp;hellip; aunque ha vuelto y con más fuerza que nunca.
+Enjoy.</description>
+    </item>
+    
+    <item>
+      <title>Geek Fun 40</title>
+      <link>https://bloges.cortell.net/2010/07/geek-fun-40/</link>
+      <pubDate>Thu, 15 Jul 2010 20:48:52 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2010/07/geek-fun-40/</guid>
+      <description>– Herramientasinformáticas varias (cálculo para RAID, descifrado de contraseñas Cisco, etc)
+– ProFORMA: experimento (pronto software libre para GNU/Linux) que convierte cualquier webcan en un escáner 3D.
+– Photosynth: impresionante tecnología agregadora de fotos para generar entornos 3D a base de búsqueda semántica contextual. Qué pena que la haya comprado MicroSoft en nombre de las agencias espías y de control del gobierno de EEUU.
+– Lista de alternativas de software(para cuando no sabes qué emplear en vez de &amp;ldquo;ese programa tan raro/caro/privativo&amp;rdquo;).</description>
+    </item>
+    
+    <item>
+      <title>&amp;quot;Cyberfantasmas&amp;quot; tres décadas después</title>
+      <link>https://bloges.cortell.net/2010/07/quotcyberfantasmasquot-tres-d%C3%A9cadas-despu%C3%A9s/</link>
+      <pubDate>Wed, 14 Jul 2010 23:45:18 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2010/07/quotcyberfantasmasquot-tres-d%C3%A9cadas-despu%C3%A9s/</guid>
+      <description>Tres décadas han transcurrido desde que la paranoia volviese locos a políticos y militares norteamericanos por culpa de la película &amp;ldquo;Juegos de Guerra&amp;rdquo; y un par de incidentes con unos phreakers descuidados. Los años paranóicos posteriores alcanzaron un nivel de obsesión irracional increíble, incluyendo los medios de comunicación haciendo el juego de amplificación y contaminación y jueces &amp;ldquo;vendidos&amp;rdquo; e ignorantes buscando cabezas de turco que sacrificar ante el Gran Hermano. Algunos dejamos de &amp;ldquo;jugar con las redes&amp;rdquo; por miedo, tal era la presión de (en aquel entonces) FBI y NSA.</description>
+    </item>
+    
+    <item>
+      <title>Herramientas de monitorización libres</title>
+      <link>https://bloges.cortell.net/2009/11/herramientas-de-monitorizaci%C3%B3n-libres/</link>
+      <pubDate>Sun, 15 Nov 2009 13:45:19 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/11/herramientas-de-monitorizaci%C3%B3n-libres/</guid>
+      <description>Estaba durmiendo. Las 06:00h. Suena un &amp;ldquo;ping&amp;rdquo;. Alguien me envía un SMS sin saber que estoy en otra zona horaria. Por lo menos no es el teléfono sonando como ayer, pero me despierto, y me pongo a &amp;ldquo;trabajar&amp;rdquo;. Como siempre un enlace lleva a otro y&amp;hellip; aquí tenéis una lista de interesantes herramientas de monitorización libres:
+ Zabbix Osmius Pandora Centreon Cacti Icinga  &amp;hellip; y si os han parecido pocas las opciones, aquíhay más.</description>
+    </item>
+    
+    <item>
+      <title>Hackeando pantallas remotas</title>
+      <link>https://bloges.cortell.net/2009/07/hackeando-pantallas-remotas/</link>
+      <pubDate>Thu, 30 Jul 2009 08:37:40 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/07/hackeando-pantallas-remotas/</guid>
+      <description>El otro día volví a ver The Matrix por enésima vez. Y me gustó la cara que pone el Sr. Anderson cuando ve aparecer &amp;ldquo;Wake up Neo&amp;rdquo; en su monitor. Así que me puse a buscar, y esto es lo que encuentro que se puede hacer si te apetece jugar a Trinity con el usuario dormido de turno.
+ Lo primero es logearte como root remotamente de una de estas dos formas:   SSH (Trinity emplea SSH en Matrix:Reloaded) con un shell y encontrar un exploit local para conseguir privilegios de root Emplear directamente un exploit remoto para conseguir un shell root   Ejecutar ‘ps aux | grep X‘ (sustituir &amp;ldquo;X&amp;rdquo; por &amp;ldquo;windowserver&amp;rdquo; si es un MacOSX, &amp;ldquo;x.</description>
+    </item>
+    
+    <item>
+      <title>Chapuzas en webs de líneas aéreas que pasan de los consumidores</title>
+      <link>https://bloges.cortell.net/2009/07/chapuzas-en-webs-de-l%C3%ADneas-a%C3%A9reas-que-pasan-de-los-consumidores/</link>
+      <pubDate>Wed, 08 Jul 2009 09:53:33 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/07/chapuzas-en-webs-de-l%C3%ADneas-a%C3%A9reas-que-pasan-de-los-consumidores/</guid>
+      <description>Si es por todos conocido el problema de la web de Iberia, que no permite hacer check-in online si no usas Windows (a no ser que emplees retorcidos caminosque parecen un campo de entrenamiento hacker), o que estúpidamente no te permita escoger n aeropuerto de origen fuera del territorio nacional (como si sus aviones fuesen, pero no volviesen), ahora podemos añadir otro ejemplo de malas prácticas al catálogo de los horrores de las webs de líneas aéreas del grupo Iberia: en la web de ClickAir, cuando compras un billete online, e introduces tus datos, aparecen 3 casillas SUPUESTAMENTE para que elijas:</description>
+    </item>
+    
+    <item>
+      <title>Compartiendo acceso a red sala VIP aeropuerto Valencia</title>
+      <link>https://bloges.cortell.net/2009/07/compartiendo-acceso-a-red-sala-vip-aeropuerto-valencia/</link>
+      <pubDate>Sun, 05 Jul 2009 11:50:26 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/07/compartiendo-acceso-a-red-sala-vip-aeropuerto-valencia/</guid>
+      <description>No sé con qué frecuencia la cambiarán, no me he fijado. Pero aquí va mi contribución a compartir acceso a la red: si alguna vez te encuentras en el aeropuerto de Valencia, y necesitas conectarte, acércate a la puerta de la sala VIP Joan Olivert (al final de la terminal, enfrente de las puertas D) y conéctate con la contraseña a5b668c23d
+Para los que ven un problema ético o práctico en esto: si alguien necesita conectarse, ¿por qué no compartir el acceso?</description>
+    </item>
+    
+    <item>
+      <title>Flipando sin límite con las compañías aéreas</title>
+      <link>https://bloges.cortell.net/2009/07/flipando-sin-l%C3%ADmite-con-las-compa%C3%B1%C3%ADas-a%C3%A9reas/</link>
+      <pubDate>Wed, 01 Jul 2009 12:00:01 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/07/flipando-sin-l%C3%ADmite-con-las-compa%C3%B1%C3%ADas-a%C3%A9reas/</guid>
+      <description>Si no posteo esto, reviento.
+Mañana he de volar a Londres, para asistir a una reunión. La Unión Europea me paga el viaje, así que no me debería importar mucho el precio. Pero como uno trata de ser sensato, y honesto, pues me pongo a buscar alternativas (la agencia de viajes va demasiado liada como para eso, y como ellos van a cobrar igual, y pocos clientes les exigen que optimicen sus gastos&amp;hellip;).</description>
+    </item>
+    
+    <item>
+      <title>Me retiro del circuito de conferenciantes</title>
+      <link>https://bloges.cortell.net/2009/05/me-retiro-del-circuito-de-conferenciantes/</link>
+      <pubDate>Sun, 31 May 2009 01:14:41 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/05/me-retiro-del-circuito-de-conferenciantes/</guid>
+      <description>Aprovecho un email que acabo de escribir, para reciclar electrones:
+Hola Fernando,
+    </description>
+    </item>
+    
+    <item>
+      <title>Wii chips saves y regiones</title>
+      <link>https://bloges.cortell.net/2009/05/wii-chips-saves-y-regiones/</link>
+      <pubDate>Sun, 24 May 2009 08:38:07 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/05/wii-chips-saves-y-regiones/</guid>
+      <description>Muchas veces se emplea como excusa, pero mi caso es un ejemplo real: tengo una wii, y como viajo mucho, a veces veo juegos (Japón, EEUU, etc) que molan y no están en España, por lo que me apetece comprárselos a mi hijo. Pero como los fabricantes de &amp;ldquo;contenido&amp;rdquo; tienen la cabeza metida en el culo, se les ocurren cosas como las &amp;ldquo;regiones&amp;rdquo;, o sea que si compras un DVD (compra, legal, original, en la tienda, lo que quieras) en EEUU o Japón, no sirve en Europa.</description>
+    </item>
+    
+    <item>
+      <title>Deep Packet Inspection, info en Canadá</title>
+      <link>https://bloges.cortell.net/2009/04/deep-packet-inspection-info-en-canad%C3%A1/</link>
+      <pubDate>Thu, 09 Apr 2009 19:53:48 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/04/deep-packet-inspection-info-en-canad%C3%A1/</guid>
+      <description>Bill me escribe desde Canadá que el gobierno de su país ha tenido una maravillosa iniciativa: crear una web que recoge recursos sobre el peligroso Deep Packet Inspection. Igualito que en España, que para lo único que le sirve la tecnología al Gobierno es para joder y para mamonear fondos públicos en programas absurdos y distros redundantes (con la consiguiente colgadita de medalla mediática, claro).
+¿Que no sabes lo que es el DPI?</description>
+    </item>
+    
+    <item>
+      <title>Si caen las redes P2P...</title>
+      <link>https://bloges.cortell.net/2009/04/si-caen-las-redes-p2p.../</link>
+      <pubDate>Thu, 09 Apr 2009 18:41:17 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/04/si-caen-las-redes-p2p.../</guid>
+      <description>Lejos de ser un post &amp;ldquo;catastrofista&amp;rdquo; y &amp;ldquo;alarmista&amp;rdquo; (como a muchos les gusta creer que soy), en el que os describiría el daño que una legislación hostil con las redes P2P podría hacer a la investigación genómica, a los modelos meteorológicos, a las empresas que emplean dichas redes para colaborar online y distribuir sus contenidos, a la mensajería instantánea, a la distribución de la cultura (mediante la cual se puede comprobar si determinada obra merece nuestro &amp;ldquo;consumo&amp;rdquo; en salas de cine o lata de CD) o incluso a la industria de las telecomunicaciones (que le pregunten a los suecos), en este post voy a listar repercusiones positivas que dicha medida tendría:</description>
+    </item>
+    
+    <item>
+      <title>Diseño del blog ¿eyecandy?</title>
+      <link>https://bloges.cortell.net/2009/02/dise%C3%B1o-del-blog-eyecandy/</link>
+      <pubDate>Tue, 03 Feb 2009 09:53:28 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/02/dise%C3%B1o-del-blog-eyecandy/</guid>
+      <description>Me gusta el diseño. Me interesa la estética. Pero, si al migrar este blog primero opté por un diseño minimalista (&amp;ldquo;zen&amp;rdquo;, reflejando mi espíritu, como me dijo Juan), ¿por qué ahora este diseño aparentemente recargado?
+Muy sencillo, la respuesta es que, tras reflexionar sobre ello, entiendo que un blog no debe ser solamente la mera expresión de los gustos y deseos de su autor. De esto se deriva el divismo, el ombliguismo, el egocentrismo, la endogamia&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Héroes hacker: adiós al MD5</title>
+      <link>https://bloges.cortell.net/2009/01/h%C3%A9roes-hacker-adi%C3%B3s-al-md5/</link>
+      <pubDate>Fri, 16 Jan 2009 18:33:51 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/01/h%C3%A9roes-hacker-adi%C3%B3s-al-md5/</guid>
+      <description>Los que leemos SETy cosas por el estilo, tenemos héroes como estos (mejor que tener la habitación llena de posters de Ronaldinho o Bisbal):
+El 30 de diciembre rompieron el MD5(¿a que es una pasada leerse el documento de cómo lo hicieron?) y lo presentaron en el 25C3de CCC. A cambiar de cifrado, chicos.</description>
+    </item>
+    
+    <item>
+      <title>Autorización de viaje a EEUU online con aviso de NO privacidad</title>
+      <link>https://bloges.cortell.net/2009/01/autorizaci%C3%B3n-de-viaje-a-eeuu-online-con-aviso-de-no-privacidad/</link>
+      <pubDate>Mon, 12 Jan 2009 10:34:54 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/01/autorizaci%C3%B3n-de-viaje-a-eeuu-online-con-aviso-de-no-privacidad/</guid>
+      <description>La noticia está en todos los medios (la necesidad de obtener una autorización online para viajar a EEUU sin visado&amp;hellip; lo que parece un visado encubierto). A parte del obvio absurdo (¿acaso creen que TODO potencial viajero tiene acceso a la red? Eso va más alla del etnocentrismo) y la unilaterialidad, hay un detalle que no veo reflejado en la cobertura de la noticia. Se trata del mensaje de advertencia que aparece cuando se accede a la página en cuestión:</description>
+    </item>
+    
+    <item>
+      <title>Apple: Restricción en hardware grabador DVD</title>
+      <link>https://bloges.cortell.net/2009/01/apple-restricci%C3%B3n-en-hardware-grabador-dvd/</link>
+      <pubDate>Mon, 05 Jan 2009 10:14:53 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/01/apple-restricci%C3%B3n-en-hardware-grabador-dvd/</guid>
+      <description>Hay cosas difíciles de comprender, con las que uno no está de acuerdo, discutibles, pero que tienen una &amp;ldquo;justificación&amp;rdquo;. Ejemplo: el DRM que inicialmente llevaban todas las canciones en iTunes, pese a que Apple estaba oficialmente en contra (según ellos era un mal necesario para conseguir que las discográficas pusiesen su catálogo a la venta de modo digital, en lo que hoy se ha convertido en la mayor tienda de música del mundo).</description>
+    </item>
+    
+    <item>
+      <title>Algoritmo hacker</title>
+      <link>https://bloges.cortell.net/2009/01/algoritmo-hacker/</link>
+      <pubDate>Sun, 04 Jan 2009 00:33:40 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2009/01/algoritmo-hacker/</guid>
+      <description>Me ha gustado este algoritmo que blackngel escribe en el artículo sobre &amp;ldquo;criptografía (sic) práctica&amp;rdquo; del SET(Saqueadores Edición Técnica – Información Libre para Gente Libre) num. 35 – Octubre 2008 (ya sé que voy retrasado en mis lecturas&amp;hellip; ¡pero si tengo más de 29.000 artículos pendientes de leer via RSS!) :
+&amp;lt;br /&amp;gt; if (TIEMPO_LECTURA_Y_OCIO &amp;gt; TIEMPO_PRACTICA_Y_EJERCICIO) {&amp;lt;br /&amp;gt; printf(&amp;quot;nTu jamas seras un hackern&amp;quot;);&amp;lt;br /&amp;gt; exit(LIFE_ERROR);&amp;lt;br /&amp;gt; }&amp;lt;br /&amp;gt; else&amp;lt;br /&amp;gt; printf(&amp;quot;nEstas en el camino correcton&amp;quot;);&amp;lt;br /&amp;gt; .</description>
+    </item>
+    
+    <item>
+      <title>Apple me toca los huevos</title>
+      <link>https://bloges.cortell.net/2008/11/apple-me-toca-los-huevos/</link>
+      <pubDate>Thu, 27 Nov 2008 15:52:59 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/11/apple-me-toca-los-huevos/</guid>
+      <description>Ahora que como manzanas, y que anoche le explicaba a mi chica en el avión que Steve Jobs tenía un punto malvado (traumas del pasado que hacen que re-enfoques tu energía negativa), pero que seguía molando, me desayuno con esto:
+– DBD: El nuevo MacBook lleva DRM (aunque no en el HDCP como denuncia DefectiveByDesign, sí por soft en el I/O).
+– EFF: Apple emplea la ley DMCA para intentar evitar que se sincronicen archivos entre dispositivos.</description>
+    </item>
+    
+    <item>
+      <title>Dos modelos de evento</title>
+      <link>https://bloges.cortell.net/2008/10/dos-modelos-de-evento/</link>
+      <pubDate>Mon, 20 Oct 2008 13:06:08 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/10/dos-modelos-de-evento/</guid>
+      <description>Del HackMeetingcolaborativo, libre de contaminación comercial, horizontal y cada-uno-a-su-bola (compatible con la colaboración) del sábado, a la Conferencia Internacional de Software Librejerárquica, hiperesponsorizado, vertical y rápido-que-no-sales-en-la-foto-con-el-guru-y-el-consejero de hoy (blogeo en directo desde el suelo &amp;ldquo;literalmente&amp;rdquo; del Palacio de Congresos de Málaga).
+No es hipocresía ni falta de homogeneidad. Es flexibilidad (incluída la vestimenta y el discurso). En definitiva ambas causas son válidas para mí.
+Por cierto, el permalink lo debía haber dejado en numérico (1353) porque leído en 1337 queda muy andaluz 😉</description>
+    </item>
+    
+    <item>
+      <title>Lecturas, Salmo y Homilía hackiitas</title>
+      <link>https://bloges.cortell.net/2008/10/lecturas-salmo-y-homil%C3%ADa-hackiitas/</link>
+      <pubDate>Sat, 18 Oct 2008 12:40:05 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/10/lecturas-salmo-y-homil%C3%ADa-hackiitas/</guid>
+      <description>¿Sabías que las organizaciones religiosas estan exentas del pago de cualquier tipo de tasa, canon, o &amp;ldquo;derecho&amp;rdquo; a las Suciedades de Gestión? ¿Primero por qué? Segundo, ejemplo de por qué me encantan los HackMeeting, su gente, y las cosas que hacen:
+Celebración de la compartición religiosa Saludos a la comunidad Queridas hermanas piratillas. Estamos aquí reunidos para compartir de manera completamente libre, en cuerpo y alma, en hardware y software, en bits y chips.</description>
+    </item>
+    
+    <item>
+      <title>Metasploit 3.2 bajo BSD</title>
+      <link>https://bloges.cortell.net/2008/10/metasploit-3.2-bajo-bsd/</link>
+      <pubDate>Tue, 14 Oct 2008 22:43:39 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/10/metasploit-3.2-bajo-bsd/</guid>
+      <description>Dice HD Moore que Metasploit3.2 lo van a sacar bajo licencia BSD!!!!!!
+Babeo.
+Si no sabes de qué hablo, sigue circulando.</description>
+    </item>
+    
+    <item>
+      <title>Hackmeeting LaInvisible 2008 :: Libera tus sueños</title>
+      <link>https://bloges.cortell.net/2008/09/hackmeeting-lainvisible-2008-libera-tus-sue%C3%B1os/</link>
+      <pubDate>Tue, 16 Sep 2008 09:40:11 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/09/hackmeeting-lainvisible-2008-libera-tus-sue%C3%B1os/</guid>
+      <description>Comunicado de difusión del Hackmeeting:
+Una nueva edición del hackmeetingcomienza los días 17, 18 y 19 de Octubre en La Invisibleen Málaga (Andalucía). Con esta son ocho las ediciones de este encuentro autogestionadoque parte del principio básico de la libertad de la cultura, y que ofrece un evento cargado de nuevas experiencias y gente con inquietudes, información de interés y de primera mano, profundos debates éticos y filosóficos, y donde se analizan las implicaciones políticas de las tecnologías y el hacking en general con un completo programa de actividades y talleres.</description>
+    </item>
+    
+    <item>
+      <title>iPhone pwned y HDMI con portátiles</title>
+      <link>https://bloges.cortell.net/2008/08/iphone-pwned-y-hdmi-con-port%C3%A1tiles/</link>
+      <pubDate>Tue, 19 Aug 2008 11:53:41 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/08/iphone-pwned-y-hdmi-con-port%C3%A1tiles/</guid>
+      <description>A estas alturas ya lo ha hecho mucha gente, pero aquí va mi granito de arena: he actualizado mi iPhone a 2.0 sin problemas con el pwnage tool del Dev Team. Gracias! (por cierto, lo de la piña mordida supongo que de pwn, pine+appple = pineapple = piña).
+Otra curiosidad que me ha ocupado más tiempo del que debiera: intentando conectar el MacBook Air a una Samsung LCD (con su correspondiente microDVI-DVI-DVI-HDMI), no lo conseguía, ni modificando refresco, ni profundidad, ni resolución, ni leches&amp;hellip; pero sin embargo lo reconocía.</description>
+    </item>
+    
+    <item>
+      <title>Nuestro gobierno socialista quiere prohibir lo gratuito y la investigación</title>
+      <link>https://bloges.cortell.net/2008/07/nuestro-gobierno-socialista-quiere-prohibir-lo-gratuito-y-la-investigaci%C3%B3n/</link>
+      <pubDate>Fri, 11 Jul 2008 12:17:42 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/07/nuestro-gobierno-socialista-quiere-prohibir-lo-gratuito-y-la-investigaci%C3%B3n/</guid>
+      <description>Esto es el colmo. Leo en Público(gracias Alkaitz) que el gobierno (SOCIALISTA!!!! y una mierda) se ha propuesto prohibir el P2P.
+O sea, que pagamos canon, pero no podemos ejercer el derecho a copia privada (por culpa del DRM y la prohibición del P2P). Además, con esta prohibición afectan al software libre, a una herramienta para la difusión de contenidos PROPIOS, y a la CIENCIA (por ejemplo en la investigación genómica, o la meteorología, se usa el P2P a menudo).</description>
+    </item>
+    
+    <item>
+      <title>Vienen tiempos oscuros ¿vienes al undergound?</title>
+      <link>https://bloges.cortell.net/2008/07/vienen-tiempos-oscuros-vienes-al-undergound/</link>
+      <pubDate>Fri, 11 Jul 2008 09:26:00 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/07/vienen-tiempos-oscuros-vienes-al-undergound/</guid>
+      <description>Ya hemos hablado de la votaciónnefasta en Europa. Si a esto añadimos la bajada de pantalonesdel gobierno &amp;ldquo;aquí no hay crisis, se llama aterrizaje-forzoso-con-desaceleración-rápida&amp;rdquo; ante la SGAE, y la posibilidad de que Skype y Firefox (entre otros) sean declarados productos ilegales&amp;hellip; tenemos la vuelta al underground. ¿Quién se viene?</description>
+    </item>
+    
+    <item>
+      <title>iPhone 3G hackeado y otras cosas</title>
+      <link>https://bloges.cortell.net/2008/07/iphone-3g-hackeado-y-otras-cosas/</link>
+      <pubDate>Fri, 11 Jul 2008 08:46:42 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/07/iphone-3g-hackeado-y-otras-cosas/</guid>
+      <description>Ha salido hoy a la venta, y por supuesto ya está hackeadopor iPhone Dev(aunque hará pública -gratis y de código abierto- la PwnageTool dentro de un par de días) y desmontadopara verle las tripas.
+¿Cambios con respecto a la versión anterior? Muchos (se pueden usar auriculares que no sean de Apple, la batería ya no está soldada, 3G, GPS, nuevo firmware, nuevas aplicaciones, etc) pero no los suficientes (misma cámara, misma resolución, y mucho control y DRM).</description>
+    </item>
+    
+    <item>
+      <title>¿Cómo reparar un error Sony C:31:23? ¡A golpes!</title>
+      <link>https://bloges.cortell.net/2008/06/c%C3%B3mo-reparar-un-error-sony-c3123-a-golpes/</link>
+      <pubDate>Mon, 23 Jun 2008 07:27:19 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/06/c%C3%B3mo-reparar-un-error-sony-c3123-a-golpes/</guid>
+      <description>Tengo una videocámara Sony y lleva tiempo dándome por saco con un error C:31:23. El servicio técnico son más de 130€, y el problema reaparece al poco tiempo.
+Busco en la sacrosanta web, y encuentro un forodonde dan la solución (y más de 200 comentarios posteriores lo avalan): ¡darle golpes al cacharro!
+Por supuesto también (en ese mismo foro) hay enlaces a la documentación técnica, la web oficial donde pedir las partes defectuosas, e instrucciones para cambiarlas.</description>
+    </item>
+    
+    <item>
+      <title>[selfpromo] anuncio de trabajo con sorpresa</title>
+      <link>https://bloges.cortell.net/2008/06/selfpromo-anuncio-de-trabajo-con-sorpresa/</link>
+      <pubDate>Thu, 12 Jun 2008 16:26:03 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/06/selfpromo-anuncio-de-trabajo-con-sorpresa/</guid>
+      <description>[selfpromo (en definitiva, es mi blog, y mi empresa)]
+Aquí hay un anuncio de trabajo(desarrollador en la provincia de Valencia) &amp;ldquo;con sorpresa&amp;rdquo;: killer questions (para los que se inscriban)
+¿Hace cuánto que no ves un anuncio de trabajo así? 😉</description>
+    </item>
+    
+    <item>
+      <title>Las Fuerzas Aéreas Norteamericanas quieren control de TODO ordenador</title>
+      <link>https://bloges.cortell.net/2008/06/las-fuerzas-a%C3%A9reas-norteamericanas-quieren-control-de-todo-ordenador/</link>
+      <pubDate>Wed, 11 Jun 2008 12:28:12 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/06/las-fuerzas-a%C3%A9reas-norteamericanas-quieren-control-de-todo-ordenador/</guid>
+      <description>Con un presupuesto de 6.000 millones de dólares al año durante los próximos 5 años, se han propuesto el objetivo de tener acceso remoto (nivel administrador) a TODO ordenador conectado a la red en el mundo.
+Suerte que estos proyectos a parte de salir más caros de lo que se presupuestan (cómo odiaría ser un contribuyente americano en estos momentos 😉 ), terminan haciéndose mal&amp;hellip;y sobretodo tarde.
+Pero el dato está ahi: imperialismo informático por la fuerza.</description>
+    </item>
+    
+    <item>
+      <title>No escuches música en el iPod... ¡CREALA!</title>
+      <link>https://bloges.cortell.net/2008/05/no-escuches-m%C3%BAsica-en-el-ipod...-creala/</link>
+      <pubDate>Thu, 15 May 2008 15:26:33 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/05/no-escuches-m%C3%BAsica-en-el-ipod...-creala/</guid>
+      <description>Sólo por esta aplicación (Moo Cow Music BAND) ya merece la pena tener un iPod (o en mi caso un iPhone). El concepto es muy simple, pero muy potente a la vez: a base de &amp;ldquo;tocar&amp;rdquo; (arrastrar, tocar varias a la vez, etc) áreas de una imagen de un instrumento, creas música.
+Así el reproductor de música pasa a ser un instrumento múltiple, variado, sencillo, y divertido.
+Además permiten que los usuarios creen sus propios instrumentosy packs de sonido, con lo que la versatilidad aumenta cada día.</description>
+    </item>
+    
+    <item>
+      <title>DVD sin región: cómo crackear y comprar</title>
+      <link>https://bloges.cortell.net/2008/04/dvd-sin-regi%C3%B3n-c%C3%B3mo-crackear-y-comprar/</link>
+      <pubDate>Fri, 25 Apr 2008 16:29:17 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/04/dvd-sin-regi%C3%B3n-c%C3%B3mo-crackear-y-comprar/</guid>
+      <description>A ver, el top-manta = MAL; pero las regiones en DVD = estafa.
+Por si no lo sabías, los reproductores de DVD vienen &amp;ldquo;capados&amp;rdquo; de fábrica para reproducir sólamente algunos DVDs (basado en regiones geográficas). Eso es una ESTAFA. Un recorte injusto y arbitrario de tus derechos, y una manipulación del mercado.
+Pues bien, eso se puede solucionar. Resulta que todos los fabricantes incluyen back-doors para servicio técnico, accesibles con el mando a distancia.</description>
+    </item>
+    
+    <item>
+      <title>¿Guerra de P2P = P4P?</title>
+      <link>https://bloges.cortell.net/2008/03/guerra-de-p2p-p4p/</link>
+      <pubDate>Thu, 27 Mar 2008 09:31:04 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/03/guerra-de-p2p-p4p/</guid>
+      <description>Que las discográficas y suciedades de gestión colectiva quieren criminalizar las redes P2P (que están batiendo records) y sus usuariosen contra de lo que dice la UE(que quede claro que ni descargar ni ofrceer enlaces a contenido con © como hacen MiniNova, isoHunt, o The Pirate Bay, es hoy por hoy delito: caso sharemule) es por todos conocido. Que las propias empresas de telecomunicaciones (ISPs) parece que quieran hacer lo mismo (a través de RedTel, ya sea por las presiones recibidaso porque quieren entrar en el negocio de la generacion y comercialización de contenidos) nos ha sorprendido recientemente.</description>
+    </item>
+    
+    <item>
+      <title>Fabricante de máquinas de voto electrónico amenaza con demanda si se comprueba su máquina</title>
+      <link>https://bloges.cortell.net/2008/03/fabricante-de-m%C3%A1quinas-de-voto-electr%C3%B3nico-amenaza-con-demanda-si-se-comprueba-su-m%C3%A1quina/</link>
+      <pubDate>Tue, 25 Mar 2008 11:20:10 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/03/fabricante-de-m%C3%A1quinas-de-voto-electr%C3%B3nico-amenaza-con-demanda-si-se-comprueba-su-m%C3%A1quina/</guid>
+      <description>El fabricante de máquinas de voto electrónico Sequoia ha enviado al famoso profesor de Princeton Ed Felten y su colega Andrew Appel una carta en la que amenaza con demanda judicial si el estado de New Jersey les envía una máquina de voto (tal y como han solicitado, para un estudio). ¿La base de esa &amp;ldquo;demanda&amp;rdquo;? &amp;ldquo;Propiedad Intelectual&amp;rdquo; ese paraguas amenazador que sirve para cualquier tipo de censura y restricción sobre la información.</description>
+    </item>
+    
+    <item>
+      <title>Cuando quieres ser más listo (y desconfiado) que los demás... terminas siendo el &amp;quot;tonto&amp;quot;</title>
+      <link>https://bloges.cortell.net/2008/02/cuando-quieres-ser-m%C3%A1s-listo-y-desconfiado-que-los-dem%C3%A1s...-terminas-siendo-el-quottontoquot/</link>
+      <pubDate>Mon, 11 Feb 2008 13:38:39 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/02/cuando-quieres-ser-m%C3%A1s-listo-y-desconfiado-que-los-dem%C3%A1s...-terminas-siendo-el-quottontoquot/</guid>
+      <description>Está más que demostrado que la &amp;ldquo;Industria Discográfica&amp;rdquo; llega tarde (y mal) al ajuste de las nuevas tecnologí­as. Lo que también está claro es que a estas alturas deberí­an haberse dado cuenta de que cuando uno se encuentra en el &amp;ldquo;negocio&amp;rdquo; del &amp;ldquo;contenido&amp;rdquo; en el siglo XXI, no tiene más remedio que ser un experto en tecnologí­a, o contratar a quien lo sea.
+Pero no. Ellos no. Ellos lloran, amenazan, presionan, abusan&amp;hellip; lo que sea con tal de seguir anquilosados en principios del siglo XX (cuando dominaban y abusaban de todo: mercado, artistas, consumidores, legisladores, y tecnologí­a).</description>
+    </item>
+    
+    <item>
+      <title>Virtualí­zate</title>
+      <link>https://bloges.cortell.net/2008/02/virtual%C3%ADzate/</link>
+      <pubDate>Wed, 06 Feb 2008 10:36:37 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/02/virtual%C3%ADzate/</guid>
+      <description>-¿Cuál es la virtualizaciónmás marciana que has hecho?</description>
+    </item>
+    
+    <item>
+      <title>Si entran en tu wifi abierta...</title>
+      <link>https://bloges.cortell.net/2008/01/si-entran-en-tu-wifi-abierta.../</link>
+      <pubDate>Fri, 18 Jan 2008 12:38:19 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/01/si-entran-en-tu-wifi-abierta.../</guid>
+      <description>Esto es como un test de La Fuerza. Para saber si estás en el Lado Oscuro, o no, lee este artí­culode Bruce Sneier en Wired (gracias Juan), y luego decide si en tu wifi abierta dejas que entre todo el mundo, o no.
+Claro que si no eres de los de blanco/negro, siempre tienes la alternativa de Pete: la red alrevés, de gatitos, o borrosa😉</description>
+    </item>
+    
+    <item>
+      <title>Al final las buenas ideas llegan... hasta a Valencia</title>
+      <link>https://bloges.cortell.net/2008/01/al-final-las-buenas-ideas-llegan...-hasta-a-valencia/</link>
+      <pubDate>Thu, 17 Jan 2008 18:15:33 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2008/01/al-final-las-buenas-ideas-llegan...-hasta-a-valencia/</guid>
+      <description>Ya hace mucho tiempo que vengo suponiendo que ocurrirá (y no sólo en curso, sino en una carrera entera). Lástima que hayan tenido que &amp;ldquo;apellidarlo&amp;rdquo; para que nadie &amp;ldquo;se lleve a engaño&amp;rdquo;. Curso de Hacking Etico(gracias Juan).</description>
+    </item>
+    
+    <item>
+      <title>Asterisk en el iPhone!</title>
+      <link>https://bloges.cortell.net/2007/12/asterisk-en-el-iphone/</link>
+      <pubDate>Sun, 30 Dec 2007 00:37:07 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/12/asterisk-en-el-iphone/</guid>
+      <description>Yeah baby yeah!!!! (proyecto)</description>
+    </item>
+    
+    <item>
+      <title>-¿Hasta dónde llegarí­as por el eyecandy?</title>
+      <link>https://bloges.cortell.net/2007/09/hasta-d%C3%B3nde-llegar%C3%ADas-por-el-eyecandy/</link>
+      <pubDate>Fri, 28 Sep 2007 12:11:25 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/09/hasta-d%C3%B3nde-llegar%C3%ADas-por-el-eyecandy/</guid>
+      <description>El que me conoce sabe que me pierde el eyecandy. Pero lo que algunos son capaces de hacerpara conseguir, por ejemplo, que sus imágenes de fondo de escritorio en el iPhone se vean un poquito mejor es verdaderamente espectacular (copio de su post):
+=============================
+  Use AppTapp to put Nullriverâ€™s Installer on your iPhone.
+  Using Installer, install the BSD sub-system and the SSH client/server.
+  Under your phoneâ€™s wi-fi settings, look up the current IP address.</description>
+    </item>
+    
+    <item>
+      <title>Atacantes de P2P desenmascarados, y sus datos hechos públicos</title>
+      <link>https://bloges.cortell.net/2007/09/atacantes-de-p2p-desenmascarados-y-sus-datos-hechos-p%C3%BAblicos/</link>
+      <pubDate>Mon, 24 Sep 2007 17:32:41 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/09/atacantes-de-p2p-desenmascarados-y-sus-datos-hechos-p%C3%BAblicos/</guid>
+      <description>Leo en Barrapunto(avisado por Juannjo) que una empresa que se dedicaba a atacar las redes P2P, por encargo de multinacionales discográficas y productoras de cine, ha sido atacada y sus datos interceptados. Esos datos son MUY interesantes (desde conversaciones, métodos, programas empleados, hasta precios que cobraban). Además han permitido que se puedan emprender acciones legales contra ellos.
+Donde las dan las toman. Toma nota SGAâ‚¬. Y prepárate.</description>
+    </item>
+    
+    <item>
+      <title>-¿Algo mejor que DefCon? Sus documentos</title>
+      <link>https://bloges.cortell.net/2007/08/algo-mejor-que-defcon-sus-documentos/</link>
+      <pubDate>Tue, 21 Aug 2007 10:36:16 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/08/algo-mejor-que-defcon-sus-documentos/</guid>
+      <description>Si hay algo que me gusta más que una DefCones el acceso a sus documentos(sí­, ya sé que el aspecto &amp;ldquo;social&amp;rdquo; se pierde, pero no es una LAN Party; eso sí­, el &amp;ldquo;networking&amp;rdquo; no es lo mismo ;-). &amp;ldquo;A un panal de rica miel&amp;hellip;&amp;rdquo;
+De nada 😉 A disfrutar (y si no sabes de qué hablo, -¿qué haces aquí­?)
+PD: Por cierto, demasiados nombre y/o apellidos, y pocos nicks h4x0r. -¿Qué ha pasado con el l33t (1337) y toda la parafernalia cool?</description>
+    </item>
+    
+    <item>
+      <title>-¿Quién auto re-edita Wikipedia?</title>
+      <link>https://bloges.cortell.net/2007/08/qui%C3%A9n-auto-re-edita-wikipedia/</link>
+      <pubDate>Tue, 21 Aug 2007 10:31:29 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/08/qui%C3%A9n-auto-re-edita-wikipedia/</guid>
+      <description>Virgil Griffith, estudiante de CalTech, ha creado un servicio web (wikiscanner) mediante el cual se puede saber quien está auto re-editando entradas en wikipedia para mostrar (o eliminar) información de modo que le sea favorable.
+Los ejemplos abundan, desde Diebold hasta la CIA. Interesante artí­culo: Wired.</description>
+    </item>
+    
+    <item>
+      <title>Hackeando máquinas de voto</title>
+      <link>https://bloges.cortell.net/2007/08/hackeando-m%C3%A1quinas-de-voto/</link>
+      <pubDate>Mon, 13 Aug 2007 18:42:10 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/08/hackeando-m%C3%A1quinas-de-voto/</guid>
+      <description>En EEUU George W. Bush y su partido Republicano ya han robado dos elecciones. Recientemente se ha demostrado tanto en Florida(por parte de la Oficina del Secretario de Estado) como en California(3 tipos de máquinas distintos, por parte de cientí­ficos de universidades californianas) que es no sólo posible, sino fácil, hackear las máquinas de voto.
+-¿A qué están esperando? -¿a que roben de nuevo las elecciones? -¿habrá un pacto de reparto de poder, y por ello ningún partido ni polí­tico importante del paí­s hace algo al respecto?</description>
+    </item>
+    
+    <item>
+      <title>-¿Qué es más peligroso para la seguridad nacional, P2P o un congresista imbécil?</title>
+      <link>https://bloges.cortell.net/2007/07/qu%C3%A9-es-m%C3%A1s-peligroso-para-la-seguridad-nacional-p2p-o-un-congresista-imb%C3%A9cil/</link>
+      <pubDate>Thu, 26 Jul 2007 08:54:24 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/07/qu%C3%A9-es-m%C3%A1s-peligroso-para-la-seguridad-nacional-p2p-o-un-congresista-imb%C3%A9cil/</guid>
+      <description>A veces de lo estúpidos que llegan a ser algunos polí­ticos uno no se lo puede creer, por muchos precedentes que hayan establecido.
+Según este artí­culode news.com en una sesión del Comité Gubernamental de Reforma, su director Henry Waxman (D-Calif.) dijo que estaba considerando proponer una nueva legislación para atajar el problema de seguridad nacional que constituye el uso de P2P en ordenadores del gobierno, pues según dijo, &amp;ldquo;gobiernos extranjeros, terroristas o el crimen organizado podrí­an acceder a documentos clasificados con secretos nacionales&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplos de hacking</title>
+      <link>https://bloges.cortell.net/2007/07/ejemplos-de-hacking/</link>
+      <pubDate>Fri, 20 Jul 2007 14:19:45 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/07/ejemplos-de-hacking/</guid>
+      <description>Como hay mucha desinformación (interesada o no) en cuanto a lo que es hacking, os pongo algunos ejemplos para que quede claro:
+– Montar un macmini en un Toyota Prius y controlarlo desde la pantalla táctil.
+– Hazte tú mismo un planificador(y encontrar el formato A4 es otro ejemplo de hacking 😉 )
+– Hackeando procesadores</description>
+    </item>
+    
+    <item>
+      <title>Crack para el DRM de Windows Media y Zune</title>
+      <link>https://bloges.cortell.net/2007/07/crack-para-el-drm-de-windows-media-y-zune/</link>
+      <pubDate>Wed, 18 Jul 2007 13:00:49 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/07/crack-para-el-drm-de-windows-media-y-zune/</guid>
+      <description>Como la legislación española dice que no puedo dar infosobre como suprimir sistemas anticopia (como el IBX de Mico$oft), ni accesoa ello, Y animaros a hacerlo, pues&amp;hellip; -¡no lo hagáis!
+😉
+Por cierto, si lo que queréis crackear es una caja, no me seaí­s lamers y vengáis llorando a los comments. UTFG (o empieza por aquí­).</description>
+    </item>
+    
+    <item>
+      <title>Patético intento de phising</title>
+      <link>https://bloges.cortell.net/2007/07/pat%C3%A9tico-intento-de-phising/</link>
+      <pubDate>Fri, 06 Jul 2007 10:49:47 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/07/pat%C3%A9tico-intento-de-phising/</guid>
+      <description>Los intentos de phising varí­an en sofisticación. Normalmente son maniobras bastante meditadas y realizadas con cuidado, con lo que sólo la gente más experta (o la más cauta) es capaz de detectarlos.
+En este caso, la captura de pantalla que aquí­ muestro es justo lo contrario: el intento de phising más patético y triste del mundo. Se me ocurren por lo menos 6 razones obvias. A ver pregunta de examen: -¿qué delata a este triste intento?</description>
+    </item>
+    
+    <item>
+      <title>Bush se mea en la justicia y genera agravio comparativo con los hackers</title>
+      <link>https://bloges.cortell.net/2007/07/bush-se-mea-en-la-justicia-y-genera-agravio-comparativo-con-los-hackers/</link>
+      <pubDate>Wed, 04 Jul 2007 09:05:07 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/07/bush-se-mea-en-la-justicia-y-genera-agravio-comparativo-con-los-hackers/</guid>
+      <description>George W. Bush, Presidente de la nación más hipócrita del mundo (feliz 4th of July cariño), ha decidido indultara Libby, el ex-asesor que permitió que se hiciese público el nombre de una importante agente de la CIA (esposa de un ex-embajador de EEUU crí­tico con la invasión norteamericana de Iraq), con lo que no irá a la cárcel a cumplir los dos años de prisión impuestos por el tribunal.
+Esto no es sólo un ejemplo más de cómo el Presi se mea en la justicia (-¿habéis oí­do hablar de Guantánamo, las escuchas ilegales, Echelon, el pucherazo electrónico, etc?</description>
+    </item>
+    
+    <item>
+      <title>Cifrado Microsoft, Apple, el FBI, y la NSA</title>
+      <link>https://bloges.cortell.net/2007/05/cifrado-microsoft-apple-el-fbi-y-la-nsa/</link>
+      <pubDate>Wed, 23 May 2007 18:25:05 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/05/cifrado-microsoft-apple-el-fbi-y-la-nsa/</guid>
+      <description>En este artí­culo, Security Monkey explica cómo, según palabras de un agente del FBI en el Symposium de la ISSA 2007, hablando sobre recuperación de datos cifrados:
+  Si un atacante se introduce en tu sistema, cifra todos tus datos y causa daños de más de $500.000, el FBI investigará, pero no recuperará tus datos.
+  Si eres un warez kiddy (sic), KP connoisseur, o miembro de una banda y cifras tus datos y no dejas el password en un lugar fácilmente accesible (el FBI no emplea ingenierí­a social ni interrogatorios para esto), ni van a intentar romper tu cifrado.</description>
+    </item>
+    
+    <item>
+      <title>El número prohibido</title>
+      <link>https://bloges.cortell.net/2007/05/el-n%C3%BAmero-prohibido/</link>
+      <pubDate>Tue, 08 May 2007 14:21:51 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/05/el-n%C3%BAmero-prohibido/</guid>
+      <description>09 F9 11 02 9D 74 E3 5B D8 41 56 C5 63 56 88 C0 -© Motion Picture Association of America
+-¿Un número con copyright?
+-¿Qué es ese número? (como si no hubiese formas más fáciles)
+-¿Qué te puede pasar si lo publicas?
+-¿Quién teme al lobo feroz?
+Pues pásalo.</description>
+    </item>
+    
+    <item>
+      <title>La SGAE reconoce ser ladrones</title>
+      <link>https://bloges.cortell.net/2007/04/la-sgae-reconoce-ser-ladrones/</link>
+      <pubDate>Wed, 18 Apr 2007 14:57:36 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/04/la-sgae-reconoce-ser-ladrones/</guid>
+      <description>Me enví­an (via comentario en Barrapunto) un enlace a una de las páginas oficiales de la SGAEen la que aparece esto:
+ PREGUNTA: -¿Cuál es el acrónimo de SGAE? Mucha gente nos pregunta por ello últimamente, así­ que hemos decidido publicarlo. El acrónimo oficial es Siempre Ganamos Algunos Euros (SGAE).
+PREGUNTA: -¿Sómos unos ladrones? Por supuesto, siempre hemos estado robando a la gente de la calle. Hasta le quitamos dinero a la gente desamparada.</description>
+    </item>
+    
+    <item>
+      <title>Esquema de penetración en redes inalámbricas</title>
+      <link>https://bloges.cortell.net/2007/04/esquema-de-penetraci%C3%B3n-en-redes-inal%C3%A1mbricas/</link>
+      <pubDate>Wed, 11 Apr 2007 13:44:01 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/04/esquema-de-penetraci%C3%B3n-en-redes-inal%C3%A1mbricas/</guid>
+      <description>Leo en la lista de KernelPanik que Alex ha puesto un enlace con un genial esquemade penetración en redes inalámbricas. Chapeau.</description>
+    </item>
+    
+    <item>
+      <title>Curso Cisco online</title>
+      <link>https://bloges.cortell.net/2007/04/curso-cisco-online/</link>
+      <pubDate>Mon, 09 Apr 2007 22:53:21 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/04/curso-cisco-online/</guid>
+      <description>Leo en la lista de KernelPanik que Pinger ha escrito un curso sobre Cisco. Uno de esos que &amp;ldquo;interesan&amp;rdquo;, vamos 😉</description>
+    </item>
+    
+    <item>
+      <title>Contenido digitalizable &#43; impresora 3D en casa = -¡estás en el Siglo XXI!</title>
+      <link>https://bloges.cortell.net/2007/03/contenido-digitalizable-impresora-3d-en-casa-est%C3%A1s-en-el-siglo-xxi/</link>
+      <pubDate>Tue, 20 Mar 2007 13:44:50 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/03/contenido-digitalizable-impresora-3d-en-casa-est%C3%A1s-en-el-siglo-xxi/</guid>
+      <description>Mientras algunos se hacen pajas mentales con notarios para convencer a jueces de que esquilmar a la sociedad viviendo del cuento y falacias sobre soportes digitales y su uso, otros entendemos que con el contenido digital (o digitalizable) e impresoras 3D en casa, estamos a punto de vivir una transformación social sin precedentes:
+– La &amp;ldquo;producción&amp;rdquo; se traslada a casa
+– La &amp;ldquo;distribución&amp;rdquo; desaparece
+– La &amp;ldquo;energí­a&amp;rdquo; (no sólo renovable, sino autoproducible, como la solar) en tus manos</description>
+    </item>
+    
+    <item>
+      <title>Besa tu YouTube</title>
+      <link>https://bloges.cortell.net/2007/03/besa-tu-youtube/</link>
+      <pubDate>Thu, 15 Mar 2007 15:44:21 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/03/besa-tu-youtube/</guid>
+      <description>Truco fácil:
+Cuando veas un ví­deo en YouTube que te guste, como https://www.youtube.com/watch?v=03vCVejaEd8 añade KISS en frente de youtube.com, así­: https://www.kissyoutube.com/watch?v=03vCVejaEd8 y a disfrutar (recuerda que el archivo descargado debe ser renombrado .flv)
+Mola -¿eh?</description>
+    </item>
+    
+    <item>
+      <title>Johnny DVD vuelve a crackear</title>
+      <link>https://bloges.cortell.net/2007/03/johnny-dvd-vuelve-a-crackear/</link>
+      <pubDate>Thu, 15 Mar 2007 14:22:49 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/03/johnny-dvd-vuelve-a-crackear/</guid>
+      <description>Ya lo hizo con el cifrado del DVD.
+Ahora lo ha vuelta a hacer, con el DRM de iTunes. Pero esta vez piensa sacar el &amp;ldquo;producto&amp;rdquo; a la venta.
+Johnny DVD, el puto amo del cracking.</description>
+    </item>
+    
+    <item>
+      <title>Wardriving desde Barcelona</title>
+      <link>https://bloges.cortell.net/2007/01/wardriving-desde-barcelona/</link>
+      <pubDate>Mon, 22 Jan 2007 14:08:41 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/01/wardriving-desde-barcelona/</guid>
+      <description>Hello world.
+Me encanta &amp;ldquo;default&amp;rdquo;. -¿Voluntad de compartir, o falta de conocimiento (o cuidado) al implementar la wi-fi?
+-¿Importa? Ya no.</description>
+    </item>
+    
+    <item>
+      <title>Si les dejamos nos la meterán torcida y sin vaselina</title>
+      <link>https://bloges.cortell.net/2007/01/si-les-dejamos-nos-la-meter%C3%A1n-torcida-y-sin-vaselina/</link>
+      <pubDate>Fri, 19 Jan 2007 14:13:32 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2007/01/si-les-dejamos-nos-la-meter%C3%A1n-torcida-y-sin-vaselina/</guid>
+      <description>Meses sin postear ha hecho que haya descuidado los feeds que sigo, así­ que aquí­ va un pequeño recordatorio, a base de noticias anteriores, de que si nos dejamos&amp;hellip; Perdón si de esto ya se ha hablado mucho, pero no quiero que nos dejemos nada en el tintero, así­ que:
+– La RIAA (Recording Industry Association of America, sí­ los que junto a SGAE presionaron a la UPV para que me fuese de allí­), resulta que ha firmado un acuerdo con el Gobierno Norteamericano, para que con los impuestos de sus ciudadanos se financie el lavado de cerebro pro-copyright en los colegios.</description>
+    </item>
+    
+    <item>
+      <title>Charla en el HackMeeting</title>
+      <link>https://bloges.cortell.net/2006/10/charla-en-el-hackmeeting/</link>
+      <pubDate>Wed, 11 Oct 2006 08:16:32 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/10/charla-en-el-hackmeeting/</guid>
+      <description>Para todo el que quiera, nos vemos 14/10/06 en Mataró, HackMeeting06charla &amp;ldquo;La privatización de la interacción virtual y la desaparición de la estigmergia&amp;rdquo; Zona 2 de 12:00 a 13:00h.</description>
+    </item>
+    
+    <item>
+      <title>Llave USB -¿seguro seguro? (USBDumper)</title>
+      <link>https://bloges.cortell.net/2006/09/llave-usb-seguro-seguro-usbdumper/</link>
+      <pubDate>Fri, 22 Sep 2006 08:22:20 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/09/llave-usb-seguro-seguro-usbdumper/</guid>
+      <description>Via Alex, en la lista de KernelPanic, leo que existe una pequeña utilidad (USBDumper) que copia todos los ficheros de cualquier dispositivo USB que se conecte al ordenador (y si está configurado para hacer una imagen del dispositivo, también tendrán los archivos borrados). -¡Y tú que creí­as que cuando conectabas una llave USB al ordenador del Cyber, el jefe, o el novio eras tú el que copiaba archivos!
+Los consiranóicos nunca podemos bajar la guardia.</description>
+    </item>
+    
+    <item>
+      <title>Video (and audio) of Selfness HOPE6 talk available</title>
+      <link>https://bloges.cortell.net/2006/08/video-and-audio-of-selfness-hope6-talk-available/</link>
+      <pubDate>Thu, 31 Aug 2006 12:28:13 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/08/video-and-audio-of-selfness-hope6-talk-available/</guid>
+      <description>Here you have it. Enjoy.
+[Update] Here you havethe 16k mono audio MP3.</description>
+    </item>
+    
+    <item>
+      <title>Hackeando aparatitos</title>
+      <link>https://bloges.cortell.net/2006/08/hackeando-aparatitos/</link>
+      <pubDate>Fri, 04 Aug 2006 07:21:37 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/08/hackeando-aparatitos/</guid>
+      <description>Algunos hackers (y sobretodo n00bs, lamers y script kiddies) sólo piensan en la red. Pero hay todo un mundo para hackear. No sólo me refiero a hackear el paladar, la mente, o las cerraduras.
+-¿Habéis probado a ver lo que pasa hackeando IR, RFID, BlueTooth&amp;hellip;? A través de ellos accedemos, no sólo al mando del garaje, o al móvil, sino al sistema de correo electrónico de los clientes de un hotel, a un ordenador portátil, o a las llaves electrónicas de un gran banco.</description>
+    </item>
+    
+    <item>
+      <title>My HOPE6 Selfness speech</title>
+      <link>https://bloges.cortell.net/2006/07/my-hope6-selfness-speech/</link>
+      <pubDate>Mon, 24 Jul 2006 01:02:48 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/07/my-hope6-selfness-speech/</guid>
+      <description>[Update: here is the video]
+First of all, thank you very much for coming to myour speech, or for coming to this blog to see what it was about.
+Hereyou have the PDF file of the speech (and hereis the site where you can buy the DVD of any speech given during HOPE6). Keep in mind that given the time limit, I had to leave out many interesting things and sources.</description>
+    </item>
+    
+    <item>
+      <title>Hackers On Planet Earth, dí­a 3</title>
+      <link>https://bloges.cortell.net/2006/07/hackers-on-planet-earth-d%C3%ADa-3/</link>
+      <pubDate>Mon, 24 Jul 2006 01:00:25 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/07/hackers-on-planet-earth-d%C3%ADa-3/</guid>
+      <description>Hoy me lo he pasado genial, como cada dí­a que he asistido al HOPE.
+En cuanto a conferencias, he ido a: Can Security Detectors Be Hacked, Privacy Through Technology, Vulnerabilities in a Connected Future, y he visto la de Social Engineering y la de Jello Biafra desde el área de chill out, mientras preparaba lo que iba a proyectar en mi conferencia.
+En cuanto a mi conferencia, ha ido bastante bien (considerando que aun estaba hablando Jello Biafra, keynote speaker, en la sala de al lado).</description>
+    </item>
+    
+    <item>
+      <title>Hackers On Planet Earth, dí­a 2</title>
+      <link>https://bloges.cortell.net/2006/07/hackers-on-planet-earth-d%C3%ADa-2/</link>
+      <pubDate>Sun, 23 Jul 2006 06:16:46 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/07/hackers-on-planet-earth-d%C3%ADa-2/</guid>
+      <description>Sí­, me han dado el número 69. -¿Por qué será? -¿querrá decir algo? La verdad es que con esta chapa puesta, se inician muchas conversaciones&amp;hellip; 😉
+El amigo AndOr se compró ayer un pedazo de cámara EOS Digital Rebel XT, y está haciendo él las fotos. Aquí­ tenéis su album de Flickr, y aquí­ el mí­o.
+Hoy también está siendo un dí­a muy interesante:
+– Por la mañana me he perdido Low Level Firmware Analysis and Hacking (si no fuese por los Boston Creme de Dunkin Donuts, y las latas de Jolt, no habrí­a quien se levantase), pero sí­ he llegado a Phone Phreaking 101.</description>
+    </item>
+    
+    <item>
+      <title>Hackers On Planet Earth, dí­a 1</title>
+      <link>https://bloges.cortell.net/2006/07/hackers-on-planet-earth-d%C3%ADa-1/</link>
+      <pubDate>Sat, 22 Jul 2006 17:01:21 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/07/hackers-on-planet-earth-d%C3%ADa-1/</guid>
+      <description>La cantidad y calidad de conferenciasen este maravilloso evento es simplemente alucinante. Pero también es desesperantemente frustrante, pues al haber tres salas de conferencias, siempre (y eso es desde las 8 de la mañana hasta pasada la media noche) hay algo muy interesante que ver, oir, o hacer. Y por si acaso, también hay un área donde se proyectan cortos, machinima, etc.
+Por ello (y porque llevo más de 40 horas sin dormir), voy a hacer unos posts diarios en plan brainstorming, y ya haré algo más elaborado cuando me recupere.</description>
+    </item>
+    
+    <item>
+      <title>-¿Qué harí­as con 520 dominios? (Google)</title>
+      <link>https://bloges.cortell.net/2006/07/qu%C3%A9-har%C3%ADas-con-520-dominios-google/</link>
+      <pubDate>Fri, 21 Jul 2006 08:23:25 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/07/qu%C3%A9-har%C3%ADas-con-520-dominios-google/</guid>
+      <description>Pues sí­, a causa de las constantes adquisiciones empresariales y su frenética actividad creativa de nuevos servicios, Google ha &amp;ldquo;atesorado&amp;rdquo; ya 520 dominios. Aquí­ tenéis la lista(por cierto, si la leéis con cuidado, estaréis leyendo el futuro y asomándoos a partes de Google que ni sabí­ais que existí­an).
+-¡Y luego os quejás de que la lista de los reyes Godos es infumable! No tenéis remedio, freaky-geeks.</description>
+    </item>
+    
+    <item>
+      <title>Geek fun 6</title>
+      <link>https://bloges.cortell.net/2006/07/geek-fun-6/</link>
+      <pubDate>Tue, 18 Jul 2006 08:04:25 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/07/geek-fun-6/</guid>
+      <description>– Inventosjaponeses (y otros). -¡Alucinante!
+– En un viaje a NY (junio 2006) conocí­a a este interesante artista que trabaja con tenedores, tiempo, e imaginación: fork-art– Lo que uno se puede divertir con un paquete de Menthos y una Cola Light
+– Listadode las 100 mejores herramientas de seguridad informática
+– Web colaborativa que recoge instrucciones de proyectosde &amp;ldquo;bricolaje tecnológico&amp;rdquo;
+– Dark-hack.com-¿alguna duda?
+– Recopilación de enlacessobre la Web 2.0</description>
+    </item>
+    
+    <item>
+      <title>Cómo seguir haciendo Copias Privadas, diga lo que diga la ley</title>
+      <link>https://bloges.cortell.net/2006/06/c%C3%B3mo-seguir-haciendo-copias-privadas-diga-lo-que-diga-la-ley/</link>
+      <pubDate>Thu, 22 Jun 2006 16:39:43 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/06/c%C3%B3mo-seguir-haciendo-copias-privadas-diga-lo-que-diga-la-ley/</guid>
+      <description>Como he dicho muchas veces, mis creencias filosóficas hacen que anteponga mi propio concepto de ética y moral (largamente meditado y estudiado) a las imposiciones legislativas fruto de corrupciones y manipulaciones varias.
+Por lo general estoy dispuesto a acatar las leyes (en muchos casos coincido aproximadamente con ellas, en otros no tengo alternativa viable, y en otros no me atañen personalmente). Pero hay casos en los que la afrenta a la que el legislador me supedita es tan violenta que no puedo hacer otra cosa más que enfrentarme.</description>
+    </item>
+    
+    <item>
+      <title>Lo que ocultan los metadatos</title>
+      <link>https://bloges.cortell.net/2006/06/lo-que-ocultan-los-metadatos/</link>
+      <pubDate>Thu, 22 Jun 2006 06:58:48 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/06/lo-que-ocultan-los-metadatos/</guid>
+      <description>En un mundo poblado por geeks como tú y como yo, esto serí­a un excelente tí­tulo para una pelí­cula de terror. Pero dado que mucha gente ni sabe lo que son los metadatos, mejor lo explicamos con ejemplos:
+a) Como denunció un post de Wired, que el hacker estonio Tonu Samuel aprovechó para crear un script que lo automatiza, una foto (que puede ser un documento del FBI) es retocada. En la web sólo se muestra la versión &amp;ldquo;retocada&amp;rdquo;, que en el ejemplo del FBI serí­a las lí­neas de rotulador negro que cubren los datos personales, o los secretos de estado en los documentos de la CIA, o la imagen retocadaen la foto de anuncios personales de la web de ligoteo de turno.</description>
+    </item>
+    
+    <item>
+      <title>Invitado a dar una conferencia en la reunión de Hackers más interesante del mundo</title>
+      <link>https://bloges.cortell.net/2006/05/invitado-a-dar-una-conferencia-en-la-reuni%C3%B3n-de-hackers-m%C3%A1s-interesante-del-mundo/</link>
+      <pubDate>Fri, 26 May 2006 00:30:26 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/05/invitado-a-dar-una-conferencia-en-la-reuni%C3%B3n-de-hackers-m%C3%A1s-interesante-del-mundo/</guid>
+      <description>Me hace tanta ilusión como a un deportista participar en unas olimpiadas.
+Entre el 21 y el 23 de julio (fecha y hora por confirmar) he sido invitado a dar una conferencia en Hackers On Planet Earth (&amp;quot;Hope Number Six&amp;quot;), la reunión bianual de Hackers más interesante del mundo, organizado por los chicos de 2600en Nueva York, Hotel Pennsylvania.
+Si me invitan a hacerlo, a la vuelta os lo contaré todo en la Campus Partyde Valencia.</description>
+    </item>
+    
+    <item>
+      <title>Tras HackLab, DorkBot</title>
+      <link>https://bloges.cortell.net/2006/05/tras-hacklab-dorkbot/</link>
+      <pubDate>Thu, 25 May 2006 00:30:35 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/05/tras-hacklab-dorkbot/</guid>
+      <description>Vale, en Valencia el HackLab está en marcha (gestándose).
+Y como mi cabeza va más deprisa que la propia realidad, ya estoy pensando que nos hace falta un DorkBot.
+-¿Qué os parece?</description>
+    </item>
+    
+    <item>
+      <title>Nombre para HackLab de Valencia</title>
+      <link>https://bloges.cortell.net/2006/05/nombre-para-hacklab-de-valencia/</link>
+      <pubDate>Tue, 16 May 2006 00:48:12 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/05/nombre-para-hacklab-de-valencia/</guid>
+      <description>En esta páginaraulete ha recopilado las opciones propuestas para nombrar al HackLab de Valencia, desde los más geek hasta puro l33t pasando por lamer total, hay que reconocer que otra cosa no, pero creatividad los valencianos tenemos un rato.
+La gente está votando. Por curiosidad, -¿qué nombre os gusta más?
+Valab
+Chelab | Chélab | Txe.Lab (a Chélab no le veo sentido, ya que che no lleva acento gráfico, y Txe.</description>
+    </item>
+    
+    <item>
+      <title>Hacker británico &amp;quot;cabeza de turco&amp;quot; del Gobierno Bush</title>
+      <link>https://bloges.cortell.net/2006/05/hacker-brit%C3%A1nico-quotcabeza-de-turcoquot-del-gobierno-bush/</link>
+      <pubDate>Tue, 09 May 2006 09:46:13 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/05/hacker-brit%C3%A1nico-quotcabeza-de-turcoquot-del-gobierno-bush/</guid>
+      <description>Hace mucho que no voy a una reunión 2600 (por cierto, a ver si la comunidad mueve el culo y organiza alguna en España), pero me comenta un amigo que en la última London2600 se habló del caso de Gary McKinnon: un hacker tradicional (curioso, que se adentra en los servidores de varias agencias gubernamentales y militares norteamericanas, etc), porque su vista para extradición está fijada para mañana. [Actualización: el tribunal británico ha concedidola extradición]</description>
+    </item>
+    
+    <item>
+      <title>Material del Taller de Asamblearismo</title>
+      <link>https://bloges.cortell.net/2006/05/material-del-taller-de-asamblearismo/</link>
+      <pubDate>Fri, 05 May 2006 00:57:11 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/05/material-del-taller-de-asamblearismo/</guid>
+      <description>Leo en port666 (que a la vez me enlaza, qué divertido esto de los trackbacks, pings, y el resto de cosas curiosas de la blogocosa) que los señores de hacklabs.org han colgado el material del Taller de Asamblearismo y este parece ser altamente recomendable. Así­ que -¡a descargar y a aprender!</description>
+    </item>
+    
+    <item>
+      <title>Llamamiento a los Hacklabs (en especial Valencia)</title>
+      <link>https://bloges.cortell.net/2006/05/llamamiento-a-los-hacklabs-en-especial-valencia/</link>
+      <pubDate>Thu, 04 May 2006 09:44:25 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/05/llamamiento-a-los-hacklabs-en-especial-valencia/</guid>
+      <description>En Valencia -¡por fin! parece que se está moviendo lo de montar un hacklab.
+Hace un par de años lo propuse en varias listas y no obtuve respuesta. El martes lo comenté en mi conferencia y parece que picó el interés de algunoss de los presentes y tanto Raulete como Santi me enví­an estos enlaces para mostrar que la cosa se mueve:
+– Wiki de &amp;ldquo;puntos pendientes&amp;rdquo;
+– Lista general de Hacklabs</description>
+    </item>
+    
+    <item>
+      <title>Curioso: billetes y Mamoncí­n</title>
+      <link>https://bloges.cortell.net/2006/05/curioso-billetes-y-mamonc%C3%ADn/</link>
+      <pubDate>Tue, 02 May 2006 08:31:54 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/05/curioso-billetes-y-mamonc%C3%ADn/</guid>
+      <description>En la conferencia de hoy se han comentado muchas iniciativas curiosas. Aquí­ tenéis dos:
+Tanto en ElOtroLado.net como en SectorAlfa.com comentan esta estrategia de Guerrilla Marketing:
+Curioso. Quizá han elegido los billetes porque es el único lenguaje que entiende esta &amp;ldquo;gente&amp;rdquo; 😉
+Pero ya puestos, se pueden hacer muchas cosas: Stencil de SGAE + señal de Stop = 😀
+Otra curiosa &amp;ldquo;iniciativa&amp;rdquo; es lo que ocurrió ayer en el Viñarock.</description>
+    </item>
+    
+    <item>
+      <title>Sí­ habrá conferencia en la UPV el 2 de mayo</title>
+      <link>https://bloges.cortell.net/2006/04/s%C3%AD-habr%C3%A1-conferencia-en-la-upv-el-2-de-mayo/</link>
+      <pubDate>Sat, 29 Apr 2006 13:54:10 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/04/s%C3%AD-habr%C3%A1-conferencia-en-la-upv-el-2-de-mayo/</guid>
+      <description>[Actualización 2: aquí­ está disponible el ví­deo -falta parte del principio y parte del final- gracias a Daniel de faltantornillos]
+[Actualización: aquí­está disponible la presentación en PDF. Si el enlace directo no va, emplead este indirectoy cerrad la ventana de publicidad que bloquea el acceso al enlace]
+Primero me invitanpiden que confirme fecha y horario para dar una conferencia.
+Luego deciden no autorizarla.
+Ahora un grupo de alumnos reserva la Sala de Proyectos de la Casa del Alumno y me piden que imparta la conferencia.</description>
+    </item>
+    
+    <item>
+      <title>Geek fun</title>
+      <link>https://bloges.cortell.net/2006/04/geek-fun/</link>
+      <pubDate>Wed, 26 Apr 2006 11:34:26 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/04/geek-fun/</guid>
+      <description>Casi a diario llevo corbata. He praticado deporte (hasta a nivel profesional), durante muchos años. Tengo una vida social &amp;ldquo;normal&amp;rdquo;&amp;hellip; pero eso no evita que en el fondo sea un geek. -¿Cómo lo sé? Porque estas cosas me divierten y/o interesan:
+12 minutos de invenciones de Rube Goldberg para la TV japonesa. Sin desperdicio.
+Los hay obsesionados con el Spam, pero la colección de ví­deos disponible en YouTube es genial. Sobretodo el original de los MP</description>
+    </item>
+    
+    <item>
+      <title>Retoma el control de tu impresora</title>
+      <link>https://bloges.cortell.net/2006/04/retoma-el-control-de-tu-impresora/</link>
+      <pubDate>Wed, 19 Apr 2006 17:23:15 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/04/retoma-el-control-de-tu-impresora/</guid>
+      <description>Los que usamos una impresora EPSON sabemos lo frustrante que es que con su chip patentado no nos dejen acabar los cartuchos, o emplear cartuchos de la compeencia. Es uno de los cientos de modos de emplear las patentes y la &amp;ldquo;propiedad intelectual&amp;rdquo; para cerrar el mercado y conseguir un monopolio de facto.
+Pues bien, a través del genial blog de Enrique Dans (lo siento Enrique, al final no coincidiremos en la Feria de Emprendedores de Canarias, otra vez será) me entero que un proyecto de freeware llamado SSC Printing Service permite al usuario retomar el control de su impresora [nota: sólo disponible para Windows, pero todo se andará].</description>
+    </item>
+    
+    <item>
+      <title>Enví­a un mensaje</title>
+      <link>https://bloges.cortell.net/2006/03/env%C3%ADa-un-mensaje/</link>
+      <pubDate>Tue, 28 Mar 2006 13:21:17 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/03/env%C3%ADa-un-mensaje/</guid>
+      <description>Ya sea ala SGAâ‚¬, o sobre todo al Ministerio de &amp;ldquo;Cultura&amp;rdquo; (de ahora en adelante &amp;ldquo;Mercado de Cultura&amp;rdquo;), o cualquier otro que apoye la reforma de la LPI que están a punto de meternos (como el reproductor de MP3 del ví­deo), mándales un mensaje para expresar tu desacuerdo.
+-¿No sabes cómo? Fax, email, teléfono (-¿os he contado la curiosa forma de presión de la &amp;ldquo;Asociación de amas de casa judí­as norteamericanas&amp;rdquo;?</description>
+    </item>
+    
+    <item>
+      <title>Genial tecnologí­a</title>
+      <link>https://bloges.cortell.net/2006/03/genial-tecnolog%C3%ADa/</link>
+      <pubDate>Tue, 28 Mar 2006 07:46:33 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/03/genial-tecnolog%C3%ADa/</guid>
+      <description>Mi amigo David me escribe:
+===================
+&amp;ldquo;Marabunta&amp;rdquo; es una plataforma de mensajerí­a Anónima, la cual permite el intercambio de mensajes entre todos los nodos de la red manteniendo la privacidad de estos.
+En realidad es como un tablón de mensajes donde lo único que importa es la compartición de información de forma libre. Ademas es una plataforma completamente descentralizada ya que son los propios nodos los que se autoorganizan y aumentan sus conexiones con el resto, haciendo que cada mensaje llegue a todos los demás nodos, por lo que es una red no sensible a la censura.</description>
+    </item>
+    
+    <item>
+      <title>Reunión de Hacklabs</title>
+      <link>https://bloges.cortell.net/2006/03/reuni%C3%B3n-de-hacklabs/</link>
+      <pubDate>Mon, 20 Mar 2006 13:37:10 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/03/reuni%C3%B3n-de-hacklabs/</guid>
+      <description>Reproduzco la nota de prensa de mis amigos (por cierto: una de las prioridades de la fase 2, una vez las empresas que estoy montando como Kanteron Systems generen suficientes beneficios, será financiar proyectos hacktivistas, como montar un Hacklab en Valencia de lujo 😉 )
+-Invitación para participar en las Jornadas Inter-Hacklabs
+Los dí­as 31 de Marzo, 1 y 2 de Abril nos reuniremos en el CS Seco (Madrid), integrantes de los diferentes hacklabs del estado.</description>
+    </item>
+    
+    <item>
+      <title>-¿Ver pero no tocar? Cómo descargar ví­deos de YouTube, GoogleVideo, etc</title>
+      <link>https://bloges.cortell.net/2006/03/ver-pero-no-tocar-c%C3%B3mo-descargar-v%C3%ADdeos-de-youtube-googlevideo-etc/</link>
+      <pubDate>Mon, 20 Mar 2006 10:29:45 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/03/ver-pero-no-tocar-c%C3%B3mo-descargar-v%C3%ADdeos-de-youtube-googlevideo-etc/</guid>
+      <description>El amigo Javi Moya ha tenido a bien hacernos la vida más cómoda con un pequeño script que nos permite descargar esos ví­deos que tan de moda están: mirar pero no tocar.
+YouTube
+GoogleVideo
+iFilm
+Metacafe
+DailyMotion
+Grinvi
+Desde esta cómoda página podréis descargar con sólo introducir la URL del ví­deo en cuestión. Para probarlo, -¿por qué no con esta URL del programa de Canal 9 donde David Bravo &amp;ldquo;da caña&amp;rdquo; (oral, no me malinterprete usted 😉 ) a una representante de la SGAE?</description>
+    </item>
+    
+    <item>
+      <title>Cómo tumbar un servidor como el de la SGAE</title>
+      <link>https://bloges.cortell.net/2006/02/c%C3%B3mo-tumbar-un-servidor-como-el-de-la-sgae/</link>
+      <pubDate>Fri, 24 Feb 2006 14:42:41 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/02/c%C3%B3mo-tumbar-un-servidor-como-el-de-la-sgae/</guid>
+      <description>Hace un mes hckrs.org propuso en KernelPanic una Ciberprotesta contra la SGAE.
+No he querido comentarlo antes para que no se me acuse de &amp;ldquo;fomentar hostilidades&amp;rdquo; o nada parecido. Ya tengo bastante con el comentario de un abogado amigo mí­o &amp;ldquo;-¡Cómo te atrevesse te ocurre llamar &amp;ldquo;mafia&amp;rdquo; a la SGAE!&amp;rdquo;, o con el de un periodista de una conocida radio &amp;ldquo;a mí­ me ha amenazado, pero a tí­ te partirán las piernas&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Más ejemplos espeluznantes de control</title>
+      <link>https://bloges.cortell.net/2006/02/m%C3%A1s-ejemplos-espeluznantes-de-control/</link>
+      <pubDate>Tue, 14 Feb 2006 11:07:42 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/02/m%C3%A1s-ejemplos-espeluznantes-de-control/</guid>
+      <description>-¿Cada vez estoy más paranóico, o se multiplican los ejemplos de &amp;ldquo;amenazas&amp;rdquo; contra nuestra &amp;ldquo;privacidad&amp;rdquo;?
+En esta web podéis ver cómo un estudio del MIT sobre 100 sujetos (voluntarios) y sus conversaciones con teléfonos móviles pueden dar mucha mucha información sobre sus vidas, gustos, costumbres, etc.
+Lo dicho: en el siglo XXI el que no entienda la tecnologí­a será presa de ella.
+En mi viaje a EEUU de la semana que viene voy a aprovechar para escribir dos cosas: el siguiente capí­tulo de ) S ( Suidad y el &amp;ldquo;Manual de autodefensa y subversión digital&amp;rdquo; que llevo tiempo con ganas de escribir.</description>
+    </item>
+    
+    <item>
+      <title>Cómo encontrar &amp;quot;subversivos&amp;quot; a través de Amazon</title>
+      <link>https://bloges.cortell.net/2006/02/c%C3%B3mo-encontrar-quotsubversivosquot-a-trav%C3%A9s-de-amazon/</link>
+      <pubDate>Tue, 14 Feb 2006 11:02:36 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/02/c%C3%B3mo-encontrar-quotsubversivosquot-a-trav%C3%A9s-de-amazon/</guid>
+      <description>En un ejemplo de lo que la NSA (National Security Agency) y el gobierno norteamericano están haciendo (datamining, o sea, buscar y rebuscar en los datos para poder acusarte de lo que sea, o por lo menos tenerte controlado y fichado), Tom Owad ha escrito un excelente tutorial sobre cómo encontrar &amp;ldquo;subversivos&amp;rdquo; a través de las &amp;ldquo;wishlist&amp;rdquo; de Amazon (ya sabes, donde pones los libros que te gustarí­a que te regalaran).</description>
+    </item>
+    
+    <item>
+      <title>-¿RFID en Pasaportes? Eso ya está pasado y hackeado</title>
+      <link>https://bloges.cortell.net/2006/02/rfid-en-pasaportes-eso-ya-est%C3%A1-pasado-y-hackeado/</link>
+      <pubDate>Mon, 13 Feb 2006 20:40:51 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/02/rfid-en-pasaportes-eso-ya-est%C3%A1-pasado-y-hackeado/</guid>
+      <description>Hace un par de semanas un programa de TV de noticias holandés contrató a la empresa de seguridad Riscure para que analizara la seguridad de las comunicaciones de radio del chip RFID (Identificación por Radio Frecuencia) ISO 14443 del prototipo de pasaporte holandés con RFID (que emplea la misma tecnologí­a que se ha aceptado como estándard internacional ICAO con cifrado &amp;ldquo;Basic Access Control&amp;rdquo; que y se empleará en breve, entre otros, en EEUU y la mayorí­a de paí­ses europeos, incluí­da posiblemente España).</description>
+    </item>
+    
+    <item>
+      <title>Vandalismo polí­tico</title>
+      <link>https://bloges.cortell.net/2006/02/vandalismo-pol%C3%ADtico/</link>
+      <pubDate>Mon, 06 Feb 2006 20:01:18 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/02/vandalismo-pol%C3%ADtico/</guid>
+      <description>Leo en Red Herring que los polí­ticos norteamericanos están practicando vandalismo online (entrando desde el Senado y el Congreso norteamericanos a páginas de Wikipedia sobre sus rivales para cambiar las definiciones y llenarlas de insultos).
+Vergonzoso.
+Realmente necesitamos una nueva clase polí­tica. Hombres de estado que se preocupen menos de la &amp;ldquo;competencia&amp;rdquo; (otros poartidos) y el &amp;ldquo;mercado&amp;rdquo; (votos), y más sobre sus conciudadanos y el bien común. -¿Tan difí­cil es?</description>
+    </item>
+    
+    <item>
+      <title>-¿Infrinjo la ley si os cuento...?</title>
+      <link>https://bloges.cortell.net/2006/02/infrinjo-la-ley-si-os-cuento.../</link>
+      <pubDate>Mon, 06 Feb 2006 17:32:02 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/02/infrinjo-la-ley-si-os-cuento.../</guid>
+      <description>No consigo entender cómo es posible que el Código Penal español recoja como delito la diseminación de información sobre cómo acceder a redes de pago sin pagar. -¿Qué hay de la investigación, qué hay de la libertad de expresión? Pasen y lean (artí­culo 286):
+_&amp;ldquo;1. Será castigado con las penas de prisión de seis meses o dos años y multa de seis a veinticuatro meses el que, sin consentimiento del prestador de servicios y con fines comerciales, facilite el acceso inteligible a un servicio de radiodifusión sonora o televisiva, a servicios interactivos prestados a distancia por ví­a electrónica, normalmente contra remuneración, o suministre el acceso condicional a los mismos, considerado como servicio independiente, mediante:</description>
+    </item>
+    
+    <item>
+      <title>La justicia alemana cierra Wikipedia... -¿seré el siguiente?</title>
+      <link>https://bloges.cortell.net/2006/02/la-justicia-alemana-cierra-wikipedia...-ser%C3%A9-el-siguiente/</link>
+      <pubDate>Wed, 01 Feb 2006 10:25:43 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/02/la-justicia-alemana-cierra-wikipedia...-ser%C3%A9-el-siguiente/</guid>
+      <description>Desde el 17 de enero la justicia alemana ha ordenado el cierre de Wikipedia Alemania. El motivo es una demanda interpuesta por la familia de un hacker alemán apodado &amp;ldquo;Tron&amp;rdquo; (Boris Floricic) asesinado en 1998, por mencionar su nombre (vaya, yo ya lo habí­a hecho el 31 de enero de 2005 en este post en mi blog, y en mi artí­culo de la revista Personal Computer &amp;amp; Internet número 26&amp;hellip; y lo acabo de hacer otra vez).</description>
+    </item>
+    
+    <item>
+      <title>Quieren meterte el Anti-Copia (DRM) por el Agujero Analógico</title>
+      <link>https://bloges.cortell.net/2006/01/quieren-meterte-el-anti-copia-drm-por-el-agujero-anal%C3%B3gico/</link>
+      <pubDate>Sat, 28 Jan 2006 11:42:47 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/01/quieren-meterte-el-anti-copia-drm-por-el-agujero-anal%C3%B3gico/</guid>
+      <description>La ley Digital Transition Content Security Act (H.R.4569) – o Ley del Agujero Analógico – pretende que cada reproductor o grabador con salida analógica de EEUU responda a una señal de marca de agua privativa llamada VEIL.
+El coste, la seguridad, y el funcionamiento de VEIL no se conocen, porque la empresa que lo tiene patentado no te permite analizarlo sin pagar una licencia. Y aunque pagues una licencia (de $10,000), te hace firmar un contrato de confidencialidad que hace que no puedes compartir con nadie lo que has descubierto.</description>
+    </item>
+    
+    <item>
+      <title>Conciencia llamando a consciencia: -¡haz algo!</title>
+      <link>https://bloges.cortell.net/2006/01/conciencia-llamando-a-consciencia-haz-algo/</link>
+      <pubDate>Fri, 20 Jan 2006 13:33:11 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2006/01/conciencia-llamando-a-consciencia-haz-algo/</guid>
+      <description>Tantos dí­as sin postear (por culpa de los exámenes finales de este semestre en Harvard -ya he hecho el de Neurobiologí­a, y me queda el de Filosofí­a y Ciencias Polí­ticas para el lunes-, y una sobrecarga de trabajo que estoy intentando evitar que se convierta en endémica), y los efectos que perduran de la pasada orgí­a consumista (Navidad/Reyes) que se une a la actual (Rebajas) ha removido en mi consciencia la conciencia del activismo.</description>
+    </item>
+    
+    <item>
+      <title>-¿Paz social o muerte social? Mercado -¿libre? Subversión YA</title>
+      <link>https://bloges.cortell.net/2005/12/paz-social-o-muerte-social-mercado-libre-subversi%C3%B3n-ya/</link>
+      <pubDate>Fri, 16 Dec 2005 14:48:48 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2005/12/paz-social-o-muerte-social-mercado-libre-subversi%C3%B3n-ya/</guid>
+      <description>Retención de datos, reintento de aprobar la patentabilidad del software, DNI con RFID, canon, LPI, Sociedades de Gestión Francesas antiGPL, Suciedades de Gestión Españolas, iTunes y nuevos Macs con DRM, Sony con troyanos DRM, Echelon, Enfopol, Wassenar&amp;hellip;
+ Tenemos unos polí­ticos ridí­culos que nos causan vergí¼enza ajena y que con esos grandes temas mencionados están recortando nuestras libertades, y nos dirigen hacia un futuro muy muy terrible.
+Incluso en el nivel pequeño y anecdótico de una ciudad, los barceloneses están que trinan con las famosas medidas &amp;ldquo;cí­vicas&amp;rdquo; de Clos.</description>
+    </item>
+    
+    <item>
+      <title>Todo llega: soporte Airport Extreme nativo en GNULinux</title>
+      <link>https://bloges.cortell.net/2005/12/todo-llega-soporte-airport-extreme-nativo-en-gnulinux/</link>
+      <pubDate>Sat, 10 Dec 2005 20:17:25 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2005/12/todo-llega-soporte-airport-extreme-nativo-en-gnulinux/</guid>
+      <description>Necesitamos la Free Hardware Foundation ya, porque a base de ingenierí­a inversa se va muy lento. Un ejemplo: soporte Airport expressExtreme (y otras tarjetas con chipset BCM43xx) nativo en GNULinux dos años después (y para que no se diga que no apoyo al catalán, aquí­ va el enlace del how-to en catalán).</description>
+    </item>
+    
+    <item>
+      <title>Asunto anticopia / malware / spyware (XCP) de Sony acto III</title>
+      <link>https://bloges.cortell.net/2005/11/asunto-anticopia-/-malware-/-spyware-xcp-de-sony-acto-iii/</link>
+      <pubDate>Sat, 12 Nov 2005 02:24:59 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2005/11/asunto-anticopia-/-malware-/-spyware-xcp-de-sony-acto-iii/</guid>
+      <description>Ya lo he comentado ligeramente en 2 artí­culos anteriores (I y II), y ya he dicho que no lo quiero tratar en profundidad, porque me reservo el tema para un artí­culo más completo para la revista Personal Computer &amp;amp; Internet. Pero hay nuevas informaciones al respecto del anticopia / malware / spyware de Sony, llamado XCP, que debéis saber (y cuanto antes).
+Por un lado ARamos amablemente nos manda los enlaces (desde Alemania, muchos de ellos en alemán) de varios aspectos importantes de esta noticia (cito de su comentario en mi post):</description>
+    </item>
+    
+    <item>
+      <title>Espectacular &amp;quot;Biblioteca de Alephandrí­a&amp;quot; online de Metabolik Hacklabs</title>
+      <link>https://bloges.cortell.net/2005/11/espectacular-quotbiblioteca-de-alephandr%C3%ADaquot-online-de-metabolik-hacklabs/</link>
+      <pubDate>Fri, 04 Nov 2005 09:15:57 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2005/11/espectacular-quotbiblioteca-de-alephandr%C3%ADaquot-online-de-metabolik-hacklabs/</guid>
+      <description>Este enlace pasa directo a mis favoritos: https://metabolik.hacklabs.org/alephandria/
+Este es el í­ndice de la biblioteca online &amp;ldquo;Archivo Copyleft Hacktivista v1.0&amp;rdquo;:
+_índice
+LeyendaDocumentos teóricos (textos y charlas)
+Copyleft y crí­tica a la propiedad intelectual
+Software libre
+Cartas
+Mediactivismo y Guerrilla de la Comunicación
+Ciberderechos, privacidad
+Cognitariado, precariado y trabajo postfordista
+Cibercultura
+Hacktivismo
+Hacklabs, hackmeeting
+Bio y Nano tecnologí­as
+Otros
+Documentos prácticos
+Copyleft
+Mediactivismo
+Criptografí­a, privacidad, seguridad
+Software Libre
+Documentos técnicos
+Introducción al GNU/Linux</description>
+    </item>
+    
+    <item>
+      <title>Pequeñas noticias que no veréis en el telediario</title>
+      <link>https://bloges.cortell.net/2005/11/peque%C3%B1as-noticias-que-no-ver%C3%A9is-en-el-telediario/</link>
+      <pubDate>Wed, 02 Nov 2005 17:45:09 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2005/11/peque%C3%B1as-noticias-que-no-ver%C3%A9is-en-el-telediario/</guid>
+      <description>Un par de cosillas que no veréis en el telediario, pero creo que son interesantes:
+Por un lado Jorge de Stormy Mondays me enví­a un enlace a esta noticia -su entrada en su blog, en español, y la noticia original en inglés– (que pharo también me comenta en los comentarios de un post). Muchas gracias a los dos por avisar. Básicamente esta noticia muestra como el sistema anticopia de Sony causa daños en nuestro ordenador (si es un PC con Windows, lo que por otra parte es ya bastante dañino).</description>
+    </item>
+    
+    <item>
+      <title>Archivos del Hackmeeting 2005</title>
+      <link>https://bloges.cortell.net/2005/10/archivos-del-hackmeeting-2005/</link>
+      <pubDate>Sun, 30 Oct 2005 21:23:53 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2005/10/archivos-del-hackmeeting-2005/</guid>
+      <description>Aquí­ tenéis los archivos del Hackmeeting 2005. Aquí­ un mirror por si falla el primero.
+-¡A disfrutar!</description>
+    </item>
+    
+    <item>
+      <title>Mi segundo Widget</title>
+      <link>https://bloges.cortell.net/2005/10/mi-segundo-widget/</link>
+      <pubDate>Mon, 24 Oct 2005 14:41:48 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2005/10/mi-segundo-widget/</guid>
+      <description>Como sigo con el estrés de otra semana matadora, he cogido un Widget de Konfabulator, me he puesto a trastear con él, y al final he hecho otro (por cierto, el primero InternationalUNDays, ya está en la Widget Gallery).
+En esta ocasión es un Widget que pone en el escritorio una pequeña barrita con iconos para enlazar directamente a las emisiones en directo de Radio Nacional de España (en Real Audio).</description>
+    </item>
+    
+    <item>
+      <title>Fotos militares y documentos de sociedad de gestión</title>
+      <link>https://bloges.cortell.net/2005/10/fotos-militares-y-documentos-de-sociedad-de-gesti%C3%B3n/</link>
+      <pubDate>Mon, 24 Oct 2005 10:10:12 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2005/10/fotos-militares-y-documentos-de-sociedad-de-gesti%C3%B3n/</guid>
+      <description>-¿Serán cosas como estas las que intentan acallar? El &amp;ldquo;Proyecto Mayhem&amp;rdquo; empieza a dar sus frutos. Esto no es nada, hay proyectos empresariales en marcha que les (sociedades de gestión, discográficas, productoras de cine y TV, y demás limitadores de los derechos de acceso a la cultura libre) van a producir una sacudida donde más les duele: el bolsillo. Pero por ahora os dejo con una serie de interesantes documentos.</description>
+    </item>
+    
+    <item>
+      <title>Mi primer Widget</title>
+      <link>https://bloges.cortell.net/2005/10/mi-primer-widget/</link>
+      <pubDate>Thu, 20 Oct 2005 17:13:25 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2005/10/mi-primer-widget/</guid>
+      <description>Hace años que no programo personalmente un carajo (si exceptuamos ese tipo de cosas que uno emplea para webs, blogs, etc, como HTML, que hoy en dí­a ya no se puede llamar programación a todo lo que no sea PHP o Java para arriba).
+La última vez que me tuve que pelear con Eclipse para ejecutar un código escrito en Java para un sistema de reservas de un hotel, dije que no volverí­a a tocar código mientras tuviese dinero para pagar a un programador.</description>
+    </item>
+    
+    <item>
+      <title>Los peligros ocultos de la Red VI: Terrorismo de Estado OnLine (PC&amp;amp;I 33)</title>
+      <link>https://bloges.cortell.net/2005/09/los-peligros-ocultos-de-la-red-vi-terrorismo-de-estado-online-pcampi-33/</link>
+      <pubDate>Tue, 27 Sep 2005 09:03:35 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2005/09/los-peligros-ocultos-de-la-red-vi-terrorismo-de-estado-online-pcampi-33/</guid>
+      <description>Durante el juicio a Oliver North se hizo público un documento de 42 páginas en el que se detallaba una extensa red de mercenarios. Encabezaba la lista los EEUU como el estado que más contrataba los servicios de mercenarios para llevar a cabo operaciones de terrorismo de estado (a través de los Servicios de Inteligencia de otros paí­ses como el Mossad o el MI6, mercenarios a sueldo como MPRI, o adiestrándolos en &amp;ldquo;academias militares&amp;rdquo; como la SOA/WHINSEC).</description>
+    </item>
+    
+    <item>
+      <title>La ocultación de bugs por ví­a de la amenaza judicial</title>
+      <link>https://bloges.cortell.net/2005/09/la-ocultaci%C3%B3n-de-bugs-por-v%C3%ADa-de-la-amenaza-judicial/</link>
+      <pubDate>Tue, 20 Sep 2005 08:07:16 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2005/09/la-ocultaci%C3%B3n-de-bugs-por-v%C3%ADa-de-la-amenaza-judicial/</guid>
+      <description>Leo en el blog de Merodeando que Yahoo ha exigido la retirada de cierta información de un blog por contener una explicación de un bug (referente a descargas de ví­deos).
+Independientemente de lo absurdo de la exigencia de Yahoo (a nivel técnico the Way Back Machine con su caché de Internet que puede mostrarte páginas antiguas aunque hayan sido retiradas, y a nivel legal, pese a no ser abogado, no creo que tengan base jurí­dica para exigir dicha retirada; otra cosa es la &amp;ldquo;extorsión judicial&amp;rdquo; de &amp;ldquo;o haces lo que te pido, o te llevo a juicio, que como dice la maldición gitana, tengas juicios y los ganes&amp;rdquo;).</description>
+    </item>
+    
+    <item>
+      <title>Servidor montado en la Campus... -¡a descargar!</title>
+      <link>https://bloges.cortell.net/2005/07/servidor-montado-en-la-campus...-a-descargar/</link>
+      <pubDate>Tue, 26 Jul 2005 17:28:03 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2005/07/servidor-montado-en-la-campus...-a-descargar/</guid>
+      <description>En mi &amp;ldquo;clan&amp;rdquo; (grupo de usuarios) de la Campus Party hemos montado un servidor para que todo el mundo (incluso desde el &amp;ldquo;mundo exterior&amp;rdquo;) pueda descargar lo que tenemos. En él hay desde música a software, pasando por documentación, libros, programas de radio, pelí­culas, etc.
+Como sólo estará disponible hasta que acabe la Campus, aprovechad y -¡COPIAD COMO POSESOS!
+A disfrutar.
+https://servidor.laresistenciadigital.net
+PD: Para los integristas del proteccionismo copyright, les recomiendo que miren el contenido (unos 80 gigas si no me equivoco) antes de lanzar las llamas.</description>
+    </item>
+    
+    <item>
+      <title>Los hackers que sabí­an demasiado (PC&amp;amp;I 26)</title>
+      <link>https://bloges.cortell.net/2005/01/los-hackers-que-sab%C3%ADan-demasiado-pcampi-26/</link>
+      <pubDate>Mon, 31 Jan 2005 10:39:30 +0000</pubDate>
+      
+      <guid>https://bloges.cortell.net/2005/01/los-hackers-que-sab%C3%ADan-demasiado-pcampi-26/</guid>
+      <description>Un hacker (ver wikipedia.org) es un experto, o aficionado, que busca defectos para mejorar la seguridad y prevenir posibles errores futuros. Pekka Himanen en su excelente libro &amp;ldquo;La ética del hacker&amp;rdquo;, propone incluso hacer extensiva esta definición a ámbitos más allá de la informática (entusiastas, autodidactas, o curiosos). A los &amp;ldquo;hackers malos&amp;rdquo; se les debe llamar &amp;ldquo;crakers&amp;rdquo;.
+Así­ pues, -¿por qué titulo este artí­culo &amp;ldquo;Los hackers que sabí­an demasiado&amp;rdquo;? -¿Se puede &amp;ldquo;saber demasiado&amp;rdquo;?</description>
+    </item>
+    
+  </channel>
+</rss>

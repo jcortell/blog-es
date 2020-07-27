@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>work on Blog de Jorge Cortell en Castellano</title>
+    <link>https://bloges.cortell.net/tags/work/</link>
+    <description>Recent content in work on Blog de Jorge Cortell en Castellano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Mar 2018 18:54:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://bloges.cortell.net/tags/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Una semana en Las Vegas</title>
+      <link>https://bloges.cortell.net/2018/03/una-semana-en-las-vegas/</link>
+      <pubDate>Sat, 10 Mar 2018 18:54:24 +0200</pubDate>
+      
+      <guid>https://bloges.cortell.net/2018/03/una-semana-en-las-vegas/</guid>
+      <description>&lt;p&gt;Pasé una semana en Las Vegas participando en la feria HIMSS, como expositor y como miembro de un panel de socios de Google.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

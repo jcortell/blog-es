@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.74.3 with theme Tranquilpeak 0.4.8-BETA">
+<meta name="author" content="Jorge Cortell">
+<meta name="keywords" content="">
+<meta name="description" content="El mes pasado hablábamos del JFCCNW (cuya misión teórica es la defensa de las redes del Departamento de Defensa de los EEUU). Pero más preocupante que una división militar integrada por crackers de todo el mundo, es el Future Combat System (FCS), que es la mayor inversión que ha hecho el gobierno norteamericano desde enviar al hombre a la luna (por supuesto no se trata de una iniciativa de Sanidad, o Educación).">
+
+
+<meta property="og:description" content="El mes pasado hablábamos del JFCCNW (cuya misión teórica es la defensa de las redes del Departamento de Defensa de los EEUU). Pero más preocupante que una división militar integrada por crackers de todo el mundo, es el Future Combat System (FCS), que es la mayor inversión que ha hecho el gobierno norteamericano desde enviar al hombre a la luna (por supuesto no se trata de una iniciativa de Sanidad, o Educación).">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Los peligros ocultos de la Red VII: El Negocio de la Guerra OnLine (PC&amp;amp;I 34)">
+<meta name="twitter:title" content="Los peligros ocultos de la Red VII: El Negocio de la Guerra OnLine (PC&amp;amp;I 34)">
+<meta property="og:url" content="https://bloges.cortell.net/2005/10/los-peligros-ocultos-de-la-red-vii-el-negocio-de-la-guerra-online-pcampi-34/">
+<meta property="twitter:url" content="https://bloges.cortell.net/2005/10/los-peligros-ocultos-de-la-red-vii-el-negocio-de-la-guerra-online-pcampi-34/">
+<meta property="og:site_name" content="Blog de Jorge Cortell en Castellano">
+<meta property="og:description" content="El mes pasado hablábamos del JFCCNW (cuya misión teórica es la defensa de las redes del Departamento de Defensa de los EEUU). Pero más preocupante que una división militar integrada por crackers de todo el mundo, es el Future Combat System (FCS), que es la mayor inversión que ha hecho el gobierno norteamericano desde enviar al hombre a la luna (por supuesto no se trata de una iniciativa de Sanidad, o Educación).">
+<meta name="twitter:description" content="El mes pasado hablábamos del JFCCNW (cuya misión teórica es la defensa de las redes del Departamento de Defensa de los EEUU). Pero más preocupante que una división militar integrada por crackers de todo el mundo, es el Future Combat System (FCS), que es la mayor inversión que ha hecho el gobierno norteamericano desde enviar al hombre a la luna (por supuesto no se trata de una iniciativa de Sanidad, o Educación).">
+<meta property="og:locale" content="es-es">
+
+  
+    <meta property="article:published_time" content="2005-10-25T07:31:30">
+  
+  
+    <meta property="article:modified_time" content="2005-10-25T07:31:30">
+  
+  
+  
+    
+      <meta property="article:section" content="Artí­culos escritos para la revista PC&amp;amp;I">
+    
+      <meta property="article:section" content="CiberDerechos">
+    
+      <meta property="article:section" content="General">
+    
+      <meta property="article:section" content="Rants">
+    
+      <meta property="article:section" content="Technology">
+    
+  
+  
+
+
+<meta name="twitter:card" content="summary">
+
+  <meta name="twitter:site" content="@jorgecortell">
+
+
+  <meta name="twitter:creator" content="@jorgecortell">
+
+
+
+
+
+
+
+
+
+
+  <meta property="og:image" content="https://www.gravatar.com/avatar/9269e405983cdf2599d1b1ddc9d4a2ba?s=640">
+  <meta property="twitter:image" content="https://www.gravatar.com/avatar/9269e405983cdf2599d1b1ddc9d4a2ba?s=640">
+
+
+    <title>Los peligros ocultos de la Red VII: El Negocio de la Guerra OnLine (PC&amp;amp;I 34)</title>
+
+    <link rel="icon" href="https://bloges.cortell.net/favicon.png">
+    
+
+    
+
+    <link rel="canonical" href="https://bloges.cortell.net/2005/10/los-peligros-ocultos-de-la-red-vii-el-negocio-de-la-guerra-online-pcampi-34/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.css" integrity="sha256-vuXZ9LGmmwtjqFX1F+EKin1ThZMub58gKULUyf0qECk=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
+    
+    
+    <link rel="stylesheet" href="https://bloges.cortell.net/css/style-twzjdbqhmnnacqs0pwwdzcdbt8yhv8giawvjqjmyfoqnvazl0dalmnhdkvp7.min.css" />
+    
+    
+
+    
+      
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-51273041-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="5">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="https://bloges.cortell.net/">Blog de Jorge Cortell en Castellano</a>
+  </div>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="5">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="https://web.cortell.net">
+          <img class="sidebar-profile-picture" src="https://www.gravatar.com/avatar/9269e405983cdf2599d1b1ddc9d4a2ba?s=110" alt="Foto de autor" />
+        </a>
+        <h4 class="sidebar-profile-name">Jorge Cortell</h4>
+        
+          <h5 class="sidebar-profile-bio">Viviendo</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+      
+      <span class="sidebar-button-desc">Inicio</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/viajes/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-plane"></i>
+      
+      <span class="sidebar-button-desc">Viajes</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/categories">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-bookmark"></i>
+      
+      <span class="sidebar-button-desc">Categorías</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/tags">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
+      
+      <span class="sidebar-button-desc">Etiquetas</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/archives">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-archive"></i>
+      
+      <span class="sidebar-button-desc">Archivos</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://web.cortell.net" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-question"></i>
+      
+      <span class="sidebar-button-desc">Acerca de</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/index.xml">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-rss"></i>
+      
+      <span class="sidebar-button-desc">RSS</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://www.linkedin.com/in/jcortell/" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-linkedin"></i>
+      
+      <span class="sidebar-button-desc">LinkedIn</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://twitter.com/jorgecortell" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-twitter"></i>
+      
+      <span class="sidebar-button-desc">Twitter</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://mas.to/@uno" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-retweet"></i>
+      
+      <span class="sidebar-button-desc">Mastodon</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/jcortell" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-github"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://jcortell.tumblr.com/" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tumblr"></i>
+      
+      <span class="sidebar-button-desc">Tumblr</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://blog.cortell.net" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-flag-o"></i>
+      
+      <span class="sidebar-button-desc">English</span>
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</nav>
+
+      
+
+      <div id="main" data-behavior="5"
+        class="
+               hasCoverMetaIn
+               ">
+        <article class="post" itemscope itemType="http://schema.org/BlogPosting">
+          
+          
+            <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title" itemprop="headline">
+      Los peligros ocultos de la Red VII: El Negocio de la Guerra OnLine (PC&amp;amp;I 34)
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2005-10-25T07:31:30Z">
+        
+  
+  
+  
+  
+    25 Octubre 2005
+  
+
+      </time>
+    
+    
+  
+  
+    <span>en</span>
+    
+      <a class="category-link" href="https://bloges.cortell.net/categories/art%c3%adculos-escritos-para-la-revista-pcampi">Artí­culos escritos para la revista PC&amp;amp;I</a>, 
+    
+      <a class="category-link" href="https://bloges.cortell.net/categories/ciberderechos">CiberDerechos</a>, 
+    
+      <a class="category-link" href="https://bloges.cortell.net/categories/general">General</a>, 
+    
+      <a class="category-link" href="https://bloges.cortell.net/categories/rants">Rants</a>, 
+    
+      <a class="category-link" href="https://bloges.cortell.net/categories/technology">Technology</a>
+    
+  
+
+  </div>
+
+</div>
+          
+          <div class="post-content markdown" itemprop="articleBody">
+            <div class="main-content-wrap">
+              <p>El mes pasado <a href="https://www.cortell.net/2005/09/27/los-peligros-ocultos-de-la-red-vi-terrorismo-de-estado-online-pci-33/">hablábamos</a> del JFCCNW (cuya misión teórica es la defensa de las redes del Departamento de Defensa de los EEUU). Pero más preocupante que una división militar integrada por crackers de todo el mundo, es el Future Combat System (FCS), que es la mayor inversión que ha hecho el gobierno norteamericano desde enviar al hombre a la luna (por supuesto no se trata de una iniciativa de Sanidad, o Educación). A base de aviones sin piloto, robots de combate, el fracasado y carí­simo escudo antimisiles NMD, ex-SDI, y nano-sensores, el gobierno norteamericano quiere emplear la tecnologí­a para imponer su voluntad en todo el mundo. La superioridad numérica dejó de importar hace siglos. La superioridad armamentí­stica dejó de importar con la llegada del armamento nuclear. La superioridad tecnológica es lo que importa en los conflictos bélicos actuales. Ni siquiera la &ldquo;inteligencia militar&rdquo; (suena a contrasentido, -¿verdad?) es tan importante, como ha demostrado EEUU una y otra vez.</p>
+<p>Pero toda esa tecnologí­a ha de interconectarse en red con unas garantí­as mí­nimas de seguridad. Ese es el cometido teórico del JFCCNW. Pero una división no les va a bastar. Imaginen miles de robots de combate intentado coordinarse con los aviones sin piloto sobrevolando su posición, mientras los sensores de la ropa de los pocos soldados humanos en el campo de batalla intentan enviar su nivel de pérdida de sangre al centro de control&hellip; el cual se encuentra totalmente bloqueado por un ataque de denegación de servicio que un script kiddie ha lanzado sin ni siquiera darse cuenta desde casa de sus abuelos mientras merienda. No es extraño que quieran, y se estén, inmiscuyendo tanto en la red. Pero sí­ peligroso, por el modo en el que lo están haciendo.</p>
+<p>Por muy ciego e inmovilista que se sea (como la mayorí­a de discográficas, sociedades de gestión, militares, o polí­ticos), al final la realidad y la lógica se suelen imponer, y los 490 mil millones de dólares previstos en el presupuesto del Departamento de Defensa de EEUU para el año 2009 se ha de justificar de algún modo (si es que tiene justificación gastar el dinero que podrí­a servir para acabar con todo el hambre, analfabetismo, y epidemias en el mundo, en armas). Tras años de tecnologí­as que no funcionan pero cuestan miles de millones de dólares, desarrolladas por empresas gigantescas cuyo beneficio es que les asignen uno de esos secretos y carí­simos proyectos de tecnologí­a militar (para lo cual 4 de ellas gastaron el año pasado 40 millones de dólares en &ldquo;presiones&rdquo; o lobbying al gobierno), a ser posible con fondos reservados para no tener que disimular los sobornos tanto, las cosas han empezado a cambiar.</p>
+<p>La CIA tiene desde hace 5 años un fondo de capital riesgo (In-Q-Tel) para invertir (llevan más de 950 millones de dólares, el 90% de capital privado, invertidos en más de 80 empresas y 10 laboratorios universitarios) en acciones (14%) y aprovechar su tecnologí­a (86%). Incluso tienen el In-Q-Tel Interface Center (QUIC), un departamento del Directorado de Ciencia y Tecnologí­a de la CIA que se encarga de &ldquo;entender&rdquo; y &ldquo;explicar&rdquo; la tecnologí­a a la CIA, y mantenerlo todo en secreto, claro. Porque aunque uno sea &ldquo;la central de inteligencia&rdquo; eso no significa que entiendan todo (o nada en absoluto de hecho).</p>
+<p>In-Q-Tel recibe peticiones de QUIC, las cuales han partido de la CIA, como por ejemplo &ldquo;necesitamos mejores sistemas de visualización de datos multimodales espaciotemporales a tiempo real&rdquo;. Desde hace años que van detrás de esto. Yo escribí­ un estudio al respecto que les interesó (pero lógicamente no hubo colaboración). In-Q-Tel se encarga de encontrar empresas que estén desarrollando esta tecnologí­a y o bien invierte en ellas o bien les compra la tecnologí­a. Un ejemplo conocido es KeyHole (empleado por Google Maps / Satélite). Pero últimamente se han dado cuenta de que la red no es sólo &ldquo;parte&rdquo; de la ecuación de la tecnologí­a militar. La red forma parte de casi todos los proyectos de tecnologí­a. Y aquí­ es donde empieza el peligro (para la red).</p>
+<p>Cuando algo ha sido de &ldquo;interés&rdquo; para los norteamericanos (ya sea económico o militar), es de sobra sabido que no han reparado en esfuerzos ni en métodos para conseguir &ldquo;defenderlo&rdquo; o &ldquo;controlarlo&rdquo;. Han asesinado a presidentes y activistas, han invadido paí­ses, han provocado levantamientos armados, han bombardeado regiones enteras&hellip; y ahora que la red es de su máximo interés no les va a parar el hecho de que sea de interés del resto del mundo también. -¿Qué cabe de esperar de un paí­s que destina el 50% de su presupuesto a lo militar y deja sólo el 6% a la educación y el 5% a la sanidad?</p>
+<p>Ya que ese interés es tanto económico como militar, como siempre empiezan con el intento de que sean los estamentos económicos los que se aseguren el control. Así­, con la excusa de la &ldquo;propiedad intelectual&rdquo;, el fiscal general de los EEUU declara la guerra a todo el que no comulgue con su restrictiva interpretación de dicha ley, involucrando a la Organización Mundial de Comercio (WTO) y a la Organización Mundial de la Propiedad Intelectual (WIPO). Luego el Banco Mundial (WB) y el Fondo Monetario Internacional (IMF) a base de la &ldquo;negociación&rdquo; de la deudas externas, y a la vez haciendo la vista gorda ante la corrupción, consiguen compromisos de gobiernos que no comparten dicha visión. Y al final el Consejo de Relaciones Internacionales (CFR), el Departamento de Defensa (DoD), y sus aliados de la OTAN (NATO), imponen con el terror de las armas lo que no han conseguido los demás.</p>
+<p>Para colmo la cruzada &ldquo;contra el terrorismo&rdquo; les ha permitido saltarse negociaciones y presiones y tomar por las buenas posiciones de firme control de la red (restringiendo derechos civiles, saltándose la legislación internacional, etc).</p>
+<p>Sólo han pasado por alto un detalle: creen que la red es importante para ellos, pero no se dan cuenta de que es más importante para nosotros, para todos. Es el futuro. Debemos emplearla para conectar personas, compartir conocimiento. Y si ellos están dispuestos a luchar por la red, nosotros lo estamos más.</p>
+<p><a href="https://tira.escomposlinux.org/ecol-223.png"><!-- raw HTML omitted --></a></p>
+
+              
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+            
+            <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://bloges.cortell.net/2005/10/internet-dns-cumbre-de-tunez...-debate/" data-tooltip="Internet, DNS, cumbre de Tunez... -¿debate?">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">SIGUIENTE</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://bloges.cortell.net/2005/10/debate-sobre-lpi/" data-tooltip="Debate sobre LPI">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">ANTERIOR</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://bloges.cortell.net/2005/10/los-peligros-ocultos-de-la-red-vii-el-negocio-de-la-guerra-online-pcampi-34/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://bloges.cortell.net/2005/10/los-peligros-ocultos-de-la-red-vii-el-negocio-de-la-guerra-online-pcampi-34/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.reddit.com/submit?url=https://bloges.cortell.net/2005/10/los-peligros-ocultos-de-la-red-vii-el-negocio-de-la-guerra-online-pcampi-34/">
+              <i class="fa fa-reddit"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://news.ycombinator.com/submitlink?u=https://bloges.cortell.net/2005/10/los-peligros-ocultos-de-la-red-vii-el-negocio-de-la-guerra-online-pcampi-34/">
+              <i class="fa fa-hacker-news"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+            
+              
+                <div id="disqus_thread">
+  <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+              
+            
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2020 CC0 Copyleft - Comparte. Todos los derechos reservados
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="5">
+        <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://bloges.cortell.net/2005/10/internet-dns-cumbre-de-tunez...-debate/" data-tooltip="Internet, DNS, cumbre de Tunez... -¿debate?">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">SIGUIENTE</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://bloges.cortell.net/2005/10/debate-sobre-lpi/" data-tooltip="Debate sobre LPI">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">ANTERIOR</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://bloges.cortell.net/2005/10/los-peligros-ocultos-de-la-red-vii-el-negocio-de-la-guerra-online-pcampi-34/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://bloges.cortell.net/2005/10/los-peligros-ocultos-de-la-red-vii-el-negocio-de-la-guerra-online-pcampi-34/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.reddit.com/submit?url=https://bloges.cortell.net/2005/10/los-peligros-ocultos-de-la-red-vii-el-negocio-de-la-guerra-online-pcampi-34/">
+              <i class="fa fa-reddit"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://news.ycombinator.com/submitlink?u=https://bloges.cortell.net/2005/10/los-peligros-ocultos-de-la-red-vii-el-negocio-de-la-guerra-online-pcampi-34/">
+              <i class="fa fa-hacker-news"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+      </div>
+      <div id="share-options-bar" class="share-options-bar" data-behavior="5">
+  <i id="btn-close-shareoptions" class="fa fa-close"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbloges.cortell.net%2F2005%2F10%2Flos-peligros-ocultos-de-la-red-vii-el-negocio-de-la-guerra-online-pcampi-34%2F">
+          <i class="fa fa-facebook-official"></i><span>Compartir en Facebook</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fbloges.cortell.net%2F2005%2F10%2Flos-peligros-ocultos-de-la-red-vii-el-negocio-de-la-guerra-online-pcampi-34%2F">
+          <i class="fa fa-twitter"></i><span>Compartir en Twitter</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.reddit.com/submit?url=https%3A%2F%2Fbloges.cortell.net%2F2005%2F10%2Flos-peligros-ocultos-de-la-red-vii-el-negocio-de-la-guerra-online-pcampi-34%2F">
+          <i class="fa fa-reddit"></i><span>Compartir en Reddit</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fbloges.cortell.net%2F2005%2F10%2Flos-peligros-ocultos-de-la-red-vii-el-negocio-de-la-guerra-online-pcampi-34%2F">
+          <i class="fa fa-hacker-news"></i><span>Compartir en HackerNews</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-remove"></i>
+    </div>
+    
+      <img id="about-card-picture" src="https://www.gravatar.com/avatar/9269e405983cdf2599d1b1ddc9d4a2ba?s=110" alt="Foto de autor" />
+    
+    <h4 id="about-card-name">Jorge Cortell</h4>
+    
+      <div id="about-card-bio">Viviendo</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        Curador de Arte - Fundador y Director General de Kanteron Systems
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker"></i>
+        <br/>
+        Valencia (España)
+      </div>
+    
+  </div>
+</div>
+
+    
+
+    
+  
+    <div id="cover" style="background-image:url('https://res.cloudinary.com/jcortell/image/upload/v1578019207/Personal/cover.jpg');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
+
+
+<script src="https://bloges.cortell.net/js/script-pcw6v3xilnxydl1vddzazdverrnn9ctynvnxgwho987mfyqkuylcb1nlt.min.js"></script>
+
+
+<script lang="javascript">
+window.onload = updateMinWidth;
+window.onresize = updateMinWidth;
+document.getElementById("sidebar").addEventListener("transitionend", updateMinWidth);
+function updateMinWidth() {
+  var sidebar = document.getElementById("sidebar");
+  var main = document.getElementById("main");
+  main.style.minWidth = "";
+  var w1 = getComputedStyle(main).getPropertyValue("min-width");
+  var w2 = getComputedStyle(sidebar).getPropertyValue("width");
+  var w3 = getComputedStyle(sidebar).getPropertyValue("left");
+  main.style.minWidth = `calc(${w1} - ${w2} - ${w3})`;
+}
+</script>
+
+
+  
+    
+      <script>
+        var disqus_config = function () {
+          this.page.url = 'https:\/\/bloges.cortell.net\/2005\/10\/los-peligros-ocultos-de-la-red-vii-el-negocio-de-la-guerra-online-pcampi-34\/';
+          
+            this.page.identifier = '\/2005\/10\/los-peligros-ocultos-de-la-red-vii-el-negocio-de-la-guerra-online-pcampi-34\/'
+          
+        };
+        (function() {
+          
+          
+          if (window.location.hostname == "localhost") {
+            return;
+          }
+          var d = document, s = d.createElement('script');
+          var disqus_shortname = 'jorge_cortell';
+          s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+        })();
+      </script>
+    
+  
+
+
+
+
+    
+  </body>
+</html>
+

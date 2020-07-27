@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>art on Blog de Jorge Cortell en Castellano</title>
+    <link>https://bloges.cortell.net/tags/art/</link>
+    <description>Recent content in art on Blog de Jorge Cortell en Castellano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Feb 2020 01:00:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://bloges.cortell.net/tags/art/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visitando una exposición con el Presidente de la Academia</title>
+      <link>https://bloges.cortell.net/2020/02/visitando-una-exposici%C3%B3n-con-el-presidente-de-la-academia/</link>
+      <pubDate>Thu, 20 Feb 2020 01:00:24 +0200</pubDate>
+      
+      <guid>https://bloges.cortell.net/2020/02/visitando-una-exposici%C3%B3n-con-el-presidente-de-la-academia/</guid>
+      <description>&lt;p&gt;Cuando la Real Academia de Bellas Artes de San Carlos de Valencia organizó una exposición de esculturas de José Gines, su presidente nos invitó a mi esposa y a mí a un recorrido privado.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tres días en Sydney</title>
+      <link>https://bloges.cortell.net/2019/04/tres-d%C3%ADas-en-sydney/</link>
+      <pubDate>Wed, 10 Apr 2019 18:54:24 +0200</pubDate>
+      
+      <guid>https://bloges.cortell.net/2019/04/tres-d%C3%ADas-en-sydney/</guid>
+      <description>&lt;p&gt;Del 7 al 10 de abril, estuvimos en Sydney visitando a un amigo y trabajando.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

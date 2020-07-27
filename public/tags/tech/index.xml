@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tech on Blog de Jorge Cortell en Castellano</title>
+    <link>https://bloges.cortell.net/tags/tech/</link>
+    <description>Recent content in tech on Blog de Jorge Cortell en Castellano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Jun 2017 10:24:16 -0400</lastBuildDate>
+    
+	<atom:link href="https://bloges.cortell.net/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nuevo Blog</title>
+      <link>https://bloges.cortell.net/2017/06/nuevo-blog/</link>
+      <pubDate>Thu, 22 Jun 2017 10:24:16 -0400</pubDate>
+      
+      <guid>https://bloges.cortell.net/2017/06/nuevo-blog/</guid>
+      <description>&lt;p&gt;Como resultará evidente, he cambiado de blog.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

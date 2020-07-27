@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>geek on Blog de Jorge Cortell en Castellano</title>
+    <link>https://bloges.cortell.net/tags/geek/</link>
+    <description>Recent content in geek on Blog de Jorge Cortell en Castellano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Feb 2020 01:00:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://bloges.cortell.net/tags/geek/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Procesando miles de archivos con un comando de terminal</title>
+      <link>https://bloges.cortell.net/2020/02/procesando-miles-de-archivos-con-un-comando-de-terminal/</link>
+      <pubDate>Sun, 02 Feb 2020 01:00:24 +0200</pubDate>
+      
+      <guid>https://bloges.cortell.net/2020/02/procesando-miles-de-archivos-con-un-comando-de-terminal/</guid>
+      <description>&lt;p&gt;¿Cómo solucionar un problema que afecta a más de dos mil archivos sin pasar días con un procesador de textos? CLI al rescate.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Horas de análisis de código para arreglar una errata</title>
+      <link>https://bloges.cortell.net/2020/01/horas-de-an%C3%A1lisis-de-c%C3%B3digo-para-arreglar-una-errata/</link>
+      <pubDate>Thu, 02 Jan 2020 18:54:24 +0200</pubDate>
+      
+      <guid>https://bloges.cortell.net/2020/01/horas-de-an%C3%A1lisis-de-c%C3%B3digo-para-arreglar-una-errata/</guid>
+      <description>&lt;p&gt;Hace tiempo noté que cuando compartía las publicaciones de mi blog en las redes sociales, la imagen de la publicación no aparecía. Finalmente decidí investigarlo &amp;hellip; ¡no sabía en qué agujero negro me estaba metiendo!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lecciones de una odisea de instalación de software</title>
+      <link>https://bloges.cortell.net/2017/08/lecciones-de-una-odisea-de-instalaci%C3%B3n-de-software/</link>
+      <pubDate>Wed, 02 Aug 2017 18:54:24 +0200</pubDate>
+      
+      <guid>https://bloges.cortell.net/2017/08/lecciones-de-una-odisea-de-instalaci%C3%B3n-de-software/</guid>
+      <description>&lt;p&gt;Vamos a instalar un nuevo sistema operativo GNU / Linux en dos ordenadores viejos para darles una nueva vida. Después de todo, ¿qué podría salir mal? &amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nuevo Blog</title>
+      <link>https://bloges.cortell.net/2017/06/nuevo-blog/</link>
+      <pubDate>Thu, 22 Jun 2017 10:24:16 -0400</pubDate>
+      
+      <guid>https://bloges.cortell.net/2017/06/nuevo-blog/</guid>
+      <description>&lt;p&gt;Como resultará evidente, he cambiado de blog.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

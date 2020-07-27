@@ -1,0 +1,651 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.74.3 with theme Tranquilpeak 0.4.8-BETA">
+<meta name="author" content="Jorge Cortell">
+<meta name="keywords" content="">
+<meta name="description" content="Damos por hecho desde las libertades hasta los derechos. Pero los logros y consecuciones sociales no son fruto de la casualidad, no están con nosotros desde el principio de los tiempos, ni podemos dar por sentado que seguirán aquí­ por siempre.
+Al hablar de internet, damos erróneamente por hecho cosas como la interoperabilidad (ya hablaremos de ello en otra ocasión). Eso sí­, hay una cosa que nadie pone en duda, y sin la cual es obvio que no existirí­a la red: la Neutralidad.">
+
+
+<meta property="og:description" content="Damos por hecho desde las libertades hasta los derechos. Pero los logros y consecuciones sociales no son fruto de la casualidad, no están con nosotros desde el principio de los tiempos, ni podemos dar por sentado que seguirán aquí­ por siempre.
+Al hablar de internet, damos erróneamente por hecho cosas como la interoperabilidad (ya hablaremos de ello en otra ocasión). Eso sí­, hay una cosa que nadie pone en duda, y sin la cual es obvio que no existirí­a la red: la Neutralidad.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Los peligros ocultos de la Red XI: Neutralidad de la Red (PC&amp;amp;I 42)">
+<meta name="twitter:title" content="Los peligros ocultos de la Red XI: Neutralidad de la Red (PC&amp;amp;I 42)">
+<meta property="og:url" content="https://bloges.cortell.net/2006/06/los-peligros-ocultos-de-la-red-xi-neutralidad-de-la-red-pcampi-42/">
+<meta property="twitter:url" content="https://bloges.cortell.net/2006/06/los-peligros-ocultos-de-la-red-xi-neutralidad-de-la-red-pcampi-42/">
+<meta property="og:site_name" content="Blog de Jorge Cortell en Castellano">
+<meta property="og:description" content="Damos por hecho desde las libertades hasta los derechos. Pero los logros y consecuciones sociales no son fruto de la casualidad, no están con nosotros desde el principio de los tiempos, ni podemos dar por sentado que seguirán aquí­ por siempre.
+Al hablar de internet, damos erróneamente por hecho cosas como la interoperabilidad (ya hablaremos de ello en otra ocasión). Eso sí­, hay una cosa que nadie pone en duda, y sin la cual es obvio que no existirí­a la red: la Neutralidad.">
+<meta name="twitter:description" content="Damos por hecho desde las libertades hasta los derechos. Pero los logros y consecuciones sociales no son fruto de la casualidad, no están con nosotros desde el principio de los tiempos, ni podemos dar por sentado que seguirán aquí­ por siempre.
+Al hablar de internet, damos erróneamente por hecho cosas como la interoperabilidad (ya hablaremos de ello en otra ocasión). Eso sí­, hay una cosa que nadie pone en duda, y sin la cual es obvio que no existirí­a la red: la Neutralidad.">
+<meta property="og:locale" content="es-es">
+
+  
+    <meta property="article:published_time" content="2006-06-29T06:56:18">
+  
+  
+    <meta property="article:modified_time" content="2006-06-29T06:56:18">
+  
+  
+  
+    
+      <meta property="article:section" content="Artí­culos escritos para la revista PC&amp;amp;I">
+    
+      <meta property="article:section" content="CiberDerechos">
+    
+      <meta property="article:section" content="General">
+    
+      <meta property="article:section" content="Rants">
+    
+      <meta property="article:section" content="Sociedad y polí­tica">
+    
+      <meta property="article:section" content="Technology">
+    
+  
+  
+
+
+<meta name="twitter:card" content="summary">
+
+  <meta name="twitter:site" content="@jorgecortell">
+
+
+  <meta name="twitter:creator" content="@jorgecortell">
+
+
+
+
+
+
+
+
+
+
+  <meta property="og:image" content="https://www.gravatar.com/avatar/9269e405983cdf2599d1b1ddc9d4a2ba?s=640">
+  <meta property="twitter:image" content="https://www.gravatar.com/avatar/9269e405983cdf2599d1b1ddc9d4a2ba?s=640">
+
+
+    <title>Los peligros ocultos de la Red XI: Neutralidad de la Red (PC&amp;amp;I 42)</title>
+
+    <link rel="icon" href="https://bloges.cortell.net/favicon.png">
+    
+
+    
+
+    <link rel="canonical" href="https://bloges.cortell.net/2006/06/los-peligros-ocultos-de-la-red-xi-neutralidad-de-la-red-pcampi-42/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.css" integrity="sha256-vuXZ9LGmmwtjqFX1F+EKin1ThZMub58gKULUyf0qECk=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
+    
+    
+    <link rel="stylesheet" href="https://bloges.cortell.net/css/style-twzjdbqhmnnacqs0pwwdzcdbt8yhv8giawvjqjmyfoqnvazl0dalmnhdkvp7.min.css" />
+    
+    
+
+    
+      
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-51273041-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="5">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="https://bloges.cortell.net/">Blog de Jorge Cortell en Castellano</a>
+  </div>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="5">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="https://web.cortell.net">
+          <img class="sidebar-profile-picture" src="https://www.gravatar.com/avatar/9269e405983cdf2599d1b1ddc9d4a2ba?s=110" alt="Foto de autor" />
+        </a>
+        <h4 class="sidebar-profile-name">Jorge Cortell</h4>
+        
+          <h5 class="sidebar-profile-bio">Viviendo</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+      
+      <span class="sidebar-button-desc">Inicio</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/viajes/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-plane"></i>
+      
+      <span class="sidebar-button-desc">Viajes</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/categories">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-bookmark"></i>
+      
+      <span class="sidebar-button-desc">Categorías</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/tags">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
+      
+      <span class="sidebar-button-desc">Etiquetas</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/archives">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-archive"></i>
+      
+      <span class="sidebar-button-desc">Archivos</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://web.cortell.net" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-question"></i>
+      
+      <span class="sidebar-button-desc">Acerca de</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net/index.xml">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-rss"></i>
+      
+      <span class="sidebar-button-desc">RSS</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://www.linkedin.com/in/jcortell/" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-linkedin"></i>
+      
+      <span class="sidebar-button-desc">LinkedIn</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://twitter.com/jorgecortell" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-twitter"></i>
+      
+      <span class="sidebar-button-desc">Twitter</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://mas.to/@uno" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-retweet"></i>
+      
+      <span class="sidebar-button-desc">Mastodon</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/jcortell" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-github"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://jcortell.tumblr.com/" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tumblr"></i>
+      
+      <span class="sidebar-button-desc">Tumblr</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://blog.cortell.net" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-flag-o"></i>
+      
+      <span class="sidebar-button-desc">English</span>
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</nav>
+
+      
+
+      <div id="main" data-behavior="5"
+        class="
+               hasCoverMetaIn
+               ">
+        <article class="post" itemscope itemType="http://schema.org/BlogPosting">
+          
+          
+            <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title" itemprop="headline">
+      Los peligros ocultos de la Red XI: Neutralidad de la Red (PC&amp;amp;I 42)
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2006-06-29T06:56:18Z">
+        
+  
+  
+  
+  
+    29 Junio 2006
+  
+
+      </time>
+    
+    
+  
+  
+    <span>en</span>
+    
+      <a class="category-link" href="https://bloges.cortell.net/categories/art%c3%adculos-escritos-para-la-revista-pcampi">Artí­culos escritos para la revista PC&amp;amp;I</a>, 
+    
+      <a class="category-link" href="https://bloges.cortell.net/categories/ciberderechos">CiberDerechos</a>, 
+    
+      <a class="category-link" href="https://bloges.cortell.net/categories/general">General</a>, 
+    
+      <a class="category-link" href="https://bloges.cortell.net/categories/rants">Rants</a>, 
+    
+      <a class="category-link" href="https://bloges.cortell.net/categories/sociedad-y-pol%c3%adtica">Sociedad y polí­tica</a>, 
+    
+      <a class="category-link" href="https://bloges.cortell.net/categories/technology">Technology</a>
+    
+  
+
+  </div>
+
+</div>
+          
+          <div class="post-content markdown" itemprop="articleBody">
+            <div class="main-content-wrap">
+              <p>Damos por hecho desde las libertades hasta los derechos. Pero los logros y consecuciones sociales no son fruto de la casualidad, no están con nosotros desde el principio de los tiempos, ni podemos dar por sentado que seguirán aquí­ por siempre.</p>
+<p>Al hablar de internet, damos erróneamente por hecho cosas como la interoperabilidad (ya hablaremos de ello en otra ocasión). Eso sí­, hay una cosa que nadie pone en duda, y sin la cual es obvio que no existirí­a la red: la Neutralidad.</p>
+<p>La Neutralidad de la Red es un concepto simple pero fundamental: todos los paquetes de datos que pasan por las redes que integran internet (operadas por la compañí­a o gobierno que sea), y sea cual sea su origen, tienen la misma prioridad, y el mismo trato.</p>
+<p>Pues bien, en EEUU hay una serie de empresas de telecomunicaciones como AT&amp;T, Verizon, Comcast, Time Warner o Bell South, que increí­blemente apoyadas por algunas empresas de tecnologí­a como Cisco (que piensa en su propio negocio acorto plazo, olvidándose de que su negocio a largo plazo es un crecimiento sano y sostenido de la red), han propuesto acabar con la mencionada Neutralidad.</p>
+<p>Exigen (a través de una propuesta legislativa) que se les permita discriminar los paquetes de datos que circulan por sus redes, dando prioridad (e incluso permitiendo el paso exclusivamente) a aquellos que provengan de proveedores que hayan pagado una cuota. Y cuanto más alta la cuota mayor la prioridad. Incluso podrí­an establecer un sistema de subasta a tiempo real, y que haya que pujar por que nuestros datos puedan pasar por &ldquo;sus&rdquo; redes.</p>
+<p>El argumento que esgrimen parece tener sentido: apelan a la libertad de mercado, y a la &ldquo;propiedad privada&rdquo;. Aducen que sin &ldquo;incentivos&rdquo; se acabarí­an los motivos para seguir actualizando las redes y mantenerlas en buen estado.</p>
+<p>Andy Oram escribió un excelente análisis económico (10 de mayo 2006, <a href="http://www.oreillynet.com/etel/blog/opinion/">www.oreillynet.com/etel/blog/opinion/</a>) desmontando este argumento, citando multitud de estudios internacionales, y haciendo comparativas entre paí­ses. Aunque por cuestiones de espacio no daré más datos, me centraré en su conclusión: por ilógico que parezca a los defensores del &ldquo;libre mercado&rdquo;, en este caso es la inversión estatal (en redes, para garantizar su neutralidad) la que permitirí­a una mayor innovación.</p>
+<p>Se me antojan motivos mucho más simples para rechazar los falaces argumentos de los enemigos de la neutralidad. Desde el impacto socioeconómico (incluyendo el propio) hasta el concepto de propiedad (de la red y del mensaje), pasando por la competencia en igualdad de condiciones.</p>
+<p>&ldquo;-¿Y a mí­ qué?&rdquo; Puede que este usted pensando. &ldquo;Lo que pasa en EEUU no es mi problema&rdquo; puede que diga usted. Pues se equivoca: la red es mundial, y buena parte de servicios y contenidos a los que accedemos diariamente tienen su origen o se hospedan allí­. Además, cuando las barbas de tu vecino veas cortar&hellip;</p>
+<p>&ldquo;Yo pago mi cuota de abonado (ADSL tarifa plana, conexión por cable, etc) y hecho&rdquo;. Pues no. Ninguna empresa, por poderosa que sea, tiene la infraestructura suficiente como para poder &ldquo;servir internet&rdquo; ella sola. Se la llama la red de redes por algo: son muchas redes interconectadas. Si no protegemos la neutralidad de la red nos abocaremos a un futuro muy muy negro desde el punto de vista de la libertad (del consumidor, de los derechos, de elección&hellip;). Por ejemplo: cualquier innovador que saque un servicio que compita con estas empresas antes mencionadas verí­a su sistema automáticamente suprimido de la red (me viene a la cabeza la VoIP o &ldquo;telefoní­a por internet&rdquo;); cualquier tienda de música online tipo iTunes podrí­a desaparecer de nuestras pantallas, al dar el proveedor de telecomunicaciones preferencia, o incluso exclusividad, a su servicio (Telefónica a PixBox, Comcast a su música online, etc); cualquier activista polí­tico podrí­a ver su blog desaparecer si no se ajusta a la doctrina oficial (recordemos que las empresas mencionadas dieron acceso al gobierno Bush a sus servidores para que espiara a sus ciudadanos, en contra de la ley y sin orden judicial); cualquier consumidor verí­a desaparecer su posibilidad de elección, pues sólo saldrí­a en su pantalla una sola opción (la que más pague, eso sí­) para revelar fotos online, hacer reservas de hoteles, contratar seguros, banca&hellip;</p>
+<p>A estas alturas sólo pueden quedar dos tipos de lectores: los que estén tan asustados y furiosos como yo, y los que sean tan escépticos que no crean que nada de esto pueda llegar a materializarse. Para estos últimos tengo una pequeña lección de historia reciente que les hará cambiar de opinión: en 2004 Madison River (proveedor de ADSL de Carolina del Norte) cortó el acceso de sus clientes a los servicios de telefoní­a por internet de la competencia; en 2005 Telus (empresa de telecomunicaciones de Canadá) bloqueó el acceso a la web del sindicato de trabajadores de telecomunicaciones durante una disputa laboral; en abril de este año America Online (de Time Warner) bloqueó el acceso a correos electrónicos que mencionaban la web dearaol.com (que criticaba la intención de AOL de cobrar extra a sus clientes para poder recibir emails)&hellip; en España, ONO reduce y limita el ancho de banda que sus clientes pueden emplear para aplicaciones P2P (incluso aunque sean de mensajerí­a o de computación distribuí­da).</p>
+<p>El New York Times, tituló un editorial sobre este tema &ldquo;La libertad de muchos en peligro por el negocio de pocos&rdquo;. Por desgracia esta postura de falta de miras y visión de futuro es la más frecuente en la mayorí­a de empresas, preocupadas más por la cotización de sus acciones, o por modelos macroeconómicos, que por entender que el &ldquo;negocio&rdquo; mejor que una empresa puede hacer es fomentar que crezca el mercado, permitir la competitividad, y ofrecer al consumidor lo que el consumidor quiere.</p>
+<p>No permitamos que el beneficio a corto plazo de unas pocas empresas ponga en peligro el futuro de uno de los más maravillosos avances que ha conseguido el ser humano. -¿Cómo? A parte del poder que tenemos como votantes, y como consumidores, no recordemos de que al juego de &ldquo;como es mí­o cobro por ello lo que quiera&rdquo; podemos jugar todos. -¿Qué tal cobrarles por permitirles usar &ldquo;nuestros&rdquo; datos para facturarnos? -¿Qué tal cobrarles por permitirles el acceso a &ldquo;nuestros&rdquo; blogs, emails, etc? En la guerra todos pierden.</p>
+<p><a href="https://tira.escomposlinux.org"><!-- raw HTML omitted --></a></p>
+
+              
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+            
+            <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://bloges.cortell.net/2006/06/creative-commons-hasta-en-la-sopa-de-microsoft/" data-tooltip="Creative Commons hasta en la sopa (de Microsoft)">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">SIGUIENTE</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://bloges.cortell.net/2006/06/repite-conmigo-el-enemigo-es-la-industria/" data-tooltip="Repite conmigo: el enemigo es la industria">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">ANTERIOR</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://bloges.cortell.net/2006/06/los-peligros-ocultos-de-la-red-xi-neutralidad-de-la-red-pcampi-42/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://bloges.cortell.net/2006/06/los-peligros-ocultos-de-la-red-xi-neutralidad-de-la-red-pcampi-42/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.reddit.com/submit?url=https://bloges.cortell.net/2006/06/los-peligros-ocultos-de-la-red-xi-neutralidad-de-la-red-pcampi-42/">
+              <i class="fa fa-reddit"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://news.ycombinator.com/submitlink?u=https://bloges.cortell.net/2006/06/los-peligros-ocultos-de-la-red-xi-neutralidad-de-la-red-pcampi-42/">
+              <i class="fa fa-hacker-news"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+            
+              
+                <div id="disqus_thread">
+  <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+              
+            
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2020 CC0 Copyleft - Comparte. Todos los derechos reservados
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="5">
+        <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://bloges.cortell.net/2006/06/creative-commons-hasta-en-la-sopa-de-microsoft/" data-tooltip="Creative Commons hasta en la sopa (de Microsoft)">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">SIGUIENTE</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://bloges.cortell.net/2006/06/repite-conmigo-el-enemigo-es-la-industria/" data-tooltip="Repite conmigo: el enemigo es la industria">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">ANTERIOR</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://bloges.cortell.net/2006/06/los-peligros-ocultos-de-la-red-xi-neutralidad-de-la-red-pcampi-42/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://bloges.cortell.net/2006/06/los-peligros-ocultos-de-la-red-xi-neutralidad-de-la-red-pcampi-42/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.reddit.com/submit?url=https://bloges.cortell.net/2006/06/los-peligros-ocultos-de-la-red-xi-neutralidad-de-la-red-pcampi-42/">
+              <i class="fa fa-reddit"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://news.ycombinator.com/submitlink?u=https://bloges.cortell.net/2006/06/los-peligros-ocultos-de-la-red-xi-neutralidad-de-la-red-pcampi-42/">
+              <i class="fa fa-hacker-news"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+      </div>
+      <div id="share-options-bar" class="share-options-bar" data-behavior="5">
+  <i id="btn-close-shareoptions" class="fa fa-close"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbloges.cortell.net%2F2006%2F06%2Flos-peligros-ocultos-de-la-red-xi-neutralidad-de-la-red-pcampi-42%2F">
+          <i class="fa fa-facebook-official"></i><span>Compartir en Facebook</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fbloges.cortell.net%2F2006%2F06%2Flos-peligros-ocultos-de-la-red-xi-neutralidad-de-la-red-pcampi-42%2F">
+          <i class="fa fa-twitter"></i><span>Compartir en Twitter</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.reddit.com/submit?url=https%3A%2F%2Fbloges.cortell.net%2F2006%2F06%2Flos-peligros-ocultos-de-la-red-xi-neutralidad-de-la-red-pcampi-42%2F">
+          <i class="fa fa-reddit"></i><span>Compartir en Reddit</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fbloges.cortell.net%2F2006%2F06%2Flos-peligros-ocultos-de-la-red-xi-neutralidad-de-la-red-pcampi-42%2F">
+          <i class="fa fa-hacker-news"></i><span>Compartir en HackerNews</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-remove"></i>
+    </div>
+    
+      <img id="about-card-picture" src="https://www.gravatar.com/avatar/9269e405983cdf2599d1b1ddc9d4a2ba?s=110" alt="Foto de autor" />
+    
+    <h4 id="about-card-name">Jorge Cortell</h4>
+    
+      <div id="about-card-bio">Viviendo</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        Curador de Arte - Fundador y Director General de Kanteron Systems
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker"></i>
+        <br/>
+        Valencia (España)
+      </div>
+    
+  </div>
+</div>
+
+    
+
+    
+  
+    <div id="cover" style="background-image:url('https://res.cloudinary.com/jcortell/image/upload/v1578019207/Personal/cover.jpg');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
+
+
+<script src="https://bloges.cortell.net/js/script-pcw6v3xilnxydl1vddzazdverrnn9ctynvnxgwho987mfyqkuylcb1nlt.min.js"></script>
+
+
+<script lang="javascript">
+window.onload = updateMinWidth;
+window.onresize = updateMinWidth;
+document.getElementById("sidebar").addEventListener("transitionend", updateMinWidth);
+function updateMinWidth() {
+  var sidebar = document.getElementById("sidebar");
+  var main = document.getElementById("main");
+  main.style.minWidth = "";
+  var w1 = getComputedStyle(main).getPropertyValue("min-width");
+  var w2 = getComputedStyle(sidebar).getPropertyValue("width");
+  var w3 = getComputedStyle(sidebar).getPropertyValue("left");
+  main.style.minWidth = `calc(${w1} - ${w2} - ${w3})`;
+}
+</script>
+
+
+  
+    
+      <script>
+        var disqus_config = function () {
+          this.page.url = 'https:\/\/bloges.cortell.net\/2006\/06\/los-peligros-ocultos-de-la-red-xi-neutralidad-de-la-red-pcampi-42\/';
+          
+            this.page.identifier = '\/2006\/06\/los-peligros-ocultos-de-la-red-xi-neutralidad-de-la-red-pcampi-42\/'
+          
+        };
+        (function() {
+          
+          
+          if (window.location.hostname == "localhost") {
+            return;
+          }
+          var d = document, s = d.createElement('script');
+          var disqus_shortname = 'jorge_cortell';
+          s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+        })();
+      </script>
+    
+  
+
+
+
+
+    
+  </body>
+</html>
+
