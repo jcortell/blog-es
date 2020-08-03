@@ -26,7 +26,7 @@ El vuelo hacia allí estuvo bien, pero una azafata de Turkish Airlines me quemó
 
 En cualquier caso, llegué al [hotel](https://all.accor.com/hotel/1712/index.en.shtml), desde donde disfruté de unas vistas espectaculares de Bangkok, ya que mi habitación estaba el piso 27. Para mi primera cena fui a uno de mis lugares favoritos, Tim Ho Wan, con una estrella Michelin.
 
-Los siguientes dos días, con mi distribuidor y un colega, asistimos al Congreso de la Asociación de Patología de Tailandia, donde tomé una buena comida buffet libre y un pan caliente lleno de pandan, y también di una conferencia y la gente se sacó *selfies* con mi póster de fondo. Por la noche tomamos una buena cena en [Kub Kao ’Kub Pla](http://www.kubkao-kubpla.com/index.php/home) (en el precioso CentralFestival EastVille).
+Los siguientes dos días, con mi distribuidor y un colega, asistimos al Congreso de la Asociación de Patología de Tailandia, donde tomé una buena comida buffet libre y un pan caliente lleno de pandan, y también di una conferencia y la gente se sacó *selfies* con mi póster de fondo. Por la noche tomamos una buena cena en [Kub Kao ’Kub Pla](https://www.kubkao-kubpla.com/index.php/home) (en el precioso CentralFestival EastVille).
 
 También hice algunas compras, ya que muchos mercados están abiertos por la noche, así que fui al Mercado de fin de semana de Chatuchak (aviso: no vayas los viernes, es mucho mejor los sábados y domingos), The Platinum Fashion Mall y MBK. La verdad es que la comida es tan emocionante y deliciosa como las compras en esos lugares.
 

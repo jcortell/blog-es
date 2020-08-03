@@ -18,11 +18,11 @@ Cuando la Real Academia de Bellas Artes de San Carlos de Valencia organizó una 
 
 <!--more-->
 
-La Real Academia de Bellas Artes de San Carlos de Valencia, fundada por el Rey Carlos III el 14 de febrero de 1768, tiene la segunda [colección](http://www.realacademiasancarlos.com/patrimonio/) más grande de arte clásico (más de 15,000 piezas) de España después del magnífico El Prado en Madrid. [Obras asombrosas](http://www.realacademiasancarlos.com/patrimonio-real-academia/) de artistas como Juan de Juanes, El Greco, Ribera, van Dyck, Goya, Velázquez, Piranesi, Muñoz Degraín, Pinazo, Sorolla, Segrelles, Genovés, Michavila, Yturralde, o Carmen Calvo.
+La Real Academia de Bellas Artes de San Carlos de Valencia, fundada por el Rey Carlos III el 14 de febrero de 1768, tiene la segunda [colección](https://www.realacademiasancarlos.com/patrimonio/) más grande de arte clásico (más de 15,000 piezas) de España después del magnífico El Prado en Madrid. [Obras asombrosas](https://www.realacademiasancarlos.com/patrimonio-real-academia/) de artistas como Juan de Juanes, El Greco, Ribera, van Dyck, Goya, Velázquez, Piranesi, Muñoz Degraín, Pinazo, Sorolla, Segrelles, Genovés, Michavila, Yturralde, o Carmen Calvo.
 
-El presidente actual (la entrada de Wikipedia está desactualizada) es el [Excmo. Sr. D. Manuel Muñoz Ibáñez, excelente cirujano, escritor y experto en arte](http://www.realacademiasancarlos.com/excmo-sr-d-manuel-munoz-ibanez/). Don Manuel también es amigo de mi familia desde hace mucho tiempo, y estoy orgulloso de ser un asesor tanto para él como para la Academia.
+El presidente actual (la entrada de Wikipedia está desactualizada) es el [Excmo. Sr. D. Manuel Muñoz Ibáñez, excelente cirujano, escritor y experto en arte](https://www.realacademiasancarlos.com/excmo-sr-d-manuel-munoz-ibanez/). Don Manuel también es amigo de mi familia desde hace mucho tiempo, y estoy orgulloso de ser un asesor tanto para él como para la Academia.
 
-Así que, cuando organizó la [Exposición de José Gines en el Museo San Pío V](http://www.museobellasartesvalencia.gva.es/va/actualitat/-/asset_publisher/OCD94WMhKnYX/content/jose-gines-1768-1823-la-matanza-de-los-inocentes), fue un placer ser invitado a un recorrido privado con su siempre experto comentario.
+Así que, cuando organizó la [Exposición de José Gines en el Museo San Pío V](https://www.museobellasartesvalencia.gva.es/va/actualitat/-/asset_publisher/OCD94WMhKnYX/content/jose-gines-1768-1823-la-matanza-de-los-inocentes), fue un placer ser invitado a un recorrido privado con su siempre experto comentario.
 
 ¡Gracias, Manuel!
 
