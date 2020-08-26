@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2020-07-08T01:50:28+00:00
+date: 2020-08-25T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,9 +12,10 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2020**
 
-* 01-07/09/20, Singapur (Singapur) y Bangkok (Tailandia), Viaje de negocios
+* **01-05/09/20, Mallorca (España)**, Viaje de personal (invitado a navegar en un [Silent Yacht 55](https://www.silent-yachts.com/silent55/#) con su CEO)
 * **07-09/09/20**, ~~Helsinki (Finlandia)~~, Online (Ponente en HIMSS Europa)
-* **07-10/12/20, Canes (Francia)**, Viaje personal (invitado a asistir al evento de Turismo de Lujo [ILTM](https://www.iltm.com/cannes/))
+* * 01-07/10/20, Singapur (Singapur) y Bangkok (Tailandia), Viaje de negocios
+* **07-10/12/20, Canes (Francia)**, Viaje de negocios (invitado a asistir al evento de Turismo de Lujo [ILTM](https://www.iltm.com/cannes/))
 * **11-16/12/20, Miami (EE. UU.), Costa Maya ((México), The Beach Club, Miami (EE. UU.)**, Viaje personal (invitado a un Crucero en el [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady))
 * **17-24/12/20, Fort Erie (Canadá) y Búfalo (EE. UU.)**, Viaje personal
 

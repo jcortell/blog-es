@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-Es un honor haber sido invitado por el Profesor [Bill Aulet](https://entrepreneurship.mit.edu/profile/bill-aulet/) a dar una conferencia a los alumnos de [EDP (Entrepreneurship Development Program)](https://innovation.mit.edu/opportunity/entrepreneurship-development-program/) en el MIT (Massachusetts Institute of Technology) [Sloan Executive Education](https://executive.mit.edu/).
+[ACTUALIZADO: Vídeo disponible] Es un honor haber sido invitado por el Profesor [Bill Aulet](https://entrepreneurship.mit.edu/profile/bill-aulet/) a dar una conferencia a los alumnos de [EDP (Entrepreneurship Development Program)](https://innovation.mit.edu/opportunity/entrepreneurship-development-program/) en el MIT (Massachusetts Institute of Technology) [Sloan Executive Education](https://executive.mit.edu/).
 
 <!--more-->
 
@@ -22,7 +22,15 @@ La charla, oficialmente llamada *Celebration Lunch & Guest Speaker Jorge Cortell
 
 https://twitter.com/BillAulet/status/1216460290818236417
 
-Este post será actualizado con fotos y una grabación en vídeo de la misma. Mientras tanto aquí van algunos comentarios que recibí tras la charla:
+El vídeo está dividido en dos partes, disponibles en YouTube. Parte 1:
+
+https://www.youtube.com/watch?v=IWVvt3UR9hM
+
+ Y Parte 2:
+
+ https://www.youtube.com/watch?v=h0vrM2ErNxY
+
+Aquí van algunos comentarios que recibí tras la charla:
 
 > Acabo de oírte hablar en MIT.
 Algo mágico sucede cuando se dice la verdad.
