@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2020-09-15T01:50:28+00:00
+date: 2020-09-18T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,10 +12,8 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2020**
 
-* **07-10/12/20, Canes (Francia)**, Viaje de negocios (invitado a asistir al evento de Turismo de Lujo [ILTM](https://www.iltm.com/cannes/))
 * 01-07/11/20, Singapur (Singapur) y Bangkok (Tailandia), Viaje de negocios
-* **11-16/12/20, Miami (EE. UU.), Costa Maya ((México), The Beach Club, Miami (EE. UU.)**, Viaje personal (invitado a un Crucero en el [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady))
-* **17-24/12/20, Fort Erie (Canadá) y Búfalo (EE. UU.)**, Viaje personal
+* 17-24/12/20, Fort Erie (Canadá) y Búfalo (EE. UU.), Viaje personal
 
 
 **2021**
@@ -32,6 +30,8 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2020**
 
+* ~~11-16/12/20, Miami (EE. UU.), Costa Maya ((México), The Beach Club, Miami (EE. UU.)~~, Viaje personal (invitado a un Crucero en el [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady))
+* ~~07-10/12/20, Canes (Francia)~~, Viaje de negocios (invitado a asistir al evento de Turismo de Lujo [ILTM](https://www.iltm.com/cannes/))
 * **11/09/20**, ~~Helsinki (Finlandia)~~, Online ([Ponente en HIMSS Europa](https://www.himss.org/session-be-radical-changemaker))
 * **02-06/09/20, Mallorca (España)**, Viaje de personal (invitado a navegar en un [Silent Yacht 55](https://www.silent-yachts.com/silent55/#) con su CEO)
 * **16/06/20**, ~Elche, Alicante (España)~, Ponente (online) Jornada Digital TICs e IA aplicada al sector de la Salud
