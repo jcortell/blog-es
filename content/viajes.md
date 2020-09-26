@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2020-09-18T01:50:28+00:00
+date: 2020-09-25T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,12 +12,9 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2020**
 
-* 01-07/11/20, Singapur (Singapur) y Bangkok (Tailandia), Viaje de negocios
-* 17-24/12/20, Fort Erie (Canadá) y Búfalo (EE. UU.), Viaje personal
-
-
 **2021**
 
+* **08-10/04/21**, Viena (Austria), Viaje de negocios (Ponente en el evento de UBS B:connected "From lifespan to healthspan – from longer to healthier lives")
 * ~~10-20/06/21, Atenas, Mykonos, Santorini, Heraklion-Creta, Bodrum, Antalya, Rodas (Grecia), Éfeso-Kusadasi, Pérgamo-Dikili, Estambul (Turquía), Viaje personal (invitado a un crucero en el [Regent Seven Seas Mariner](https://www.rssc.com/ships/seven_seas_mariner))~~
 
 **ANTERIORES:**
