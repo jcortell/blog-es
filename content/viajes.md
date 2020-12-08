@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2020-10-28T01:50:28+00:00
+date: 2020-12-08T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,14 +12,14 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2020**
 
-* ~~**07-10/12/20, Canes (Francia)**~~, Viaje de negocios (invitado a asistir al evento de Turismo de Lujo [ILTM](https://www.iltm.com/cannes/))
 * ~~**11-16/12/20, Miami (EE. UU.), Costa Maya ((México), The Beach Club, Miami (EE. UU.)**~~, Viaje personal (invitado a un Crucero en el [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady))
 
 
 **2021**
 
 * ~~**08-10/04/21, Viena (Austria)**~~, Viaje de negocios (Ponente en el evento de UBS B:connected "From lifespan to healthspan – from longer to healthier lives")
-* **10-20/06/21, Atenas, Mykonos, Santorini, Heraklion-Creta, Bodrum, Antalya, Rodas (Grecia), Éfeso-Kusadasi, Pérgamo-Dikili, Estambul (Turquía)**, Viaje personal (invitado a un crucero en el [Regent Seven Seas Mariner](https://www.rssc.com/ships/seven_seas_mariner))
+* **10-20/06/21, Atenas, Mikonos, Santorini, Heraklion-Creta, Bodrum, Antalya, Rodas (Grecia), Éfeso-Kusadasi, Pérgamo-Dikili, Estambul (Turquía)**, Viaje personal (invitado a un crucero en el [Regent Seven Seas Mariner](https://www.rssc.com/cruises/MAR210610/summary))
+* **28/10-4/11/21, Estambul (Turquía), Lesbos, Éfeso, Rodas, Creta, Santorini, Mikonos, Atenas (Grecia)**, Viaje personal (invitado a un crucero en el [Regent's Seven Seas Splendor](https://www.rssc.com/cruises/SPL211028/summary))
 
 **ANTERIORES:**
 
@@ -31,6 +31,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2020**
 
+* ~~**07-10/12/20, Canes (Francia)**~~, Viaje de negocios (invitado a asistir al evento de Turismo de Lujo [ILTM](https://www.iltm.com/cannes/))
 * **11/09/20**, ~~Helsinki (Finlandia)~~, Online ([Ponente en HIMSS Europa](https://www.himss.org/session-be-radical-changemaker))
 * **02-06/09/20, Mallorca (España)**, Viaje de personal (invitado a navegar en un [Silent Yacht 55](https://www.silent-yachts.com/silent55/#) con su CEO)
 * **16/06/20**, ~Elche, Alicante (España)~, Ponente (online) Jornada Digital TICs e IA aplicada al sector de la Salud
