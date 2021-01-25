@@ -4,12 +4,12 @@ date: "2021-01-15T01:00:24+02:00"
 draft: false
 title: "Invitado a participar en el seminario web en directo de UBS Suiza sobre inversiones en 2021"
 tags: ["personal", "medios"]
-images: "https://www.ubs.com/global/en/wealth-management/chief-investment-office/market-insights/2020/live-stream-update/_jcr_content/mainpar/toplevelgrid_1296517102/col1/teaser/image.1180.origin.10776046.img/live-stream-update-banner.png"
+images: "https://res.cloudinary.com/jcortell/image/upload/v1611572258/Events/UBSNextBigThing2021.png"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: left
-thumbnailImage: https://www.ubs.com/global/en/wealth-management/chief-investment-office/market-insights/2020/live-stream-update/_jcr_content/mainpar/toplevelgrid_1296517102/col1/teaser/image.1180.origin.10776046.img/live-stream-update-banner.png
-coverImage: https://www.ubs.com/global/en/wealth-management/chief-investment-office/market-insights/2020/live-stream-update/_jcr_content/mainpar/toplevelgrid_1296517102/col1/teaser/image.1180.origin.10776046.img/live-stream-update-banner.png
+thumbnailImage: https://res.cloudinary.com/jcortell/image/upload/v1611572258/Events/UBSNextBigThing2021.png
+coverImage: https://res.cloudinary.com/jcortell/image/upload/v1611572258/Events/UBSNextBigThing2021.png
 metaAlignment: center
 coverMeta: out
 ---
