@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2021-01-15T01:50:28+00:00
+date: 2021-02-12T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,8 +12,6 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2021**
 
-* **21/01/21**, ~~Zurich (Suiza), Viaje de negocios~~ [Invitado especial en webinar de UBS](https://bloges.cortell.net/2021/01/invitado-a-participar-en-el-seminario-web-en-directo-de-ubs-suiza-sobre-inversiones-en-2021/) (cambiado a online webinar)
-* **22/01/21**, ~~Ciudad de México (México), Viaje personal~~ Entrevista de TVUAM (cambiado a entrevista online)
 * ~~**08-10/04/21, Viena (Austria)**~~, Viaje de negocios (Ponente en el evento de UBS B:connected "From lifespan to healthspan – from longer to healthier lives")
 * **10-20/06/21, Atenas, Mikonos, Santorini, Heraklion-Creta, Bodrum, Antalya, Rodas (Grecia), Éfeso-Kusadasi, Pérgamo-Dikili, Estambul (Turquía)**, Viaje personal (invitado a un crucero en el [Regent Seven Seas Mariner](https://www.rssc.com/cruises/MAR210610/summary))
 * **28/10-4/11/21, Estambul (Turquía), Lesbos, Éfeso, Rodas, Creta, Santorini, Mikonos, Atenas (Grecia)**, Viaje personal (invitado a un crucero en el [Regent's Seven Seas Splendor](https://www.rssc.com/cruises/SPL211028/summary))
@@ -25,6 +23,11 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 </div>
 https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
+
+**2021**
+
+* **22/01/21**, ~~Ciudad de México (México), Viaje personal~~ Entrevista de TVUAM (cambiado a entrevista online)
+* **21/01/21**, ~~Zurich (Suiza), Viaje de negocios~~ [Invitado especial en webinar de UBS](https://bloges.cortell.net/2021/01/invitado-a-participar-en-el-seminario-web-en-directo-de-ubs-suiza-sobre-inversiones-en-2021/) (cambiado a webinar online)
 
 **2020**
 
