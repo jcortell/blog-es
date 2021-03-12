@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2021-02-12T01:50:28+00:00
+date: 2021-03-12T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -26,7 +26,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2021**
 
-* **22/01/21**, ~~Ciudad de México (México), Viaje personal~~ Entrevista de TVUAM (cambiado a entrevista online)
+* **22/01/21**, ~~Ciudad de México (México), Viaje personal~~ Entrevista de TVUAM (cambiado a entrevista online: [vídeo aquí](https://www.youtube.com/watch?v=PyoGmHRRUPQ))
 * **21/01/21**, ~~Zurich (Suiza), Viaje de negocios~~ [Invitado especial en webinar de UBS](https://bloges.cortell.net/2021/01/invitado-a-participar-en-el-seminario-web-en-directo-de-ubs-suiza-sobre-inversiones-en-2021/) (cambiado a webinar online)
 
 **2020**

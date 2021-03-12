@@ -17,7 +17,7 @@ En <a title="https://noizzweb.blogspot.com/2008/11/entrevista-midnight-mystery-t
 
 Para mí ESTO, y ASÍ sí que es arte. Aunque no me guste vuestra música, enhorabuena de nuevo, chicos.
 
-No voy a escribir un ladrillo-post sobre la disertación "¿arte como expresión, arte del entretenimiento, o la industria del arte?". Pero sí **me fastidia toda esa ingente cantidad de parásitos y chusma que, pupulando alrededor del supuesto arte y sus espacios, se atreven a arengarnos, muchas veces con verdadera indignación en sus histriónicas voces, sobre lo que es el arte, y cómo debería ser "consumido", desde la intransigente ortodoxia del "método" de producción y distribución**.
+No voy a escribir un ladrillo-post sobre la disertación "¿arte como expresión, arte del entretenimiento, o la industria del arte?". Pero sí **me fastidia toda esa ingente cantidad de parásitos y chusma que, pululando alrededor del supuesto arte y sus espacios, se atreven a arengarnos, muchas veces con verdadera indignación en sus histriónicas voces, sobre lo que es el arte, y cómo debería ser "consumido", desde la intransigente ortodoxia del "método" de producción y distribución**.
 
 Por mi parte, me identifico completamente, y no sólo en cuanto al arte, con la visión de Jean Baudrillard en "_El pacto de lucidez o la inteligencia del Mal_" (Ed. Amorrortu 2008):
 
