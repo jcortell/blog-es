@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2021-06-10T01:50:28+00:00
+date: 2021-06-19T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,7 +12,9 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2021**
 
-* 28/07-08/08/21, **París (Francia), Venecia (Italia), Mallorca (España)**, Viaje personal
+* **05-10/07/21, Mallorca (España)**, Viaje personal
+* 19-28/07/21, **París (Francia), Venecia (Italia)**, Viaje personal
+* 01-31/08/21, **Malmo (Suecia)**, Viaje personal
 * **28/10-4/11/21, Estambul (Turquía), Lesbos, Éfeso, Rodas, Creta, Santorini, Mikonos, Atenas (Grecia)**, Viaje personal (invitado a un crucero en el [Regent's Seven Seas Splendor](https://www.rssc.com/cruises/SPL211028/summary))
 
 **ANTERIORES:**
