@@ -13,7 +13,7 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 **2021**
 
 * **29/07-07/08/21, Atenas, Pireo, Agios Nikolaos, Creta (Grecia), Limassol (Chipre), Rodas, Mikonos, Nafplion, Pireo, Atenas (Grecia)**, Viaje personal (invitado a un crucero en el [Seabourn Ovation](https://www.seabourn.com/en_US/find-a-cruise/E1M07Y/8153.html))
-* 04-30/08/21, Malmo (Suecia), Viaje personal
+* 04-30/09/21, Malmö (Suecia), Viaje personal
 * **28/10-4/11/21, Estambul (Turquía), Lesbos, Éfeso, Rodas, Creta, Santorini, Mikonos, Atenas (Grecia)**, Viaje personal (invitado a un crucero en el [Regent Seven Seas Splendor](https://www.rssc.com/cruises/SPL211028/summary))
 
 **ANTERIORES:**
