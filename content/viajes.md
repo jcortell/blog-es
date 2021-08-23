@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2021-08-12T01:50:28+00:00
+date: 2021-08-23T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,8 +12,7 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2021**
 
-* **18-21/08/21, París (Francia)**, Viaje personal
-* **27/08-30/09/21, Copenhague (Dinamarca), Malmö (Suecia)**, Viaje personal
+* **27/08-10/10/21, Copenhague (Dinamarca), Malmö (Suecia)**, Viaje personal
 * **28/10-4/11/21, Estambul (Turquía), Lesbos, Éfeso, Rodas, Creta, Santorini, Mikonos, Atenas (Grecia)**, Viaje personal (invitado a un crucero en el [Regent Seven Seas Splendor](https://www.rssc.com/cruises/SPL211028/summary))
 
 **ANTERIORES:**
@@ -26,6 +25,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2021**
 
+* **18-21/08/21, París (Francia)**, Viaje personal
 * **29/07-07/08/21, Atenas, Pireo, Agios Nikolaos, Creta (Grecia), Limassol (Chipre), Rodas, Mikonos, Nafplion, Pireo, Atenas (Grecia)**, Viaje personal (invitado a un crucero en el [Seabourn Ovation](https://www.seabourn.com/en_US/find-a-cruise/E1M07Y/8153.html))
 * **05-10/07/21, Mallorca (España)**, Viaje personal
 * ~~**10-20/06/21, Atenas, Mikonos, Santorini, Heraklion-Creta, Bodrum, Antalya, Rodas (Grecia), Éfeso-Kusadasi, Pérgamo-Dikili, Estambul (Turquía)**, Viaje personal (invitado a un crucero en el [Regent Seven Seas Mariner](https://www.rssc.com/cruises/MAR210610/summary)) cancelado por covid19~~
