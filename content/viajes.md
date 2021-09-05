@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2021-08-23T01:50:28+00:00
+date: 2021-09-03T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,7 +12,8 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2021**
 
-* **27/08-10/10/21, Copenhague (Dinamarca), Malmö (Suecia)**, Viaje personal
+* **27/08-10/10/21, Copenhague (Dinamarca), Malmö, Goteburgo, Estocolmo (Suecia)**, Viaje personal
+* ~~**22/09/21**, Nueva York, NY (EE. UU.), Viaje de negocios (Invitado a participar en la Cumbre de la Infraestructura Decentralizada, y Unfinished Live. Cancelado debido a las restricciones de viaje por covid19~~
 * **28/10-4/11/21, Estambul (Turquía), Lesbos, Éfeso, Rodas, Creta, Santorini, Mikonos, Atenas (Grecia)**, Viaje personal (invitado a un crucero en el [Regent Seven Seas Splendor](https://www.rssc.com/cruises/SPL211028/summary))
 
 **ANTERIORES:**
