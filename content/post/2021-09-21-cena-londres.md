@@ -1,6 +1,6 @@
 ---
 author: ""
-date: "2021-09-10T03:00:24+02:00"
+date: "2021-09-21T03:00:24+02:00"
 draft: false
 title: "Cena con el Presidente de Intel y el Presidente del NHS en Londres"
 tags: ["trabajo", "viaje"]

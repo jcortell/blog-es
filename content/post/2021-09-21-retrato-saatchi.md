@@ -1,6 +1,6 @@
 ---
 author: ""
-date: "2021-09-10T02:00:24+02:00"
+date: "2021-09-21T02:00:24+02:00"
 draft: false
 title: "Mi retrato y autoretrato expuesto en la Galería Saatchi de Londres"
 tags: ["personal", "viajes", "arte"]

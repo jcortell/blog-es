@@ -1,6 +1,6 @@
 ---
 author: ""
-date: "2021-09-10T01:00:24+02:00"
+date: "2021-09-21T01:00:24+02:00"
 draft: false
 title: "Un día de arte en Londres"
 tags: ["personal", "viajes", "arte"]
