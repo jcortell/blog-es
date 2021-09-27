@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2021-09-18T01:50:28+00:00
+date: 2021-09-24T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,9 +12,8 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2021**
 
-* **27/08-10/10/21, Copenhague (Dinamarca), Malmö, Goteburgo, Estocolmo (Suecia)**, Viaje personal
-* **21-22/09/21, Londres (Reino Unido)**, Viaje de negocios, para cenar con el Presidente de Intel
-* ~~**22/09/21**, Nueva York, NY (EE. UU.), Viaje de negocios (Invitado a participar en la Cumbre de la Infraestructura Decentralizada, y Unfinished Live. Cancelado debido a las restricciones de viaje por covid19~~
+* **27/08-06/10/21, Copenhague (Dinamarca), Malmö, Goteburgo, Estocolmo (Suecia)**, Viaje personal
+* **07/10/21, Madrid (España)**, Viaje de negocios, invitado a asistir a [South Summit](https://www.southsummit.co/)
 * **25/10-4/11/21, Estambul (Turquía), Lesbos, Éfeso, Rodas, Creta, Santorini, Mikonos, Atenas (Grecia)**, Viaje personal (invitado a un crucero en el [Regent Seven Seas Splendor](https://www.rssc.com/cruises/SPL211028/summary))
 
 **ANTERIORES:**
@@ -27,6 +26,8 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2021**
 
+* ~~**22/09/21**, Nueva York, NY (EE. UU.), Viaje de negocios (Invitado a participar en la Cumbre de la Infraestructura Decentralizada, y Unfinished Live. Cancelado debido a las restricciones de viaje por covid19~~
+* **21-22/09/21, Londres (Reino Unido)**, Viaje de negocios, para cenar con el Presidente de Intel y el Presidente del NHS
 * **18-21/08/21, París (Francia)**, Viaje personal
 * **29/07-07/08/21, Atenas, Pireo, Agios Nikolaos, Creta (Grecia), Limassol (Chipre), Rodas, Mikonos, Nafplion, Pireo, Atenas (Grecia)**, Viaje personal (invitado a un crucero en el [Seabourn Ovation](https://www.seabourn.com/en_US/find-a-cruise/E1M07Y/8153.html))
 * **05-10/07/21, Mallorca (España)**, Viaje personal
