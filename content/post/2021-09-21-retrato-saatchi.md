@@ -20,11 +20,11 @@ Una cosa es que tus obras sean [seleccionadas para la venta en la Galería Saatc
 
 Solía ​​ser que "mi *arte* es solo para mí, no sé si le interesa a alguien más, pero no me importa". Incluso subí un montón de "proyectos de arte futuros" a Tumblr. Luego, de alguna manera, desde que fui nombrado Asesor Tecnológico de la Real Academia de Arte de San Carlos (España) en 2015, me involucré más en el "arte institucional" que antes. Ya sea curando desde España hasta Lituania, participando en *performances* o exponiendo, he hecho algunas cosas con y en algunos museos:
 
-- Junio ​​de 2016: Tate Modern, Londres (Reino Unido)
-- Octubre de 2016: Las Naves, Valencia (España)
-- Noviembre de 2016: Museo Ludwig, Colonia (Alemania)
-- Diciembre de 2016: Museo Nacional de Bellas Artes, Santiago (Chile)
-- Mayo de 2019: Museo Moco, Ámsterdam (Países Bajos)
+- Junio ​​de 2016: Instalación expuesta en la Tate Modern, Londres (Reino Unido)
+- Octubre de 2016: Participación en The Corrupt Show, Las Naves, Valencia (España)
+- Noviembre de 2016: Audiovisual proyectado en el Museo Ludwig, Colonia (Alemania)
+- Diciembre de 2016: Escultura expuesta en el Museo de Arte Contemporáneo (MAC), Santiago (Chile)
+- Mayo de 2019: Performance en el Museo Moco, Ámsterdam (Países Bajos)
 
 Pero esta es la primera vez que mi trabajo aparece en una galería, en lugar de en un museo. Y no una galería cualquiera.
 
