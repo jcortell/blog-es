@@ -1,6 +1,6 @@
 ---
 author: ""
-date: "2021-09-30T04:00:24+02:00"
+date: "2021-10-01T04:00:24+02:00"
 draft: false
 title: "Una de mis obras expuesta en el Malmö Konsthall"
 tags: ["personal", "viajes", "arte"]
