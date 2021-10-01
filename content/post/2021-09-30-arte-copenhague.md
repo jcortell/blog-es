@@ -22,16 +22,16 @@ Era un día frío, ventoso y lluvioso, por lo que era un día típico. Afortunad
 
 Disfruté mucho de todas las exposiciones:
 
-* [Art of Sport](https://copenhagencontemporary.org/en/art-of-sport/) (incluiría [Elmgreen & Dragset 'Short Story'](https://copenhagencontemporary.org/en/elmgreen- dragset /) en esa)
+* [Art of Sport](https://copenhagencontemporary.org/en/art-of-sport/) (incluiría [Elmgreen & Dragset 'Short Story'](https://copenhagencontemporary.org/en/elmgreen-dragset/) en esa)
 * [København, kærlighed & candyfloss](https://copenhagencontemporary.org/en/copenhagen-love-candyfloss/)
 * [Yoko Ono 'Wish Tree Garden'](https://copenhagencontemporary.org/en/yoko-ono-2/)
 
 Disfruté aún más que TRES de mis obras hayan sido expuestas en CC, pero más sobre eso en otro post.
 
-Luego tomé el autobús nuevamente para ir a Kunsthal Charlottenborg, principalmente para ver el increíble ['The World is in You' de The Medical Museion](https://kunsthalcharlottenborg.dk/en/exhibitions/the-world-is-in -you /), [aunque también fue interesante la colección de carteles con motivo del 50 aniversario de Freetown Christiania](https://kunsthalcharlottenborg.dk/en/exhibitions/christiania-50-years/).
+Luego tomé el autobús nuevamente para ir a Kunsthal Charlottenborg, principalmente para ver el increíble ['The World is in You' de The Medical Museion](https://kunsthalcharlottenborg.dk/en/exhibitions/the-world-is-in-you/), [aunque también fue interesante la colección de carteles con motivo del 50 aniversario de Freetown Christiania](https://kunsthalcharlottenborg.dk/en/exhibitions/christiania-50-years/).
 
 'The World is in You' combina ciencia, arte contemporáneo y objetos históricos, explorando cómo nuestros cuerpos están conectados con el mundo que nos rodea y dentro de nosotros. Aunque estoy "en la industria" (tecnología / ciencia / arte) hubo MUCHOS objetos, instalaciones y sobre todo descubrimientos, que me sorprendieron. Este tipo de exhibición de "conecta los puntos" es mi favorita, y cuando piensas en las implicaciones, es verdaderamente transformadora.
 
 [Fotos aquí](https://photos.app.goo.gl/M1v93iaomuprjQTj9).
 
-Si hubiera tenido más tiempo, también habría visitado tres exposiciones más: [Tomás Saraceno 'Event Horizon' en Cisterne](https://frederiksbergmuseerne.dk/en/udstillinger/tomas-saraceno-event-horizon/), ['Grønningen 2021' en Denfrie](https://denfrie.dk/en/exhibition/gronningen-4/) y [David Lynch 'Infinite Deep' en Nikolaj Kunsthal](http://www.nikolajkunsthal.dk/en/ udstillinger / infinite-deep). Supongo que no se puede tener todo.
+Si hubiera tenido más tiempo, también habría visitado tres exposiciones más: [Tomás Saraceno 'Event Horizon' en Cisterne](https://frederiksbergmuseerne.dk/en/udstillinger/tomas-saraceno-event-horizon/), ['Grønningen 2021' en Denfrie](https://denfrie.dk/en/exhibition/gronningen-4/) y [David Lynch 'Infinite Deep' en Nikolaj Kunsthal](http://www.nikolajkunsthal.dk/en/udstillinger/infinite-deep). Supongo que no se puede tener todo.
