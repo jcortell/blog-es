@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-¿Alguna vez has leído un concepto especializado y lo has aplicado a un campo diferente para encontrar resultados interesantes? Conocido como 'dualidad' en Física y Matemáticas, me encanta hacer eso. Esta vez permítanme postular las *Categorie* de Kant a la política.
+¿Alguna vez has leído un concepto especializado y lo has aplicado a un campo diferente para encontrar resultados interesantes? Conocido como 'dualidad' en Física y Matemáticas, me encanta hacer eso. Esta vez permíteme postular las *Categorie* de Kant a la política.
 
 <!--more-->
 
