@@ -12,7 +12,7 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2021**
 
-* **25/10-4/11/21, Estambul (Turquía), Lesbos, Éfeso, Rodas, Creta, Santorini, Mikonos, Atenas (Grecia)**, Viaje personal (invitado a un crucero en el [Regent Seven Seas Splendor](https://www.rssc.com/cruises/SPL211028/summary))
+* **25/10-5/11/21, Estambul (Turquía), Lesbos, Éfeso, Rodas, Creta, Santorini, Mikonos, Atenas (Grecia)**, Viaje personal (invitado a un crucero en el [Regent Seven Seas Splendor](https://www.rssc.com/cruises/SPL211028/summary))
 
 **ANTERIORES:**
 
@@ -42,9 +42,9 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 * ~~**07-10/12/20, Canes (Francia)**, Viaje de negocios (invitado a asistir al evento de Turismo de Lujo [ILTM](https://www.iltm.com/cannes/))~~
 * **11/09/20**, ~~Helsinki (Finlandia)~~, Viaje de negocios ([Ponente en HIMSS Europa](https://www.himss.org/session-be-radical-changemaker)) cambiado a online
 * **02-06/09/20, Mallorca (España)**, Viaje de personal (invitado a navegar en un [Silent Yacht 55](https://www.silent-yachts.com/silent55/#) con su CEO)
-* **16/06/20**, ~Elche, Alicante (España)~, Ponente (online) Jornada Digital TICs e IA aplicada al sector de la Salud
+* **16/06/20**, ~~Elche, Alicante (España)~~, Ponente (online) [Jornada Digital TICs e IA aplicada al sector de la Salud](https://blog.kanteron.com/2020/06/kanteron-systems-to-deliver-webinar-on-ai-in-healthcare-organized-by-umh/)
 * ~~16-24/06/20, Orlando (EE. UU.)**, Viaje personal~~
-* **22/05/20**, ~Valencia (España)~, Ponente (online) XII Jornadas de Ingeniería Biomédica
+* **22/05/20**, ~~Valencia (España)~~, Ponente (online) [XII Jornadas de Ingeniería Biomédica](https://blog.kanteron.com/2020/05/kanteron-systems-participates-in-the-xii-biomedical-engineering-workshop/)
 * ~~24-28/04/20, Lima (Perú), Viaje de negocios~~
 * ~~03-24/04/20, Papeete (Tahití), Moorea, Raiatea, Bora Bora, Rangiroa, Fakarava (Polinesia Francesa), Hanga Roa (Isla de Pascua - Chile), Lima (Perú)**, Viaje personal (invitado a [navegar en el Regent Seven Seas Navigator](https://www.rssc.com/cruises/NAV200407/summary))~~
 * ~~02-03/04/20, París (Francia), Viaje personal~~
