@@ -14,11 +14,13 @@ metaAlignment: center
 coverMeta: out
 ---
 
-GoogleChromeLabs ha sacado un interesante componente para comparar dos elementos del DOM: twoup. Vamos a probarlo
+GoogleChromeLabs ha sacado un interesante componente para comparar dos elementos del DOM: [two-up](https://github.com/GoogleChromeLabs/two-up). Vamos a probarlo.
 
 <!--more-->
 
-A ver si Hugo renderiza el HTML inline correctamente, o tengo que editarlo (o ponerlo en una página HTML estática):
+A ver si Hugo renderiza el HTML inline correctamente, o tengo que añadir una plantilla de *shortcode* para que inserte HTML en bruto dentro del *markdown* de la entrada:
+
+{{< rawhtml >}}
 
 <script src="https://unpkg.com/two-up-element@1"></script>
 
@@ -26,3 +28,5 @@ A ver si Hugo renderiza el HTML inline correctamente, o tengo que editarlo (o po
   <div><img src="https://lh3.googleusercontent.com/t-t_jepUsuxueR9K1FIYOybuiefOriG6fCrxBJSHWs56dPvztmrcknPmkemzQSlr38T9HJC6LwOfaVD0yLmpaB0ydCLHqwv8jfaJ9V50OWNORczRJjgD5uoAt1VQZ1BWLX3ueEq3NeU=w1920-h1080" alt="before"></div>
   <div><img src="https://lh3.googleusercontent.com/DBgFrRegPOAmVbaDj_ecDZdn5nJ5B_YeTtj3YtO2gMMgPC5hIqk2m-fVfjWOPj7hG0-C7A6FxQcqILUSR0hM98uKuxwWJHA6mVGZEsgwqzeqLowftjeUnfNp10xS6bzQ7IDUoDl6Mq4=w1920-h1080" alt="after"></div>
 </two-up>
+
+{{< /rawhtml >}}
