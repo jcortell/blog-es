@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2021-10-11T01:50:28+00:00
+date: 2021-11-09T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,7 +12,7 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2021**
 
-* **25/10-5/11/21, Estambul (Turquía), Lesbos, Éfeso, Rodas, Creta, Santorini, Mikonos, Atenas (Grecia)**, Viaje personal (invitado a un crucero en el [Regent Seven Seas Splendor](https://www.rssc.com/cruises/SPL211028/summary))
+* 19 -28/11/21, Barcelona, Palamós, Palma de Mallorca, Valencia, Cartagena, Málaga, Cádiz (España), Lisboa (Portugal), Viaje personal (invitado a un crucero en el [Silver Sea Silver Spirit](https://www.silversea.com/destinations/mediterranean-cruise/barcelona-to-lisbon-sl211119009.html))
 
 **ANTERIORES:**
 
@@ -24,6 +24,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2021**
 
+* **25/10-5/11/21, Estambul (Turquía), Lesbos, Éfeso, Rodas, Creta, Santorini, Mikonos, Atenas (Grecia)**, Viaje personal (invitado a un crucero en el [Regent Seven Seas Splendor](https://www.rssc.com/cruises/SPL211028/summary))
 * ~~**07/10/21, Madrid (España)**, Viaje de negocios, invitado a asistir a [South Summit](https://www.southsummit.co/)~~ suspendido por huelga de Renfe
 * **27/08-02/10/21, Copenhague (Dinamarca), Malmö, Goteburgo, Estocolmo (Suecia)**, Viaje personal
 * ~~**22/09/21**, Nueva York, NY (EE. UU.), Viaje de negocios (Invitado a participar en la Cumbre de la Infraestructura Decentralizada, y Unfinished Live. Cancelado debido a las restricciones de viaje por covid19~~
