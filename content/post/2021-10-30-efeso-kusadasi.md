@@ -28,7 +28,9 @@ La última parada en el recorrido de casi 7 horas fue una demostración de fabri
 
 Antes de regresar al barco, tuve que hacer un doble recado (y gastar las pocas liras turcas que tenía en el bolsillo ya que no valía la pena cambiarlas): comprar frascos de perfume tradicionales para mi suegra y *lokum* recién hecho (también conocido como delicia turca).
 
-Una vez en el barco, organizamos una fiesta para los clientes de mi esposa (recordemos que estábamos allí para trabajar) y tomamos una cena deliciosa en el restaurante de especialidades francesas Chartreuse a bordo.
+Una vez en el barco recibí mi colada, también incluida en el "todo-incluido", perfectamente limpia, planchada, plegada y empaquetada (empleando mayoritariamente papel reciclado)... ¡incluso mis calcetines y ropa interior!
+
+Por último, organizamos una fiesta para los clientes de mi esposa (recordemos que estábamos allí para trabajar) y tomamos una cena deliciosa en el restaurante de especialidades francesas Chartreuse a bordo.
 
 ¡Qué día tan magnífico!
 
