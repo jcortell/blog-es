@@ -22,6 +22,6 @@ Santorini es un grupo de islas del Egeo con un terreno accidentado. Nuestra excu
 
 Luego nos dirigimos al monasterio de Profitis Ilias para disfrutar de las vistas de las islas desde la cima de la montaña, nos detuvimos para un almuerzo rápido en el pueblo de Pyrgos Kallistis, y de allí a la capital Firas, con sus calles sinuosas, muchas tiendas, restaurantes con vista al mar, y dos formas principales de subir y bajar por el montaña: teleférico o burro.
 
-De vuelta en el barco cenamos de nuevo en Chartreuse. ¡Super delicioso!
+De vuelta en el barco cenamos de nuevo en Compass Rose, con sus inacabables combinaciones de platos, salsas, presentaciones...
 
 Algunas [fotos aquí](https://photos.app.goo.gl/c955VdXVmcLHhYJv9).
