@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-El quinto día de nuestro crucero, anclamos en Thera (Thira - Θήρα en griego) o Santorini, como se la solía llamar, Santorini, y visitamos Oia, Pyrgos y Firas.
+El quinto día de nuestro crucero, anclamos en Thera (Thira - Θήρα en griego) o Santorini, como se la solía llamar, y visitamos Oia, Pyrgos y Firas.
 
 <!--more-->
 
