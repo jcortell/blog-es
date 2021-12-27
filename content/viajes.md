@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2021-12-12T01:50:28+00:00
+date: 2021-12-27T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,9 +12,11 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2022**
 
+* **13/01/22, Madrid (España)**, Viaje de negocios
 * 17-18/01/22, Amsterdam (Holanda), Viaje de negocios
 * 26/02-02/03/21, Dubai (Emiratos Árabes Unidos)**, Viaje personal (invitado a la estancia en el hotel Bvlgari de Dubai)
-* 07-09/03/22, St. Anton (Austria), Viaje de negocios
+* 10-13/03/22, St. Anton (Austria), Viaje de negocios
+
 
 **ANTERIORES:**
 
