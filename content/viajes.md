@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2022-01-01T01:50:28+00:00
+date: 2022-01-06T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,10 +12,10 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2022**
 
-* **13/01/22, Madrid (España)**, Viaje de negocios
 * 17-18/01/22, Amsterdam (Holanda), Viaje de negocios
 * 26/02-02/03/21, Dubai (Emiratos Árabes Unidos)**, Viaje personal (invitado a la estancia en el hotel Bvlgari de Dubai)
-* 10-13/03/22, St. Anton (Austria), Viaje de negocios
+* **09-13/03/22, Zell am See (Austria)**, Viaje de negocios, invitado a esquiar en Schmittenhöhe (Pinzgau) y tiro con arco en Bogendorf, hospedándome en [Haidvogl Mavida Zell am See](https://www.mavida.at/en/wellnesshotel-zell-am-see/)
+* **27/03-03/04/22, Venecia, Chioggia, Polesella-Ferrara, Porto Viro, Chioggia, Torcello-Mazzorbo-Burano, Venecia (Italia)**, Viaje personal (invitado a un crucero por el río Po en el [Uniworld S.S. La Venezia](https://www.uniworld.com/us/river-cruise/italy/venice-and-the-gems-of-northern-italy/2022-venice-to-venice))
 * * **14-23/04/22, Venecia (Italia), Kotor (Montenegro), Mikonos, Santorini (Grecia), Bari, Venecia (Italia)**, Viaje personal (invitado a un crucero en el [MSC Sinfonia](https://www.msccruceros.es/webapp/wcs/stores/servlet/CruiseDetailsCmd?storeId=715827885&catalogId=10001&langId=-5&partNumber=SX20220416VCEVCE&pageFrom=CruiseResults&listinoCode=B-SXC00469SP2011DE&packageType=_&bestPrice=519&composition=2,0,0,0))
 
 
