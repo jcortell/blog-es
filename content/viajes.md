@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2022-01-20T01:50:28+00:00
+date: 2022-01-26T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -18,8 +18,10 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 * **09-13/03/22, Zell am See (Austria)**, Viaje de negocios, invitado a esquiar en Schmittenhöhe (Pinzgau) y tiro con arco en Bogendorf, hospedándome en [Haidvogl Mavida Zell am See](https://www.mavida.at/en/wellnesshotel-zell-am-see/)
 * **27/03-03/04/22, Venecia, Chioggia, Polesella-Ferrara, Porto Viro, Chioggia, Torcello-Mazzorbo-Burano, Venecia (Italia)**, Viaje personal (invitado a un crucero por el río Po en el [Uniworld S.S. La Venezia](https://www.uniworld.com/us/river-cruise/italy/venice-and-the-gems-of-northern-italy/2022-venice-to-venice))
 * * **14-23/04/22, Venecia (Italia), Kotor (Montenegro), Mikonos, Santorini (Grecia), Bari, Venecia (Italia)**, Viaje personal (invitado a un crucero en el [MSC Sinfonia](https://www.msccruceros.es/webapp/wcs/stores/servlet/CruiseDetailsCmd?storeId=715827885&catalogId=10001&langId=-5&partNumber=SX20220416VCEVCE&pageFrom=CruiseResults&listinoCode=B-SXC00469SP2011DE&packageType=_&bestPrice=519&composition=2,0,0,0))
-* **12-14/10/22, Yokohama (Japón)**, Viaje de negocios para asistir a [BioJapan](https://jcd-expo.jp/en/)
-* **14-17/11/22, Düsseldorf (Alemania)**, Viaje de negocios para asistir a [Medica](https://www.medica-tradefair.com/)
+* **11-12/05/22, Munich (Alemania)**, Viaje de negocios para asistir a [BioVaria](https://www.biovaria.org/)
+* **28-29/09/22, Malmö (Suecia)**, Viaje de negocios para asistir a [Nordic LifeScience Days](https://www.nlsdays.com/)
+* 12-14/10/22, Yokohama (Japón), Viaje de negocios para asistir a [BioJapan](https://jcd-expo.jp/en/)
+* 14-17/11/22, Düsseldorf (Alemania), Viaje de negocios para asistir a [Medica](https://www.medica-tradefair.com/)
 
 
 **ANTERIORES:**
