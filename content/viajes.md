@@ -14,10 +14,11 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 * 07-08/02/22, Amsterdam (Holanda), Viaje de negocios
 * **16-17/02/22, Málaga (España)**, Viaje de negocios para asistir a [Transfiere](https://transfiere.fycma.com)
-* 26/02-02/03/21, Dubai (Emiratos Árabes Unidos)**, Viaje personal (invitado a la estancia en el hotel Bvlgari de Dubai)
+* 26/02-02/03/21, Dubai (Emiratos Árabes Unidos)**, Viaje personal (invitado a la estancia en el [hotel Bvlgari de Dubai](https://www.bulgarihotels.com/en_US/dubai))
 * **09-13/03/22, Zell am See (Austria)**, Viaje de negocios, invitado a esquiar en Schmittenhöhe (Pinzgau) y tiro con arco en Bogendorf, hospedándome en [Haidvogl Mavida Zell am See](https://www.mavida.at/en/wellnesshotel-zell-am-see/)
 * **27/03-03/04/22, Venecia, Chioggia, Polesella-Ferrara, Porto Viro, Chioggia, Torcello-Mazzorbo-Burano, Venecia (Italia)**, Viaje personal (invitado a un crucero por el río Po en el [Uniworld S.S. La Venezia](https://www.uniworld.com/us/river-cruise/italy/venice-and-the-gems-of-northern-italy/2022-venice-to-venice))
-* * **14-23/04/22, Venecia (Italia), Kotor (Montenegro), Mikonos, Santorini (Grecia), Bari, Venecia (Italia)**, Viaje personal (invitado a un crucero en el [MSC Sinfonia](https://www.msccruceros.es/webapp/wcs/stores/servlet/CruiseDetailsCmd?storeId=715827885&catalogId=10001&langId=-5&partNumber=SX20220416VCEVCE&pageFrom=CruiseResults&listinoCode=B-SXC00469SP2011DE&packageType=_&bestPrice=519&composition=2,0,0,0))
+* **04-07/04/22, Venecia (Italia)**, Viaje personal
+* **14-23/04/22, Venecia (Italia), Kotor (Montenegro), Mikonos, Santorini (Grecia), Bari, Venecia (Italia)**, Viaje personal (invitado a un crucero en el [MSC Sinfonia](https://www.msccruceros.es/webapp/wcs/stores/servlet/CruiseDetailsCmd?storeId=715827885&catalogId=10001&langId=-5&partNumber=SX20220416VCEVCE&pageFrom=CruiseResults&listinoCode=B-SXC00469SP2011DE&packageType=_&bestPrice=519&composition=2,0,0,0))
 * **11-12/05/22, Munich (Alemania)**, Viaje de negocios para asistir a [BioVaria](https://www.biovaria.org/)
 * **28-29/09/22, Malmö (Suecia)**, Viaje de negocios para asistir a [Nordic LifeScience Days](https://www.nlsdays.com/)
 * 12-14/10/22, Yokohama (Japón), Viaje de negocios para asistir a [BioJapan](https://jcd-expo.jp/en/)
