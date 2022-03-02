@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2022-02-228T01:50:28+00:00
+date: 2022-03-038T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,8 +12,6 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2022**
 
-* **26/02-01/03/21, Dubai (Emiratos Árabes Unidos)**, Viaje personal (invitado a la estancia en el [hotel Bvlgari de Dubai](https://www.bulgarihotels.com/en_US/dubai))
-* **02-03/03/22, Amsterdam (Holanda)**, Viaje de negocios
 * **10-13/03/22, Zell am See (Austria)**, Viaje de negocios, invitado a esquiar en Schmittenhöhe (Pinzgau) y tiro con arco en Bogendorf, hospedándome en [Haidvogl Mavida Zell am See](https://www.mavida.at/en/wellnesshotel-zell-am-see/)
 * **27/03-03/04/22, Venecia, Chioggia, Polesella-Ferrara, Porto Viro, Chioggia, Torcello-Mazzorbo-Burano, Venecia (Italia)**, Viaje personal (invitado a un crucero por el río Po en el [Uniworld S.S. La Venezia](https://www.uniworld.com/us/river-cruise/italy/venice-and-the-gems-of-northern-italy/2022-venice-to-venice))
 * **04-07/04/22, Venecia (Italia)**, Viaje personal
@@ -40,9 +38,14 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 
+**2022**
+
+* **02-03/03/22, Amsterdam (Holanda)**, Viaje de negocios
+* **26/02-01/03/21, Dubai (Emiratos Árabes Unidos)**, Viaje personal (invitado a la estancia en el [hotel Bvlgari de Dubai](https://www.bulgarihotels.com/en_US/dubai))
+* **15-17/02/22, Málaga (España)**, Viaje de negocios para asistir a [Transfiere](https://transfiere.fycma.com)
+
 **2021**
 
-* **15-17/02/22, Málaga (España)**, Viaje de negocios para asistir a [Transfiere](https://transfiere.fycma.com)
 * **10-12/12/21, Frankfurt (Alemania)**, Viaje personal (invitado a una estancia en el hotel [Rocco Forte Villa Kennedy](https://www.roccofortehotels.com/hotels-and-resorts/villa-kennedy/))
 * ~~**05-09/12/21, Dubai (Emiratos Árabes Unidos)**, Viaje personal (invitado a la estancia en el hotel Bvlgari de Dubai)~~ postpuesto por la variante Omicron de Covid19
 * **01-02/12/21, Amsterdam (Holanda)**, Viaje de negocios
