@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2022-03-038T01:50:28+00:00
+date: 2022-03-05T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -42,6 +42,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 * **02-03/03/22, Amsterdam (Holanda)**, Viaje de negocios
 * **26/02-01/03/21, Dubai (Emiratos Árabes Unidos)**, Viaje personal (invitado a la estancia en el [hotel Bvlgari de Dubai](https://www.bulgarihotels.com/en_US/dubai))
+* **19/02/22, Javalambre (Teruel)**, Viaje personal de esquí
 * **15-17/02/22, Málaga (España)**, Viaje de negocios para asistir a [Transfiere](https://transfiere.fycma.com)
 
 **2021**
