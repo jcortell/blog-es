@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2022-03-13T01:50:28+00:00
+date: 2022-03-20T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -20,6 +20,7 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 * **11-12/05/22, Munich (Alemania)**, Viaje de negocios para asistir a [BioVaria](https://www.biovaria.org/)
 * **06-08/06/22, Amsterdam (Holanda)**, Viaje de negocios
 * **09-10/06/22, La Haya (Holanda)**, Viaje de negocios, invitado a navegar por el Mar del Norte
+* 02-09/07/22, Venecia (Italia), Piran (Eslovenia), Split, Korcula, Dubrovnik (Croacia), Viaje personal (invitado a un crucero por el mar Adriático en el [The Ritz-Carlton Yacht Collection Evrima](https://www.virtuoso.com/ships/15822258))
 * **11-12/07/22, Amsterdam (Holanda)**, Viaje de negocios
 * **05-06/09/22, Amsterdam (Holanda)**, Viaje de negocios
 * **28-29/09/22, Malmö (Suecia)**, Viaje de negocios para asistir a [Nordic LifeScience Days](https://www.nlsdays.com/)
