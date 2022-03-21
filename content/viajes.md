@@ -13,7 +13,7 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 **2022**
 
 * **27/03-03/04/22, Venecia, Chioggia, Polesella-Ferrara, Porto Viro, Chioggia, Torcello-Mazzorbo-Burano, Venecia (Italia)**, Viaje personal (invitado a un crucero por el río Po en el [Uniworld S.S. La Venezia](https://www.uniworld.com/us/river-cruise/italy/venice-and-the-gems-of-northern-italy/2022-venice-to-venice))
-* **04-07/04/22, Venecia (Italia)**, Viaje personal
+* **04-07/04/22, Venecia (Italia)**, Viaje personal, invitado a estancias en el [Sina Centurion Palace](https://www.sinahotels.com/en/h/sina-centurion-palace-venice/), la [isla privada de JW Marriott en Venecia – Isola delle Rose](https://www.marriott.com/en-us/hotels/vcejw-jw-marriott-venice-resort-and-spa/overview/), y el [Relais Villa Olmo en la Toscana](https://www.relaisvillaolmo.com/en/).
 * **11-12/04/22, Amsterdam (Holanda)**, Viaje de negocios
 * **15-25/04/22, Trieste, Ancona (Italia), Kotor (Montenegro), Bari (Italia), Corfu (Grecia), Dubrovnik (Croacia), Trieste, Bolonia (Italia)**, Personal trip (invitado a un crucero en el [MSC Fantasia](https://www.msccruisesusa.com/cruise/ships/msc-fantasia/itineraries?departureDateFrom=16%2F04%2F2022&departureDateTo=30%2F04%2F2022&passengers=2%7C0%7C0%7C0))
 * **02-03/05/22, Amsterdam (Holanda)**, Viaje de negocios
