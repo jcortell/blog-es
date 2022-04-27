@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2022-02-04T01:50:28+00:00
+date: 2022-02-26T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,15 +12,17 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2022**
 
-* **27/03-03/04/22, Venecia, Chioggia, Polesella-Ferrara, Porto Viro, Chioggia, Torcello-Mazzorbo-Burano, Venecia (Italia)**, Viaje personal (invitado a un crucero por el río Po en el [Uniworld S.S. La Venezia](https://www.uniworld.com/us/river-cruise/italy/venice-and-the-gems-of-northern-italy/2022-venice-to-venice))
-* **04-07/04/22, Venecia (Italia)**, Viaje personal, invitado a estancias en el [Sina Centurion Palace](https://www.sinahotels.com/en/h/sina-centurion-palace-venice/), la [isla privada de JW Marriott en Venecia – Isola delle Rose](https://www.marriott.com/en-us/hotels/vcejw-jw-marriott-venice-resort-and-spa/overview/), y el [Relais Villa Olmo en la Toscana](https://www.relaisvillaolmo.com/en/).
-* **10-12/04/22, Amsterdam (Holanda)**, Viaje de negocios
-* **15-25/04/22, Trieste, Ancona (Italia), Kotor (Montenegro), Bari (Italia), Corfu (Grecia), Dubrovnik (Croacia), Trieste, Bolonia (Italia)**, Personal trip (invitado a un crucero en el [MSC Fantasia](https://www.msccruisesusa.com/cruise/ships/msc-fantasia/itineraries?departureDateFrom=16%2F04%2F2022&departureDateTo=30%2F04%2F2022&passengers=2%7C0%7C0%7C0))
 * **02-03/05/22, Amsterdam (Holanda)**, Viaje de negocios
 * **05-08/05/22, Malmo (Suecia)**, Viaje personal
 * **10-13/05/22, Munich (Alemania)**, Viaje de negocios para asistir a [BioVaria](https://www.biovaria.org/)
+* **17/05/22, Antwerp (Bélgica)**, Viaje de negocios para asistir a [Future Summits](https://www.futuresummits.com/2022)
+* **20/05/22, Amsterdam (Holanda)**, Viaje de negocios
+* **21-22/05/22, Barcelona (España)**, Viaje de negocios para asistir a [International Neuromodulation Society](https://ins-congress.com)
+* **24-25/05/22, Estocolmo (Suecia)**, Viaje de negocios para asistir a [EIT Health Summit](https://summit.eithealth.eu/)
+* 28-29/05/22, Ibiza (España), Viaje personal
+* **01/06/22, Bruselas (Bélgica)**, Viaje de negocios para asistir a [HIHR-EIT](https://www.hihr.eu/hihr-10-june-2022/)
 * **06-08/06/22, Amsterdam (Holanda)**, Viaje de negocios
-* **09-10/06/22, La Haya (Holanda)**, Viaje de negocios, invitado a navegar por el Mar del Norte
+* **09-10/06/22, Harlingen (Holanda)**, Viaje de negocios, invitado a navegar por el Mar del Norte
 * 25-30/06/22, Washington D.C. (EE. UU.), Viaje de negocios para asistir a [Select USA Investment Summit](https://www.selectusasummit.us)
 * ~~02-09/07/22, Venecia (Italia), Piran (Eslovenia), Split, Korcula, Dubrovnik (Croacia), Viaje personal (invitado a un crucero por el mar Adriático en el [The Ritz-Carlton Yacht Collection Evrima](https://www.virtuoso.com/ships/15822258))~~
 * **11-12/07/22, Amsterdam (Holanda)**, Viaje de negocios
@@ -47,6 +49,10 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2022**
 
+* **15-25/04/22, Trieste, Ancona (Italia), Kotor (Montenegro), Bari (Italia), Corfu (Grecia), Dubrovnik (Croacia), Trieste, Bolonia (Italia)**, Personal trip (invitado a un crucero en el [MSC Fantasia](https://www.msccruisesusa.com/cruise/ships/msc-fantasia/itineraries?departureDateFrom=16%2F04%2F2022&departureDateTo=30%2F04%2F2022&passengers=2%7C0%7C0%7C0))
+* **10-12/04/22, Amsterdam (Holanda)**, Viaje de negocios
+* **04-07/04/22, Venecia (Italia)**, Viaje personal, invitado a estancias en el [Sina Centurion Palace](https://www.sinahotels.com/en/h/sina-centurion-palace-venice/), la [isla privada de JW Marriott en Venecia – Isola delle Rose](https://www.marriott.com/en-us/hotels/vcejw-jw-marriott-venice-resort-and-spa/overview/), y el [Relais Villa Olmo en la Toscana](https://www.relaisvillaolmo.com/en/).
+* **27/03-03/04/22, Venecia, Chioggia, Polesella-Ferrara, Porto Viro, Chioggia, Torcello-Mazzorbo-Burano, Venecia (Italia)**, Viaje personal (invitado a un crucero por el río Po en el [Uniworld S.S. La Venezia](https://www.uniworld.com/us/river-cruise/italy/venice-and-the-gems-of-northern-italy/2022-venice-to-venice))
 * **31/03/22, Barcelona (España - Remoto)**, ~~Viaje~~ videoconferencia de negocios para participar en el panel "New Business Model in Healthcare Ecosystem" durante [IESE Healthcare Day](https://www.iesehealthcareday.com/)
 * **10-13/03/22, Zell am See (Austria)**, Viaje de negocios, invitado a esquiar en Schmittenhöhe (Pinzgau) y tiro con arco en Bogendorf, hospedándome en [Haidvogl Mavida Zell am See](https://www.mavida.at/en/wellnesshotel-zell-am-see/)
 * **02-03/03/22, Amsterdam (Holanda)**, Viaje de negocios
