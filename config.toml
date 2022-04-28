@@ -33,7 +33,7 @@ canonifyurls = true
 [author]
 name = "Jorge Cortell"
 bio = "Viviendo"
-job = "Curador de Arte - Fundador y Director General de Kanteron Systems"
+job = "Curador de Arte - Venture Partner en NLC - Fundador de Kanteron Systems"
 location = "Valencia (España)"
 # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
 gravatarEmail = "jorge@cortell.net"
@@ -143,7 +143,7 @@ twitter = "jorgecortell"
 
   # Syntax highlighter, possible choice between: "highlight.js" (recommanded) and "prism.js" (experimental)
   # You can comment it to disable syntax highlighting
-  dateFormat = "2 January 2006"
+  dateFormat = "January 2, 2006"
 
   # Hide sidebar on all article page to let article take full width to improve reading, and enjoy wide images and cover images. (true: enable, false: disable)
   clearReading = true

@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2022-02-26T01:50:28+00:00
+date: 2022-02-28T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -15,17 +15,16 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 * **02-03/05/22, Amsterdam (Holanda)**, Viaje de negocios
 * **05-08/05/22, Malmo (Suecia)**, Viaje personal
 * **10-13/05/22, Munich (Alemania)**, Viaje de negocios para asistir a [BioVaria](https://www.biovaria.org/)
-* **17/05/22, Antwerp (Bélgica)**, Viaje de negocios para asistir a [Future Summits](https://www.futuresummits.com/2022)
 * **20/05/22, Amsterdam (Holanda)**, Viaje de negocios
 * **21-22/05/22, Barcelona (España)**, Viaje de negocios para asistir a [International Neuromodulation Society](https://ins-congress.com)
 * **24-25/05/22, Estocolmo (Suecia)**, Viaje de negocios para asistir a [EIT Health Summit](https://summit.eithealth.eu/)
 * 28-29/05/22, Ibiza (España), Viaje personal
-* **01/06/22, Bruselas (Bélgica)**, Viaje de negocios para asistir a [HIHR-EIT](https://www.hihr.eu/hihr-10-june-2022/)
 * **06-08/06/22, Amsterdam (Holanda)**, Viaje de negocios
 * **09-10/06/22, Harlingen (Holanda)**, Viaje de negocios, invitado a navegar por el Mar del Norte
 * 25-30/06/22, Washington D.C. (EE. UU.), Viaje de negocios para asistir a [Select USA Investment Summit](https://www.selectusasummit.us)
 * ~~02-09/07/22, Venecia (Italia), Piran (Eslovenia), Split, Korcula, Dubrovnik (Croacia), Viaje personal (invitado a un crucero por el mar Adriático en el [The Ritz-Carlton Yacht Collection Evrima](https://www.virtuoso.com/ships/15822258))~~
 * **11-12/07/22, Amsterdam (Holanda)**, Viaje de negocios
+* **17-25/07/21, Estanbul (Turquía), Lesbos (Grecia), Efeso, Bodrum, Antalaya (Turquía), Limassol (Chipre),Rodas, Creta, Santorini, Mikonos, Atenas (Grecia)**, Viaje personal (invitado a un crucero por el mar Egeo en el [Oceania's Riviera](https://www.oceaniacruises.com/mediterranean-cruises/istanbul-to-athens-RVA220717/))
 * **05-06/09/22, Amsterdam (Holanda)**, Viaje de negocios
 * **28-29/09/22, Malmö (Suecia)**, Viaje de negocios para asistir a [Nordic LifeScience Days](https://www.nlsdays.com/)
 * **10-11/10/22, Amsterdam (Holanda)**, Viaje de negocios
