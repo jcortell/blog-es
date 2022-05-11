@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2022-02-30T01:50:28+00:00
+date: 2022-05-11T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,13 +12,12 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2022**
 
-* **02-03/05/22, Amsterdam (Holanda)**, Viaje de negocios
-* **05-08/05/22, Malmo (Suecia)**, Viaje personal
-* **10-13/05/22, Munich (Alemania)**, Viaje de negocios para asistir a [BioVaria](https://www.biovaria.org/)
 * **20/05/22, Amsterdam (Holanda)**, Viaje de negocios
 * 28-29/05/22, Ibiza (España), Viaje personal
 * **06-08/06/22, Amsterdam (Holanda)**, Viaje de negocios
 * **09-10/06/22, Harlingen (Holanda)**, Viaje de negocios, invitado a navegar por el Mar del Norte
+* 20-22/06/22, Ibiza (España), Viaje de negocios
+* 04-07/07/22, Islas Canarias (España), Viaje de negocios
 * ~~02-09/07/22, Venecia (Italia), Piran (Eslovenia), Split, Korcula, Dubrovnik (Croacia), Viaje personal (invitado a un crucero por el mar Adriático en el [The Ritz-Carlton Yacht Collection Evrima](https://www.virtuoso.com/ships/15822258)) Reagendado por Covid~~
 * **11-12/07/22, Amsterdam (Holanda)**, Viaje de negocios
 * **15-28/07/21, Estanbul (Turquía), Lesbos (Grecia), Efeso, Bodrum, Antalaya (Turquía), Limassol (Chipre),Rodas, Creta, Santorini, Mikonos, Atenas (Grecia)**, Viaje personal (invitado a un crucero por el mar Egeo en el [Oceania's Riviera](https://www.oceaniacruises.com/mediterranean-cruises/istanbul-to-athens-RVA220717/))
@@ -45,6 +44,9 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2022**
 
+* **10-13/05/22, Munich (Alemania)**, Viaje de negocios para asistir a [BioVaria](https://www.biovaria.org/)
+* **05-08/05/22, Malmo (Suecia)**, Viaje personal
+* **02-03/05/22, Amsterdam (Holanda)**, Viaje de negocios
 * **15-25/04/22, Trieste, Ancona (Italia), Kotor (Montenegro), Bari (Italia), Corfu (Grecia), Dubrovnik (Croacia), Trieste, Bolonia (Italia)**, Personal trip (invitado a un crucero en el [MSC Fantasia](https://www.msccruisesusa.com/cruise/ships/msc-fantasia/itineraries?departureDateFrom=16%2F04%2F2022&departureDateTo=30%2F04%2F2022&passengers=2%7C0%7C0%7C0))
 * **10-12/04/22, Amsterdam (Holanda)**, Viaje de negocios
 * **04-07/04/22, Venecia (Italia)**, Viaje personal, invitado a estancias en el [Sina Centurion Palace](https://www.sinahotels.com/en/h/sina-centurion-palace-venice/), la [isla privada de JW Marriott en Venecia – Isola delle Rose](https://www.marriott.com/en-us/hotels/vcejw-jw-marriott-venice-resort-and-spa/overview/), y el [Relais Villa Olmo en la Toscana](https://www.relaisvillaolmo.com/en/).
