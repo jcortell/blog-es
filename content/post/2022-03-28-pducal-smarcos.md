@@ -26,4 +26,4 @@ Luego, después de un delicioso almuerzo de marisco a bordo del barco, volvimos 
 
 Casi abrumados por el arte y la historia, volvimos al barco a cenar y dormir, todavía asombrados.
 
-Algunas [fotos aquí](hhttps://photos.app.goo.gl/crSvyXTsDaSy8FZe7)
+Algunas [fotos aquí](https://photos.app.goo.gl/crSvyXTsDaSy8FZe7)
