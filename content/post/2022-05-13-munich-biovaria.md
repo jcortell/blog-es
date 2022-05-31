@@ -3,7 +3,7 @@ author: ""
 date: "2022-05-13T05:00:24+02:00"
 draft: false
 title: "Visitando Munich por BioVaria"
-tags: ["viaje", "trabajo, "arte"]
+tags: ["viaje", "trabajo", "arte"]
 images: "https://lh3.googleusercontent.com/UlHDQqv2k5gFJtBQ7VAJo99J53yQ40miLUJ_aqunuydh7cqN2LbW0_sOA2nrbtSZ83VrMLRmu2bXFYIxgrE2oNgByEc1zU3vKhZP8d_g-K53Mk3AD4-DuXe6CWUZ6JsHuI4V_k8VyAA=w2400"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
