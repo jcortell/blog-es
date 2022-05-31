@@ -18,7 +18,7 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 * ~~02-09/07/22, Venecia (Italia), Piran (Eslovenia), Split, Korcula, Dubrovnik (Croacia), Viaje personal (invitado a un crucero por el mar Adriático en el [The Ritz-Carlton Yacht Collection Evrima](https://www.virtuoso.com/ships/15822258)) Reagendado por Covid~~
 * **11-12/07/22, Amsterdam (Holanda)**, Viaje de negocios
 * **15-28/07/21, Estanbul (Turquía), Lesbos (Grecia), Efeso, Bodrum, Antalaya (Turquía), Limassol (Chipre),Rodas, Creta, Santorini, Mikonos, Atenas (Grecia)**, Viaje personal (invitado a un crucero por el mar Egeo en el [Oceania's Riviera](https://www.oceaniacruises.com/mediterranean-cruises/istanbul-to-athens-RVA220717/))
-* * 25/08-04/09/22, Atenas, Mikonos (Grecia), Estanbul (Turquía), Olimpia (Grecia), Venecia (Italia), Viaje personal (invitado a un crucero por el mar Egeo en el [Holland America Oosterdam](https://www.hollandamerica.com/es_ES/find-a-cruise/E2M07N/O260.html))
+* 25/08-04/09/22, Atenas, Mikonos (Grecia), Estanbul (Turquía), Olimpia (Grecia), Venecia (Italia), Viaje personal (invitado a un crucero por el mar Egeo en el [Holland America Oosterdam](https://www.hollandamerica.com/es_ES/find-a-cruise/E2M07N/O260.html))
 * **05-06/09/22, Amsterdam (Holanda)**, Viaje de negocios
 * **28-29/09/22, Malmö (Suecia)**, Viaje de negocios para asistir a [Nordic LifeScience Days](https://www.nlsdays.com/)
 * **10-11/10/22, Amsterdam (Holanda)**, Viaje de negocios
