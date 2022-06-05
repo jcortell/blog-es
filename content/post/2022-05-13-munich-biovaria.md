@@ -7,7 +7,7 @@ tags: ["viaje", "trabajo", "arte"]
 images: "https://lh3.googleusercontent.com/UlHDQqv2k5gFJtBQ7VAJo99J53yQ40miLUJ_aqunuydh7cqN2LbW0_sOA2nrbtSZ83VrMLRmu2bXFYIxgrE2oNgByEc1zU3vKhZP8d_g-K53Mk3AD4-DuXe6CWUZ6JsHuI4V_k8VyAA=w2400"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: right
+thumbnailImagePosition: left
 thumbnailImage: https://lh3.googleusercontent.com/O_5MNjF5Cu6g9Nw-tnMlEXY3xLw1tL4rzRJnMMBm4Sf1mB6XOIRD7CfML11sT4h5dm8T2skmDoVfwsCKWGhLKdKdH4Hf-2TtZC3x64cNnNCezphbqEm1PUYxEgb43buB28nF8ht44aE=w2400
 coverImage: https://lh3.googleusercontent.com/UlHDQqv2k5gFJtBQ7VAJo99J53yQ40miLUJ_aqunuydh7cqN2LbW0_sOA2nrbtSZ83VrMLRmu2bXFYIxgrE2oNgByEc1zU3vKhZP8d_g-K53Mk3AD4-DuXe6CWUZ6JsHuI4V_k8VyAA=w2400
 metaAlignment: center

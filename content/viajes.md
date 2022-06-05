@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2022-05-25T01:50:28+00:00
+date: 2022-06-02T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -14,13 +14,12 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 * **06-08/06/22, Amsterdam (Holanda)**, Viaje de negocios
 * **09-10/06/22, Harlingen (Holanda)**, Viaje de negocios, invitado a navegar por el Mar del Norte en dos barcos: [De Ortolan](https://www.zeilendeschepen.nl/schip/ortolan-stavoren/) y [Rode Swan](https://www.zeilendeschepen.nl/schip/rode-swan-harlingen/), a [Terschelling](https://www.google.com/maps/place/Terschelling/data=!4m2!3m1!1s0x47c926ad2422b941:0x6b577dbbeaff1c20?sa=X&ved=2ahUKEwjPmLWR7fr3AhVGfMAKHc83DZYQ8gF6BAhwEAE) (una de las islas "Wadden" Holandesas).
+* 14-16/06/22, Copenhague (Dinamarca), Viaje de negocios
 * **27-30/06/22, Santa Cruz de Tenerife, and Las Palmas de Gran Canaria (España)**, Viaje de negocios
 * ~~02-09/07/22, Venecia (Italia), Piran (Eslovenia), Split, Korcula, Dubrovnik (Croacia), Viaje personal (invitado a un crucero por el mar Adriático en el [The Ritz-Carlton Yacht Collection Evrima](https://www.virtuoso.com/ships/15822258)) Reagendado por Covid~~
 * **11-12/07/22, Amsterdam (Holanda)**, Viaje de negocios
 * **15-28/07/21, Estanbul (Turquía), Lesbos (Grecia), Efeso, Bodrum, Antalaya (Turquía), Limassol (Chipre),Rodas, Creta, Santorini, Mikonos, Atenas (Grecia)**, Viaje personal (invitado a un crucero por el mar Egeo en el [Oceania's Riviera](https://www.oceaniacruises.com/mediterranean-cruises/istanbul-to-athens-RVA220717/))
-* 25/08-04/09/22, Atenas, Mikonos (Grecia), Estanbul (Turquía), Olimpia (Grecia), Venecia (Italia), Viaje personal (invitado a un crucero por el mar Egeo en el [Holland America Oosterdam](https://www.hollandamerica.com/es_ES/find-a-cruise/E2M07N/O260.html))
 * **05-06/09/22, Amsterdam (Holanda)**, Viaje de negocios
-* **28-29/09/22, Malmö (Suecia)**, Viaje de negocios para asistir a [Nordic LifeScience Days](https://www.nlsdays.com/)
 * **10-11/10/22, Amsterdam (Holanda)**, Viaje de negocios
 * 12-14/10/22, Yokohama (Japón), Viaje de negocios para asistir a [BioJapan](https://jcd-expo.jp/en/)
 * 13-14/10/22, Oxford (Reino Unido), Viaje de negocios para asistir a evento de UBS ILN HealthTech
