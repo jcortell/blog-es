@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2022-06-02T01:50:28+00:00
+date: 2022-06-13T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,12 +12,11 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2022**
 
-* **06-08/06/22, Amsterdam (Holanda)**, Viaje de negocios
-* **09-10/06/22, Harlingen (Holanda)**, Viaje de negocios, invitado a navegar por el Mar del Norte en dos barcos: [De Ortolan](https://www.zeilendeschepen.nl/schip/ortolan-stavoren/) y [Rode Swan](https://www.zeilendeschepen.nl/schip/rode-swan-harlingen/), a [Terschelling](https://www.google.com/maps/place/Terschelling/data=!4m2!3m1!1s0x47c926ad2422b941:0x6b577dbbeaff1c20?sa=X&ved=2ahUKEwjPmLWR7fr3AhVGfMAKHc83DZYQ8gF6BAhwEAE) (una de las islas "Wadden" Holandesas).
-* 14-16/06/22, Copenhague (Dinamarca), Viaje de negocios
+* **16-17/06/22, Zurich (Suiza)**, Viaje de negocios
+* 22/06/22, Madrid (España), Viaje de negocios
 * **27-30/06/22, Santa Cruz de Tenerife, and Las Palmas de Gran Canaria (España)**, Viaje de negocios
 * ~~02-09/07/22, Venecia (Italia), Piran (Eslovenia), Split, Korcula, Dubrovnik (Croacia), Viaje personal (invitado a un crucero por el mar Adriático en el [The Ritz-Carlton Yacht Collection Evrima](https://www.virtuoso.com/ships/15822258)) Reagendado por Covid~~
-* **11-12/07/22, Amsterdam (Holanda)**, Viaje de negocios
+* **10-12/07/22, Amsterdam (Holanda)**, Viaje de negocios
 * **15-28/07/21, Estanbul (Turquía), Lesbos (Grecia), Efeso, Bodrum, Antalaya (Turquía), Limassol (Chipre),Rodas, Creta, Santorini, Mikonos, Atenas (Grecia)**, Viaje personal (invitado a un crucero por el mar Egeo en el [Oceania's Riviera](https://www.oceaniacruises.com/mediterranean-cruises/istanbul-to-athens-RVA220717/))
 * **05-06/09/22, Amsterdam (Holanda)**, Viaje de negocios
 * **10-11/10/22, Amsterdam (Holanda)**, Viaje de negocios
@@ -42,6 +41,8 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2022**
 
+* ~~09-10/06/22, Harlingen (Holanda)**, Viaje de negocios, invitado a navegar por el Mar del Norte en dos barcos: [De Ortolan](https://www.zeilendeschepen.nl/schip/ortolan-stavoren/) y [Rode Swan](https://www.zeilendeschepen.nl/schip/rode-swan-harlingen/), a [Terschelling](https://www.google.com/maps/place/Terschelling/data=!4m2!3m1!1s0x47c926ad2422b941:0x6b577dbbeaff1c20?sa=X&ved=2ahUKEwjPmLWR7fr3AhVGfMAKHc83DZYQ8gF6BAhwEAE) (una de las islas "Wadden" Holandesas)~~ cancelado por cambio billete avión imprevisto.
+* **06-08/06/22, Amsterdam (Holanda)**, Viaje de negocios
 * **20/05/22, Amsterdam (Holanda)**, Viaje de negocios
 * **10-13/05/22, Munich (Alemania)**, Viaje de negocios para asistir a [BioVaria](https://www.biovaria.org/)
 * **05-08/05/22, Malmo (Suecia)**, Viaje personal
