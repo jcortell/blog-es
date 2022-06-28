@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2022-06-17T01:50:28+00:00
+date: 2022-06-28T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,13 +12,13 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2022**
 
-* 22/06/22, Madrid (España), Viaje de negocios
 * **27-30/06/22, Santa Cruz de Tenerife, and Las Palmas de Gran Canaria (España)**, Viaje de negocios
 * ~~02-09/07/22, Venecia (Italia), Piran (Eslovenia), Split, Korcula, Dubrovnik (Croacia), Viaje personal (invitado a un crucero por el mar Adriático en el [The Ritz-Carlton Yacht Collection Evrima](https://www.virtuoso.com/ships/15822258)) Reagendado por Covid~~
 * **10-12/07/22, Amsterdam (Holanda)**, Viaje de negocios
 * **15-28/07/21, Estanbul (Turquía), Lesbos (Grecia), Efeso, Bodrum, Antalaya (Turquía), Limassol (Chipre),Rodas, Creta, Santorini, Mikonos, Atenas (Grecia)**, Viaje personal (invitado a un crucero por el mar Egeo en el [Oceania's Riviera](https://www.oceaniacruises.com/mediterranean-cruises/istanbul-to-athens-RVA220717/))
 * 05-12/08/22, Marina Zeas Piraeus - Kea, Delos, Mykonos, Santorini, Rethymnon/Crete, Kythira, Monemvasia - Nafplion, Nafplion - Hydra, Marina Zeas Piraeus (Grecia), Viaje personal (invitado a un crucero por el mar Egeo por [Variety Cruises](https://www.varietycruises.com/cruises/greece/greece-classical-greece))
 * **05-06/09/22, Amsterdam (Holanda)**, Viaje de negocios
+* 16/09/22, Madrid (España), Viaje de negocios
 * **10-11/10/22, Amsterdam (Holanda)**, Viaje de negocios
 * 12-14/10/22, Yokohama (Japón), Viaje de negocios para asistir a [BioJapan](https://jcd-expo.jp/en/)
 * 13-14/10/22, Oxford (Reino Unido), Viaje de negocios para asistir a evento de UBS ILN HealthTech
