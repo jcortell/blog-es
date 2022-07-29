@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2022-07-05T01:50:28+00:00
+date: 2022-07-16T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,15 +12,13 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2022**
 
-* **10-12/07/22, Amsterdam (Holanda)**, Viaje de negocios
-* **15-28/07/21, Estanbul (Turquía), Lesbos (Grecia), Efeso, Bodrum, Antalaya (Turquía), Limassol (Chipre), Rodas, Creta, Santorini, Mikonos, Atenas (Grecia)**, Viaje personal (invitado a un crucero por el mar Egeo en el [Oceania's Riviera](https://www.oceaniacruises.com/mediterranean-cruises/istanbul-to-athens-RVA220717/))
 * **03-12/08/22, Marina Zeas Piraeus - Kea, Delos, Mykonos, Santorini, Rethymnon/Crete, Kythira, Monemvasia - Nafplion, Nafplion - Hydra, Marina Zeas Piraeus (Grecia)**, Viaje personal (invitado a un crucero por el mar Egeo por [Variety Cruises](https://www.varietycruises.com/cruises/greece/greece-classical-greece))
 * **16-17/08/22, Madrid (España)**, Viaje de negocios
 * 01-04/09/22, Boston (EE. UU.), Viaje de negocios
-* **05-06/09/22, Amsterdam (Holanda)**, Viaje de negocios
-* **10-11/10/22, Amsterdam (Holanda)**, Viaje de negocios
 * 12-14/10/22, Yokohama (Japón), Viaje de negocios para asistir a [BioJapan](https://jcd-expo.jp/en/)
 * 13-14/10/22, Oxford (Reino Unido), Viaje de negocios para asistir a evento de UBS ILN HealthTech
+* 17-18/10/22, Amsterdam (Holanda), Viaje de negocios
+* 19-26/10/22 Valencia (España), Viaje de negocios para asistir a South Summit y Valencia Digital Summit
 * **07-08/11/22, Amsterdam (Holanda)**, Viaje de negocios
 * 14-17/11/22, Düsseldorf (Alemania), Viaje de negocios para asistir a [Medica](https://www.medica-tradefair.com/)
 * **05-06/12/22, Amsterdam (Holanda)**, Viaje de negocios
@@ -40,6 +38,8 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2022**
 
+* **15-28/07/21, Estanbul (Turquía), Lesbos (Grecia), Efeso, Bodrum, Antalaya (Turquía), Limassol (Chipre), Rodas, Creta, Santorini, Mikonos, Atenas (Grecia)**, Viaje personal (invitado a un crucero por el mar Egeo en el [Oceania's Riviera](https://www.oceaniacruises.com/mediterranean-cruises/istanbul-to-athens-RVA220717/))
+* **10-12/07/22, Amsterdam (Holanda)**, Viaje de negocios
 * ~~02-09/07/22, Venecia (Italia), Piran (Eslovenia), Split, Korcula, Dubrovnik (Croacia), Viaje personal (invitado a un crucero por el mar Adriático en el [The Ritz-Carlton Yacht Collection Evrima](https://www.virtuoso.com/ships/15822258)) Reagendado por Covid~~
 * **27-30/06/22, Santa Cruz de Tenerife, and Las Palmas de Gran Canaria (España)**, Viaje de negocios
 * **16-17/06/22, Zurich (Suiza)**, Viaje de negocios
