@@ -4,12 +4,12 @@ date: "2022-08-12T05:00:24+02:00"
 draft: false
 title: "Navegando por la Cícladas en dos megayates"
 tags: ["personal", "viajes"]
-images: "[https://](https://lh3.googleusercontent.com/Bi2joByI2aElpADRUVzs3pCSCPcSRxSilK0U-LVz8CtqXUPTuBdgr072ANHmVpdRPMFsIYVVL9hORWklXuT-BFxCShS_mu9d0rxJlxth3MRm5oj3wwFjYR5zX1RXxagNyyeLDuX22WY=w2400)"
+images: "https://lh3.googleusercontent.com/Bi2joByI2aElpADRUVzs3pCSCPcSRxSilK0U-LVz8CtqXUPTuBdgr072ANHmVpdRPMFsIYVVL9hORWklXuT-BFxCShS_mu9d0rxJlxth3MRm5oj3wwFjYR5zX1RXxagNyyeLDuX22WY=w2400"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: left
-thumbnailImage: [https://](https://lh3.googleusercontent.com/7xaZAlneNFkrvV6AUTxG7kKLfYodEO0VsmP4wUGdrd5oYr7ZZv71-Fk7qiE25tjOS1t0lffF9jc03GBgUQiLQEslYVBtfIMGCoc2UNPTQdudImGNnftU_xAYXwF5mnMeYmirtG0vvFc=w2400)
-coverImage: [https://](https://lh3.googleusercontent.com/Bi2joByI2aElpADRUVzs3pCSCPcSRxSilK0U-LVz8CtqXUPTuBdgr072ANHmVpdRPMFsIYVVL9hORWklXuT-BFxCShS_mu9d0rxJlxth3MRm5oj3wwFjYR5zX1RXxagNyyeLDuX22WY=w2400)
+thumbnailImage: https://lh3.googleusercontent.com/7xaZAlneNFkrvV6AUTxG7kKLfYodEO0VsmP4wUGdrd5oYr7ZZv71-Fk7qiE25tjOS1t0lffF9jc03GBgUQiLQEslYVBtfIMGCoc2UNPTQdudImGNnftU_xAYXwF5mnMeYmirtG0vvFc=w2400
+coverImage: https://lh3.googleusercontent.com/Bi2joByI2aElpADRUVzs3pCSCPcSRxSilK0U-LVz8CtqXUPTuBdgr072ANHmVpdRPMFsIYVVL9hORWklXuT-BFxCShS_mu9d0rxJlxth3MRm5oj3wwFjYR5zX1RXxagNyyeLDuX22WY=w2400
 metaAlignment: center
 coverMeta: out
 ---
