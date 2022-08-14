@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2022-07-16T01:50:28+00:00
+date: 2022-08-13T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,10 +12,8 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2022**
 
-* **03-12/08/22, Marina Zeas Piraeus - Kea, Delos, Mykonos, Santorini, Rethymnon/Crete, Kythira, Monemvasia - Nafplion, Nafplion - Hydra, Marina Zeas Piraeus (Grecia)**, Viaje personal (invitado a un crucero por el mar Egeo por [Variety Cruises](https://www.varietycruises.com/cruises/greece/greece-classical-greece))
 * **16-17/08/22, Madrid (España)**, Viaje de negocios
 * 01-04/09/22, Boston (EE. UU.), Viaje de negocios
-* 12-14/10/22, Yokohama (Japón), Viaje de negocios para asistir a [BioJapan](https://jcd-expo.jp/en/)
 * 13-14/10/22, Oxford (Reino Unido), Viaje de negocios para asistir a evento de UBS ILN HealthTech
 * 17-18/10/22, Amsterdam (Holanda), Viaje de negocios
 * 19-26/10/22 Valencia (España), Viaje de negocios para asistir a South Summit y Valencia Digital Summit
@@ -38,6 +36,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2022**
 
+* **03-12/08/22, Marina Zeas Pireo-Atenas - Poros, Poliegos - Folegandros, Santorini, Antiparos - Paros, Miconos, Siros, Hidra - Marina Zeas Pireo-Atenas (Greci)**Viaje personal (invitado a un crucero por el mar Egeo por [Variety Cruises](https://www.varietycruises.com/cruises/greece/greece-jewels-of-the-cyclades) en el [Galileo](https://www.varietycruises.com/ships/ships/galileo) y el [Voyager](https://www.varietycruises.com/ships/ships/variety-voyager))
 * **15-28/07/21, Estanbul (Turquía), Lesbos (Grecia), Efeso, Bodrum, Antalaya (Turquía), Limassol (Chipre), Rodas, Creta, Santorini, Mikonos, Atenas (Grecia)**, Viaje personal (invitado a un crucero por el mar Egeo en el [Oceania's Riviera](https://www.oceaniacruises.com/mediterranean-cruises/istanbul-to-athens-RVA220717/))
 * **10-12/07/22, Amsterdam (Holanda)**, Viaje de negocios
 * ~~02-09/07/22, Venecia (Italia), Piran (Eslovenia), Split, Korcula, Dubrovnik (Croacia), Viaje personal (invitado a un crucero por el mar Adriático en el [The Ritz-Carlton Yacht Collection Evrima](https://www.virtuoso.com/ships/15822258)) Reagendado por Covid~~
