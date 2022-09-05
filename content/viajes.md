@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2022-08-29T01:50:28+00:00
+date: 2022-09-05T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,17 +12,20 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2022**
 
-* **01/09/22-En adelante, Boston (EE. UU.)**, Traslado a Cambridge, MA para desarrollar mi labor como Fellow de Inovación en la Universidad de Harvard
-* * 24-28/09/22, Bangkok (Tailandia), Viaje de negocios
+* * **24/09 -04/10/22, Bangkok (Tailandia)**, Viaje de negocios
+* 08-10/10/22, Punta Cana (República Dominicana), Viaje personal
 * **13-14/10/22, Londres y Brackley (Reino Unido)**, Viaje de negocios para asistir a evento de UBS ILN
 * **17-18/10/22, Amsterdam (Holanda)**, Viaje de negocios
 * **19-26/10/22 Valencia (España)**, Viaje de negocios para asistir a Valencia Digital Summit
 * **07-08/11/22, Amsterdam (Holanda)**, Viaje de negocios
+* **24-27/11/22, Buffalo (EE. UU.) y Niagara (Canada)**, Viaje personal
 * **05-06/12/22, Amsterdam (Holanda)**, Viaje de negocios
 * **23-31/12/22, Valencia (España)**, Viaje personal
 
 **2023**
 
+* 18-26/02/23, Bangkok (Tailandia), Viaje de negocios
+* 06-09/04/23. Orlando (EE. UU.), Viaje personal
 * **20-30/10/23, Yokohama, Shimizu, Kobe, Kochi, Hiroshima, Estrecho de Kanmon (Japón), Pusan (Corea del Sur), Nagasaki, Kagoshima, Miyazaki, Mar Filipino, Tokio (Japón)**, Viaje personal (invitado a [navegar por Japón en el Regent Explorer](https://www.virtuoso.com/cruises/sailings/16267292/colorful-gardens-bright-landscapes))
 
 
@@ -36,6 +39,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2022**
 
+* **01/09/22-En adelante, Boston (EE. UU.)**, Traslado a Cambridge, MA para desarrollar mi labor como Fellow de Inovación en la Universidad de Harvard
 * **16-17/08/22, Madrid (España)**, Viaje de negocios
 * **03-12/08/22, Marina Zeas Pireo-Atenas - Poros, Poliegos - Folegandros, Santorini, Antiparos - Paros, Miconos, Siros, Hidra - Marina Zeas Pireo-Atenas (Greci)**Viaje personal (invitado a un crucero por el mar Egeo por [Variety Cruises](https://www.varietycruises.com/cruises/greece/greece-jewels-of-the-cyclades) en el [Galileo](https://www.varietycruises.com/ships/ships/galileo) y el [Voyager](https://www.varietycruises.com/ships/ships/variety-voyager))
 * **15-28/07/21, Estanbul (Turquía), Lesbos (Grecia), Efeso, Bodrum, Antalaya (Turquía), Limassol (Chipre), Rodas, Creta, Santorini, Mikonos, Atenas (Grecia)**, Viaje personal (invitado a un crucero por el mar Egeo en el [Oceania's Riviera](https://www.oceaniacruises.com/mediterranean-cruises/istanbul-to-athens-RVA220717/))
