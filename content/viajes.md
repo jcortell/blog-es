@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2022-09-05T01:50:28+00:00
+date: 2022-09-06T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,7 +12,7 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2022**
 
-* * **24/09 -04/10/22, Bangkok (Tailandia)**, Viaje de negocios
+* **23/09 -06/10/22, Bangkok (Tailandia)**, Viaje de negocios
 * 08-10/10/22, Punta Cana (República Dominicana), Viaje personal
 * **13-14/10/22, Londres y Brackley (Reino Unido)**, Viaje de negocios para asistir a evento de UBS ILN
 * **17-18/10/22, Amsterdam (Holanda)**, Viaje de negocios
@@ -25,7 +25,7 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 **2023**
 
 * 18-26/02/23, Bangkok (Tailandia), Viaje de negocios
-* 06-09/04/23. Orlando (EE. UU.), Viaje personal
+* 06-09/04/23, Orlando (EE. UU.), Viaje personal
 * **20-30/10/23, Yokohama, Shimizu, Kobe, Kochi, Hiroshima, Estrecho de Kanmon (Japón), Pusan (Corea del Sur), Nagasaki, Kagoshima, Miyazaki, Mar Filipino, Tokio (Japón)**, Viaje personal (invitado a [navegar por Japón en el Regent Explorer](https://www.virtuoso.com/cruises/sailings/16267292/colorful-gardens-bright-landscapes))
 
 
