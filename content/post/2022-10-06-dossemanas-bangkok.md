@@ -18,9 +18,9 @@ Para brindar consultoría a una gran corporación pública en Tailandia, fui inv
 
 <!--more-->
 
-Me encanta viajar, Asia, Tailandia y Bangkok. Así que yo encantado de tomar un vuelo en *business* de Qatar Airways al otro lado del mundo (Boston-Doha-Bangkok), alojándome en el [JWMarriott](https://www.marriott.com/en-us/hotels /bkkdt-jw-marriott-hotel-bangkok/) justo al otro lado de la calle del infame Nana Entertainment Center, durante la temporada del monzón, y pasar varios días en reuniones de negocios y sesiones de intercambio de ideas.
+Me encanta viajar, Asia, Tailandia y Bangkok. Así que yo encantado de tomar un vuelo en *business* de Qatar Airways al otro lado del mundo (Boston-Doha con la obligatoria parada en Al Mourjan Business Lounge-Bangkok), alojándome en el [JWMarriott](https://www.marriott.com/en-us/hotels /bkkdt-jw-marriott-hotel-bangkok/) justo al otro lado de la calle del infame Nana Entertainment Center, durante la temporada del monzón, y pasar varios días en reuniones de negocios y sesiones de intercambio de ideas.
 
-Pero no todo fue trabajo y reuniones, aunque casi. También visité el [BACC](https://en.bacc.or.th/) (Centro de Arte y Cultura de Bangkok), fui de compras (MBK, Paragon, JJ/Chatuchak) y comí deliciosa comida callejera.
+Pero no todo fue trabajo y reuniones, aunque casi. También visité el [BACC](https://en.bacc.or.th/) (Centro de Arte y Cultura de Bangkok), fui de compras (MBK, Paragon, JJ/Chatuchak) y comí deliciosa comida callejera, y no callejera (como los *noodles* de Lim Lao Ngow, recomendados por la guía Michelín).
 
 Un evento particularmente digno de mención fue conocer al muy talentoso culturista y artista georgiano Lash, quien pintó a mano unas zapatillas especialmente para mí. ¡Gracias, Lash!
 
