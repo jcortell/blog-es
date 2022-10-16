@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2022-10-10T01:50:28+00:00
+date: 2022-10-16T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,9 +12,8 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2022**
 
-* **12-14/10/22, Londres y Brackley (Reino Unido)**, Viaje de negocios para asistir a evento de UBS ILN
-* **17-18/10/22, Amsterdam (Holanda)**, Viaje de negocios
-* **19-26/10/22 Valencia (España)**, Viaje de negocios para dar una [charla en Valencia Digital Summit](https://valenciadigitalsummit.com/speakers/)
+* **15-18/10/22, Amsterdam (Holanda)**, Viaje de negocios
+* **19-26/10/22, Valencia (España)**, Viaje de negocios para dar una [charla en Valencia Digital Summit](https://valenciadigitalsummit.com/speakers/)
 * **07-08/11/22, Amsterdam (Holanda)**, Viaje de negocios
 * **11-13/11/22, Orlando (EE. UU.)**, Viaje personal
 * **24-27/11/22, Búfalo (EE. UU.) y Niágara (Canadá)**, Viaje personal
@@ -38,6 +37,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2022**
 
+* **12-14/10/22, Londres y Brackley (Reino Unido)**, Viaje de negocios para asistir a evento de UBS ILN
 * **09-10/10/22, Mystic, CT (EE. UU.)**, Viaje personal
 * **23/09-06/10/22, Bangkok (Tailandia)**, Viaje de negocios
 * **01/09/22-En adelante, Boston (EE. UU.)**, Traslado a Cambridge, MA para desarrollar mi labor como Fellow de Inovación en la Universidad de Harvard
