@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2022-10-16T01:50:28+00:00
+date: 2022-11-06T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -9,22 +9,29 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **En negrilla** = confirmado; de lo contrario = sin confirmar:
 
-
 **2022**
 
-* **15-18/10/22, Amsterdam (Holanda)**, Viaje de negocios
-* **19-26/10/22, Valencia (España)**, Viaje de negocios para dar una [charla en Valencia Digital Summit](https://valenciadigitalsummit.com/speakers/)
-* **07-08/11/22, Amsterdam (Holanda)**, Viaje de negocios
 * **11-13/11/22, Orlando (EE. UU.)**, Viaje personal
 * **24-27/11/22, Búfalo (EE. UU.) y Niágara (Canadá)**, Viaje personal
-* **05-06/12/22, Amsterdam (Holanda)**, Viaje de negocios
+* 03-07/12/22, Basel (Suiza) y Amsterdam (Holanda), Viaje de negocios
 * **23-31/12/22, Valencia (España)**, Viaje personal
 
 **2023**
 
+* 08-11/01/23, Amsterdam (Holanda), Viaje de negocios
 * 18-26/02/23, Bangkok (Tailandia), Viaje de negocios
+* 06-07/03/23, Amsterdam (Holanda), Viaje de negocios
+* 03-04/04/23, Amsterdam (Holanda), Viaje de negocios
 * 06-09/04/23, Hamilton (Bahamas), Viaje personal
+* 01-02/05/23, Amsterdam (Holanda), Viaje de negocios
+* 05-06/06/23, Amsterdam (Holanda), Viaje de negocios
+* 03-04/07/23, Amsterdam (Holanda), Viaje de negocios
+* 07-08/08/23, Amsterdam (Holanda), Viaje de negocios
+* 04-05/09/23, Amsterdam (Holanda), Viaje de negocios
+* 02-03/10/23, Amsterdam (Holanda), Viaje de negocios
 * **20-30/10/23, Yokohama, Shimizu, Kobe, Kochi, Hiroshima, Estrecho de Kanmon (Japón), Pusan (Corea del Sur), Nagasaki, Kagoshima, Miyazaki, Mar Filipino, Tokio (Japón)**, Viaje personal (invitado a [navegar por Japón en el Regent Explorer](https://www.virtuoso.com/cruises/sailings/16267292/colorful-gardens-bright-landscapes))
+* 06-07/11/23, Amsterdam (Holanda), Viaje de negocios
+* 04-05/12/23, Amsterdam (Holanda), Viaje de negocios
 
 
 **ANTERIORES:**
@@ -37,6 +44,9 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2022**
 
+* ~~07-08/11/22, Amsterdam (Holanda), Viaje de negocios~~Cancelado por motivos de salud
+* **19-26/10/22, Valencia (España)**, Viaje de negocios, para dar una [charla en Valencia Digital Summit](https://valenciadigitalsummit.com/speakers/) y para participar como [jurado en la competición de startups de VLChealth&I](https://vlchealth.com/jurado/)
+* **15-18/10/22, Amsterdam (Holanda)**, Viaje de negocios
 * **12-14/10/22, Londres y Brackley (Reino Unido)**, Viaje de negocios para asistir a evento de UBS ILN
 * **09-10/10/22, Mystic, CT (EE. UU.)**, Viaje personal
 * **23/09-06/10/22, Bangkok (Tailandia)**, Viaje de negocios
