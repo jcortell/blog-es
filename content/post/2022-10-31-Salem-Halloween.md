@@ -3,7 +3,7 @@ author: ""
 date: "2022-11-05T05:00:24+02:00"
 draft: false
 title: "En Salem por Halloween, más concierto, fútbol americano, y más"
-tags: ["personal", "viajes"]
+tags: ["personal", "viajes". "harvard"]
 images: "https://lh3.googleusercontent.com/bmGSOWKSsZ9dhpl8anx334JoJ2XpAma67rraw34DLrxsE8dlsHwdJ6AEA-O0xc7PaWG8huuGov5XNA2uy9z6ZJvQ7O0cFCPY1tPiDQo_mocBQOSsD0iv3kTOYzkCLPKs2m6rLuzWHWU=w2400"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons

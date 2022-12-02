@@ -18,7 +18,9 @@ Después de Ámsterdam, volé a Valencia para participar en dos eventos, como po
 
 <!--more-->
 
-El jueves 20 de octubre, en el [Biohub VLC](https://biohubvlc.es/) me invitaron a participar en el evento regional de innovación en salud [VLC health & I](https://vlchealth.com/) como [jurado de la competición de startups](https://vlchealth.com/jurado/).
+El jueves 20 de octubre, en el [Biohub VLC](https://biohubvlc.es/) me invitaron a participar en el evento regional de innovación en salud [VLC health & I](https://vlchealth.com/) como [jurado de la competición de startups](https://vlchealth.com/jurado/). Galería de [fotos del evento](https://vlchealth.com/galeria/) y un [vídeo](https://youtu.be/aFCY6kU3IC0).
+
+![VLC health & I jurado](https://vlchealth.com/wp-content/uploads/2022/11/VLChealth_I_web-138.jpg)
 
 Y el martes 25 de octubre (tras una fabulosa recepción de invitados la noche anterior en el [L'Hemisfèric](https://www.cac.es/es/hemisferic/descubre-el-hemisferic/descubre-el-hemisferic.html)), me pidieron participar en una [mesa redonda](https://valenciadigitalsummit.com/speakers/) en la quinta edición del [Valencia Digital Summit](https://valenciadigitalsummit.com/), que tuvo lugar en el [Museo de las Artes](https://www.cac.es/museu-de-les-ciencies/museu-de-les-ciencies/descubre-el-museu.html): más de 12.000 asistentes de 35 diferentes países, más de 400 inversores nacionales e internacionales y 450 ponentes de renombre mundial, alrededor de 1.500 startups y más de 130 sesiones sobre diversos temas como sostenibilidad, tecnología blockchain, ciudades inteligentes, adquisición de talento y colaboración entre empresas y startups. [Aquí está el vídeo post-evento](https://www.youtube.com/watch?v=OxKYBDuHOPw).
 

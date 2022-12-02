@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2022-11-06T01:50:28+00:00
+date: 2022-12-01T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,27 +11,25 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2022**
 
-* **11-13/11/22, Orlando (EE. UU.)**, Viaje personal
-* **24-27/11/22, Búfalo (EE. UU.) y Niágara (Canadá)**, Viaje personal
-* 03-07/12/22, Basel (Suiza) y Amsterdam (Holanda), Viaje de negocios
-* **23-31/12/22, Valencia (España)**, Viaje personal
+* **03-17/12/22, Bangkok, y Phuket (Tailandia)**, Viaje de negocios
+* **23/12-03/01/23, Valencia (España)**, Viaje personal
 
 **2023**
 
-* 08-11/01/23, Amsterdam (Holanda), Viaje de negocios
+* 08-11/01/23, Ámsterdam (Holanda), Viaje de negocios
 * 18-26/02/23, Bangkok (Tailandia), Viaje de negocios
-* 06-07/03/23, Amsterdam (Holanda), Viaje de negocios
-* 03-04/04/23, Amsterdam (Holanda), Viaje de negocios
+* 06-07/03/23, Ámsterdam (Holanda), Viaje de negocios
+* 03-04/04/23, Ámsterdam (Holanda), Viaje de negocios
 * 06-09/04/23, Hamilton (Bahamas), Viaje personal
-* 01-02/05/23, Amsterdam (Holanda), Viaje de negocios
-* 05-06/06/23, Amsterdam (Holanda), Viaje de negocios
-* 03-04/07/23, Amsterdam (Holanda), Viaje de negocios
-* 07-08/08/23, Amsterdam (Holanda), Viaje de negocios
-* 04-05/09/23, Amsterdam (Holanda), Viaje de negocios
-* 02-03/10/23, Amsterdam (Holanda), Viaje de negocios
+* 01-02/05/23, Ámsterdam (Holanda), Viaje de negocios
+* 05-06/06/23, Ámsterdam (Holanda), Viaje de negocios
+* 03-04/07/23, Ámsterdam (Holanda), Viaje de negocios
+* 07-08/08/23, Ámsterdam (Holanda), Viaje de negocios
+* 04-05/09/23, Ámsterdam (Holanda), Viaje de negocios
+* 02-03/10/23, Ámsterdam (Holanda), Viaje de negocios
 * **20-30/10/23, Yokohama, Shimizu, Kobe, Kochi, Hiroshima, Estrecho de Kanmon (Japón), Pusan (Corea del Sur), Nagasaki, Kagoshima, Miyazaki, Mar Filipino, Tokio (Japón)**, Viaje personal (invitado a [navegar por Japón en el Regent Explorer](https://www.virtuoso.com/cruises/sailings/16267292/colorful-gardens-bright-landscapes))
-* 06-07/11/23, Amsterdam (Holanda), Viaje de negocios
-* 04-05/12/23, Amsterdam (Holanda), Viaje de negocios
+* 06-07/11/23, Ámsterdam (Holanda), Viaje de negocios
+* 04-05/12/23, Ámsterdam (Holanda), Viaje de negocios
 
 
 **ANTERIORES:**
@@ -44,9 +42,12 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2022**
 
-* ~~07-08/11/22, Amsterdam (Holanda), Viaje de negocios~~Cancelado por motivos de salud
+* ~~24-27/11/22, Búfalo (EE. UU.) y Niágara (Canadá), Viaje personal~~ Cancelado por motivos de salud
+* ~~19-21/11/22, Nueva York (EE. UU.)**, Viaje de negocios~~ Cancelado por motivos de salud
+* **11-13/11/22, Orlando (EE. UU.)**, Viaje personal
+* ~~07-08/11/22, Ámsterdam (Holanda), Viaje de negocios~~ Cancelado por motivos de salud
 * **19-26/10/22, Valencia (España)**, Viaje de negocios, para dar una [charla en Valencia Digital Summit](https://valenciadigitalsummit.com/speakers/) y para participar como [jurado en la competición de startups de VLChealth&I](https://vlchealth.com/jurado/)
-* **15-18/10/22, Amsterdam (Holanda)**, Viaje de negocios
+* **15-18/10/22, Ámsterdam (Holanda)**, Viaje de negocios
 * **12-14/10/22, Londres y Brackley (Reino Unido)**, Viaje de negocios para asistir a evento de UBS ILN
 * **09-10/10/22, Mystic, CT (EE. UU.)**, Viaje personal
 * **23/09-06/10/22, Bangkok (Tailandia)**, Viaje de negocios
@@ -54,23 +55,23 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 * **16-17/08/22, Madrid (España)**, Viaje de negocios
 * **03-12/08/22, Marina Zeas Pireo-Atenas - Poros, Poliegos - Folegandros, Santorini, Antiparos - Paros, Miconos, Siros, Hidra - Marina Zeas Pireo-Atenas (Greci)**Viaje personal (invitado a un crucero por el mar Egeo por [Variety Cruises](https://www.varietycruises.com/cruises/greece/greece-jewels-of-the-cyclades) en el [Galileo](https://www.varietycruises.com/ships/ships/galileo) y el [Voyager](https://www.varietycruises.com/ships/ships/variety-voyager))
 * **15-28/07/21, Estanbul (Turquía), Lesbos (Grecia), Efeso, Bodrum, Antalaya (Turquía), Limassol (Chipre), Rodas, Creta, Santorini, Mikonos, Atenas (Grecia)**, Viaje personal (invitado a un crucero por el mar Egeo en el [Oceania's Riviera](https://www.oceaniacruises.com/mediterranean-cruises/istanbul-to-athens-RVA220717/))
-* **10-12/07/22, Amsterdam (Holanda)**, Viaje de negocios
+* **10-12/07/22, Ámsterdam (Holanda)**, Viaje de negocios
 * ~~02-09/07/22, Venecia (Italia), Piran (Eslovenia), Split, Korcula, Dubrovnik (Croacia), Viaje personal (invitado a un crucero por el mar Adriático en el [The Ritz-Carlton Yacht Collection Evrima](https://www.virtuoso.com/ships/15822258)) Reagendado por Covid~~
 * **27-30/06/22, Santa Cruz de Tenerife, and Las Palmas de Gran Canaria (España)**, Viaje de negocios
 * **16-17/06/22, Zurich (Suiza)**, Viaje de negocios
 * ~~09-10/06/22, Harlingen (Holanda)**, Viaje de negocios, invitado a navegar por el Mar del Norte en dos barcos: [De Ortolan](https://www.zeilendeschepen.nl/schip/ortolan-stavoren/) y [Rode Swan](https://www.zeilendeschepen.nl/schip/rode-swan-harlingen/), a [Terschelling](https://www.google.com/maps/place/Terschelling/data=!4m2!3m1!1s0x47c926ad2422b941:0x6b577dbbeaff1c20?sa=X&ved=2ahUKEwjPmLWR7fr3AhVGfMAKHc83DZYQ8gF6BAhwEAE) (una de las islas "Wadden" Holandesas)~~ cancelado por cambio billete avión imprevisto.
-* **06-08/06/22, Amsterdam (Holanda)**, Viaje de negocios
-* **20/05/22, Amsterdam (Holanda)**, Viaje de negocios
+* **06-08/06/22, Ámsterdam (Holanda)**, Viaje de negocios
+* **20/05/22, Ámsterdam (Holanda)**, Viaje de negocios
 * **10-13/05/22, Munich (Alemania)**, Viaje de negocios para asistir a [BioVaria](https://www.biovaria.org/)
 * **05-08/05/22, Malmo (Suecia)**, Viaje personal
-* **02-03/05/22, Amsterdam (Holanda)**, Viaje de negocios
+* **02-03/05/22, Ámsterdam (Holanda)**, Viaje de negocios
 * **15-25/04/22, Trieste, Ancona (Italia), Kotor (Montenegro), Bari (Italia), Corfu (Grecia), Dubrovnik (Croacia), Trieste, Bolonia (Italia)**, Personal trip (invitado a un crucero en el [MSC Fantasia](https://www.msccruisesusa.com/cruise/ships/msc-fantasia/itineraries?departureDateFrom=16%2F04%2F2022&departureDateTo=30%2F04%2F2022&passengers=2%7C0%7C0%7C0))
-* **10-12/04/22, Amsterdam (Holanda)**, Viaje de negocios
+* **10-12/04/22, Ámsterdam (Holanda)**, Viaje de negocios
 * **04-07/04/22, Venecia (Italia)**, Viaje personal, invitado a estancias en el [Sina Centurion Palace](https://www.sinahotels.com/en/h/sina-centurion-palace-venice/), la [isla privada de JW Marriott en Venecia – Isola delle Rose](https://www.marriott.com/en-us/hotels/vcejw-jw-marriott-venice-resort-and-spa/overview/), y el [Relais Villa Olmo en la Toscana](https://www.relaisvillaolmo.com/en/).
 * **27/03-03/04/22, Venecia, Chioggia, Polesella-Ferrara, Porto Viro, Chioggia, Torcello-Mazzorbo-Burano, Venecia (Italia)**, Viaje personal (invitado a un crucero por el río Po en el [Uniworld S.S. La Venezia](https://www.uniworld.com/us/river-cruise/italy/venice-and-the-gems-of-northern-italy/2022-venice-to-venice))
 * **31/03/22, Barcelona (España - Remoto)**, ~~Viaje~~ videoconferencia de negocios para participar en el panel "New Business Model in Healthcare Ecosystem" durante [IESE Healthcare Day](https://www.iesehealthcareday.com/)
 * **10-13/03/22, Zell am See (Austria)**, Viaje de negocios, invitado a esquiar en Schmittenhöhe (Pinzgau) y tiro con arco en Bogendorf, hospedándome en [Haidvogl Mavida Zell am See](https://www.mavida.at/en/wellnesshotel-zell-am-see/)
-* **02-03/03/22, Amsterdam (Holanda)**, Viaje de negocios
+* **02-03/03/22, Ámsterdam (Holanda)**, Viaje de negocios
 * **26/02-01/03/21, Dubai (Emiratos Árabes Unidos)**, Viaje personal (invitado a la estancia en el [hotel Bvlgari de Dubai](https://www.bulgarihotels.com/en_US/dubai))
 * **19/02/22, Javalambre (Teruel)**, Viaje personal de esquí
 * **15-17/02/22, Málaga (España)**, Viaje de negocios para asistir a [Transfiere](https://transfiere.fycma.com)
@@ -79,7 +80,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 * **10-12/12/21, Frankfurt (Alemania)**, Viaje personal (invitado a una estancia en el hotel [Rocco Forte Villa Kennedy](https://www.roccofortehotels.com/hotels-and-resorts/villa-kennedy/))
 * ~~**05-09/12/21, Dubai (Emiratos Árabes Unidos)**, Viaje personal (invitado a la estancia en el hotel Bvlgari de Dubai)~~ postpuesto por la variante Omicron de Covid19
-* **01-02/12/21, Amsterdam (Holanda)**, Viaje de negocios
+* **01-02/12/21, Ámsterdam (Holanda)**, Viaje de negocios
 * **19-28/11/21, Barcelona, Palamós, Palma de Mallorca, Valencia, Cartagena, Málaga, Cádiz (España), Lisboa (Portugal)**, Viaje personal (invitado a un crucero en el [Silver Sea Silver Spirit](https://www.silversea.com/destinations/mediterranean-cruise/barcelona-to-lisbon-sl211119009.html))
 * **25/10-5/11/21, Estambul (Turquía), Lesbos, Éfeso, Rodas, Creta, Santorini, Mikonos, Atenas (Grecia)**, Viaje personal (invitado a un crucero en el [Regent Seven Seas Splendor](https://www.rssc.com/cruises/SPL211028/summary))
 * ~~**07/10/21, Madrid (España)**, Viaje de negocios, invitado a asistir a [South Summit](https://www.southsummit.co/)~~ suspendido por huelga de Renfe
@@ -139,9 +140,9 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 * **30/05/19, Madrid (España)**, Viaje personal y de negocios
 * **25-27/05/19, Zaragoza, San Sebastián, y Bilbao (España)**, Viaje personal
 * **22/05/19, L'Albir, Alicante (España)**, Viaje de negocios
-* **08-12/05/19, Amsterdam (Holanda)**, Viaje de negocios, invitado a participar en [TNW](https://thenextweb.com/conference/)
+* **08-12/05/19, Ámsterdam (Holanda)**, Viaje de negocios, invitado a participar en [TNW](https://thenextweb.com/conference/)
 * **20/03-11/04/19, Auckland (Nueva Zelanda), Tauranga, Napier, Picton, Akaroa, Dunedin - Port Chalmers, Fiordo Dusky, Fiordo	Doubtful, Milford Sound, Mar de Tasmania, Hobart (Tasmania, Australia), Port Arthur, Sidney**, Viaje personal (invitado un [crucero en el Crystal Symphony](https://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16))
-* **02/03/19, Amsterdam (Holanda)**, Viaje de negocios
+* **02/03/19, Ámsterdam (Holanda)**, Viaje de negocios
 * **26/02 - 01/03/19, Bangkok (Tailandia)**, Viaje de negocios
 * **22-24/02/19, Alicante (España)**, Viaje personal
 * **19/02/19, Málaga (Spain)**, Viaje de negocios
@@ -286,7 +287,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 * **10-17/11/14, Viena (Austria), Valencia y Barcelona (España), Stuttgart (Alemania), Varsovia (Polonia), Londres (Reino Unido)**, Viaje de negocios
 * **27-31/10/14, Lima (Perú), Bogotá (Colombia)**, Viaje de negocios
 * **21-24/10/14, México DF (México)**, Viaje de negocios
-* **14-29/09/14, Milán y Roma (Italia), Amsterdam y Utrecht (Holanda), Lisboa (Portugal), Londres (Reino Unido), Barcelona y Valencia (España), París (Francia)**, Viaje de negocios
+* **14-29/09/14, Milán y Roma (Italia), Ámsterdam y Utrecht (Holanda), Lisboa (Portugal), Londres (Reino Unido), Barcelona y Valencia (España), París (Francia)**, Viaje de negocios
 * **03-11/09/14, [**<del>Calcutta (India)</del> cancelado por retrasos en la obtención del visado], Tokio (Japón), y Singapur (Singapur)**, Viaje de negocios
 * **18-19/08/14, Houston, TX (EE. UU.)**, Viaje de negocios
 * **14-15/08/14, Atlanta, GA (**EE. UU.**)**, Viaje de negocios
