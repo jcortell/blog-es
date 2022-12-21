@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2022-12-01T01:50:28+00:00
+date: 2022-12-19T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,25 +11,12 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2022**
 
-* **03-17/12/22, Bangkok, y Phuket (Tailandia)**, Viaje de negocios
 * **23/12-03/01/23, Valencia (España)**, Viaje personal
 
 **2023**
 
-* 08-11/01/23, Ámsterdam (Holanda), Viaje de negocios
-* 18-26/02/23, Bangkok (Tailandia), Viaje de negocios
-* 06-07/03/23, Ámsterdam (Holanda), Viaje de negocios
-* 03-04/04/23, Ámsterdam (Holanda), Viaje de negocios
-* 06-09/04/23, Hamilton (Bahamas), Viaje personal
-* 01-02/05/23, Ámsterdam (Holanda), Viaje de negocios
-* 05-06/06/23, Ámsterdam (Holanda), Viaje de negocios
-* 03-04/07/23, Ámsterdam (Holanda), Viaje de negocios
-* 07-08/08/23, Ámsterdam (Holanda), Viaje de negocios
-* 04-05/09/23, Ámsterdam (Holanda), Viaje de negocios
-* 02-03/10/23, Ámsterdam (Holanda), Viaje de negocios
+* 06-09/04/23, Buffalo, NY (EE. UU.), Viaje personal
 * **20-30/10/23, Yokohama, Shimizu, Kobe, Kochi, Hiroshima, Estrecho de Kanmon (Japón), Pusan (Corea del Sur), Nagasaki, Kagoshima, Miyazaki, Mar Filipino, Tokio (Japón)**, Viaje personal (invitado a [navegar por Japón en el Regent Explorer](https://www.virtuoso.com/cruises/sailings/16267292/colorful-gardens-bright-landscapes))
-* 06-07/11/23, Ámsterdam (Holanda), Viaje de negocios
-* 04-05/12/23, Ámsterdam (Holanda), Viaje de negocios
 
 
 **ANTERIORES:**
@@ -42,6 +29,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2022**
 
+* **03-17/12/22, Bangkok, y Phuket (Tailandia)**, Viaje de negocios
 * ~~24-27/11/22, Búfalo (EE. UU.) y Niágara (Canadá), Viaje personal~~ Cancelado por motivos de salud
 * ~~19-21/11/22, Nueva York (EE. UU.)**, Viaje de negocios~~ Cancelado por motivos de salud
 * **11-13/11/22, Orlando (EE. UU.)**, Viaje personal

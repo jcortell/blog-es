@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-VFinalmente llevamos a mi hija a Disney World en Orlando, FL (EE.UU.).
+Finalmente llevamos a mi hija a Disney World en Orlando, FL (EE.UU.).
 
 <!--more-->
 
