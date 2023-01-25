@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-En 2005 di una charla en el COngreso HispaLinux en Madrid ([en español](https://www.youtube.com/watch?v=pQKibfsDTrE)) y una similar un año después en el congreso [Hackers On Planet Earth 6 ](https://vi.hope.net/bios.html) en Nueva York ([en inglés](https://www.youtube.com/watch?v=kBeOrFNQHVM) disponible también para [compra](https ://store.2600.com/products/hope-number-six-2006-selfness-copyfight-from-censorship-to-new-business-models-dvd) y [gratis](https://archive.org /detalles/Hope6_Selfness)) sobre un concepto que llamé 'Suidad'. 18 años después, un asistente me escribe para decirme que le ha preguntado a ChatGPT al respecto...
+En 2005 di una charla en el COngreso HispaLinux en Madrid ([en español](https://www.youtube.com/watch?v=pQKibfsDTrE)) y una similar un año después en el congreso [Hackers On Planet Earth 6 ](https://vi.hope.net/bios.html) en Nueva York ([en inglés](https://www.youtube.com/watch?v=kBeOrFNQHVM) disponible también para [compra](https://store.2600.com/products/hope-number-six-2006-selfness-copyfight-from-censorship-to-new-business-models-dvd) y [gratis](https://archive.org/detalles/Hope6_Selfness)) sobre un concepto que llamé 'Suidad'. 18 años después, un asistente me escribe para decirme que le ha preguntado a ChatGPT al respecto...
 
 <!--more-->
 
