@@ -1,6 +1,6 @@
 ---
 author: ""
-date: "2023-01-14T05:00:24+02:00"
+date: "2023-01-29T05:00:24+02:00"
 draft: false
 title: "Un fin de semana en Nueva York"
 tags: ["personal", "viajes"]
