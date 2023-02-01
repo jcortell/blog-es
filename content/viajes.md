@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2023-01-23T01:50:28+00:00
+date: 2023-01-30T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,7 +11,6 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2023**
 
-* **28-29/01/23, Nueva York, NY (EE. UU.)**, Viaje personal
 * **17-24/02/23, Búfalo, NY (EE. UU.)**, Viaje personal
 * **17-25/04/23, Maui, Hawaii (EE. UU.)**, Viaje personal
 * **20-30/10/23, Yokohama, Shimizu, Kobe, Kochi, Hiroshima, Estrecho de Kanmon (Japón), Pusan (Corea del Sur), Nagasaki, Kagoshima, Miyazaki, Mar Filipino, Tokio (Japón)**, Viaje personal (invitado a [navegar por Japón en el Regent Explorer](https://www.virtuoso.com/cruises/sailings/16267292/colorful-gardens-bright-landscapes))
@@ -27,6 +26,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2022**
 
+* **28-29/01/23, Nueva York, NY (EE. UU.)**, Viaje personal
 * **23/12-03/01/23, Valencia (España)**, Viaje personal
 * **03-17/12/22, Doha (Qatar), Bangkok, y Phuket (Tailandia), Sentosa (Singapur)**, Viaje de negocios
 * ~~24-27/11/22, Búfalo (EE. UU.) y Niágara (Canadá), Viaje personal~~ Cancelado por motivos de salud
