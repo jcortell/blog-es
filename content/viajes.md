@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2023-03-26T01:50:28+00:00
+date: 2023-04-04T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,6 +12,7 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 **2023**
 
 * **17-25/04/23, Maui, Hawaii (EE. UU.)**, Viaje personal
+* **01-02/06/23, Nueva York, NY (EE. UU.)**, Viaje personal
 * **20-30/10/23, Yokohama, Shimizu, Kobe, Kochi, Hiroshima, Estrecho de Kanmon (Japón), Pusan (Corea del Sur), Nagasaki, Kagoshima, Miyazaki, Mar Filipino, Tokio (Japón)**, Viaje personal (invitado a [navegar por Japón en el Regent Explorer](https://www.virtuoso.com/cruises/sailings/16267292/colorful-gardens-bright-landscapes))
 
 
