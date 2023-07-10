@@ -20,11 +20,7 @@ Como mi hijo adolescente comienza sus estudios universitarios en la Universidad 
 
 Nos mudamos el 4 de julio, perdiéndonos por los pelos el desfile del Orgullo, pero llegando a ver los fuegos artificiales del 4 de julio desde la cama.
 
-Después de disfrutar de una hamburguesa vegana en la cercana [Bare Burger](https://www.bareburger.com/), porridge en [New Wonjo](https://newwonjo.com/) en Koreatown, y comprando en un supermercado asiático no tardamos mucho en recordar por qué amamos Y odiamos esta ciudad:
-
-https://twitter.com/jorgecortell/status/1147986918602432513
-
-{{< tweet 1147986918602432513 >}}
+Después de disfrutar de una hamburguesa vegana en la cercana [Bare Burger](https://www.bareburger.com/), porridge en [New Wonjo](https://newwonjo.com/) en Koreatown, y comprando en un supermercado asiático no tardamos mucho en recordar por qué amamos Y odiamos esta ciudad.
 
 En cualquier caso, un par de días más tarde ayudamos a mi hijo a mudarse a su residencia cerca de Union Square, y almorzamos con él en [Momofuku Ssäm Bar](https://ssambar.momofuku.com/). Por supuesto, cruzamos la calle para comprar una galleta compost en [Milk Bar](https://milkbarstore.com/).
 
