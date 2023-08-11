@@ -1,6 +1,6 @@
 ---
 author: ""
-date: "2023-05-02T05:00:24+02:00"
+date: "2023-05-11T05:00:24+02:00"
 draft: false
 title: "Jurado en el MIT demo day y explorando GEN-AI para HBS"
 tags: ["harvard", "eventos"]
