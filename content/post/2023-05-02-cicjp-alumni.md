@@ -2,7 +2,7 @@
 author: ""
 date: "2023-05-02T05:00:24+02:00"
 draft: false
-title: "Evento CIC Japónn y cena de ex-alumnos de iLabs"
+title: "Evento CIC Japón y cena de ex-alumnos de iLabs"
 tags: ["harvard", "eventos"]
 images: "https://lh3.googleusercontent.com/pw/AIL4fc-GGKfWkzLpffxmSzf5HriHd1a5Re5w-KLHqMncggXLRAWn-MWTBavcdFcVbFd1zWM3eOmeuu8eJDlwTKr3wAqwNLYB66DBWY4zvBHV-16cBWsS1osy=w2400"
 comments: false     # set false to hide Disqus comments
