@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2023-08-10T01:50:28+00:00
+date: 2023-08-19T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,8 +12,8 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 **2023**
 
 * **17-18/09/23, Nueva York, NY (EE. UU.)**, Viaje personal (invitado a [navegar en el nuevo crucero de Oceania: Vista](https://www.oceaniacruises.com/ships/vista))
-* **20-30/10/23, Yokohama, Shimizu, Kobe, Kochi, Hiroshima, Estrecho de Kanmon (Japón), Pusan (Corea del Sur), Nagasaki, Kagoshima, Miyazaki, Mar Filipino, Tokio (Japón)**, Viaje personal (invitado a [navegar por Japón en el Regent Explorer](https://www.virtuoso.com/cruises/sailings/16267292/colorful-gardens-bright-landscapes))
-* **23-26/11/23, Singapur (Singapur)**, Viaje de negocios (invitado como ponente en evento de UBS “Future Forward – AI and Industry Disruption”, Industry Leader Network)
+* **16-31/10/23, Toio, Yokohama, Shimizu, Kobe, Kochi, Hiroshima, Estrecho de Kanmon (Japón), Pusan (Corea del Sur), Nagasaki, Kagoshima, Miyazaki, Mar Filipino, Tokio (Japón)**, Viaje personal (invitado a [navegar por Japón en el Regent Explorer](https://www.virtuoso.com/cruises/sailings/16267292/colorful-gardens-bright-landscapes))
+* **21-26/11/23, Singapur (Singapur)**, Viaje de negocios (invitado como ponente en evento de UBS “Future Forward – AI and Industry Disruption”, Industry Leader Network)
 * **01-02/12/23, Port Everglades, FL (EE. UU.)**, Viaje personal (invitado a [navegar en el nuevo crucero de Celebrity Cruises: Ascent](https://www.celebritycruises.com/cruise-ships/celebrity-ascent) para su ceremonia de asignación de nombre y bautismo de mar)
 
 
