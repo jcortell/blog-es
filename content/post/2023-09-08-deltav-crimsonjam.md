@@ -1,6 +1,6 @@
 ---
 author: ""
-date: "2023-09-07T05:00:24+02:00"
+date: "2023-09-08T05:00:24+02:00"
 draft: false
 title: "MIT Delta v Demo Day y Crimson Jam"
 tags: ["personal", "harvard"]
