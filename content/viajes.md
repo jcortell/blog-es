@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2023-11-05T01:50:28+00:00
+date: 2023-12-10T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,11 +11,15 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2023**
 
-* **17/11/23, Nueva York, NY (EE. UU.)**, Viaje personal (invitado a la cena de Asociados de la Presidenta de Harvard en el Mandarin Oriental, NY)
-* **18-29/11/23, Singapur (Singapur), Bali (Indonesia), y Estanbul (Turquía)**, Viaje de negocios (invitado como ponente en evento de UBS “Future Forward – AI and Industry Disruption”, Industry Leader Network, y reuniones con inversores)
-* **01-03/12/23, Port Everglades, FL (EE. UU.)**, Viaje personal (invitado a [navegar en el nuevo crucero de Celebrity Cruises: Ascent](https://www.celebritycruises.com/cruise-ships/celebrity-ascent) para su ceremonia de asignación de nombre y bautismo de mar)
 * **23-31/12/23, Valencia (España)**, Viaje personal
 
+**2024**
+
+* 24/06-12/07/24, Nueva York (EE. UU.), Viaje personal
+
+**2026**
+
+* 22/2-04/03/26, Papeete, Moorea, Fakarava, Nuku Hiva, Rangiroa, Bora Bora, Raiatea (French Polynesia), Personal trip
 
 **ANTERIORES:**
 
@@ -27,6 +31,9 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2023**
 
+* **01-03/12/23, Port Everglades, FL (EE. UU.)**, Viaje personal (invitado a [navegar en el nuevo crucero de Celebrity Cruises: Ascent](https://www.celebritycruises.com/cruise-ships/celebrity-ascent) para su ceremonia de asignación de nombre y bautismo de mar)
+* **18-29/11/23, Singapur (Singapur), Bali (Indonesia), y Estanbul (Turquía)**, Viaje de negocios (invitado como ponente en evento de UBS “Future Forward – AI and Industry Disruption”, Industry Leader Network, y reuniones con inversores)
+* **17/11/23, Nueva York, NY (EE. UU.)**, Viaje personal (invitado a la cena de Asociados de la Presidenta de Harvard en el Mandarin Oriental, NY)
 * **11-31/10/23, Tokio, Yokohama, Shimizu, Kobe, Kochi, Hiroshima, Estrecho de Kanmon (Japón), Busán (Corea del Sur), Nagasaki, Sasebo, Miyazaki, Mar Filipino, Tokio (Japón)**, Viaje personal (para asistir a las conferencias [BioJapan](https://jcd-expo.jp/en/outline.html) y [Medical Japan](https://www.medical-jpn.jp/tokyo/en-gb.html), reunirme con representantes de 14 universidades y 2 entidades gubernamentales, e invitado a [navegar por Japón en el Regent Explorer](https://www.virtuoso.com/cruises/sailings/16267292/colorful-gardens-bright-landscapes))
 * **17-18/09/23, Nueva York, NY (EE. UU.)**, Viaje personal (invitado a [navegar en el nuevo crucero de Oceania: Vista](https://www.oceaniacruises.com/ships/vista))
 * **04-05/08/23, Martha's Vineyard, MA (EE. UU.)**, Viaje personal
