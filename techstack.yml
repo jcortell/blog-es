@@ -1,7 +1,8 @@
 repo_name: jcortell/blog-es
 report_id: b6b26eaa78e6c2168ba3889ed93dedcc
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-09T15:22:10+00:00'
+timestamp: '2024-01-05T08:27:18+00:00'
 requested_by: jcortell
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/jcortell/blog-es/blob/master/.babelrc
   detection_source: ".babelrc"
   last_updated_by: Brian 'bdougie' Douglas
   last_updated_on: 2016-12-24 08:05:39.000000000 Z
@@ -28,6 +30,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/jcortell/blog-es/blob/master/.eslintrc
   detection_source: ".eslintrc"
   last_updated_by: Brian 'bdougie' Douglas
   last_updated_on: 2016-12-24 08:05:39.000000000 Z
@@ -39,6 +42,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jcortell/blog-es
   detection_source: Repo Metadata
 - name: Netlify
   description: Build, deploy and host your static site or app with a drag and drop
@@ -49,6 +53,7 @@ tools:
   category: Application Utilities
   sub_category: Static Web Hosting
   image_url: https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg
+  detection_source_url: https://github.com/jcortell/blog-es/blob/master/netlify.toml
   detection_source: netlify.toml
   last_updated_by: Brian 'bdougie' Douglas
   last_updated_on: 2016-12-24 08:05:39.000000000 Z
@@ -58,6 +63,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/jcortell/blog-es/blob/master/layouts/shortcodes/rawhtml.html
   detection_source: layouts/shortcodes/rawhtml.html
   last_updated_by: Jorge Cortell
   last_updated_on: 2021-10-21 19:19:41.000000000 Z
