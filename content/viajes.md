@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2023-12-10T01:50:28+00:00
+date: 2024-03-01T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -9,17 +9,12 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **En negrilla** = confirmado; de lo contrario = sin confirmar:
 
-**2023**
-
-* **23-31/12/23, Valencia (España)**, Viaje personal
 
 **2024**
 
-* 24/06-12/07/24, Nueva York (EE. UU.), Viaje personal
+* **12-31/03/24, Singapur, Tokio, Shimizu, Osaka, Kioto, Kochi, Okinawa, Kumamoto (Japón), Jeju (Corea del Sur), Kagoshima, Tokio (Japón)**, Viaje de negocios y navegando en el [Celebrity Millennium](https://www.celebritycruises.com/itinerary-details/12-night-best-of-southern-japan-from-tokyo-yokohama-japan?packageID=ML12I080&sDT=2024-03-16&cCD=CO) 
+* 24-28/06/24, Taipei (Taiwán), Viaje de negocios invitado a dar una conferencia en BioAsia
 
-**2026**
-
-* 22/2-04/03/26, Papeete, Moorea, Fakarava, Nuku Hiva, Rangiroa, Bora Bora, Raiatea (French Polynesia), Personal trip
 
 **ANTERIORES:**
 
@@ -31,6 +26,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2023**
 
+* **23-31/12/23, Valencia (España)**, Viaje personal
 * **01-03/12/23, Port Everglades, FL (EE. UU.)**, Viaje personal (invitado a [navegar en el nuevo crucero de Celebrity Cruises: Ascent](https://www.celebritycruises.com/cruise-ships/celebrity-ascent) para su ceremonia de asignación de nombre y bautismo de mar)
 * **18-29/11/23, Singapur (Singapur), Bali (Indonesia), y Estanbul (Turquía)**, Viaje de negocios (invitado como ponente en evento de UBS “Future Forward – AI and Industry Disruption”, Industry Leader Network, y reuniones con inversores)
 * **17/11/23, Nueva York, NY (EE. UU.)**, Viaje personal (invitado a la cena de Asociados de la Presidenta de Harvard en el Mandarin Oriental, NY)
