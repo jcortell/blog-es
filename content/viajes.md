@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2024-04-01T01:50:28+00:00
+date: 2024-05-12T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,7 +12,8 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2024**
 
-* **23-28/07/24, Taipei (Taiwán)**, Viaje de negocios invitado a dar una conferencia en [BioAsia](https://bioasiataiwan.com/)
+* **~~17-25/05/24, Nice (France), Monaco, Personal trip (invitado a navegar en el Atlas y ver el Gran Premio de Fórmula 1 desde un balcón de una villa privada en Mónaco, cancelado porque tengo que moderar un panel en el Hospital General de Massachusetts)~~** 
+* **22/07-02/08/24, Taipei (Taiwán), Tokio, Awajima (Japón)**, Viaje de negocios invitado a dar una conferencia en [BioAsia](https://bioasiataiwan.com/)
 * **12-19/08/24 Barcelona (España), Alghero-Cerdeña (Italia), Ajaccio-Córcega (Francia), Messina-Sicilia, Nápoles, Roma (Italia)**, Viaje personal (invitado a un crucero en el [Reina Victoria de Cunard](https://www.cunard.com/en-us/find-a-cruise/V419C/V419C))
 
 
