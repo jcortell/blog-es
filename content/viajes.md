@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2024-06-19T01:50:28+00:00
+date: 2024-08-22T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,9 +12,7 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2024**
 
-* **23-24/06/24, Nueva York (EE. UU.)**, Viaje personal 
-* **22/07-02/08/24, Taipei (Taiwán), Tokio, Awajima (Japón)**, Viaje de negocios invitado a dar una conferencia en [BioAsia](https://bioasiataiwan.com/)
-* **12-19/08/24 Barcelona (España), Alghero-Cerdeña (Italia), Ajaccio-Córcega (Francia), Messina-Sicilia, Nápoles, Roma (Italia)**, Viaje personal (invitado a un crucero en el [Reina Victoria de Cunard](https://www.cunard.com/en-us/find-a-cruise/V419C/V419C))
+* **19/12/24-05/01/25, Valencia (España)**, Viaje personal
 
 
 **ANTERIORES:**
@@ -27,6 +25,8 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2024**
 
+* **22/07-02/08/24, Taipei (Taiwán), Tokio, Awajima (Japón)**, Viaje de negocios invitado a dar una conferencia en [BioAsia](https://bioasiataiwan.com/)
+* **12-19/08/24 Barcelona (España), Alghero-Cerdeña (Italia), Ajaccio-Córcega (Francia), Messina-Sicilia, Nápoles, Roma (Italia)**, Viaje personal (invitado a un crucero en el [Reina Victoria de Cunard](https://www.cunard.com/en-us/find-a-cruise/V419C/V419C))
 * **12-16/12/24, Valencia (España)**, Viaje personal
 * **~~17-25/05/24, Nice (France), Monaco, Personal trip (invitado a navegar en el Atlas y ver el Gran Premio de Fórmula 1 desde un balcón de una villa privada en Mónaco, cancelado porque tengo que moderar un panel en el Hospital General de Massachusetts)~~** 
 * **12-31/03/24, Singapur, Tokio, Shimizu, Osaka, Kioto, ~~Kochi~~, Okinawa, Kumamoto (Japón), Jeju (Corea del Sur), Kagoshima, Tokio (Japón)**, Viaje de negocios y navegando en el [Celebrity Millennium](https://www.celebritycruises.com/itinerary-details/12-night-best-of-southern-japan-from-tokyo-yokohama-japan?packageID=ML12I080&sDT=2024-03-16&cCD=CO) 
