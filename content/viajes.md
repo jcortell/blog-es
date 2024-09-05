@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2024-08-22T01:50:28+00:00
+date: 2024-09-05T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,6 +12,9 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2024**
 
+* **03/10/24, Nueva York (EE. UU.)**, Viaje personal
+* **04-05/10/24, Washington DC (EE. UU.)**, Viaje de trabajo (invitado a dar una conferencia a estudiantes del MBA de la universidad de Georgetown)
+* **11/12/24, New Hapmshire (EE. UU.)**, Viaje personal
 * **19/12/24-05/01/25, Valencia (España)**, Viaje personal
 
 
