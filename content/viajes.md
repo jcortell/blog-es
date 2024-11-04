@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2024-09-05T01:50:28+00:00
+date: 2024-11-04T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -10,12 +10,15 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 **En negrilla** = confirmado; de lo contrario = sin confirmar:
 
 
+**2025**
+
+* 10-20/02/25, Tokio, Nagano (Japón), Viaje de trabajo
+* 10-20/04/25, Tokio, Kioto (Japón), Viaje de trabajo
+
 **2024**
 
-* **03/10/24, Nueva York (EE. UU.)**, Viaje personal
-* **04-05/10/24, Washington DC (EE. UU.)**, Viaje de trabajo (invitado a dar una conferencia a estudiantes del MBA de la universidad de Georgetown)
-* **11/12/24, New Hapmshire (EE. UU.)**, Viaje personal
-* **19/12/24-05/01/25, Valencia (España)**, Viaje personal
+* **12-16/12/24, Fort Lauderdale, Key West (EE. UU.), Nassau (Bahamas)**, Viaje personal navegando en el Celebrity Silhouette
+* **23/12/24-06/01/25, Valencia (España)**, Viaje personal
 
 
 **ANTERIORES:**
@@ -28,6 +31,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2024**
 
+* **03-06/10/09, Nueva York, Washington DC (EE. UU.)**, Viaje de trabajo (invitado a dar una conferencia a estudiantes del MBA de la universidad de Georgetown)
 * **22/07-02/08/24, Taipei (Taiwán), Tokio, Awajima (Japón)**, Viaje de negocios invitado a dar una conferencia en [BioAsia](https://bioasiataiwan.com/)
 * **12-19/08/24 Barcelona (España), Alghero-Cerdeña (Italia), Ajaccio-Córcega (Francia), Messina-Sicilia, Nápoles, Roma (Italia)**, Viaje personal (invitado a un crucero en el [Reina Victoria de Cunard](https://www.cunard.com/en-us/find-a-cruise/V419C/V419C))
 * **12-16/12/24, Valencia (España)**, Viaje personal
