@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2024-11-04T01:50:28+00:00
+date: 2024-12-01T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,6 +12,8 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2025**
 
+* 09/01/25, Nueva York (EE. UU.), Viaje personal
+* 29/01-06/02/25, Dubai (E.A.U.), Viaje de trabajo
 * 10-20/02/25, Tokio, Nagano (Japón), Viaje de trabajo
 * 10-20/04/25, Tokio, Kioto (Japón), Viaje de trabajo
 
