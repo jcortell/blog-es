@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2024-12-01T01:50:28+00:00
+date: 2025-01-31T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,15 +12,10 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2025**
 
-* 09/01/25, Nueva York (EE. UU.), Viaje personal
-* 29/01-06/02/25, Dubai (E.A.U.), Viaje de trabajo
-* 10-20/02/25, Tokio, Nagano (Japón), Viaje de trabajo
-* 10-20/04/25, Tokio, Kioto (Japón), Viaje de trabajo
-
-**2024**
-
-* **12-16/12/24, Fort Lauderdale, Key West (EE. UU.), Nassau (Bahamas)**, Viaje personal navegando en el Celebrity Silhouette
-* **23/12/24-06/01/25, Valencia (España)**, Viaje personal
+* **11-22/02/25, Tokio, Nagano (Japón)**, Viaje de negocios
+* 26/03-06/04/25, Tokio, Kioto (Japón), Viaje de negocios
+* **07-09/04/25, Nueva York (EE. UU.**), Viaje personal (invitado a navegar en el Norwegian Aqua)
+* **07-08/05/25, Nueva York (EE. UU.)**, Viaje de negocios (invitado a dar una conferencia en el evento de UBS Tech Trends: Shaping the Future)
 
 
 **ANTERIORES:**
@@ -33,6 +28,8 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2024**
 
+* **23/12/24-06/01/25, Valencia (España)**, Viaje personal
+* **12-16/12/24, Fort Lauderdale, Key West (EE. UU.), Nassau (Bahamas)**, Viaje personal navegando en el Celebrity Silhouette
 * **03-06/10/09, Nueva York, Washington DC (EE. UU.)**, Viaje de trabajo (invitado a dar una conferencia a estudiantes del MBA de la universidad de Georgetown)
 * **22/07-02/08/24, Taipei (Taiwán), Tokio, Awajima (Japón)**, Viaje de negocios invitado a dar una conferencia en [BioAsia](https://bioasiataiwan.com/)
 * **12-19/08/24 Barcelona (España), Alghero-Cerdeña (Italia), Ajaccio-Córcega (Francia), Messina-Sicilia, Nápoles, Roma (Italia)**, Viaje personal (invitado a un crucero en el [Reina Victoria de Cunard](https://www.cunard.com/en-us/find-a-cruise/V419C/V419C))
