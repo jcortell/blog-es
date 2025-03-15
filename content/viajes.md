@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2025-01-31T01:50:28+00:00
+date: 2025-03-14T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,10 +12,9 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2025**
 
-* **11-22/02/25, Tokio, Nagano (Japón)**, Viaje de negocios
-* 26/03-06/04/25, Tokio, Kioto (Japón), Viaje de negocios
 * **07-09/04/25, Nueva York (EE. UU.**), Viaje personal (invitado a navegar en el Norwegian Aqua)
 * **07-08/05/25, Nueva York (EE. UU.)**, Viaje de negocios (invitado a dar una conferencia en el evento de UBS Tech Trends: Shaping the Future)
+* **06-22/06/25, Tokio (Japón)**, Viaje de negocios (sesión inaugural de TECH-Toyo)
 
 
 **ANTERIORES:**
@@ -25,6 +24,10 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 </div>
 https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
+
+**2025**
+
+* **11-22/02/25, Tokio, Osaka (Japón)**, Viaje de negocios
 
 **2024**
 
