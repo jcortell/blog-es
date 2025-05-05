@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2025-04-10T01:50:28+00:00
+date: 2025-05-05T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -13,6 +13,7 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 **2025**
 
 * **06-22/06/25, Tokio (Japón)**, Viaje de negocios (sesión inaugural de TECH-Toyo)
+* **25/07/25, Osaka (Japón)**, Viaje de negocios (Invitado a impartir una ponencia en el Simposio Para el Avance de la Investigación Interdisciplinar)
 * **05-07/10/25, Kioto (Japón)**, Viaje de negocios (Invitado a impartir una ponencia en el [STS forum 2025](https://www.stsforum.org/))
 
 
