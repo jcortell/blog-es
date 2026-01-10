@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2025-05-05T01:50:28+00:00
+date: 2026-01-10T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -10,12 +10,9 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 **En negrilla** = confirmado; de lo contrario = sin confirmar:
 
 
-**2025**
+**2026**
 
-* **06-22/06/25, Tokio (Japón)**, Viaje de negocios (sesión inaugural de TECH-Toyo)
-* **25/07/25, Osaka (Japón)**, Viaje de negocios (Invitado a impartir una ponencia en el Simposio Para el Avance de la Investigación Interdisciplinar)
-* **05-07/10/25, Kioto (Japón)**, Viaje de negocios (Invitado a impartir una ponencia en el [STS forum 2025](https://www.stsforum.org/))
-
+* **02-03/02/26, Hong Kong (China)**, Viaje de negocios para reunirme con ABIC
 
 **ANTERIORES:**
 
@@ -24,9 +21,17 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 </div>
 https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
+**2026**
+
+* **08-09/01/26, Taipei, Zhubei, y Taichiung (Taiwán)**, Viaje de negocios para reunirme con PharmaEssentia
 
 **2025**
 
+* **19/12/25-05/01/26, Valencia (España)**, Viaje personal
+* **18-26/11/25, Boston, New York (USA**), Viaje personal (organizo la conferencia de Formación Ejecutiva de la Harvard Graduate School of Education, asisto a un partido de los Boston Celtics con entradas de pie de pista, y cena con el Presidente de Harvard University Alan Garber in Nueva York)
+* **05-07/10/25, Kioto (Japón)**, Viaje de negocios (Invitado a impartir una ponencia en el [STS forum 2025](https://www.stsforum.org/))
+* **25/07/25, Osaka (Japón)**, Viaje de negocios (Invitado a impartir una ponencia en el Simposio Para el Avance de la Investigación Interdisciplinar)
+* **06-22/06/25, Tokio (Japón)**, Viaje de negocios (sesión inaugural de TECH-Toyo)
 * **07-09/04/25, Nueva York (EE. UU.**), Viaje personal (invitado a navegar en el [Norwegian Aqua](https://www.ncl.com/cruise/aqua))
 * **11-22/02/25, Tokio, Osaka (Japón)**, Viaje de negocios
 
