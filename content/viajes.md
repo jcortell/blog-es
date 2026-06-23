@@ -12,6 +12,7 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2026**
 
+* **15-18/07/26, Taipei, Zhubei, y Taichiung (Taiwán)**, Viaje de negocios para asistir a [BioAsia](https://bioasiataiwan.com/)) y la Gala del Premio de Innovación de PharmaEssentia
 * **21/10-04/11/26, Madrid y Valencia (España), Aviñón, Arlés, Viviers, Tournón, Vienne, Lión (Francia)**, Viaje de negocios para participar en un [Evento en la Fundación Rafael del Pino](https://frdelpino.es/eventos/), dar una charla en [VDS](https://vds.tech/), y Viaje personal [invitado a un crucero fluvial por el Rin en la Provenza](https://www.vikingrivercruises.com/cruise-destinations/europe/lyon-provence/2026-avignon-lyon/index.html).
 
 
