@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2026-03-28T01:50:28+00:00
+date: 2026-06-23T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,7 +12,8 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 **2026**
 
-* **01-13/06/26, Madrid y Valencia (España)**, Viaje de negocios con los miembros de TECH Tokyo
+* **21/10-04/11/26, Madrid y Valencia (España), Aviñón, Arlés, Viviers, Tournón, Vienne, Lión (Francia)**, Viaje de negocios para participar en un [Evento en la Fundación Rafael del Pino](https://frdelpino.es/eventos/), dar una charla en [VDS](https://vds.tech/), y Viaje personal [invitado a un crucero fluvial por el Rin en la Provenza](https://www.vikingrivercruises.com/cruise-destinations/europe/lyon-provence/2026-avignon-lyon/index.html).
+
 
 **ANTERIORES:**
 
@@ -23,6 +24,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2026**
 
+* **01-13/06/26, Madrid y Valencia (España)**, Viaje de negocios con los miembros de TECH Tokyo
 * **23-28/03/26, Boston (EE. UU.)**, Viaje de negocios para reunirme con laboratorios y startups de Harvard
 * **02-03/02/26, Hong Kong (China)**, Viaje de negocios para reunirme con ABIC
 * **08-09/01/26, Taipei, Zhubei, y Taichiung (Taiwán)**, Viaje de negocios para reunirme con PharmaEssentia
