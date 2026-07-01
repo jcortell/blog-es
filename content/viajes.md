@@ -1,6 +1,6 @@
 ---
 title: Viajes
-date: 2026-06-23T01:50:28+00:00
+date: 2026-07-01T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -14,6 +14,7 @@ Aquí están mis **próximos** viajes (más abajo están mis viajes, conferenci
 
 * **15-18/07/26, Taipei, Zhubei, y Taichiung (Taiwán)**, Viaje de negocios para asistir a [BioAsia](https://bioasiataiwan.com/)) y la Gala del Premio de Innovación de PharmaEssentia
 * **21/10-04/11/26, Madrid y Valencia (España), Aviñón, Arlés, Viviers, Tournón, Vienne, Lión (Francia)**, Viaje de negocios para participar en un [Evento en la Fundación Rafael del Pino](https://frdelpino.es/eventos/), dar una charla en [VDS](https://vds.tech/), y Viaje personal [invitado a un crucero fluvial por el Rin en la Provenza](https://www.vikingrivercruises.com/cruise-destinations/europe/lyon-provence/2026-avignon-lyon/index.html).
+* **06-09/11/26, Berlín (Alemania)**, Viaje de negocios para asistir a [Falling Walls Science Summit](https://falling-walls.com/) como invitado de honor.
 
 
 **ANTERIORES:**
